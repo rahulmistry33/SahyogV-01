@@ -13,6 +13,14 @@
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+
+    <script
+        src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
 
     <link rel="stylesheet" href="{% static 'styles.css'%}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -111,7 +119,7 @@
                                 <form id="reportcrime" action="{% url 'index' %}" method="POST">
                                     {% csrf_token %}
                                     <label for="crimeLocation">Crime Location </label>
-                                    <input class="form-control" type="text" name="location" id="location">
+                                    <input class="form-control" type="text" name="location" id="location" readonly>
                                     <br>
                                     <label for="crimeType">Choose Crime Type*</label>
                                     <select name="crimeType" class="form-control">
@@ -182,7 +190,20 @@
                 maxZoom: 20,
                 subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
             }).addTo(mymap);
+            L.control.scale().addTo(mymap);
 
+
+            var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
+            var results = new L.LayerGroup().addTo(mymap);
+
+            searchControl.on('results', function (data) {
+                results.clearLayers();
+                for (var i = data.results.length - 1; i >= 0; i--) {
+                    results.addLayer(L.marker(data.results[i].latlng));
+                    console.log(data.results[i].text);
+                    document.getElementById("location").value = data.results[i].text;
+                }
+            });
             // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
             //     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://mapbox.com">Mapbox</a>',
             //     maxZoom: 18,
@@ -191,7 +212,7 @@
             // }).addTo(mymap);
             //var dmart = new L.LatLng(19.191089, 73.091562);
             L.marker(latlng).addTo(mymap);
-            
+
             //L.marker(dmart).addTo(mymap);
             // console.log("renderrrr");
         });
