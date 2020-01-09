@@ -20,8 +20,10 @@
     <link rel="stylesheet" type="text/css"
         href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
     <link rel="stylesheet" href="{% static 'styles.css'%}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{% static 'scripts/index.js' %}"></script>
     <title>Sahyog</title>
     <!-- Bootstrap Styles-->
     <link href="{% static 'assets/css/bootstrap.css' %}" rel="stylesheet" />
@@ -33,6 +35,7 @@
     <!-- Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
+
 <body>
     <div id="wrapper">
         <nav class="navbar navbar-default top-navbar" role="navigation">
@@ -80,17 +83,7 @@
             <div class="header">
             </div>
             <div id="page-inner">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="panel panel-default">
-                            <div id="result" class="panel-body">
 
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="panel panel-default">
@@ -160,21 +153,13 @@
     </div>
     <!-- /. WRAPPER  -->
 
-
-    <script type="text/javascript">
+    <script>
         var latlng;
         var mymap;
-        var lol = 1;
         var crimeLocation;
+        var coodsLat = [];
+        var coodsLng = [];
 
-        if (typeof (EventSource) !== "undefined") {
-            var source = new EventSource("{% url 'random' %}");
-            source.onmessage = function (event) {
-                document.getElementById("result").innerHTML = "This is a random number " + event.data + "<br>";
-            };
-        } else {
-            document.getElementById("result").innerHTML = "Sorry, your browser does not support server-sent events...";
-        }
 
         navigator.geolocation.getCurrentPosition(function (location) {
             latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
@@ -194,51 +179,58 @@
                 results.clearLayers();
                 for (var i = data.results.length - 1; i >= 0; i--) {
                     results.addLayer(L.marker(data.results[i].latlng));
+                    coodsLat.push(data.results[i].latlng.lat);
+                    coodsLng.push(data.results[i].latlng.lng);
                     console.log(data.results[i]);
                     document.getElementById("location").value = data.results[i].text;
-                    crimeLocation = {"lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng}
+                    crimeLocation = { "lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng }
                 }
             });
-            // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-            //     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://mapbox.com">Mapbox</a>',
-            //     maxZoom: 18,
-            //     id: 'mapbox.streets',
-            //     accessToken: 'pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g'
-            // }).addTo(mymap);
-            //var dmart = new L.LatLng(19.191089, 73.091562);
+
             L.marker(latlng).addTo(mymap);
 
-            //L.marker(dmart).addTo(mymap);
-            // console.log("renderrrr");
         });
 
-        // console.log(mymap);
+
+        if (typeof (EventSource) !== "undefined") {
+            var source = new EventSource("{% url 'random' %}");
+
+            source.onmessage = function (event) {
+
+                console.log((JSON.parse(event.data)));
+                JSON.parse(event.data).forEach((item, index) => {
+                    if (!coodsLat.includes(item.lat) && !coodsLng.includes(item.lng)) {
+                        console.log('nope');
+                        coodsLat.push(item.lat);
+                        coodsLng.push(item.lng);
+                        var temp = new L.LatLng(item.lat, item.lng);
+                        L.marker(temp).addTo(mymap);
+                    }
+
+                });
+
+            };
+        } else {
+            console.log("Error");
+        }
 
         $(document).on('submit', '#reportcrime', function (event) {
             event.preventDefault();
             var $form = $(this),
                 url = $form.attr('action');
-                var paramArr = $("#reportcrime").serializeArray();
-                paramArr.push({name: "lat", value: crimeLocation.lat});
-                paramArr.push({name: "lng", value: crimeLocation.lng});
-                $.post(url, $.param(paramArr), function(result) {
-                    alert('success');
-                });
+            var paramArr = $("#reportcrime").serializeArray();
+            paramArr.push({ name: "lat", value: crimeLocation.lat });
+            paramArr.push({ name: "lng", value: crimeLocation.lng });
+            $.post(url, $.param(paramArr), function (result) {
+                alert('success');
+            });
             return false;
         });
     </script>
-    <!-- 
-    <div class="report">
-        <form id="reportcrime" action="{% url 'index' %}" method="POST">
-            {% csrf_token %}
-            <input type="text" placeholder="Enter description" id="description" name="description">
-            <input type="text" placeholder="Enter location" id="location" name="location">
-            <input type="submit">
 
-        </form>
-    </div> -->
 </body>
 <!-- JS Scripts-->
+
 <!-- jQuery Js -->
 <script src="{% static 'assets/js/jquery-1.10.2.js' %}"></script>
 <!-- Bootstrap Js -->

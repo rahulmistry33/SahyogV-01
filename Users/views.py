@@ -4,12 +4,15 @@ import json
 from django.http import JsonResponse
 from django.http import HttpResponse
 import datetime
-
+from bson.json_util import dumps
 import pymongo
 import dns
 import os
 from dotenv import load_dotenv
 
+client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
+db = client.Sahyog
+users = db.Location
 # Create your views here.
 
 def index(request):
@@ -17,13 +20,10 @@ def index(request):
         location = request.POST.get('location')
         lat = request.POST.get('lat')
         lng = request.POST.get('lng')
-        print("lat :",lat,"lng :",lng)
-        print('location: ',location)
-        load_dotenv()
-        client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
-        db = client.Sahyog
-        users = db.Location
-        location = {"lat": lat, "lng": lng, "location": location}
+        #print("lat :",lat,"lng :",lng)
+        #print('location: ',location)
+        load_dotenv()        
+        location = {"lat": lat, "lng": lng, "location": location }
         users.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
@@ -39,8 +39,10 @@ def index(request):
 
 
 def random(request):
+    locations = dumps(users.find())
+    #print(locations)
     return HttpResponse(
-        'data: The server time is: %s\n\n' % datetime.datetime.now(),
+        "data: "+locations+"\n\n",
         content_type='text/event-stream'
     )
 
