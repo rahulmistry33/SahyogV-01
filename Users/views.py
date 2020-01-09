@@ -6,7 +6,18 @@ from django.http import HttpResponse
 
 
 def landing(request):
+    
     return render(request,'UserViews/landing.html')
+
+def emergency(request):
+    url = "https://api.mapbox.com/geocoding/v5/mapbox.places/{}.json?access_token=pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g".format("Police")
+    response = requests.get(url)
+    data = response.json()
+    lati = data["features"][0]["geometry"]["coordinates"][1]
+    longi = data["features"][0]["geometry"]["coordinates"][0]
+        
+    return HttpResponse(json.dumps({'status':'success','latitude':lati,'longitude':longi}),content_type='application/json')
+    # return render(request,'UserViews/emergency.html')
 
 def index(request):
     if request.method == "POST":
