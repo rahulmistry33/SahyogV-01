@@ -5,13 +5,8 @@ from django.http import JsonResponse
 from django.http import HttpResponse
 
 
-
-
-
-
-# Create your views here.
-
-    
+def landing(request):
+    return render(request,'UserViews/landing.html')
 
 def index(request):
     if request.method == "POST":

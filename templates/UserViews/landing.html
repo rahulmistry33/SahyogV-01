@@ -1,0 +1,147 @@
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+{% load static %}
+
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+	<style type="text/css">
+#overlay {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255,255,255,0.6);
+  z-index: 2;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn{
+	padding: 10px;
+	margin: 20px;
+	border: none;
+	font-family: georgia;
+	border-radius: 10px;
+	/*margin-top: 50vh;*/
+	font-size: 30px;
+	left: 50%;
+	top: 50%;
+}
+
+
+
+
+	</style>
+<div id="overlay" >
+	<img src="{% static 'map.svg' %}" style=" margin-top: 25vh; width: 130px; height: 150px;">
+
+	<h1 style="color: black; font-family: Open Sans Light; font-size: 60px; ">Sahyog</h1>
+	<button type="button"  class="btn btn-danger">Emergency</button>
+	<button type="button" class="btn btn-dark">Report a Crime</button>
+</div>
+<script type="text/javascript">
+
+window.onload = function(){
+	on();
+}
+
+function em() {
+  // document.getElementById("overlay").style.display = "none";
+  alert("your location has been recorded, help is dispatched.");
+}
+
+function report() {
+  // document.getElementById("overlay").style.display = "none";
+  alert("---------form page khulega---------------");
+}
+
+
+	function on() {
+  document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementById("overlay").style.display = "none";
+}
+</script>
+<div id="wrapperCurrentLocation">
+	<div id="currentMap">   
+		<div class="mapouter" id = "currentLocMap">
+			<div class="gmap_canvas">
+				<iframe width="100%" height="100%" id="currLoc" src="#"frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+			</div>    
+		</div>
+	</div>
+</div>
+
+
+
+
+<script type="text/javascript">
+	var app_id='zeI2BlhgRBZQiOrhtS1i';
+	var app_code = 'tS_8ziIKRg9jQkw_4lmezw';
+  var HttpClient = function() {
+    this.get = function(aUrl, aCallback) {
+      var anHttpRequest = new XMLHttpRequest();
+      anHttpRequest.onreadystatechange = function() { 
+        if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+          aCallback(anHttpRequest.responseText);
+      }
+
+      anHttpRequest.open( "GET", aUrl, true );            
+      anHttpRequest.send( null );
+    }
+  }
+	function showPosition() {
+		if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(findCurrentLocation);
+		} else { 
+			x.innerHTML = "Geolocation is not supported by this browser.";
+
+		}
+
+	}
+
+	function findCurrentLocation(position){
+
+
+		var lat = position.coords.latitude;
+		var lon =  position.coords.longitude;
+		var radius = 0;
+
+
+
+		var reverseGeocoderAPISrc = new HttpClient();
+		reverseGeocoderAPISrc.get('https://reverse.geocoder.api.here.com/6.2/reversegeocode.json?app_id='+app_id+'&app_code='+app_code+'&prox='+lat+','+lon+','+radius+'&mode=retrieveAddresses&maxresults=1', function(response) {
+        // do something with response
+        let result = JSON.parse(response);
+        var location = result.Response.View[0].Result[0];
+        var content = location.Location.Address.Label;
+        var country = location.Location.Address.Country;
+        var state = location.Location.Address.State;
+        var county = location.Location.Address.county;
+        var city = location.Location.Address.City;
+        var postalCode = location.Location.Address.PostalCode;            
+        console.log(response);
+        var gmapContent = content.replace(" ","%20");
+        document.getElementById("currLoc").src="https://maps.google.com/maps?q="+gmapContent+"&t=&z=15&ie=UTF8&iwloc=&output=embed";
+
+        
+
+    });
+
+
+	}
+	showPosition();
+</script>
+
+
