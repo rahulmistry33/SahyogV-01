@@ -14,14 +14,11 @@
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
     <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
-    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
 
     <script
         src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
-
     <link rel="stylesheet" type="text/css"
         href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
-
     <link rel="stylesheet" href="{% static 'styles.css'%}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
@@ -35,12 +32,8 @@
     <link href="{% static 'assets/css/custom-styles.css' %}" rel="stylesheet" />
     <!-- Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
-
-
 </head>
-
 <body>
-
     <div id="wrapper">
         <nav class="navbar navbar-default top-navbar" role="navigation">
             <div class="navbar-header">
@@ -51,17 +44,14 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.html"><strong>Sahyog</strong></a>
-
                 <!-- <div id="sideNav" href=""><i class="fa fa-caret-right"></i></div> -->
             </div>
-
         </nav>
         <!--/. NAV TOP  -->
         <nav class="navbar-default navbar-side" role="navigation">
             <div class="sidebar-collapse">
                 <br><br>
                 <ul class="nav" id="main-menu">
-
                     <li>
                         <a class="active-menu" href="index.html"><i class="fa fa-dashboard"></i> Report Crime</a>
                     </li>
@@ -75,19 +65,14 @@
                         <a href="chart.html"><i class="fa fa-bar-chart-o"></i> My History</a>
                     </li>
 
-
                     <!--  <li>
                         <a href="table.html"><i class="fa fa-table"></i> Responsive Tables</a>
                     </li> -->
                     <li>
                         <a href="form.html"><i class="fa fa-edit"></i> Give Feedback </a>
                     </li>
-
-
                 </ul>
-
             </div>
-
         </nav>
         <!-- /. NAV SIDE  -->
 
@@ -110,10 +95,7 @@
                     <div class="col-md-12">
                         <div class="panel panel-default">
                             <div id="mapid" class="panel-body">
-
-
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -167,7 +149,6 @@
                                     <input type="submit" class="btn btn-dark"
                                         style="background-color: #323232; color:white; font-size: 20px; width: 300px;">
                                 </form>
-
                             </div>
                         </div>
                     </div>
@@ -180,17 +161,12 @@
     <!-- /. WRAPPER  -->
 
 
-
-
-
-
-
-
-
     <script type="text/javascript">
         var latlng;
         var mymap;
         var lol = 1;
+        var crimeLocation;
+
         if (typeof (EventSource) !== "undefined") {
             var source = new EventSource("{% url 'random' %}");
             source.onmessage = function (event) {
@@ -218,8 +194,9 @@
                 results.clearLayers();
                 for (var i = data.results.length - 1; i >= 0; i--) {
                     results.addLayer(L.marker(data.results[i].latlng));
-                    console.log(data.results[i].text);
+                    console.log(data.results[i]);
                     document.getElementById("location").value = data.results[i].text;
+                    crimeLocation = {"lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng}
                 }
             });
             // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -237,45 +214,18 @@
 
         // console.log(mymap);
 
-
-
         $(document).on('submit', '#reportcrime', function (event) {
             event.preventDefault();
             var $form = $(this),
                 url = $form.attr('action');
-            $.ajax({
-                type: 'POST',
-                dataType: 'json',
-                url: url,
-                data: $('#reportcrime').serialize(),
-                success: function (response) {
-                    console.log(response.latitude);
-                    var long = response.longitude;
-                    var lat = response.latitude;
-                    newLatLong = new L.LatLng(lat, long);
-                    L.marker(newLatLong).addTo(mymap);
-
-
-
-                }
-
-            });
-
+                var paramArr = $("#reportcrime").serializeArray();
+                paramArr.push({name: "lat", value: crimeLocation.lat});
+                paramArr.push({name: "lng", value: crimeLocation.lng});
+                $.post(url, $.param(paramArr), function(result) {
+                    alert('success');
+                });
             return false;
-
-
         });
-
-
-
-
-
-
-
-
-
-
-
     </script>
     <!-- 
     <div class="report">
@@ -286,17 +236,7 @@
             <input type="submit">
 
         </form>
-
-
-
-
-
-
     </div> -->
-
-
-
-
 </body>
 <!-- JS Scripts-->
 <!-- jQuery Js -->
@@ -307,11 +247,8 @@
 <!-- Metis Menu Js -->
 <script src="{% static 'assets/js/jquery.metisMenu.js' %}"></script>
 
-
-
 <script src="{% static 'assets/js/easypiechart.js' %}"></script>
 <script src="{% static 'assets/js/easypiechart-data.js' %}"></script>
-
 <script src="{% static 'assets/js/Lightweight-Chart/jquery.chart.js' %}"></script>
 
 <!-- Custom Js -->
