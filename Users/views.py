@@ -4,58 +4,31 @@ import json
 from django.http import JsonResponse
 from django.http import HttpResponse
 
-
-
-
-
+import pymongo
+import dns
+import os
+from dotenv import load_dotenv
 
 # Create your views here.
 
-    
-
 def index(request):
     if request.method == "POST":
-
-        description = request.POST.get('description')
         location = request.POST.get('location')
-        print("location :",location)
-
-        #URL = "https://geocoder.ls.hereapi.com/6.2/geocode.json?apiKey=jVB385WpgHu9PmsnaQeW2-qVfltkDlccMdda8oicJQs&searchtext={}".format(location)
-        url = "https://api.mapbox.com/geocoding/v5/mapbox.places/{}.json?access_token=pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g".format(location)
-
-        #querystring = {"callback":"test","q":"{}".format(location)}
-        response = requests.get(url)
-        print(response.json())
-        data = response.json()
-        lati = data["features"][0]["geometry"]["coordinates"][1]
-        longi = data["features"][0]["geometry"]["coordinates"][0]
-        # # data = response.json()
-        # headers = {
-        # 'x-rapidapi-host': "community-open-weather-map.p.rapidapi.com",
-        # 'x-rapidapi-key': "fc9c30f8a3msh9def95e13319b5dp1d4d97jsnfb94187f29c2"
-        # }
-
-        # response = requests.get(url, headers=headers, params=querystring)
-
-        # print(response.text)
-
-        # print(data)
-        # print("response isssss:",data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Latitude'])
-        # latitude = data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Latitude']
-        # longitude = data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Longitude']
+        lat = request.POST.get('lat')
+        lng = request.POST.get('lng')
+        print("lat :",lat,"lng :",lng)
+        print('location: ',location)
+        load_dotenv()
+        client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
+        db = client.Sahyog
+        users = db.Location
+        location = {"lat": lat, "lng": lng, "location": location}
+        users.insert_one(location)        
+        return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
-        return HttpResponse(json.dumps({'status':'success','latitude':lati,'longitude':longi}),content_type='application/json')
-        
-    
     else:
         return render(request,'UserViews/user.html')
 
-        
-        
-       
-
-    
-        
         """print(r['Response']['View'][3]['Location']['DisplayPosition']['Lattitude'])"""
         """context = {
             'lat':latitude,
@@ -118,7 +91,6 @@ def index(request):
 #             'long':longitude
 #         }"""
 #         """return render(request,'UserViews/user.html',context)"""
-
 
 
 
