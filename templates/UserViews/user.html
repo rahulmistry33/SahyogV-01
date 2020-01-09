@@ -98,6 +98,17 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="panel panel-default">
+                            <div id="result" class="panel-body">
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-default">
                             <div id="mapid" class="panel-body">
 
 
@@ -180,7 +191,14 @@
         var latlng;
         var mymap;
         var lol = 1;
-
+        if (typeof (EventSource) !== "undefined") {
+            var source = new EventSource("{% url 'random' %}");
+            source.onmessage = function (event) {
+                document.getElementById("result").innerHTML = "This is a random number " + event.data + "<br>";
+            };
+        } else {
+            document.getElementById("result").innerHTML = "Sorry, your browser does not support server-sent events...";
+        }
 
         navigator.geolocation.getCurrentPosition(function (location) {
             latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);

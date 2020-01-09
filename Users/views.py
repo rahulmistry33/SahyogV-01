@@ -3,6 +3,7 @@ import requests
 import json
 from django.http import JsonResponse
 from django.http import HttpResponse
+import datetime
 
 
 
@@ -64,7 +65,11 @@ def index(request):
         """return render(request,'UserViews/user.html',context)"""
 
 
-
+def random(request):
+    return HttpResponse(
+        'data: The server time is: %s\n\n' % datetime.datetime.now(),
+        content_type='text/event-stream'
+    )
 
 
 
