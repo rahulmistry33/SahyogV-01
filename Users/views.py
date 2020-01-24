@@ -9,11 +9,27 @@ import pymongo
 import dns
 import os
 from dotenv import load_dotenv
+from twilio.rest import Client
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
 users = db.Location
+
+
+
+
 # Create your views here.
+
+def SOS(request):
+    to = '+9184520 70570'
+    client = Client(os.getenv('TWILIO_ACCOUNT_SID'), os.getenv('TWILIO_AUTH_TOKEN'))
+    response = client.messages.create(
+    body='Get me a pizza, with extra cheese, and also a burger, and some choco chipss :)', 
+    to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
+    return HttpResponse("hello")
+
+
+
 
 def index(request):
     if request.method == "POST":
