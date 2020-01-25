@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 import requests
 import json
 from django.http import JsonResponse
@@ -12,22 +12,70 @@ from dotenv import load_dotenv
 from twilio.rest import Client
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.models import User
+from django import forms
 
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
-users = db.Location
+locationDB = db.Location
+userDB = db.User
+
+class RegisterForm(UserCreationForm):
+    first_name = forms.CharField(required=True)
+    last_name = forms.CharField()
+    email = forms.EmailField(required=True, max_length=60)
+    phone_number = forms.CharField(required=True, max_length=13)
+    home_address = forms.CharField(required=True)
+    work_address = forms.CharField(required=True)
+
+    class Meta:
+        model = User
+        fields = (
+            'username',
+            'first_name',
+            'last_name',
+            'email',
+            'password1',
+            'password2',
+            'phone_number',
+            'home_address',
+            'work_address'
+        )
 
 # Create your views here.
-
 def SOS(request):
-    to = '+9184520 70570'
+    to = '+919833139713'
     client = Client(os.getenv('TWILIO_ACCOUNT_SID'), os.getenv('TWILIO_AUTH_TOKEN'))
     response = client.messages.create(
     body='Get me a pizza, with extra cheese, and also a burger, and some choco chipss :)', 
     to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
     return HttpResponse("hello")
 
+def register(request):
+    if request.method == "POST":
+        form = RegisterForm(request.POST)
+        if form.is_valid():
+            user = {
+                "username": form.cleaned_data["username"], 
+                "fname": form.cleaned_data["first_name"],
+                "lname": form.cleaned_data["last_name"],
+                "email": form.cleaned_data["email"],
+                "password": form.cleaned_data["password2"],
+                "phone": form.cleaned_data["phone_number"],
+                "home": form.cleaned_data["home_address"],
+                "work": form.cleaned_data["work_address"]
+            }
+            userDB.insert_one(user)
+            print("Created New User")
+            return redirect('dashboard', form.cleaned_data["username"])
+    else:
+        form = RegisterForm()
+    return render(request, 'UserViews/register.html', {"form": form})
+
+
+def dashboard(request, username):
+    return render(request, 'UserViews/dashboard.html', {"username": username})
 
 def index(request):
     if request.method == "POST":
@@ -38,7 +86,7 @@ def index(request):
         #print('location: ',location)
         load_dotenv()
         location = {"lat": lat, "lng": lng, "location": location}
-        users.insert_one(location)        
+        locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
     else:
@@ -53,19 +101,12 @@ def index(request):
 
 
 def random(request):
-    locations = dumps(users.find())
+    locations = dumps(locationDB.find())
     #print(locations)
     return HttpResponse(
         "data: "+locations+"\n\n",
         content_type='text/event-stream'
     )
-
-
-def register(request):
-    form = UserCreationForm()
-    return render(request, 'UserViews/register.html', {"form": form})
-
-
 
 
 
