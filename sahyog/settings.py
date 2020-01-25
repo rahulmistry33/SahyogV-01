@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'leaflet',
     'Users',
-    'django_twilio'
+    'django_twilio',
+    'adminarea',
 
 ]
 
