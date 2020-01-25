@@ -10,16 +10,10 @@ import dns
 import os
 from dotenv import load_dotenv
 from twilio.rest import Client
+from django import forms
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
-from django import forms
-
-
-client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
-db = client.Sahyog
-locationDB = db.Location
-userDB = db.User
 
 class RegisterForm(UserCreationForm):
     first_name = forms.CharField(required=True)
@@ -28,6 +22,8 @@ class RegisterForm(UserCreationForm):
     phone_number = forms.CharField(required=True, max_length=13)
     home_address = forms.CharField(required=True)
     work_address = forms.CharField(required=True)
+    emergency_contact_1 = forms.CharField(required=True, max_length=13)
+    emergency_contact_2 = forms.CharField(required=True, max_length=13)
 
     class Meta:
         model = User
@@ -40,8 +36,22 @@ class RegisterForm(UserCreationForm):
             'password2',
             'phone_number',
             'home_address',
-            'work_address'
+            'work_address',
+            'emergency_contact_1',
+            'emergency_contact_2'
         )
+
+class LoginForm(forms.ModelForm):
+    username = forms.CharField(required=True)
+    password = forms.CharField(required=True)
+    class Meta:
+        model = User
+        fields = ('username', 'password')
+
+client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
+db = client.Sahyog
+locationDB = db.Location
+userDB = db.User
 
 # Create your views here.
 def SOS(request):
@@ -56,53 +66,88 @@ def register(request):
     if request.method == "POST":
         form = RegisterForm(request.POST)
         if form.is_valid():
+            username = form.cleaned_data["username"]
+            ec1 = form.cleaned_data["emergency_contact_1"]
+            ec2 = form.cleaned_data["emergency_contact_2"]
             user = {
-                "username": form.cleaned_data["username"], 
+                "username": username, 
                 "fname": form.cleaned_data["first_name"],
                 "lname": form.cleaned_data["last_name"],
                 "email": form.cleaned_data["email"],
                 "password": form.cleaned_data["password2"],
                 "phone": form.cleaned_data["phone_number"],
                 "home": form.cleaned_data["home_address"],
-                "work": form.cleaned_data["work_address"]
+                "work": form.cleaned_data["work_address"],
+                "ec1": ec1,
+                "ec2": ec2
             }
             userDB.insert_one(user)
-            print("Created New User")
-            return redirect('dashboard', form.cleaned_data["username"])
+            request.session['username'] = username
+            request.session['ec1'] = ec1
+            request.session['ec2'] = ec2
+            return redirect(dashboard, form.cleaned_data["username"])
     else:
         form = RegisterForm()
     return render(request, 'UserViews/register.html', {"form": form})
 
 
+def login(request):
+    if request.session.has_key('username'):
+        return redirect(dashboard, {"username": username})
+    else:
+        if request.method=="POST":
+            form = LoginForm(request.POST)
+            if form.is_valid():
+                try:
+                    username = form.cleaned_data["username"]
+                    user = userDB.find_one({"username": username})
+                    if user["password"] == form.cleaned_data["password"]:
+                        request.session["username"] = username
+                        request.session["ec1"] = user["ec1"]
+                        request.session["ec2"] = user["ec2"]
+                        return redirect(dashboard, username)
+                except:
+                    return redirect(register)
+            else:
+                return render(request, 'UserViews/login.html', {"form": form})
+        else:
+            form = LoginForm()
+        return render(request, 'UserViews/login.html', {"form": form})
+
 def dashboard(request, username):
-    return render(request, 'UserViews/dashboard.html', {"username": username})
+    if request.session.has_key('username'):
+        print(request.session['username'])
+        print(request.session['ec1'])
+        print(request.session['ec2'])
+        return render(request, 'UserViews/dashboard.html', {"username": username})
+    else: 
+        return redirect(index)
+
+def logout(request):
+   try:
+      request.session.clear()
+   except:
+      pass
+   return redirect(index)
 
 def index(request):
     if request.method == "POST":
         location = request.POST.get('location')
         lat = request.POST.get('lat')
         lng = request.POST.get('lng')
-        #print("lat :",lat,"lng :",lng)
-        #print('location: ',location)
         load_dotenv()
         location = {"lat": lat, "lng": lng, "location": location}
         locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
     else:
+        if request.session.has_key('username'):
+            print(request.session['username'])
         return render(request,'UserViews/user.html')
-
-        """print(r['Response']['View'][3]['Location']['DisplayPosition']['Lattitude'])"""
-        """context = {
-            'lat':latitude,
-            'long':longitude
-        }"""
-        """return render(request,'UserViews/user.html',context)"""
 
 
 def random(request):
     locations = dumps(locationDB.find())
-    #print(locations)
     return HttpResponse(
         "data: "+locations+"\n\n",
         content_type='text/event-stream'
