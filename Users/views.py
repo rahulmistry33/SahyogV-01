@@ -10,13 +10,13 @@ import dns
 import os
 from dotenv import load_dotenv
 from twilio.rest import Client
+from django.contrib.auth import login, authenticate
+from django.contrib.auth.forms import UserCreationForm
+
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
 users = db.Location
-
-
-
 
 # Create your views here.
 
@@ -29,8 +29,6 @@ def SOS(request):
     return HttpResponse("hello")
 
 
-
-
 def index(request):
     if request.method == "POST":
         location = request.POST.get('location')
@@ -38,8 +36,8 @@ def index(request):
         lng = request.POST.get('lng')
         #print("lat :",lat,"lng :",lng)
         #print('location: ',location)
-        load_dotenv()        
-        location = {"lat": lat, "lng": lng, "location": location }
+        load_dotenv()
+        location = {"lat": lat, "lng": lng, "location": location}
         users.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
@@ -62,6 +60,10 @@ def random(request):
         content_type='text/event-stream'
     )
 
+
+def register(request):
+    form = UserCreationForm()
+    return render(request, 'UserViews/register.html', {"form": form})
 
 
 
