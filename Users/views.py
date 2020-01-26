@@ -34,10 +34,14 @@ def index(request):
         location = request.POST.get('location')
         lat = request.POST.get('lat')
         lng = request.POST.get('lng')
+        crimeType = request.POST.get('crimeType')
+        crimeLevel = request.POST.get('crimeLevel')
+        crimeDetails = request.POST.get('crimeDetails')
         #print("lat :",lat,"lng :",lng)
         #print('location: ',location)
         load_dotenv()
-        location = {"lat": lat, "lng": lng, "location": location}
+        location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails}
+        print(location)
         users.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
@@ -54,7 +58,7 @@ def index(request):
 
 def random(request):
     locations = dumps(users.find())
-    #print(locations)
+    # print(locations)
     return HttpResponse(
         "data: "+locations+"\n\n",
         content_type='text/event-stream'
