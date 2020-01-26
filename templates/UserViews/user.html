@@ -247,12 +247,21 @@
                             coodsLat.push(item.lat);
                             coodsLng.push(item.lng);
                             var temp = new L.LatLng(item.lat, item.lng);
-                            if(item.crimeLevel === "1")
-                                L.marker(temp,{icon:blueIcon}).addTo(mymap);
+                            let details = item.crimeDetails;
+                            let type = item.crimeType;
+                            
+                            
+                            if(item.crimeLevel === "1"){
+                                L.marker(temp,{icon:blueIcon}).bindPopup(`<b>${type}</b><br>${details}.`).openPopup().addTo(mymap);
+                                // console.log(`<b>${type}</b><br>${details}.`);
+
+                            }
                             else if(item.crimeLevel === "2")
-                                L.marker(temp,{icon:greenIcon}).addTo(mymap);
+                                L.marker(temp,{icon:greenIcon}).bindPopup(`<b>${type}</b><br>${details}.`).openPopup().addTo(mymap);
                             else if(item.crimeLevel === "3")
-                                L.marker(temp,{icon:redIcon}).addTo(mymap);
+                                L.marker(temp,{icon:redIcon}).bindPopup(`<b>${type}</b><br>${details}.`).openPopup().addTo(mymap);
+                            
+                            
 
 
 
