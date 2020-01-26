@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+
+<head>
+    <title>Safely</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+
+    <script
+        src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+    <link rel="stylesheet" href="{% static 'styles.css'%}">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'style.css'%}">
+</head>
+<script type="text/javascript">
+
+
+
+    jQuery(document).ready(function ($) {
+        tab = $('.tabs h3 a');
+
+        tab.on('click', function (event) {
+            event.preventDefault();
+            tab.removeClass('active');
+            $(this).addClass('active');
+
+            tab_content = $(this).attr('href');
+            $('div[id$="tab-content"]').removeClass('active');
+            $(tab_content).addClass('active');
+        });
+    });
+
+
+
+
+</script>
+<style type="text/css">
+    .invi {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+
+    }
+
+    .card {
+        cursor: pointer;
+        /* margin: 20px !important; */
+    }
+
+    .card:hover {
+        background-color: #000 !important;
+    }
+</style>
+
+
+<body>
+
+    <nav class="navbar navbar-expand navbar-light" style="background-color: black; color:white;">
+        <!-- Navbar content -->
+        <a class="navbar-brand " style="color:white">Sahyog</a>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" style="color: white;" href="">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" style="color: white;" href="">Features</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" style="color: white;" href="">Settings</a>
+                </li>
+                <!-- <li style="float:right;" class="nav-item">
+                    <a class="btn" style="color: white;" href="">Contribute</a>
+                </li> -->
+            </ul>
+        </div>
+    </nav>
+    <div class="container ">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div id="mapid" class="panel-body">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading" style="background-color:  black; padding: 20px; color: white;">
+                        Crime Details
+                    </div>
+
+                    <div class="panel-body" style="background-color: #ffd500; padding: 20px;">
+
+                        <form id="reportcrime" action="{% url 'reportCrime' %}" method="POST">
+                            {% csrf_token %}
+                            <label for="crimeLocation">Crime Location </label>
+                            <input class="form-control" type="text" name="location" id="location" readonly>
+                            <br>
+                            <label for="crimeType">Choose Crime Type*</label>
+                            <select name="crimeType" class="form-control">
+                                <option>Theft</option>
+                                <option>Assault</option>
+                                <option>Bombing</option>
+                                <option>Burglary</option>
+                                <option>Disturbance of Peace</option>
+                                <option>Alcohol Violations</option>
+                                <option>Fraud</option>
+                                <option>Homicide</option>
+                                <option>Vehicle Theft</option>
+                                <option>Robery</option>
+                                <option>Sex Crimes</option>
+                            </select>
+                            <br>
+
+                            <label for="crimeLevel">Choose Crime Severity Level (1-least severe)</label><br>
+
+                            <label class="radio-inline"><input type="radio" name="crimeLevel" checked>1</label>
+                            <label class="radio-inline"><input type="radio" name="crimeLevel">2</label>
+                            <label class="radio-inline"><input type="radio" name="crimeLevel">3</label>
+                            <br><br>
+                            <label for="crimeImage">Upload Crime Photo (Optional)</label><br>
+                            <button class="btn btn-dark" type="button" name="crimeImage"
+                                style="background-color: black; color:white;">Choose File</button>
+                            <br><br>
+
+                            <div class="form-group">
+                                <label for="crimeDetails">Additional Details (Optional)</label>
+                                <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
+                            </div>
+                            <br>
+                            <input type="submit" class="btn btn-dark"
+                                style="background-color: black; color:white; font-size: 20px; width: 300px;">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    </div>
+    <script>
+        var latlng;
+        var mymap;
+        var crimeLocation;
+        var coodsLat = [];
+        var coodsLng = [];
+
+
+        navigator.geolocation.getCurrentPosition(function (location) {
+            latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+            mymap = L.map('mapid').setView(latlng, 13)
+
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(mymap);
+            L.control.scale().addTo(mymap);
+
+
+            var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
+            var results = new L.LayerGroup().addTo(mymap);
+
+            searchControl.on('results', function (data) {
+                results.clearLayers();
+                for (var i = data.results.length - 1; i >= 0; i--) {
+                    results.addLayer(L.marker(data.results[i].latlng));
+                    coodsLat.push(data.results[i].latlng.lat);
+                    coodsLng.push(data.results[i].latlng.lng);
+                    console.log(data.results[i]);
+                    document.getElementById("location").value = data.results[i].text;
+                    crimeLocation = { "lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng }
+                }
+            });
+
+            L.marker(latlng).addTo(mymap);
+
+        });
+
+
+        if (typeof (EventSource) !== "undefined") {
+            var source = new EventSource("{% url 'SSE' %}");
+
+            source.onmessage = function (event) {
+
+                console.log((JSON.parse(event.data)));
+                JSON.parse(event.data).forEach((item, index) => {
+                    if (!coodsLat.includes(item.lat) && !coodsLng.includes(item.lng)) {
+                        console.log('nope');
+                        coodsLat.push(item.lat);
+                        coodsLng.push(item.lng);
+                        var temp = new L.LatLng(item.lat, item.lng);
+                        L.marker(temp).addTo(mymap);
+                    }
+
+                });
+
+            };
+        } else {
+            console.log("Error");
+        }
+
+        $(document).on('submit', '#reportcrime', function (event) {
+            event.preventDefault();
+            var $form = $(this),
+                url = $form.attr('action');
+            var paramArr = $("#reportcrime").serializeArray();
+            paramArr.push({ name: "lat", value: crimeLocation.lat });
+            paramArr.push({ name: "lng", value: crimeLocation.lng });
+            $.post(url, $.param(paramArr), function (result) {
+                alert('success');
+            });
+            return false;
+        });
+
+        $(document).on('submit', '#SOSForm', function (event) {
+            event.preventDefault();
+            var $form = $(this),
+                url = $form.attr('action');
+            var paramArr = $("#SOSForm").serializeArray();
+            paramArr.push({ name: "test", value: "lalala" });
+
+            $.post(url, $.param(paramArr), function (result) {
+                alert('success');
+            });
+            return false;
+        });
+
+
+    </script>
+
+</body>
+<script src="{% static 'assets/js/jquery-1.10.2.js' %}"></script>
+<!-- Bootstrap Js -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+
+<!-- Metis Menu Js -->
+<script src="{% static 'assets/js/jquery.metisMenu.js' %}"></script>
+
+<script src="{% static 'assets/js/easypiechart.js' %}"></script>
+<script src="{% static 'assets/js/easypiechart-data.js' %}"></script>
+<script src="{% static 'assets/js/Lightweight-Chart/jquery.chart.js' %}"></script>
+
+<!-- Custom Js -->
+<script src="{% static 'assets/js/custom-scripts.js' %}"></script>
+
+</html>

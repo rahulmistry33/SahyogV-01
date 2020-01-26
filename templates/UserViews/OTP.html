@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container">
+		
+		<p>An OTP has been sent to your phone number. Please verify your account.</p>
+
+		<form method="POST">
+			{% csrf_token %}
+			<div class="form-group">
+				<label for="OTP">OTP</label>
+    			<input type="text" class="form-control" id="OTP" aria-describedby="otpHelp" placeholder="Enter OTP" name="otp">
+    			<small id="otpHelp" class="form-text text-muted">Your OTP will expire in 3 minutes</small>
+			</div>
+			<button type="submit" class="btn btn-primary">Check</button>
+		</form>
+	</div>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</body>
+</html>
