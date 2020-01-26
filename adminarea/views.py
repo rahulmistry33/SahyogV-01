@@ -6,7 +6,7 @@ from django.shortcuts import render
 
 
 
-def index(request):
+def admindashboard(request):
     return render(request,'adminarea/index.html')
 
 # def makeCall(request):
