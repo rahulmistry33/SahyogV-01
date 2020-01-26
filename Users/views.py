@@ -18,6 +18,7 @@ import math, random
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
+
 locationDB = db.Location
 userDB = db.User
 
@@ -74,6 +75,34 @@ def SOS(request):
     sendSMS(request.session['ec1'], 'There\'s an emergency with your colleague. He has met with an accident.')
     sendSMS(request.session['ec2'], 'There\'s an emergency with your colleague. He has met with an accident.')
     return HttpResponse("hello")
+
+
+
+
+
+# Create your views here.
+
+def home(request):
+    return render(request, 'UserViews/home.html')
+
+def safey(request):
+    return render(request, 'UserViews/safey.html')
+
+def report(request):
+    return render(request, 'UserViews/report.html')
+
+# def SOS(request):    
+    
+#     myphnos =['+919987718876','+918879272265']    
+    
+#     for i in myphnos:
+#         to = i
+#         client = Client(os.getenv('TWILIO_ACCOUNT_SID'), os.getenv('TWILIO_AUTH_TOKEN'))
+#         response = client.messages.create(
+#         body='This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708', 
+#         to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
+
+#     return render(request, 'UserViews/SOS.html')
 
 # @describe: Register new user 
 def register(request):
@@ -154,7 +183,7 @@ def logout(request):
 def index(request):
     return render(request, 'UserViews/index.html')
 
-def report(request):
+def index(request):
     if request.method == "POST":
         location = request.POST.get('location')
         lat = request.POST.get('lat')
