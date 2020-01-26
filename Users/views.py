@@ -82,8 +82,8 @@ def SOS(request):
 
 # Create your views here.
 
-def home(request):
-    return render(request, 'UserViews/home.html')
+# def home(request):
+#     return render(request, 'UserViews/home.html')
 
 def safey(request):
     return render(request, 'UserViews/safey.html')
@@ -137,7 +137,7 @@ def validateOTP(request, user):
             request.session['username'] = userObj["username"]
             request.session['ec1'] = userObj["ec1"]
             request.session['ec2'] = userObj["ec2"]
-            return redirect(dashboard, request.session["username"])
+            return redirect(home, request.session["username"])
 
     request.session["otp"] = OTPGenerator()
     msg = 'Your OTP is '+request.session['otp']
@@ -147,7 +147,7 @@ def validateOTP(request, user):
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
-        return redirect(dashboard, {"username": username})
+        return redirect(home, {"username": username})
     else:
         if request.method=="POST":
             form = LoginForm(request.POST)
@@ -159,7 +159,7 @@ def login(request):
                         request.session["username"] = username
                         request.session["ec1"] = user["ec1"]
                         request.session["ec2"] = user["ec2"]
-                        return redirect(dashboard, username)
+                        return redirect(home, username)
                 except:
                     return redirect(register)
             else:
@@ -168,9 +168,9 @@ def login(request):
             form = LoginForm()
         return render(request, 'UserViews/login.html', {"form": form})
 
-def dashboard(request, username):
+def home(request, username):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/dashboard.html', {"username": username})
+        return render(request, 'UserViews/home.html', {"username": username})
     else: 
         return redirect(index)
 
