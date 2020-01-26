@@ -138,10 +138,10 @@
 
                                         <label for="crimeLevel">Choose Crime Severity Level (1-least severe)</label><br>
 
-                                        <label class="radio-inline"><input type="radio" name="crimeLevel"
+                                        <label class="radio-inline"><input type="radio" name="crimeLevel" value="1"
                                                 checked>1</label>
-                                        <label class="radio-inline"><input type="radio" name="crimeLevel">2</label>
-                                        <label class="radio-inline"><input type="radio" name="crimeLevel">3</label>
+                                        <label class="radio-inline"><input type="radio" name="crimeLevel" value="2">2</label>
+                                        <label class="radio-inline"><input type="radio" name="crimeLevel" value="3">3</label>
                                         <br><br>
                                         <label for="crimeImage">Upload Crime Photo (Optional)</label><br>
                                         <button class="btn btn-dark" type="button" name="crimeImage"
@@ -173,7 +173,36 @@
             var crimeLocation;
             var coodsLat = [];
             var coodsLng = [];
-
+            // Leaflet Colored Markers :D
+            // green colors
+            var greenIcon = new L.Icon({
+                iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+                });
+            // red color
+            var redIcon = new L.Icon({
+                iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+                });
+            
+            // blue colors
+            var blueIcon = new L.Icon({
+                iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+                });
+            
 
             navigator.geolocation.getCurrentPosition(function (location) {
                 latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
@@ -218,7 +247,15 @@
                             coodsLat.push(item.lat);
                             coodsLng.push(item.lng);
                             var temp = new L.LatLng(item.lat, item.lng);
-                            L.marker(temp).addTo(mymap);
+                            if(item.crimeLevel === "1")
+                                L.marker(temp,{icon:blueIcon}).addTo(mymap);
+                            else if(item.crimeLevel === "2")
+                                L.marker(temp,{icon:greenIcon}).addTo(mymap);
+                            else if(item.crimeLevel === "3")
+                                L.marker(temp,{icon:redIcon}).addTo(mymap);
+
+
+
                         }
 
                     });
