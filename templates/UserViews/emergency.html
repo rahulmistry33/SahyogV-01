@@ -1,0 +1,238 @@
+{% load static %}
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+
+    <script
+        src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+
+    <link rel="stylesheet" href="{% static 'styles.css'%}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <title>Sahyog</title>
+    <!-- Bootstrap Styles-->
+    <link href="{% static 'assets/css/bootstrap.css' %}" rel="stylesheet" />
+    <!-- FontAwesome Styles-->
+    <link href="{% static 'assets/css/font-awesome.css' %}" rel="stylesheet" />
+
+    <!-- Custom Styles-->
+    <link href="{% static 'assets/css/custom-styles.css' %}" rel="stylesheet" />
+    <!-- Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <nav class="navbar navbar-default top-navbar" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><strong>Sahyog</strong></a>
+
+                <!-- <div id="sideNav" href=""><i class="fa fa-caret-right"></i></div> -->
+            </div>
+
+        </nav>
+        <!--/. NAV TOP  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <br><br>
+                <ul class="nav" id="main-menu">
+
+                    <li>
+                        <a class="active-menu" href="index.html"><i class="fa fa-dashboard"></i> Report Crime</a>
+                    </li>
+                    <li>
+                        <a href="ui-elements.html"><i class="fa fa-desktop"></i>Validate Crime</a>
+                    </li>
+                    <li>
+                        <a href="tab-panel.html"><i class="fa fa-qrcode"></i>Police Stations Near Me</a>
+                    </li>
+                    <li>
+                        <a href="chart.html"><i class="fa fa-bar-chart-o"></i> My History</a>
+                    </li>
+
+
+                    <!--  <li>
+                        <a href="table.html"><i class="fa fa-table"></i> Responsive Tables</a>
+                    </li> -->
+                    <li>
+                        <a href="form.html"><i class="fa fa-edit"></i> Give Feedback </a>
+                    </li>
+
+
+                </ul>
+
+            </div>
+
+        </nav>
+        <!-- /. NAV SIDE  -->
+
+        <div id="page-wrapper">
+            <div class="header">
+            </div>
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-default">
+                            <div style="height: 100vh; z-index: 0;" id="mapid" class="panel-body">
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+            <!-- /. PAGE INNER  -->
+        </div>
+        <!-- /. PAGE WRAPPER  -->
+    </div>
+    <!-- /. WRAPPER  -->
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        
+        var latlng;
+        var mymap;
+        var lol = 1;
+
+
+        navigator.geolocation.getCurrentPosition(function (location) {
+            latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+            mymap = L.map('mapid').setView(latlng, 13)
+
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(mymap);
+            L.control.scale().addTo(mymap);
+
+
+            var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
+            var results = new L.LayerGroup().addTo(mymap);
+            
+            searchControl.on('results', function (data) {
+                results.clearLayers();
+                for (var i = data.results.length - 1; i >= 0; i--) {
+                    results.addLayer(L.marker(data.results[i].latlng));
+                    console.log(data.results[i].latlng);
+                    // document.getElementById("location").value = data.results[i].text;
+                }
+            });
+           
+            L.marker(latlng).addTo(mymap);
+
+        });
+
+
+        $(document).on('submit', '#reportcrime', function (event) {
+            event.preventDefault();
+            var $form = $(this),
+                url = $form.attr('action');
+            $.ajax({
+                type: 'POST',
+                dataType: 'json',
+                url: url,
+                data: $('#reportcrime').serialize(),
+                success: function (response) {
+                    console.log(response.latitude);
+                    var long = response.longitude;
+                    var lat = response.latitude;
+                    newLatLong = new L.LatLng(lat, long);
+                    L.marker(newLatLong).addTo(mymap);
+
+
+
+                }
+
+            });
+
+            return false;
+
+
+        });
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+    <!-- 
+    <div class="report">
+        <form id="reportcrime" action="{% url 'index' %}" method="POST">
+            {% csrf_token %}
+            <input type="text" placeholder="Enter description" id="description" name="description">
+            <input type="text" placeholder="Enter location" id="location" name="location">
+            <input type="submit">
+
+        </form>
+
+
+
+
+
+
+    </div> -->
+
+
+
+
+</body>
+<!-- JS Scripts-->
+<!-- jQuery Js -->
+<script src="{% static 'assets/js/jquery-1.10.2.js' %}"></script>
+<!-- Bootstrap Js -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+
+<!-- Metis Menu Js -->
+<script src="{% static 'assets/js/jquery.metisMenu.js' %}"></script>
+
+
+
+<script src="{% static 'assets/js/easypiechart.js' %}"></script>
+<script src="{% static 'assets/js/easypiechart-data.js' %}"></script>
+
+<script src="{% static 'assets/js/Lightweight-Chart/jquery.chart.js' %}"></script>
+
+<!-- Custom Js -->
+<script src="{% static 'assets/js/custom-scripts.js' %}"></script>
+
+</html>
