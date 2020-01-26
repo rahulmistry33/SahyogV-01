@@ -10,14 +10,15 @@ def landing(request):
     return render(request,'UserViews/landing.html')
 
 def emergency(request):
-    url = "https://api.mapbox.com/geocoding/v5/mapbox.places/{}.json?access_token=pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g".format("Police")
+    url = "https://api.mapbox.com/geocoding/v5/mapbox.places/{}.json?access_token=pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g".format("Police Station-Mulund, Dr R P Marg, Mulund West, Mumbai, Mumbai Suburban, Maharashtra, 400080, IND")
     response = requests.get(url)
     data = response.json()
     lati = data["features"][0]["geometry"]["coordinates"][1]
     longi = data["features"][0]["geometry"]["coordinates"][0]
         
-    return HttpResponse(json.dumps({'status':'success','latitude':lati,'longitude':longi}),content_type='application/json')
-    # return render(request,'UserViews/emergency.html')
+    # return HttpResponse(json.dumps({'status':'success','latitude':lati,'longitude':longi}),content_type='application/json')
+    return render(request, 'UserViews/emergency.html',{'latitude': json.dumps(lati),'longitude': json.dumps(longi)})
+    
 
 def index(request):
     if request.method == "POST":

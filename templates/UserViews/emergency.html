@@ -123,6 +123,7 @@
 
 
     <script type="text/javascript">
+        
         var latlng;
         var mymap;
         var lol = 1;
@@ -141,30 +142,19 @@
 
             var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
             var results = new L.LayerGroup().addTo(mymap);
-
+            
             searchControl.on('results', function (data) {
                 results.clearLayers();
                 for (var i = data.results.length - 1; i >= 0; i--) {
                     results.addLayer(L.marker(data.results[i].latlng));
-                    console.log(data.results[i].text);
+                    console.log(data.results[i].latlng);
                     // document.getElementById("location").value = data.results[i].text;
                 }
             });
-            // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-            //     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://mapbox.com">Mapbox</a>',
-            //     maxZoom: 18,
-            //     id: 'mapbox.streets',
-            //     accessToken: 'pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g'
-            // }).addTo(mymap);
-            //var dmart = new L.LatLng(19.191089, 73.091562);
+           
             L.marker(latlng).addTo(mymap);
 
-            //L.marker(dmart).addTo(mymap);
-            // console.log("renderrrr");
         });
-
-        // console.log(mymap);
-
 
 
         $(document).on('submit', '#reportcrime', function (event) {
