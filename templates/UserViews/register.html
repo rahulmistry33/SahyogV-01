@@ -9,6 +9,7 @@
 </head>
 <body>
 	<div class="container">
+		<h2 class="text-center">Register Form</h2>
 		<form method="POST" class="form-group">
 			{% csrf_token %}
 			{{form | crispy}}

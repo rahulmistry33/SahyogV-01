@@ -16,6 +16,11 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 import math, random
 
+client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
+db = client.Sahyog
+locationDB = db.Location
+userDB = db.User
+
 class RegisterForm(UserCreationForm):
     first_name = forms.CharField(required=True)
     last_name = forms.CharField()
@@ -49,12 +54,6 @@ class LoginForm(forms.ModelForm):
         model = User
         fields = ('username', 'password')
 
-client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
-db = client.Sahyog
-locationDB = db.Location
-userDB = db.User
-
-
 def sendSMS(to, body):
     to = to
     client = Client(os.getenv('TWILIO_ACCOUNT_SID'), os.getenv('TWILIO_AUTH_TOKEN'))
@@ -62,6 +61,7 @@ def sendSMS(to, body):
     body=body, 
     to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
     
+# @describe: 6-digit random OTP generator function....
 def OTPGenerator():
     digits = "0123456789"
     OTP = ""
@@ -69,20 +69,17 @@ def OTPGenerator():
         OTP += digits[math.floor(random.random()*10)]
     return OTP 
 
-# Create your views here.
+# @describe: Send an SOS emergency message to users' emergency contacts....
 def SOS(request):
     sendSMS(request.session['ec1'], 'There\'s an emergency with your colleague. He has met with an accident.')
     sendSMS(request.session['ec2'], 'There\'s an emergency with your colleague. He has met with an accident.')
     return HttpResponse("hello")
 
+# @describe: Register new user 
 def register(request):
     if request.method == "POST":
         form = RegisterForm(request.POST)
         if form.is_valid():
-            # username = form.cleaned_data["username"]
-            # ec1 = form.cleaned_data["emergency_contact_1"]
-            # ec2 = form.cleaned_data["emergency_contact_2"]
-            # phone = form.cleaned_data["phone_number"]
             user = {
                 "username": form.cleaned_data["username"], 
                 "fname": form.cleaned_data["first_name"],
@@ -95,36 +92,29 @@ def register(request):
                 "ec1": '+91'+ form.cleaned_data["emergency_contact_1"],
                 "ec2": '+91'+ form.cleaned_data["emergency_contact_2"]
             }
-            # userDB.insert_one(user)
-            # request.session['username'] = username
-            # request.session['ec1'] = ec1
-            # request.session['ec2'] = ec2
-            # return redirect(dashboard, form.cleaned_data["username"])
             return redirect(validateOTP, json.dumps(user))
     else:
         form = RegisterForm()
     return render(request, 'UserViews/register.html', {"form": form})
 
-
+# @describe: Verify the OTP sent to newly registered user.....
 def validateOTP(request, user):
     user = user.replace("\'","\"")
     userObj = json.loads(user)
     if request.method == "POST":
         otp = request.POST.get('otp')
-        print(otp)
         if otp == request.session["otp"]:
             userDB.insert_one(userObj)
             request.session['username'] = userObj["username"]
             request.session['ec1'] = userObj["ec1"]
             request.session['ec2'] = userObj["ec2"]
             return redirect(dashboard, request.session["username"])
-        # else:
-        #     return render(request, 'UserViews/OTP.html', {"invalid": True})
+
     request.session["otp"] = OTPGenerator()
-    print(request.session["otp"])
     sendSMS(userObj['phone'], ('Your OTP is ', request.session["otp"]))
     return render(request, 'UserViews/OTP.html')
-        
+     
+# @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
         return redirect(dashboard, {"username": username})
@@ -162,6 +152,9 @@ def logout(request):
    return redirect(index)
 
 def index(request):
+    return render(request, 'UserViews/index.html')
+
+def report(request):
     if request.method == "POST":
         location = request.POST.get('location')
         lat = request.POST.get('lat')
@@ -175,16 +168,15 @@ def index(request):
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
     else:
-        if request.session.has_key('username'):
-            print(request.session['username'])
-        return render(request,'UserViews/user.html')
+        return render(request,'UserViews/report.html')
 
-
+# Analyse statistics dashboard...
 def analytics(request):
     locations = list(locationDB.find({"severity": "2"}))
     return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
 
-
+# A function for server sent events.... 
+# @describe: Add new markers dynamically on to map, without refreshing page...
 def SSE(request):
     locations = dumps(locationDB.find())
     return HttpResponse(
@@ -192,55 +184,6 @@ def SSE(request):
         content_type='text/event-stream'
     )
 
-
-
-# from django.shortcuts import render
-# import requests
-# import json
-# from django.http import JsonResponse
-# from django.http import HttpResponse
-
-
-
-
-
-# # Create your views here.
-
-    
-
-# def index(request):
-#     if request.method == "POST":
-
-#         description = request.POST.get('description')
-#         location = request.POST.get('location')
-#         print("location :",location)
-#         URL = "https://geocoder.ls.hereapi.com/6.2/geocode.json?apiKey=jVB385WpgHu9PmsnaQeW2-qVfltkDlccMdda8oicJQs&searchtext={}".format(location)
-#         response = requests.get(URL)
-#         data = response.json()
-#         print(data)
-#         print("response isssss:",data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Latitude'])
-#         latitude = data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Latitude']
-#         longitude = data['Response']['View'][0]['Result'][0]['Location']['DisplayPosition']['Longitude']
-        
-        
-#         return HttpResponse(json.dumps({'status':'success','latitude':latitude,'longitude':longitude}),content_type='application/json')
-        
-    
-#     else:
-#         return render(request,'UserViews/user.html')
-
-        
-        
-       
-
-    
-        
-#         """print(r['Response']['View'][3]['Location']['DisplayPosition']['Lattitude'])"""
-#         """context = {
-#             'lat':latitude,
-#             'long':longitude
-#         }"""
-#         """return render(request,'UserViews/user.html',context)"""
 
 
 
