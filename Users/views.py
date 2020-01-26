@@ -72,46 +72,37 @@ def OTPGenerator():
 
 # @describe: Send an SOS emergency message to users' emergency contacts....
 def SOS(request):
-    sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-    sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-    return render(request, 'UserViews/SOS.html')
+    if request.session.has_key('username'):
+        sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+        sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+        return render(request, 'UserViews/SOS.html')
+    else:
+        return render(request, 'UserViews/index.html')
 
-##### gayatri
 
 
 
 
-# Create your views here.
 
-# def home(request):
-#     return render(request, 'UserViews/home.html')
-#########################my addtns
-def landing(request):
-    
-    return render(request,'UserViews/landing.html')
 
-def emergency(request):
-    url = "https://api.mapbox.com/geocoding/v5/mapbox.places/{}.json?access_token=pk.eyJ1IjoicmFodWxtaXN0cnkzMyIsImEiOiJjazRvMmg0dGIwMjU5M2pwMWtlYmRsNmZjIn0.-b0ywtsKoCRSfL5Xd_2c0g".format("Police Station-Mulund, Dr R P Marg, Mulund West, Mumbai, Mumbai Suburban, Maharashtra, 400080, IND")
-    response = requests.get(url)
-    data = response.json()
-    lati = data["features"][0]["geometry"]["coordinates"][1]
-    longi = data["features"][0]["geometry"]["coordinates"][0]
-        
-    # return HttpResponse(json.dumps({'status':'success','latitude':lati,'longitude':longi}),content_type='application/json')
-    return render(request, 'UserViews/emergency.html',{'latitude': json.dumps(lati),'longitude': json.dumps(longi)})
-    
-####### amisha
 
 def safey(request):
-    return render(request, 'UserViews/safey.html')
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/safey.html')
+    else:
+        return render(request,'UserViews/index.html')
 
 def report(request):
-    return render(request, 'UserViews/report.html')
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/report.html')
+    else:
+        return render(request,'UserViews/index.html')
 
 
 
 # @describe: Register new user 
 def register(request):
+    
     if request.method == "POST":
         form = RegisterForm(request.POST)
         if form.is_valid():
@@ -129,6 +120,8 @@ def register(request):
             }
             return redirect(validateOTP, json.dumps(user))
     else:
+        if request.session.has_key('username'):
+            return home(request,request.session['username'])
         form = RegisterForm()
     return render(request, 'UserViews/register.html', {"form": form})
 
@@ -153,7 +146,7 @@ def validateOTP(request, user):
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
-        return redirect(home, {"username": username})
+        return redirect(home, {"username": request.session['username']})
     else:
         if request.method=="POST":
             form = LoginForm(request.POST)
@@ -188,7 +181,10 @@ def logout(request):
    return redirect(index)
 
 def index(request):
-    return render(request, 'UserViews/index.html')
+    if request.session.has_key('username'):
+        return home(request,request.session['username'])
+    else: 
+        return render(request, 'UserViews/index.html')
 
 def reportCrime(request):
     if request.method == "POST":

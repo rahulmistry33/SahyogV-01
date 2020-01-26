@@ -20,7 +20,11 @@
 		crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}">
 </head>
-
+<style>
+.text-muted{
+	color:#323232 !important;
+}
+</style>
 
 <body>
 	<div class="container ">
@@ -37,7 +41,7 @@
 							{% csrf_token %}
 							{{form | crispy}}
 							<button type="submit" class="btn btn-dark"
-								style="background-color: black; color:white; font-size: 20px; width: 300px;">Register</button>
+								style="background-color: black; color:white; font-size: 20px;">Register</button>
 						</form>
 					</div>
 				</div>
@@ -49,6 +53,8 @@
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<br><br>
+	.
 </body>
 
 </html>
