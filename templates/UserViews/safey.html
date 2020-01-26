@@ -382,7 +382,7 @@
             orangeIcon = new LeafIcon({ iconUrl: 'leaf-orange.png' });
 
         if (typeof (EventSource) !== "undefined") {
-            var source = new EventSource("{% url 'random' %}");
+            var source = new EventSource("{% url 'SSE' %}");
 
             source.onmessage = function (event) {
 
@@ -630,7 +630,7 @@
             var coodsLatChotu = [];
             var coodsLngChotu = [];
             if (typeof (EventSource) !== "undefined") {
-                var source = new EventSource("{% url 'random' %}");
+                var source = new EventSource("{% url 'SSE' %}");
 
                 source.onmessage = function (event) {
 
@@ -687,7 +687,7 @@
             var coodsLatChotu2 = [];
             var coodsLngChotu2 = [];
             if (typeof (EventSource) !== "undefined") {
-                var source = new EventSource("{% url 'random' %}");
+                var source = new EventSource("{% url 'SSE' %}");
 
                 source.onmessage = function (event) {
 
@@ -745,7 +745,7 @@
             var coodsLatChotu3 = [];
             var coodsLngChotu3 = [];
             if (typeof (EventSource) !== "undefined") {
-                var source = new EventSource("{% url 'random' %}");
+                var source = new EventSource("{% url 'SSE' %}");
 
                 source.onmessage = function (event) {
 

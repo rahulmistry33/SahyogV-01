@@ -72,9 +72,9 @@ def OTPGenerator():
 
 # @describe: Send an SOS emergency message to users' emergency contacts....
 def SOS(request):
-    sendSMS(request.session['ec1'], 'There\'s an emergency with your colleague. He has met with an accident.')
-    sendSMS(request.session['ec2'], 'There\'s an emergency with your colleague. He has met with an accident.')
-    return HttpResponse("hello")
+    sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+    sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+    return render(request, 'UserViews/SOS.html')
 
 
 
@@ -140,7 +140,8 @@ def validateOTP(request, user):
             return redirect(dashboard, request.session["username"])
 
     request.session["otp"] = OTPGenerator()
-    sendSMS(userObj['phone'], ('Your OTP is ', request.session["otp"]))
+    msg = 'Your OTP is '+request.session['otp']
+    sendSMS(userObj['phone'],msg)    
     return render(request, 'UserViews/OTP.html')
      
 # @describe: Existing user login
@@ -183,7 +184,7 @@ def logout(request):
 def index(request):
     return render(request, 'UserViews/index.html')
 
-def index(request):
+def reportCrime(request):
     if request.method == "POST":
         location = request.POST.get('location')
         lat = request.POST.get('lat')

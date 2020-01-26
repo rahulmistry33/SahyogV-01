@@ -12,14 +12,14 @@ urlpatterns = [
     path('logout/', views.logout, name='logout'),
     path('login/', views.login, name='login'),
     path('analytics/', views.analytics, name='analytics'),
-    path('validateOTP/<user>', views.validateOTP, name='validateOTP')
-
+    path('validateOTP/<user>', views.validateOTP, name='validateOTP'),
     path('index/',views.index,name='index'),
-    path('random/', views.random, name='random'),
+    # path('random/', views.random, name='random'),
     path('SOS/', views.SOS, name='SOS'),
     path('home/', views.home,name="home"),
     path('safey/', views.safey,name="safey"),
-    path('report/', views.report,name="report")
+    path('report/', views.report,name="report"),
+    path('reportCrime/', views.reportCrime,name="reportCrime")
 
 
     
