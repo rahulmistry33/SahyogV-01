@@ -1,27 +1,29 @@
 {% load static %}
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Sahyog</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	 <!-- GOOGLE FONTS -->
-	 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500" rel="stylesheet"/>
-	 <link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
-   
-	 <!-- PLUGINS CSS STYLE -->
-	 <link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
-	 <link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
-	 <link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet"/>
-	 <link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
-	 <link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
-	 <link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
-	 <link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
-   
-	 <!-- SLEEK CSS -->
-	 <link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
-   
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+	<!-- GOOGLE FONTS -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
+		rel="stylesheet" />
+	<link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+
+	<!-- PLUGINS CSS STYLE -->
+	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
+
+	<!-- SLEEK CSS -->
+	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -33,322 +35,327 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
-	
+
 	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
 <style>
-.mdi{
-	color: #ffaa00 !important;
-}
+	.mdi {
+		color: #ffaa00 !important;
+	}
 </style>
+
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
 	<script>
 		NProgress.configure({ showSpinner: false });
 		NProgress.start();
-	  </script>
-  
-	  <div class="mobile-sticky-body-overlay"></div>
-<div class="wrapper">
-<aside class="left-sidebar bg-sidebar">
-  <div id="sidebar" class="sidebar sidebar-with-footer">
-	<!-- Aplication Brand -->
-	<div style="background-color: #ffaa00;" class="app-brand">
-	  <a href="/index.html">
-		
-		<span class="brand-name">Sahyog</span>
-	  </a>
-	</div>
-	<!-- begin sidebar scrollbar -->
-	<div class="sidebar-scrollbar">
+	</script>
 
-	  <!-- sidebar menu -->
-	  <ul class="nav sidebar-inner" id="sidebar-menu">
-		
+	<div class="mobile-sticky-body-overlay"></div>
+	<div class="wrapper">
+		<aside class="left-sidebar bg-sidebar">
+			<div id="sidebar" class="sidebar sidebar-with-footer">
+				<!-- Aplication Brand -->
+				<div style="background-color: #ffaa00;" class="app-brand">
+					<a href="/index.html">
 
-		
-		  <li  class="has-sub active expand" >
-			<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#dashboard"
-			  aria-expanded="false" aria-controls="dashboard">
-			  <i  class="mdi mdi-view-dashboard-outline"></i>
-			  <span class="nav-text">Dashboard</span> 
-			</a>
-			
-		  </li>
-		
+						<span class="brand-name">Sahyog</span>
+					</a>
+				</div>
+				<!-- begin sidebar scrollbar -->
+				<div class="sidebar-scrollbar">
 
-		
-
-		
-		  <li  class="has-sub" >
-			<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#ui-elements"
-			  aria-expanded="false" aria-controls="ui-elements">
-			  <i class="mdi mdi-folder-multiple-outline"></i>
-			  <span class="nav-text">Crime-wise Ananlysis</span> 
-			</a>
-		  </li>
-			
-			
-
-		
-
-		
-		  <li  class="has-sub" >
-			<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#charts"
-			  aria-expanded="false" aria-controls="charts">
-			  <i class="mdi mdi-chart-pie"></i>
-			  <span class="nav-text">State-wise Analysis</span> 
-			</a>
-			
-			
-		  </li>
-		
-
-		
-
-		
-		  <li  class="has-sub" >
-			<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#pages"
-			  aria-expanded="false" aria-controls="pages">
-			  <i class="mdi mdi-image-filter-none"></i>
-			  <span class="nav-text">Demographic Analysis</span> 
-			</a>
-			
-		  </li>
-		
-
-		
-
-		
-		  <li  class="has-sub" >
-			<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse" data-target="#documentation"
-			  aria-expanded="false" aria-controls="documentation">
-			  <i class="mdi mdi-book-open-page-variant"></i>
-			  <span class="nav-text">Instrumental Factors</span> 
-			</a>
-			
-				
-			</li>
-				
-
-			
-				
-
-			
-		
-
-		
-	  </ul>
-
-	</div>
-
-	<hr class="separator" />
-
-	<div class="sidebar-footer">
-	  <div class="sidebar-footer-content">
-		<h6 class="text-uppercase">
-		  Cases Closed <span class="float-right">72%</span>
-		</h6>
-		<div class="progress progress-xs">
-		  <div
-			class="progress-bar active"
-			style="width: 72%;"
-			role="progressbar"
-		  ></div>
-		</div>
-		<h6 class="text-uppercase">
-			Crimes Validated<span class="float-right">65%</span>
-		</h6>
-		<div class="progress progress-xs">
-		  <div
-			class="progress-bar progress-bar-warning"
-			style="width: 65%;"
-			role="progressbar"
-		  ></div>
-		</div>
-	  </div>
-	</div>
-  </div>
-</aside>
+					<!-- sidebar menu -->
+					<ul class="nav sidebar-inner" id="sidebar-menu">
 
 
 
-<div class="page-wrapper">
-		  <!-- Header -->
-  <header class="main-header " id="header">
-	<nav class="navbar navbar-static-top navbar-expand-lg">
-	  <!-- Sidebar toggle button -->
-	  <button id="sidebar-toggler" class="sidebar-toggle">
-		<span class="sr-only">Toggle navigation</span>
-	  </button>
-	  <!-- search form -->
-	  <div class="search-form d-none d-lg-inline-block">
-		<div class="input-group">
-		  <!-- <button type="button" name="search" id="search-btn" class="btn btn-flat">
+						<li class="has-sub active expand">
+							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
+								data-target="#dashboard" aria-expanded="false" aria-controls="dashboard">
+								<i class="mdi mdi-view-dashboard-outline"></i>
+								<span class="nav-text">Dashboard</span>
+							</a>
+
+						</li>
+
+
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
+								data-target="#ui-elements" aria-expanded="false" aria-controls="ui-elements">
+								<i class="mdi mdi-folder-multiple-outline"></i>
+								<span class="nav-text">Crime-wise Ananlysis</span>
+							</a>
+						</li>
+
+
+
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
+								data-target="#charts" aria-expanded="false" aria-controls="charts">
+								<i class="mdi mdi-chart-pie"></i>
+								<span class="nav-text">State-wise Analysis</span>
+							</a>
+
+
+						</li>
+
+
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
+								data-target="#pages" aria-expanded="false" aria-controls="pages">
+								<i class="mdi mdi-image-filter-none"></i>
+								<span class="nav-text">Demographic Analysis</span>
+							</a>
+
+						</li>
+
+
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
+								data-target="#documentation" aria-expanded="false" aria-controls="documentation">
+								<i class="mdi mdi-book-open-page-variant"></i>
+								<span class="nav-text">Instrumental Factors</span>
+							</a>
+
+
+						</li>
+
+
+
+
+
+
+
+
+
+					</ul>
+
+				</div>
+
+				<hr class="separator" />
+
+				<div class="sidebar-footer">
+					<div class="sidebar-footer-content">
+						<h6 class="text-uppercase">
+							Cases Closed <span class="float-right">72%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar active" style="width: 72%;" role="progressbar"></div>
+						</div>
+						<h6 class="text-uppercase">
+							Crimes Validated<span class="float-right">65%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar progress-bar-warning" style="width: 65%;" role="progressbar"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
+
+
+
+		<div class="page-wrapper">
+			<!-- Header -->
+			<header class="main-header " id="header">
+				<nav class="navbar navbar-static-top navbar-expand-lg">
+					<!-- Sidebar toggle button -->
+					<button id="sidebar-toggler" class="sidebar-toggle">
+						<span class="sr-only">Toggle navigation</span>
+					</button>
+					<!-- search form -->
+					<div class="search-form d-none d-lg-inline-block">
+						<div class="input-group">
+							<!-- <button type="button" name="search" id="search-btn" class="btn btn-flat">
 			<i class="mdi mdi-magnify"></i>
 		  </button> -->
-		  <!-- <input type="text" name="query" id="search-input" class="form-control" placeholder="'button', 'chart' etc."
+							<!-- <input type="text" name="query" id="search-input" class="form-control" placeholder="'button', 'chart' etc."
 			autofocus autocomplete="off" /> -->
-		</div>
-		<div id="search-results-container">
-		  <ul id="search-results"></ul>
-		</div>
-	  </div>
-
-	  <div class="navbar-right ">
-		<ul class="nav navbar-nav">
-		  
-		</ul>
-	  </div>
-	</nav>
-
-
-  </header>
-  <div class="content-wrapper">
-	  <div class="content">
-		<div class="row">
-			
-				
-			<div class="col-xl-8 col-md-12">
-				<div class="card card-default" data-scroll-height="675">
-					<div class="card-header justify-content-center">
-					  <h2>Statewise Analysis</h2>
-					</div>
-					<div class="card-body" >
-						<canvas id="myChart"></canvas>
-		
-					</div>
-					<a href="#" class="pb-5 d-block text-center text-muted"><i class="mdi mdi-download mr-2"></i> Download overall report</a>
-					<div class="card-footer d-flex flex-wrap bg-white p-0">
-					  <div class="col-6">
-						<div class="py-4 px-4">
-						  <ul class="d-flex flex-column justify-content-between">
-							<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #4c84ff"></i>lorem ipsum</li>
-							<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #80e1c1 "></i>lorem ipsum</li>
-						  </ul>
 						</div>
-					  </div>
-					  <div class="col-6 border-left">
-						<div class="py-4 px-4 ">
-						  <ul class="d-flex flex-column justify-content-between">
-							<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #8061ef"></i>lorem ipsum</li>
-							<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #ffa128"></i>lorem ipsum</li>
-						  </ul>
+						<div id="search-results-container">
+							<ul id="search-results"></ul>
 						</div>
-					  </div>
 					</div>
-				  </div>
-			<!-- <div class="chart-container" style="position: relative; height:40vh; width:50vw;">
+
+					<div class="navbar-right ">
+						<ul class="nav navbar-nav">
+
+						</ul>
+					</div>
+				</nav>
+
+
+			</header>
+			<div class="content-wrapper">
+				<div class="content">
+					<div class="row">
+
+
+						<div class="col-xl-8 col-md-12">
+							<div class="card card-default" data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>Statewise Analysis</h2>
+								</div>
+								<div class="chart-container">
+									<canvas id="myChart"></canvas>
+
+								</div>
+								<a href="#" class="pb-5 d-block text-center text-muted"><i
+										class="mdi mdi-download mr-2"></i> Download overall report</a>
+								<div class="card-footer d-flex flex-wrap bg-white p-0">
+									<div class="col-6">
+										<div class="py-4 px-4">
+											<ul class="d-flex flex-column justify-content-between">
+												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #4c84ff"></i>lorem ipsum</li>
+												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #80e1c1 "></i>lorem ipsum</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-6 border-left">
+										<div class="py-4 px-4 ">
+											<ul class="d-flex flex-column justify-content-between">
+												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #8061ef"></i>lorem ipsum</li>
+												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #ffa128"></i>lorem ipsum</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- <div class="chart-container" style="position: relative; height:40vh; width:50vw;">
 			</div> -->
-		</div>
-				<div class="col-xl-4 col-md-12">
-				 <!-- Doughnut Chart -->
-				 
-				 <div class="card card-default" data-scroll-height="675">
-					<div class="card-header justify-content-center">
-					  <h2>Crime Overview</h2>
-					</div>
-					<div class="card-body" >
-					  <canvas id="doChart" ></canvas>
-					</div>
-					<a href="#" class="pb-5 d-block text-center text-muted"><i class="mdi mdi-download mr-2"></i> Download overall report</a>
-					<div class="card-footer d-flex flex-wrap bg-white p-0">
-					  <div class="col-6">
-						<div class="py-4 px-4">
-						  <ul class="d-flex flex-column justify-content-between">
-							<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #4c84ff"></i>lorem ipsum</li>
-							<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #80e1c1 "></i>lorem ipsum</li>
-						  </ul>
 						</div>
-					  </div>
-					  <div class="col-6 border-left">
-						<div class="py-4 px-4 ">
-						  <ul class="d-flex flex-column justify-content-between">
-							<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #8061ef"></i>lorem ipsum</li>
-							<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2" style="color: #ffa128"></i>lorem ipsum</li>
-						  </ul>
+						<div class="col-xl-4 col-md-12">
+							<!-- Doughnut Chart -->
+
+							<div class="card card-default" data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>Crime Overview</h2>
+								</div>
+								<div class="card-body">
+									<canvas id="doChart"></canvas>
+								</div>
+								<a href="#" class="pb-5 d-block text-center text-muted"><i
+										class="mdi mdi-download mr-2"></i> Download overall report</a>
+								<div class="card-footer d-flex flex-wrap bg-white p-0">
+									<div class="col-6">
+										<div class="py-4 px-4">
+											<ul class="d-flex flex-column justify-content-between">
+												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #4c84ff"></i>lorem ipsum</li>
+												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #80e1c1 "></i>lorem ipsum</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-6 border-left">
+										<div class="py-4 px-4 ">
+											<ul class="d-flex flex-column justify-content-between">
+												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #8061ef"></i>lorem ipsum</li>
+												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
+														style="color: #ffa128"></i>lorem ipsum</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
-					  </div>
+
 					</div>
-				  </div>
 				</div>
-		
+			</div>
 		</div>
-	  </div>
-  </div>
-</div>
 
-  
 
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCn8TFXGg17HAUcNpkwtxxyT9Io9B_NcM" defer></script>
-<script src="{% static 'assets-analytics/plugins/jquery/jquery.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/toaster/toastr.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/slimscrollbar/jquery.slimscroll.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/charts/Chart.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/ladda/spin.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/ladda/ladda.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jquery-mask-input/jquery.mask.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/select2/js/select2.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-world-mill.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/daterangepicker/moment.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jekyll-search.min.js'%}"></script>
-<script src="{% static 'assets-analytics/js/sleek.js'%}"></script>
-<script src="{% static 'assets-analytics/js/chart.js'%}"></script>
-<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
-<script src="{% static 'assets-analytics/js/map.js'%}"></script>
-<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
 
-	<script type="text/javascript">
-	Chart.defaults.global.defaultFontFamily = 'Roboto Slab';
-	
-	window.onload = () => {
-	var ctx = document.getElementById('myChart').getContext('2d');
-	var myChart = new Chart(ctx, {
-	    type: 'bar',
-	    data: {
-	        labels: ['Mumbai', 'Chennai', 'Delhi', 'Hyderabad', 'Kolkata', 'Ahemdabad'],
-	        datasets: [{
-	            label: 'No. of Crimes',
-	            data: [120, 190, 300, 410, 150, 40],
-	            backgroundColor: [
-	                'rgba(255, 99, 132, 0.2)',
-	                'rgba(54, 162, 235, 0.2)',
-	                'rgba(255, 206, 86, 0.2)',
-	                'rgba(75, 192, 192, 0.2)',
-	                'rgba(153, 102, 255, 0.2)',
-	                'rgba(255, 159, 64, 0.2)'
-	            ],
-	            borderColor: [
-	                'rgba(255, 99, 132, 1)',
-	                'rgba(54, 162, 235, 1)',
-	                'rgba(255, 206, 86, 1)',
-	                'rgba(75, 192, 192, 1)',
-	                'rgba(153, 102, 255, 1)',
-	                'rgba(255, 159, 64, 1)'
-	            ],
-	            borderWidth: 1
-	        }]
-	    },
-	    options: {
-	    	title: {
-	    		display: true,
-	    		text: 'No. of Crimes in Cities',
-	    		fontStyle: 'bold',
-	    		fontSize: 25
-	    	},
-	    	legend: {
-	    		display: false,
-	    	}
-	    }
-	});
-};
-	
-</script>
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCn8TFXGg17HAUcNpkwtxxyT9Io9B_NcM"
+			defer></script>
+		<script src="{% static 'assets-analytics/plugins/jquery/jquery.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/toaster/toastr.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/slimscrollbar/jquery.slimscroll.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/charts/Chart.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/ladda/spin.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/ladda/ladda.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jquery-mask-input/jquery.mask.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/select2/js/select2.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-world-mill.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/daterangepicker/moment.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jekyll-search.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/sleek.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/chart.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
+
+		<script type="text/javascript">
+			Chart.defaults.global.defaultFontFamily = 'Roboto Slab';
+
+			window.onload = () => {
+				var ctx = document.getElementById('myChart').getContext('2d');
+				var myChart = new Chart(ctx, {
+					type: 'bar',
+					data: {
+						labels: ['Mumbai', 'Chennai', 'Delhi', 'Hyderabad', 'Kolkata', 'Ahemdabad'],
+						datasets: [{
+							label: 'No. of Crimes',
+							data: [120, 190, 300, 410, 150, 40],
+							backgroundColor: [
+								'rgba(255, 99, 132, 0.2)',
+								'rgba(54, 162, 235, 0.2)',
+								'rgba(255, 206, 86, 0.2)',
+								'rgba(75, 192, 192, 0.2)',
+								'rgba(153, 102, 255, 0.2)',
+								'rgba(255, 159, 64, 0.2)'
+							],
+							borderColor: [
+								'rgba(255, 99, 132, 1)',
+								'rgba(54, 162, 235, 1)',
+								'rgba(255, 206, 86, 1)',
+								'rgba(75, 192, 192, 1)',
+								'rgba(153, 102, 255, 1)',
+								'rgba(255, 159, 64, 1)'
+							],
+							borderWidth: 1
+						}]
+					},
+					options: {
+						title: {
+							display: true,
+							text: 'No. of Crimes in Cities',
+							fontStyle: 'bold',
+							fontSize: 25
+						},
+						legend: {
+							display: false,
+						}
+					}
+				});
+			};
+
+		</script>
 </body>
+
 </html>
