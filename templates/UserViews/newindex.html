@@ -18,11 +18,12 @@
 	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
-	
+
 	<!-- SLEEK CSS -->
 	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'style.css'%}"> 
 	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -35,7 +36,6 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
-	
 
 	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
@@ -43,21 +43,34 @@
 	.mdi {
 		color: #ffaa00 !important;
 	}
-	.page-wrapper {
+    body,
+    html {
       background: url("{% static 'india1.jpg' %}");
       /* background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed; */
       
-	  background-position: center;
-	  /* overflow: hidden;
-	  margin: 0;
-	  height: 100%; */
+      background-position: center;
     }
   
-      
+    #overlay {
+      position: fixed;
+      /* display: none; */
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 2;
+      cursor: pointer;
+      text-align: center;
+    }
+  
+  
     .btn {
-      background-color: black;
+      background-color: transparent;
       border: 2px solid #ff9800;
       border-color: #ff9800;
       padding: 10px;
@@ -81,8 +94,7 @@
         background-color: red;
         color: white;
     }
-</style>
-
+  </style>
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
 	<script>
 		NProgress.configure({ showSpinner: false });
@@ -107,7 +119,8 @@
 					<ul class="nav sidebar-inner" id="sidebar-menu">
 
 
-						<li class="has-sub  ">
+
+						<li class="has-sub active expand">
 							<a class="sidenav-item-link" href="/sahyog/index/" >
 								<i class="mdi mdi-view-dashboard-outline"></i>
 								<span class="nav-text">Home</span>
@@ -153,12 +166,19 @@
 
 
 
-                        <li class="has-sub active">
+                        <li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/analytics" >
 								<i class="mdi mdi-chart-line"></i>
 								<span class="nav-text">Analytics</span>
 							</a>
 						</li>
+
+
+
+
+
+
+						
 
 
 
@@ -195,18 +215,18 @@
 
 
 
-		<div class="page-wrapper" style="background-color: #323232; ">
+		<div class="page-wrapper">
 			<!-- Header -->
 			<header class="main-header " id="header">
 				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
 					<!-- Sidebar toggle button -->
-					<button style="background-color: transparent; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
+					<button style="background-color: black; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
 						<span class="sr-only">Toggle navigation</span>
 					</button>
 					<!-- search form -->
 					<div class="search-form d-none d-lg-inline-block">
 						<div class="input-group">
-							
+
 						</div>
 						<div id="search-results-container">
 							<ul id="search-results"></ul>
@@ -215,94 +235,25 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+                            <a href="/sahyog/SOS/"  class="btn sos">SOS</a>
                             <a href="/sahyog/register/" class="btn btn-dark">Get Started</a>
+                      
+                            
 						</ul>
 					</div>
 				</nav>
 
 
 			</header>
-			<div class="content-wrapper"  >
-				<div class="content" >
-					<div class="row">
-
-
-						<div class="col-xl-8 col-md-12">
-							<div class="card card-default" data-scroll-height="675">
-								<div class="card-header justify-content-center">
-									<h2>Statewise Analysis</h2>
-								</div>
-								<div class="chart-container">
-									<canvas id="myChart"></canvas>
-
-								</div>
-								<a href="#" class="pb-5 d-block text-center text-muted"><i
-										class="mdi mdi-download mr-2"></i> Download overall report</a>
-								<div class="card-footer d-flex flex-wrap bg-white p-0">
-									<div class="col-6">
-										<div class="py-4 px-4">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #4c84ff"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #80e1c1 "></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-6 border-left">
-										<div class="py-4 px-4 ">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #8061ef"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #ffa128"></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- <div class="chart-container" style="position: relative; height:40vh; width:50vw;">
-			</div> -->
-						</div>
-						<div class="col-xl-4 col-md-12">
-							<!-- Doughnut Chart -->
-
-							<div class="card card-default" data-scroll-height="675">
-								<div class="card-header justify-content-center">
-									<h2>Crime Overview</h2>
-								</div>
-								<div class="card-body">
-									<canvas id="doChart"></canvas>
-								</div>
-								<a href="#" class="pb-5 d-block text-center text-muted"><i
-										class="mdi mdi-download mr-2"></i> Download overall report</a>
-								<div class="card-footer d-flex flex-wrap bg-white p-0">
-									<div class="col-6">
-										<div class="py-4 px-4">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #4c84ff"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #80e1c1 "></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-6 border-left">
-										<div class="py-4 px-4 ">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #8061ef"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #ffa128"></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
+			<div class="content-wrapper">
+				<div class="content">
+                    <div id="overlay">
+                        <img src="{% static 'map.svg' %}" style=" margin-top: 25vh; width: 130px; height: 150px;">
+                      
+                        <h1 style="color: white; font-family: Open Sans Light; font-size: 60px; ">Sahyog</h1><br>
+                        
+                      
+                      </div>
 				</div>
 			</div>
 		</div>
@@ -335,52 +286,7 @@
 		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
 
-		<script type="text/javascript">
-			Chart.defaults.global.defaultFontFamily = 'Roboto Slab';
-
-			window.onload = () => {
-				var ctx = document.getElementById('myChart').getContext('2d');
-				var myChart = new Chart(ctx, {
-					type: 'bar',
-					data: {
-						labels: ['Mumbai', 'Chennai', 'Delhi', 'Hyderabad', 'Kolkata', 'Ahemdabad'],
-						datasets: [{
-							label: 'No. of Crimes',
-							data: [120, 190, 300, 410, 150, 40],
-							backgroundColor: [
-								'rgba(255, 99, 132, 0.2)',
-								'rgba(54, 162, 235, 0.2)',
-								'rgba(255, 206, 86, 0.2)',
-								'rgba(75, 192, 192, 0.2)',
-								'rgba(153, 102, 255, 0.2)',
-								'rgba(255, 159, 64, 0.2)'
-							],
-							borderColor: [
-								'rgba(255, 99, 132, 1)',
-								'rgba(54, 162, 235, 1)',
-								'rgba(255, 206, 86, 1)',
-								'rgba(75, 192, 192, 1)',
-								'rgba(153, 102, 255, 1)',
-								'rgba(255, 159, 64, 1)'
-							],
-							borderWidth: 1
-						}]
-					},
-					options: {
-						title: {
-							display: true,
-							text: 'No. of Crimes in Cities',
-							fontStyle: 'bold',
-							fontSize: 25
-						},
-						legend: {
-							display: false,
-						}
-					}
-				});
-			};
-
-		</script>
+		
 </body>
 
 </html>

@@ -103,7 +103,8 @@ def SOS(request):
 
 
 
-
+def getstart(request):
+    return render(request,'UserViews/getstart.html')
 
 
 
@@ -112,13 +113,13 @@ def safey(request):
     if request.session.has_key('username'):
         return render(request, 'UserViews/safey.html')
     else:
-        return render(request,'UserViews/index.html')
+        return render(request,'UserViews/newindex.html')
 
 def report(request):
     if request.session.has_key('username'):
         return render(request, 'UserViews/report.html')
     else:
-        return render(request,'UserViews/index.html')
+        return render(request,'UserViews/newindex.html')
 
 
 
@@ -206,7 +207,7 @@ def index(request):
     if request.session.has_key('username'):
         return home(request,request.session['username'])
     else: 
-        return render(request, 'UserViews/index.html')
+        return render(request, 'UserViews/newindex.html')
 
 def reportCrime(request):
     if request.method == "POST":
