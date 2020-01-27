@@ -22,15 +22,18 @@ db = client.Sahyog
 locationDB = db.Location
 userDB = db.User
 
-class RegisterForm(UserCreationForm):
-    first_name = forms.CharField(required=True)
-    last_name = forms.CharField()
-    email = forms.EmailField(required=True, max_length=60)
-    phone_number = forms.CharField(required=True, max_length=13)
-    home_address = forms.CharField(required=True)
-    work_address = forms.CharField(required=True)
-    emergency_contact_1 = forms.CharField(required=True, max_length=13)
-    emergency_contact_2 = forms.CharField(required=True, max_length=13)
+class RegisterForm(orms.ModelForm):
+    username = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control", 'placeholder': "Username"}))
+    first_name = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control", }))
+    last_name = forms.CharField(widget=forms.TextInput(attrs={'class': "form-control"}))
+    email = forms.EmailField(required=True, max_length=60, widget=forms.TextInput(attrs={'class': "form-control"}))
+    password = forms.CharField(required=True, widget=forms.PasswordInput(attrs={'class': "form-control", 'placeholder': "Password"}))
+    phone_number = forms.CharField(required=True, max_length=13, widget=forms.TextInput(attrs={'class': "form-control"}))
+    home_address = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+    work_address = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_1 = forms.CharField(required=True, max_length=13, widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_2 = forms.CharField(required=True, max_length=13, widget=forms.TextInput(attrs={'class': "form-control"}))
+
 
     class Meta:
         model = User
@@ -39,8 +42,7 @@ class RegisterForm(UserCreationForm):
             'first_name',
             'last_name',
             'email',
-            'password1',
-            'password2',
+            'password',
             'phone_number',
             'home_address',
             'work_address',
@@ -48,9 +50,9 @@ class RegisterForm(UserCreationForm):
             'emergency_contact_2'
         )
 
-class LoginForm(forms.ModelForm):
-    username = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
-    password = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+class LoginForm(forms.f):
+    username = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control", 'placeholder': "Username"}))
+    password = forms.CharField(required=True, widget=forms.PasswordInput(attrs={'class': "form-control", 'placeholder': "Password"}))
     class Meta:
         model = User
         fields = ('username', 'password')
@@ -133,7 +135,7 @@ def register(request):
                 "fname": form.cleaned_data["first_name"],
                 "lname": form.cleaned_data["last_name"],
                 "email": form.cleaned_data["email"],
-                "password": form.cleaned_data["password2"],
+                "password": form.cleaned_data["password"],
                 "phone": '+91'+ form.cleaned_data["phone_number"],
                 "home": form.cleaned_data["home_address"],
                 "work": form.cleaned_data["work_address"],
