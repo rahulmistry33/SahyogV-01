@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'leaflet',
     'Users',
     'django_twilio',
-    'crispy_forms'
+    'crispy_forms',
     'adminarea',
 
 ]
