@@ -236,7 +236,7 @@
 
 
             if (typeof (EventSource) !== "undefined") {
-                var source = new EventSource("{% url 'random' %}");
+                var source = new EventSource("{% url 'SSE' %}");
 
                 source.onmessage = function (event) {
 
