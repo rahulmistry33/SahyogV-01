@@ -61,6 +61,7 @@ def sendSMS(to, body):
     response = client.messages.create(
     body=body, 
     to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
+
     
 # @describe: 6-digit random OTP generator function....
 def OTPGenerator():
@@ -76,8 +77,29 @@ def SOS(request):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         return render(request, 'UserViews/SOS.html')
-    else:
-        return render(request, 'UserViews/index.html')
+    return HttpResponse("hello")
+
+
+# def index(request):
+    # if request.method == "POST":
+    #     location = request.POST.get('location')
+    #     lat = request.POST.get('lat')
+    #     lng = request.POST.get('lng')
+    #     crimeType = request.POST.get('crimeType')
+    #     crimeLevel = request.POST.get('crimeLevel')
+    #     crimeDetails = request.POST.get('crimeDetails')
+    #     #print("lat :",lat,"lng :",lng)
+    #     #print('location: ',location)
+    #     load_dotenv()
+    #     location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails}
+    #     print(location)
+    #     users.insert_one(location)        
+    #     return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
+        
+
+    # else:
+    #     return render(request, 'UserViews/index.html')
+
 
 
 
@@ -191,11 +213,14 @@ def reportCrime(request):
         location = request.POST.get('location')
         lat = request.POST.get('lat')
         lng = request.POST.get('lng')
-        date = datetime.datetime.now()
-        crime_type = "theft"
-        severity = "2"
+        crimeType = request.POST.get('crimeType')
+        crimeLevel = request.POST.get('crimeLevel')
+        crimeDetails = request.POST.get('crimeDetails')
+        #print("lat :",lat,"lng :",lng)
+        #print('location: ',location)
         load_dotenv()
-        location = {"lat": lat, "lng": lng, "location": location, "date": date, "type": crime_type, "severity": severity}
+        location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails}
+        print(location)
         locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         

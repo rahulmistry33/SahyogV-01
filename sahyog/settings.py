@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'Users',
     'django_twilio',
     'crispy_forms'
+    'adminarea',
 
 ]
 
