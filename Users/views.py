@@ -94,7 +94,7 @@ def getstart(request):
 
 def index(request,username=None):
     if request.session.has_key('username'):
-         return render(request, 'UserViews/newindex.html',{"username":username})
+         return render(request, 'UserViews/newindex.html',{"username":request.session["username"]})
     else: 
         return render(request, 'UserViews/newindex.html',{"username":None})
 
@@ -103,7 +103,7 @@ def safey(request):
     if request.session.has_key('username'):
         return render(request, 'UserViews/safey.html',{"username":request.session["username"]})
     else:
-        return redirect(index,None)
+        return render(request, 'UserViews/safey.html',{"username":None})
 
 def report(request):
     if request.session.has_key('username'):
@@ -253,11 +253,11 @@ def validateCrime(request):
         if check == None:
             data = userDB.find({'username' :username})
             count = 0
-            for items in data:
-                fname = items['fname']
-                lname = items['lname']
-                email = items['email']
-                phone = items['phone']
+            # for items in data:
+                # fname = items['fname']
+                # lname = items['lname']
+                # email = items['email']
+                # phone = items['phone']
                 # count = items['count']
             # print(fname,lname,email,phone)
             temp = (locationDB.find({"location":location}))
@@ -303,7 +303,7 @@ def validateCrime(request):
             
             # for count in counts:
             #     count = count +1
-            validation = {"username" : username,"fname":fname,"lname":lname,"email":email,"phone":phone,"location":location}
+            validation = {"username" : username,"location":location}
             validateDB.insert_one(validation)
             return HttpResponse(json.dumps({'status':'You have successfully validated this crime.'}),content_type='application/json')
         else:
@@ -311,7 +311,7 @@ def validateCrime(request):
 
         
     else:
-        return render(request,'UserViews/validate.html')
+        return redirect(validate)
 
 
 
