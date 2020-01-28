@@ -3,6 +3,7 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<div class="container">
@@ -11,7 +12,7 @@
 
 		<form method="POST">
 			{% csrf_token %}
-			<div class="form-group">
+			<div class="form-group mx-auto">
 				<label for="OTP">OTP</label>
     			<input type="text" class="form-control" id="OTP" aria-describedby="otpHelp" placeholder="Enter OTP" name="otp">
     			<small id="otpHelp" class="form-text text-muted">Your OTP will expire in 3 minutes</small>

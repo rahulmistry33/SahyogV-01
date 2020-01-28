@@ -235,9 +235,13 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-                            <a href="/sahyog/SOS/"  class="btn sos">SOS</a>
-                            <a href="/sahyog/register/" class="btn btn-dark">Get Started</a>
-                      
+							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							{% if  username  %}
+							<a href="" class="btn btn-dark">{{username}}</a>
+							{% else %}
+                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
+							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
+							{% endif %}
                             
 						</ul>
 					</div>
