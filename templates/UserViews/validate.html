@@ -1,0 +1,290 @@
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+
+    <script
+        src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="{% static 'admin.css' %}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <title>Sahyog Administration</title>
+</head>
+<style type="text/css">
+ .modal-backdrop {
+        opacity: 0.5 !important;
+    }
+</style>
+<body>
+    <div id="mapid">
+
+    </div>
+    <!-- Modal to be populated on click -->
+<!-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h2 id="marker_title" class=""></h2>
+           <img id="marker_image" class="" src="" /> 
+          <p id="marker_latlng" class=""></p>
+          <address id="marker_address" class=""></address>
+          <p id="marker_content" class=""></p>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  
+<!-- The Modal -->
+<script type="text/javascript">
+    // $(window).on('load', function () {
+    //     $('#exampleModal').modal('show');
+    //     $('#exampleModal').modal({ backdrop: 'static', keyboard: false });
+    // });
+</script>
+<div class="modal " id="exampleModal" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title"></h3>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+
+            <!-- Modal body -->
+            <div class="modal-body" >
+                <h4 id="modal-body"></h4>
+               
+            </div>
+            <!-- Modal location -->
+            <div class="modal-location" >
+                <h4 id="modal-location"></h4>
+               
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <form id="validate" action="{% url 'validateCrime' %}" method="POST">
+                    {% csrf_token%}
+                    <input type="submit" value="Validate">
+
+                </form>
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+    <script>
+        var latlng;
+        var mymap;
+        var crimeLocation;
+        var coodsLat = [];
+        var coodsLng = [];
+        // Leaflet Colored Markers :D
+        // green colors
+        var greenIcon = new L.Icon({
+            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+            });
+        // red color
+        var redIcon = new L.Icon({
+            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+            });
+        
+        // blue colors
+        var blueIcon = new L.Icon({
+            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+            });
+        
+
+        navigator.geolocation.getCurrentPosition(function (location) {
+            latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
+            mymap = L.map('mapid').setView(latlng, 13)
+
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(mymap);
+            L.control.scale().addTo(mymap);
+
+
+            var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
+            var results = new L.LayerGroup().addTo(mymap);
+
+            searchControl.on('results', function (data) {
+                results.clearLayers();
+                for (var i = data.results.length - 1; i >= 0; i--) {
+                    results.addLayer(L.marker(data.results[i].latlng));
+                    // coodsLat.push(data.results[i].latlng.lat);
+                    // coodsLng.push(data.results[i].latlng.lng);
+                    console.log(data.results[i]);
+                    document.getElementById("location").value = data.results[i].text;
+                    crimeLocation = { "lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng }
+                }
+            });
+
+            L.marker(latlng).addTo(mymap);
+
+        });
+
+
+        if (typeof (EventSource) !== "undefined") {
+            var source = new EventSource("{% url 'SSE' %}");
+
+            source.onmessage = function (event) {
+
+                console.log((JSON.parse(event.data)));
+                JSON.parse(event.data).forEach((item, index) => {
+                    if (!coodsLat.includes(item.lat) && !coodsLng.includes(item.lng)) {
+                        console.log('nope');
+                        coodsLat.push(item.lat);
+                        coodsLng.push(item.lng);
+                        var temp = new L.LatLng(item.lat, item.lng);
+                        let details = item.crimeDetails;
+                        let type = item.crimeType;
+                        let location = item.location;
+                        // console.log(location);
+                        
+                        if(item.crimeLevel === "1"){
+                            var markers = L.marker(temp,{icon:blueIcon}).addTo(mymap);
+                            markers.on('click', function(e) {
+                            // Force close the popup.
+                            // e.layer.closePopup();
+                            $('#exampleModal').modal('show');
+
+                            // var feature = e.layer.feature;
+                            // var title = feature.properties.title;
+                            // var content = feature.properties.description;
+                            // var latlng = feature.geometry.coordinates;
+
+                            // Modal Content
+                            $("#modal-title").text(type);
+                            $("#modal-body").text(details);
+                            $("#modal-location").text(location);
+                            // $("#marker_latlng").text(formatLatLng(latlng));
+
+                            $('#exampleModal').modal('show');
+                            });
+                            // console.log(`<b>${type}</b><br>${details}.`);
+
+                        }
+                        else if(item.crimeLevel === "2"){
+                            var markers = L.marker(temp,{icon:greenIcon}).addTo(mymap);
+
+                            markers.on('click', function(e) {
+                            // Force close the popup.
+                            // e.layer.closePopup();
+                            $('#exampleModal').modal('show');
+
+                            // var feature = e.layer.feature;
+                            // var title = feature.properties.title;
+                            // var content = feature.properties.description;
+                            // var latlng = feature.geometry.coordinates;
+
+                            // Modal Content
+                            $("#modal-title").text(type);
+                            $("#modal-body").text(details);
+                            // $("#marker_latlng").text(formatLatLng(latlng));
+
+                            $('#exampleModal').modal('show');
+                            });
+                        }
+                        else if(item.crimeLevel === "3"){
+                           var markers = L.marker(temp,{icon:redIcon}).addTo(mymap);
+                           markers.on('click', function(e) {
+                            // Force close the popup.
+                            // e.layer.closePopup();
+                            $('#exampleModal').modal('show');
+
+                            // var feature = e.layer.feature;
+                            // var title = feature.properties.title;
+                            // var content = feature.properties.description;
+                            // var latlng = feature.geometry.coordinates;
+
+                            // Modal Content
+                            $("#modal-title").text(type);
+                            $("#modal-body").text(details);
+                            // $("#marker_latlng").text(formatLatLng(latlng));
+
+                            $('#exampleModal').modal('show');
+                            });
+
+
+                        }
+                        
+                        
+
+
+
+                    }
+
+                });
+
+            };
+        } else {
+            console.log("Error");
+        }
+        $(document).on('submit', '#validate', function (event) {
+                event.preventDefault();
+                var $form = $(this),
+                    url = $form.attr('action');
+                
+                var paramArr = $("#validate").serializeArray();
+
+                paramArr.push({ name: "Location", value: $("#modal-location").text()});
+                // alert( $("#modal-location").text());
+               
+                $.post(url, $.param(paramArr), function (result) {
+                    alert(result.status);
+                });
+                return false;
+            });
+        
+
+    
+
+    </script>
+
+<script src="{% static 'assets/js/jquery-1.10.2.js' %}"></script>
+<!-- Bootstrap Js -->
+<script src="{% static 'assets/js/bootstrap.min.js' %}"></script>
+
+<!-- Metis Menu Js -->
+<script src="{% static 'assets/js/jquery.metisMenu.js' %}"></script>
+</body>
+</html>
