@@ -21,6 +21,7 @@ db = client.Sahyog
 
 locationDB = db.Location
 userDB = db.User
+validateDB = db.Validate
 
 class RegisterForm(forms.ModelForm):
     phone_number = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
@@ -211,7 +212,7 @@ def reportCrime(request):
         #print("lat :",lat,"lng :",lng)
         #print('location: ',location)
         load_dotenv()
-        location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails}
+        location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails,"count":0}
         print(location)
         locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
@@ -236,6 +237,79 @@ def SSE(request):
         "data: "+locations+"\n\n",
         content_type='text/event-stream'
     )
+
+def validate(request):
+    return render(request,'UserViews/validate.html')
+
+
+def validateCrime(request):
+    if request.method == "POST":
+        username = request.session['username']
+        location = request.POST.get('Location')
+        check = validateDB.find_one({'username' :username,"location":location})
+        if check == None:
+            data = userDB.find({'username' :username})
+            count = 0
+            for items in data:
+                fname = items['fname']
+                lname = items['lname']
+                email = items['email']
+                phone = items['phone']
+                # count = items['count']
+            # print(fname,lname,email,phone)
+            temp = (locationDB.find({"location":location}))
+            count = 0
+            id = 0
+            lat = 0
+            lng = 0
+            location = 0
+            crimeType = 0
+            crimeDetails = 0
+            meranaam = ""
+
+
+            for temps in temp:
+                ids = temps['_id']
+                lat = temps['lat']
+                lng = temps['lng']
+                location = temps['location']
+                meranaam = location
+                crimeDetails = temps['crimeDetails']
+                crimeType = temps['crimeType']
+                count = temps['count']
+
+            count = count +1
+            printer_c_name = {
+                'location' : meranaam
+            }
+            printer_c_price_update={
+                '$set' : {
+                    'count': count
+                }
+            }
+            locationDB.update_one(printer_c_name,printer_c_price_update)
+            
+            # temp.update_one({'_id':ids,
+            #                 'lat':lat,
+            #                 'lng':lng,
+            #                 'location':location,
+            #                 'crimeType':crimeType,
+            #                 'crimeDetails':crimeDetails,
+            #                 'count':count}) 
+
+            
+            # for count in counts:
+            #     count = count +1
+            validation = {"username" : username,"fname":fname,"lname":lname,"email":email,"phone":phone,"location":location}
+            validateDB.insert_one(validation)
+            return HttpResponse(json.dumps({'status':'You have successfully validated this crime.'}),content_type='application/json')
+        else:
+            return HttpResponse(json.dumps({'status':'You have already validated this crime.'}),content_type='application/json')
+
+        
+    else:
+        return render(request,'UserViews/validate.html')
+
 
 
 
