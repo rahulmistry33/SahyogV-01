@@ -314,7 +314,7 @@
                         Crime Details
                     </div>
 
-                    <div class="panel-body" style="background-color: #ffaa00; padding: 20px;">
+                    <div class="panel-body" style="background-color: black; color: white; padding: 20px;">
 
                         <form id="reportcrime" action="{% url 'reportCrime' %}" method="POST">
                             {% csrf_token %}
@@ -345,16 +345,16 @@
                             <br><br>
                             <label for="crimeImage">Upload Crime Photo (Optional)</label><br>
                             <button class="btn btn-dark" type="button" name="crimeImage"
-                                style="background-color: black; color:white;">Choose File</button>
+                                style=" color:white;">Choose File</button>
                             <br><br>
 
                             <div class="form-group">
-                                <label for="crimeDetails">Additional Details (Optional)</label>
+                                <label style="color: white;" for="crimeDetails">Additional Details (Optional)</label>
                                 <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
                             </div>
                             <br>
                             <input type="submit" class="btn btn-dark"
-                                style="background-color: black; color:white; font-size: 20px; width: 300px;">
+                                style=" color:white; font-size: 20px; width: 300px;">
                         </form>
                     </div>
                 </div>

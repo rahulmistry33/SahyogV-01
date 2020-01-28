@@ -1,63 +1,301 @@
 {% load static %}
-<html lang="en">
+
+<!DOCTYPE html>
+<html>
+
 <head>
-    <meta charset="UTF-8">
+	<title>Sahyog</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<!-- GOOGLE FONTS -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
+		rel="stylesheet" />
+	<link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+
+	<!-- PLUGINS CSS STYLE -->
+	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
+
+	<!-- SLEEK CSS -->
+	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{% static 'style.css'%}"> 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-        crossorigin="" />
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
 
-    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-        crossorigin=""></script>
-    <script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+<script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
 
-    <script
-        src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
-    <link rel="stylesheet" type="text/css"
-        href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script
+    src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+<link rel="stylesheet" type="text/css"
+    href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-    <link rel="stylesheet" href="{% static 'admin.css' %}">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <title>Sahyog Administration</title>
+<link rel="stylesheet" href="{% static 'admin.css' %}">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<!-- ---------------------------------------------------- -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+<script src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+
+<script
+    src="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.js"></script>
+<link rel="stylesheet" type="text/css"
+    href="https://cdn-geoweb.s3.amazonaws.com/esri-leaflet-geocoder/0.0.1-beta.5/esri-leaflet-geocoder.css">
+<link rel="stylesheet" href="{% static 'styles.css'%}">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+	
 </head>
-<style type="text/css">
- .modal-backdrop {
+<style>
+    
+.modal-backdrop {
         opacity: 0.5 !important;
     }
-</style>
-<body>
+	.mdi {
+		color: #ffaa00 !important;
+	}
+    body,
+    html {
+      background: url("{% static 'india1.jpg' %}");
+      /* background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed; */
+      
+      background-position: center;
+    }
+  
+    #overlay {
+      position: fixed;
+      /* display: none; */
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 2;
+      cursor: pointer;
+      text-align: center;
+    }
+  
+  
+    .btn {
+      background-color: transparent;
+      border: 2px solid #ff9800;
+      border-color: #ff9800;
+      padding: 10px;
+      margin: 20px;
+      font-family: georgia;
+      border-radius: 10px;
+      /*margin-top: 50vh;*/
+      font-size: 20px;
+    }
+  
+    .btn:hover {
+      background-color: #ffc400;
+	  border-color: #ffc400;
+    }
+
+    .sos{
+        background-color: black;
+        border-color: red;
+        color: white;
+    }
+    .sos:hover{
+        background-color: red;
+        color: white;
+    }
+  </style>
+<body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
+	<script>
+		NProgress.configure({ showSpinner: false });
+		NProgress.start();
+	</script>
+
+	<div class="mobile-sticky-body-overlay"></div>
+	<div class="wrapper">
+		<aside class="left-sidebar bg-sidebar">
+			<div id="sidebar" class="sidebar sidebar-with-footer">
+				<!-- Aplication Brand -->
+				<div style="background-color: #ffaa00;" class="app-brand">
+					<a href="/index.html">
+
+						<span class="brand-name">Sahyog</span>
+					</a>
+				</div>
+				<!-- begin sidebar scrollbar -->
+				<div class="sidebar-scrollbar">
+
+					<!-- sidebar menu -->
+					<ul class="nav sidebar-inner" id="sidebar-menu">
+
+
+
+						<li class="has-sub  expand">
+							<a class="sidenav-item-link" href="/sahyog/index/" >
+								<i class="mdi mdi-view-dashboard-outline"></i>
+								<span class="nav-text">Home</span>
+							</a>
+
+						</li>
+
+
+
+
+						<li class="has-sub ">
+                            <a class="sidenav-item-link" href="/sahyog/report/" >
+                                <i class="mdi mdi-image-filter-none"></i>
+								
+								<span class="nav-text">Report</span>
+							</a>
+
+
+						</li>
+
+                        
+
+						<li class="has-sub active">
+							<a class="sidenav-item-link" href="" >
+								<i class="mdi mdi-check"></i>
+								<span class="nav-text">Validate</span>
+							</a>
+
+                        </li>
+
+					
+
+                        <li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/safey/">
+								<i class="mdi mdi-map-marker-multiple"></i>
+								<span class="nav-text">Safe Route</span>
+							</a>
+
+
+						</li>
+
+
+
+                        <li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/analytics" >
+								<i class="mdi mdi-chart-line"></i>
+								<span class="nav-text">Analytics</span>
+							</a>
+						</li>
+
+                        <li class="has-sub">
+                            <a class="sidenav-item-link"  href="/sahyog/logout">
+                                <i class="mdi mdi-logout"></i>
+                                    <span class="nav-text">Logout</span>
+                            </a>
+                            </li>
+
+
+                            
+
+						
+
+
+
+
+
+
+
+
+
+					</ul>
+
+				</div>
+
+				<hr class="separator" />
+
+				<div class="sidebar-footer">
+					<div class="sidebar-footer-content">
+						<h6 class="text-uppercase">
+							Cases Closed <span class="float-right">72%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar active" style="width: 72%;" role="progressbar"></div>
+						</div>
+						<h6 class="text-uppercase">
+							Crimes Validated<span class="float-right">65%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar progress-bar-warning" style="width: 65%;" role="progressbar"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
+
+
+
+		<div class="page-wrapper">
+			<!-- Header -->
+			<header class="main-header " id="header">
+				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
+					<!-- Sidebar toggle button -->
+					<button style="background-color: black; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
+						<span class="sr-only">Toggle navigation</span>
+					</button>
+					<!-- search form -->
+					<div class="search-form d-none d-lg-inline-block">
+						<div class="input-group">
+
+						</div>
+						<!-- <div id="search-results-container">
+							<ul id="search-results"></ul>
+						</div> -->
+					</div>
+
+					<div class="navbar-right ">
+						<ul class="nav navbar-nav">
+                            <a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							<!-- <a href="/sahyog/register/" class="btn btn-dark">Register</a> -->
+							<a href="" class="btn btn-dark">{{username}}</a>
+                      
+                            
+						</ul>
+					</div>
+				</nav>
+
+
+			</header>
+			<div class="content-wrapper">
+				<div class="content">
     <div id="mapid">
 
     </div>
-    <!-- Modal to be populated on click -->
-<!-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-body">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h2 id="marker_title" class=""></h2>
-           <img id="marker_image" class="" src="" /> 
-          <p id="marker_latlng" class=""></p>
-          <address id="marker_address" class=""></address>
-          <p id="marker_content" class=""></p>
-        </div>
-      </div>
-    </div>
-  </div> -->
+    
   
-<!-- The Modal -->
-<script type="text/javascript">
-    // $(window).on('load', function () {
-    //     $('#exampleModal').modal('show');
-    //     $('#exampleModal').modal({ backdrop: 'static', keyboard: false });
-    // });
-</script>
+
 <div class="modal " id="exampleModal" data-backdrop="static" data-keyboard="false">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -93,6 +331,13 @@
         </div>
     </div>
 </div>
+</div>
+</div>
+</div>
+</div>
+
+
+
 
 
     <script>

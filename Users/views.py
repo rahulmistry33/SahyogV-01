@@ -239,7 +239,10 @@ def SSE(request):
     )
 
 def validate(request):
-    return render(request,'UserViews/validate.html')
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/validate.html',{"username":request.session["username"]})
+    else:
+        return redirect(index,None)
 
 
 def validateCrime(request):
