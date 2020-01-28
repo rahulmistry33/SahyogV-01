@@ -222,7 +222,11 @@ def reportCrime(request):
 # Analyse statistics dashboard...
 def analytics(request):
     locations = list(locationDB.find({"severity": "2"}))
-    return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations), "username": request.session['username']})
+    else:
+        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
+    
 
 # A function for server sent events.... 
 # @describe: Add new markers dynamically on to map, without refreshing page...

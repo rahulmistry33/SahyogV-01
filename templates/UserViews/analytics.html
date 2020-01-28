@@ -160,6 +160,12 @@
 							</a>
 						</li>
 
+						<li class="has-sub">
+							<a class="sidenav-item-link"  href="/sahyog/logout">
+								<i class="mdi mdi-logout"></i>
+									<span class="nav-text">Logout</span>
+							</a>
+							</li>
 
 
 
@@ -216,8 +222,12 @@
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
 							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							{% if  username  %}
+							<a href="" class="btn btn-dark">{{username}}</a>
+							{% else %}
                             <a href="/sahyog/register/" class="btn btn-dark">Register</a>
 							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
+							{% endif %}
 						</ul>
 					</div>
 				</nav>
