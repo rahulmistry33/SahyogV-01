@@ -1,5 +1,4 @@
 {% load static %}
-
 <!DOCTYPE html>
 <html>
 
@@ -75,7 +74,7 @@
       border: 2px solid #ff9800;
       border-color: #ff9800;
       padding: 10px;
-      margin: 20px;
+      margin: 10px;
       font-family: georgia;
       border-radius: 10px;
       /*margin-top: 50vh;*/
@@ -84,7 +83,6 @@
   
     .btn:hover {
       background-color: #ffc400;
-	  border-color: #ffc400;
     }
 
     .sos{
@@ -175,14 +173,14 @@
 							</a>
 						</li>
 
+
+
 						<li class="has-sub">
 							<a class="sidenav-item-link"  href="/sahyog/logout">
 								<i class="mdi mdi-logout"></i>
 									<span class="nav-text">Logout</span>
 							</a>
 							</li>
-
-
 
 
 						
@@ -242,10 +240,13 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-                            <a href="/sahyog/SOS/"  class="btn sos">SOS</a>
-							<!-- <a href="/sahyog/register/" class="btn btn-dark">Register</a> -->
+							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							{% if  username  %}
+							<a href="" class="btn btn-dark">{{username}}</a>
+							{% else %}
+                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
 							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
-                      
+							{% endif %}
                             
 						</ul>
 					</div>
@@ -256,70 +257,45 @@
 			<div class="content-wrapper">
 				<div class="content">
                     <div id="overlay">
-						<div  class="row justify-content-center h-100">
-							<div  class="col-md-5 my-auto">
-							  <div class="card">
-								
-								<div class="card-body">
-					
-								  <h4 class="text-dark mb-5">Register</h4>
-								  <form method="POST" class="form-group">
-									{% csrf_token %}
-									<div class="form-group">
-										<label for="id_username">Phone Number</label>
-										{{form.phone_number}}
-									</div>
-									<div class="form-group">
-										<label for="id_password">Password</label>
-										{{form.password1}}
-									</div>
-									<br>
-									<button type="submit" class="btn btn-dark"
-								style="color: black; font-size: 20px;">Register</button>
-								  </form>
-								</div>
-							  </div>
-							</div>
-						  </div>
-						 
-		<!-- row close -->
-	</div>
- 
-</div>
-</div>
-</div>
-</div>
+                        <img src="{% static 'map.svg' %}" style=" margin-top: 25vh; width: 130px; height: 150px;">
+                      
+                        <h1 style="color: white; font-family: Open Sans Light; font-size: 60px; ">Sahyog</h1><br>
+                        
+                      
+                      </div>
+				</div>
+			</div>
+		</div>
 
 
 
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCn8TFXGg17HAUcNpkwtxxyT9Io9B_NcM"
+			defer></script>
+		<script src="{% static 'assets-analytics/plugins/jquery/jquery.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/toaster/toastr.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/slimscrollbar/jquery.slimscroll.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/charts/Chart.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/ladda/spin.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/ladda/ladda.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jquery-mask-input/jquery.mask.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/select2/js/select2.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-world-mill.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/daterangepicker/moment.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.js'%}"></script>
+		<script src="{% static 'assets-analytics/plugins/jekyll-search.min.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/sleek.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/chart.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
+		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
 
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCn8TFXGg17HAUcNpkwtxxyT9Io9B_NcM"
-defer></script>
-<script src="{% static 'assets-analytics/plugins/jquery/jquery.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/toaster/toastr.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/slimscrollbar/jquery.slimscroll.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/charts/Chart.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/ladda/spin.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/ladda/ladda.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jquery-mask-input/jquery.mask.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/select2/js/select2.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-world-mill.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/daterangepicker/moment.min.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.js'%}"></script>
-<script src="{% static 'assets-analytics/plugins/jekyll-search.min.js'%}"></script>
-<script src="{% static 'assets-analytics/js/sleek.js'%}"></script>
-<script src="{% static 'assets-analytics/js/chart.js'%}"></script>
-<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
-<script src="{% static 'assets-analytics/js/map.js'%}"></script>
-<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
-
-
+		
 </body>
 
 </html>

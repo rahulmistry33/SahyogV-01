@@ -18,7 +18,7 @@
 	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
-
+	
 	<!-- SLEEK CSS -->
 	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
 
@@ -35,6 +35,7 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
+	
 
 	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
@@ -42,6 +43,44 @@
 	.mdi {
 		color: #ffaa00 !important;
 	}
+	.page-wrapper {
+      background: url("{% static 'india1.jpg' %}");
+      /* background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed; */
+      
+	  background-position: center;
+	  /* overflow: hidden;
+	  margin: 0;
+	  height: 100%; */
+    }
+  
+      
+    .btn {
+      background-color: black;
+      border: 2px solid #ff9800;
+      border-color: #ff9800;
+      padding: 10px;
+      margin: 20px;
+      font-family: georgia;
+      border-radius: 10px;
+      /*margin-top: 50vh;*/
+      font-size: 20px;
+    }
+  
+    .btn:hover {
+      background-color: #ffc400;
+    }
+
+    .sos{
+        background-color: black;
+        border-color: red;
+        color: white;
+    }
+    .sos:hover{
+        background-color: red;
+        color: white;
+    }
 </style>
 
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
@@ -68,12 +107,10 @@
 					<ul class="nav sidebar-inner" id="sidebar-menu">
 
 
-
-						<li class="has-sub active expand">
-							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
-								data-target="#dashboard" aria-expanded="false" aria-controls="dashboard">
+						<li class="has-sub  ">
+							<a class="sidenav-item-link" href="/sahyog/index/" >
 								<i class="mdi mdi-view-dashboard-outline"></i>
-								<span class="nav-text">Dashboard</span>
+								<span class="nav-text">Home</span>
 							</a>
 
 						</li>
@@ -81,25 +118,11 @@
 
 
 
-
 						<li class="has-sub">
-							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
-								data-target="#ui-elements" aria-expanded="false" aria-controls="ui-elements">
-								<i class="mdi mdi-folder-multiple-outline"></i>
-								<span class="nav-text">Crime-wise Ananlysis</span>
-							</a>
-						</li>
-
-
-
-
-
-
-						<li class="has-sub">
-							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
-								data-target="#charts" aria-expanded="false" aria-controls="charts">
-								<i class="mdi mdi-chart-pie"></i>
-								<span class="nav-text">State-wise Analysis</span>
+                            <a class="sidenav-item-link" href="/sahyog/report/" >
+                                <i class="mdi mdi-image-filter-none"></i>
+								
+								<span class="nav-text">Report</span>
 							</a>
 
 
@@ -110,28 +133,39 @@
 
 
 						<li class="has-sub">
-							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
-								data-target="#pages" aria-expanded="false" aria-controls="pages">
-								<i class="mdi mdi-image-filter-none"></i>
-								<span class="nav-text">Demographic Analysis</span>
+							<a class="sidenav-item-link" href="/sahyog/validate/" >
+								<i class="mdi mdi-check"></i>
+								<span class="nav-text">Validate</span>
 							</a>
+
+                        </li>
+
+					
+
+                        <li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/safey/">
+								<i class="mdi mdi-map-marker-multiple"></i>
+								<span class="nav-text">Safe Route</span>
+							</a>
+
 
 						</li>
 
 
 
-
+                        <li class="has-sub active">
+							<a class="sidenav-item-link" href="/sahyog/analytics" >
+								<i class="mdi mdi-chart-line"></i>
+								<span class="nav-text">Analytics</span>
+							</a>
+						</li>
 
 						<li class="has-sub">
-							<a class="sidenav-item-link" href="javascript:void(0)" data-toggle="collapse"
-								data-target="#documentation" aria-expanded="false" aria-controls="documentation">
-								<i class="mdi mdi-book-open-page-variant"></i>
-								<span class="nav-text">Instrumental Factors</span>
+							<a class="sidenav-item-link"  href="/sahyog/logout">
+								<i class="mdi mdi-logout"></i>
+									<span class="nav-text">Logout</span>
 							</a>
-
-
-						</li>
-
+							</li>
 
 
 
@@ -167,22 +201,18 @@
 
 
 
-		<div class="page-wrapper">
+		<div class="page-wrapper" style="background-color: #323232; ">
 			<!-- Header -->
 			<header class="main-header " id="header">
-				<nav class="navbar navbar-static-top navbar-expand-lg">
+				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
 					<!-- Sidebar toggle button -->
-					<button id="sidebar-toggler" class="sidebar-toggle">
+					<button style="background-color: transparent; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
 						<span class="sr-only">Toggle navigation</span>
 					</button>
 					<!-- search form -->
 					<div class="search-form d-none d-lg-inline-block">
 						<div class="input-group">
-							<!-- <button type="button" name="search" id="search-btn" class="btn btn-flat">
-			<i class="mdi mdi-magnify"></i>
-		  </button> -->
-							<!-- <input type="text" name="query" id="search-input" class="form-control" placeholder="'button', 'chart' etc."
-			autofocus autocomplete="off" /> -->
+							
 						</div>
 						<div id="search-results-container">
 							<ul id="search-results"></ul>
@@ -191,15 +221,21 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-
+							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							{% if  username  %}
+							<a href="" class="btn btn-dark">{{username}}</a>
+							{% else %}
+                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
+							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
+							{% endif %}
 						</ul>
 					</div>
 				</nav>
 
 
 			</header>
-			<div class="content-wrapper">
-				<div class="content">
+			<div class="content-wrapper"  >
+				<div class="content" >
 					<div class="row">
 
 
