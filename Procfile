@@ -1,4 +1,3 @@
-web: gunicorn sahyog.wsgi
-web: gunicorn Users:app
-web: gunicorn adminarea:app
+web: gunicorn sahyog.wsgi --log-file -
+
 
