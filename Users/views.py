@@ -4,6 +4,7 @@ import json
 from django.http import JsonResponse
 from django.http import HttpResponse
 import datetime
+from . import make_call2
 from bson.json_util import dumps
 import pymongo
 import dns
@@ -70,27 +71,34 @@ def OTPGenerator():
     return OTP 
 
 # @describe: Send an SOS emergency message to users' emergency contacts....
-def sendSOS(request):
+def SOS(request):
     if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-        lat = request.POST.get('lat')
-        lon = request.POST.get('lon')
-           
+        print(make_call2.makeCall())
+        lat = request.POST.get('address')       
+
         load_dotenv()
-        place = "Village Road Nahur Police Station"
+        place = "Vidyavihar Police Station"
         api_key = os.getenv("GOOGLE_APPLICATION_CREDENTIALS") #for getting api key of places API
 
         place_detail = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key={}'.format(place,api_key)).content
         place_detail = json.loads(place_detail)
     
  
+        print(place_detail['candidates'][0])
+        print(place_detail['candidates'][0]['formatted_address'])
+        print(place_detail['candidates'][0]['geometry']['location']['lat'])
+        print(place_detail['candidates'][0]['geometry']['location']['lng'])        
+        print(place_detail['candidates'][0]['name'])
+    
+        print(place_detail['candidates'][0]['opening_hours']['open_now'])
+        print(place_detail['candidates'][0]['rating'])
+        #print("lalala: " +place_detail['candidates'][0]['formatted_address'])
 
-        print(place_detail)
 
 
-
-        return render(request, 'UserViews/SOS.html')
+        return render(request, 'UserViews/SOS.html',{"address":place_detail['candidates'][0]['formatted_address'],"lat":place_detail['candidates'][0]['geometry']['location']['lat'],"lng":place_detail['candidates'][0]['geometry']['location']['lng'],"name":place_detail['candidates'][0]['name'],"isOpen":place_detail['candidates'][0]['opening_hours']['open_now'],"rating":place_detail['candidates'][0]['rating']})
     return HttpResponse("hello")
 
 
