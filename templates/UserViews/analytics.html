@@ -351,29 +351,17 @@
 
 			window.onload = () => {
 				var ctx = document.getElementById('myChart').getContext('2d');
-				var myChart = new Chart(ctx, {
-					type: 'bar',
+				var myDoughnutChart = new Chart(ctx, {
+					type: 'pie',
 					data: {
-						labels: ['Mumbai', 'Chennai', 'Delhi', 'Hyderabad', 'Kolkata', 'Ahemdabad'],
+						labels: ['Murder','Rape','Robbery','Kidnapping','Riot','Theft','Dacoity','Burglary'],
 						datasets: [{
-							label: 'No. of Crimes',
-							data: [120, 190, 300, 410, 150, 40],
-							backgroundColor: [
-								'rgba(255, 99, 132, 0.2)',
-								'rgba(54, 162, 235, 0.2)',
-								'rgba(255, 206, 86, 0.2)',
-								'rgba(75, 192, 192, 0.2)',
-								'rgba(153, 102, 255, 0.2)',
-								'rgba(255, 159, 64, 0.2)'
-							],
-							borderColor: [
-								'rgba(255, 99, 132, 1)',
-								'rgba(54, 162, 235, 1)',
-								'rgba(255, 206, 86, 1)',
-								'rgba(75, 192, 192, 1)',
-								'rgba(153, 102, 255, 1)',
-								'rgba(255, 159, 64, 1)'
-							],
+							label: 'No. of Crimes across Maharashtra',
+							data: [2515, 3063, 9746, 2640, 9610, 52670, 833, 18328],
+							backgroundColor: ['#E0743E','#2A6592','#D01BF4','#39AA58', '#FBBF11', '#109BF8', '#7E9A9A', '#A44599'],
+							// borderColor: ['bc5d2d','0e75ba','b70eba'],
+							borderAlign: 'inner',
+							// hoverBorderColor: ['9b4920','095487','8c098e'],
 							borderWidth: 1
 						}]
 					},
@@ -383,11 +371,8 @@
 							text: 'No. of Crimes in Cities',
 							fontStyle: 'bold',
 							fontSize: 25
-						},
-						legend: {
-							display: false,
 						}
-					}
+					} 
 				});
 			};
 
