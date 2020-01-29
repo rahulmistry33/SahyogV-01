@@ -237,8 +237,10 @@ def analytics(request):
 # @describe: Add new markers dynamically on to map, without refreshing page...
 def SSE(request):
     locations = dumps(locationDB.find())
+    # validators = dumps(validateDB.find())
     return HttpResponse(
         "data: "+locations+"\n\n",
+        
         content_type='text/event-stream'
     )
 
