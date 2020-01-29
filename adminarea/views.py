@@ -31,6 +31,10 @@ def admindashboard(request):
 def validators(request):
     return render(request,'adminarea/validators.html')
 
+
+def status(request):
+    return render(request,'adminarea/status.html')
+    
 # def validators(request):
 #     if request.method == "POST":
 #         print("POST HITTED")
