@@ -266,12 +266,28 @@
 								  <form method="POST" class="form-group">
 									{% csrf_token %}
 									<div class="form-group">
+										<label for="id_username">Name</label>
+										{{form.name}}
+									</div>
+									<div class="form-group">
 										<label for="id_username">Phone Number</label>
 										{{form.phone_number}}
 									</div>
 									<div class="form-group">
+										<label for="id_username">Email</label>
+										{{form.email}}
+									</div>
+									<div class="form-group">
 										<label for="id_password">Password</label>
 										{{form.password1}}
+									</div>
+									<div class="form-group">
+										<label for="id_password">Emergency Contact 1</label>
+										{{form.emergency_contact_1}}
+									</div>
+									<div class="form-group">
+										<label for="id_password">Emergency Contact 2</label>
+										{{form.emergency_contact_2}}
 									</div>
 									<br>
 									<button type="submit" class="btn btn-dark"
