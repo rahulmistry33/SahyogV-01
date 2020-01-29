@@ -76,11 +76,68 @@
         <a href="#" class="greyicon"><i class="fa fa-youtube"></i></a> -->
     </div>
     <div class="content">
-
-        <div id="map"></div>
+        <select id="mySelect" onchange="myFunc()">
+            <option value="Maharashtra">Maharashtra</option>
+            <option value="Chandigarh">Chandigarh</option>
+            <!-- <option value="DelhiUT">Delhi</option> -->
+            <option value="WestBengal">WestBengal</option>
+        </select>
+        <div id="mapBody"></div>
 
         <script>
 
+            function myFunc() {
+                var x = document.getElementById("mySelect").value;
+                if(x=="Maharashtra"){
+                    lat=19.7515;
+                    long=75.7139;
+                }
+                else if(x=="WestBengal"){
+                    lat=22.9868;
+                    long=87.8550;
+                }
+                else if(x=="DelhiUT"){
+                    lat=28.7041;
+                    long=77.1025;
+                }
+                else if(x=="Chandigarh"){
+                    lat=30.7333;
+                    long=76.7794;
+                }
+                document.getElementById('mapBody').innerHTML = "<div id='map' style='width: 100%; height: 100%;'></div>";
+
+                var map = L.map('map').setView(new L.LatLng(lat, long), 13);
+
+            // load a tile layer
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(map);
+
+            var latLon = L.latLng(lat, long);
+            var bounds = latLon.toBounds(1000000); // 500 = metres
+            map.panTo(latLon).fitBounds(bounds);
+            map.panBy([100, 800])
+
+
+            var temp = new L.LatLng(lat,long);
+            var markers = L.marker(temp).addTo(map);
+
+            $.getJSON("crimeData"+x+".geojson", function (data) {
+                var locations = data.features.map(function (rat) {
+                    
+                    var location = rat.geometry.coordinates.reverse();
+
+                    location.push(parseInt(rat.crime.womenAssault * 5));
+                    return location; 
+                });
+                var heat = L.heatLayer(locations, { radius: 20 });
+                map.addLayer(heat);
+
+            });
+
+         }//func-end
+            document.getElementById('mapBody').innerHTML = "<div id='map' style='width: 100%; height: 100%;'></div>";
             // initialize the map
             var map = L.map('map').setView(new L.LatLng(19.7515, 75.7139), 13);
 
@@ -101,13 +158,12 @@
 
             $.getJSON("crimeDataMaharashtra.geojson", function (data) {
                 var locations = data.features.map(function (rat) {
-                    // the heatmap plugin wants an array of each location
+                    
                     var location = rat.geometry.coordinates.reverse();
 
                     location.push(parseInt(rat.crime.womenAssault * 5));
-                    return location; // e.g. [50.5, 30.5, 0.2], // lat, lng, intensity
+                    return location; 
                 });
-                //locations= [[19.2183,72.9781,100],[19.1726,72.9425,100]];
                 var heat = L.heatLayer(locations, { radius: 20 });
                 map.addLayer(heat);
 
