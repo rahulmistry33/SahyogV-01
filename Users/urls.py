@@ -8,7 +8,7 @@ urlpatterns = [
     path('index/',views.index, name='index'),
     path('report/',views.report, name='report'),
     path('SSE/', views.SSE, name='SSE'),
-    path('SOS/', views.SOS, name='SOS'),
+    path('SOS/', views.SOS, name='sendSOS'),
     path('register/', views.register, name='register'),
     # path('dashboard/<username>', views.dashboard, name='dashboard'),
     path('logout/', views.logout, name='logout'),
@@ -27,10 +27,4 @@ urlpatterns = [
 
     path('validate/',views.validate,name="validate"),
     path('validateCrime/',views.validateCrime,name="validateCrime"),
-
-
-
-
-    
-
 ]
