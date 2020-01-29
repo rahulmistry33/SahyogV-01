@@ -233,8 +233,10 @@ def analytics(request):
 # @describe: Add new markers dynamically on to map, without refreshing page...
 def SSE(request):
     locations = dumps(locationDB.find())
+    # validators = dumps(validateDB.find())
     return HttpResponse(
         "data: "+locations+"\n\n",
+        
         content_type='text/event-stream'
     )
 
@@ -245,6 +247,7 @@ def validate(request):
         return redirect(index,None)
 
 
+
 def validateCrime(request):
     if request.method == "POST":
         username = request.session['username']
@@ -253,11 +256,13 @@ def validateCrime(request):
         if check == None:
             data = userDB.find({'username' :username})
             count = 0
+
             # for items in data:
                 # fname = items['fname']
                 # lname = items['lname']
                 # email = items['email']
                 # phone = items['phone']
+
                 # count = items['count']
             # print(fname,lname,email,phone)
             temp = (locationDB.find({"location":location}))
@@ -303,7 +308,11 @@ def validateCrime(request):
             
             # for count in counts:
             #     count = count +1
+
             validation = {"username" : username,"location":location}
+
+            # validation = {"username" : username,"fname":fname,"lname":lname,"email":email,"phone":phone,"location":location}
+ 
             validateDB.insert_one(validation)
             return HttpResponse(json.dumps({'status':'You have successfully validated this crime.'}),content_type='application/json')
         else:
@@ -312,6 +321,7 @@ def validateCrime(request):
         
     else:
         return redirect(validate)
+
 
 
 

@@ -20,8 +20,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <link rel="stylesheet" href="{% static 'admin.css' %}">
+    <link rel="stylesheet" href="{% static 'scripts/csrf.js' %}">
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <title>Sahyog Administration</title>
@@ -68,17 +70,29 @@
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
 
+
             <!-- Modal body -->
             <div class="modal-body" >
                 <h4 id="modal-body"></h4>
                
             </div>
+            <!-- Modal location -->
+            <div class="modal-location" >
+                <h4 id="modal-location"></h4>
+               
+            </div>
+            
 
             <!-- Modal footer -->
             <div class="modal-footer">
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+                <form id="validators" action="{% url 'validators' %}"  method="POST">{% csrf_token %}
+                        
+                    <input type="submit" value="View Validators">
+                </form>
             </div>
+            
 
         </div>
     </div>
@@ -140,8 +154,8 @@
                 results.clearLayers();
                 for (var i = data.results.length - 1; i >= 0; i--) {
                     results.addLayer(L.marker(data.results[i].latlng));
-                    coodsLat.push(data.results[i].latlng.lat);
-                    coodsLng.push(data.results[i].latlng.lng);
+                    // coodsLat.push(data.results[i].latlng.lat);
+                    // coodsLng.push(data.results[i].latlng.lng);
                     console.log(data.results[i]);
                     document.getElementById("location").value = data.results[i].text;
                     crimeLocation = { "lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng }
@@ -167,7 +181,9 @@
                         var temp = new L.LatLng(item.lat, item.lng);
                         let details = item.crimeDetails;
                         let type = item.crimeType;
+                        let location = item.location;
                         
+                        // console.log(location);
                         
                         if(item.crimeLevel === "1"){
                             var markers = L.marker(temp,{icon:blueIcon}).addTo(mymap);
@@ -184,7 +200,9 @@
                             // Modal Content
                             $("#modal-title").text(type);
                             $("#modal-body").text(details);
+                            $("#modal-location").text(location);
                             // $("#marker_latlng").text(formatLatLng(latlng));
+                            
 
                             $('#exampleModal').modal('show');
                             });
@@ -247,8 +265,28 @@
         } else {
             console.log("Error");
         }
+        $(document).on('submit', '#validators', function (event) {
+                // "{% csrf_token %}"
+                event.preventDefault();
+                var $form = $(this),
+                    url = $form.attr('action');
+                
+                var paramArr = $("#validators").serializeArray();
+                console.log({ name: "Location", value: $("#modal-location").text()});
 
+                paramArr.push({ name: "Location", value: $("#modal-location").text()});
+                
+                // alert( $("#modal-location").text());
+                console.log({ name: "Location", value: $("#modal-location").text()})
+               
+                $.post(url, $.param(paramArr), function (result) {
+                    // alert(result.status);
+                });
+                return false;
+            });
         
+
+    
 
     </script>
 

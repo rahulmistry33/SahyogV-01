@@ -24,8 +24,10 @@ urlpatterns = [
     #path('report/', views.report,name="report"),
     path('reportCrime/', views.reportCrime,name="reportCrime"),
 
+
     path('validate/',views.validate,name="validate"),
     path('validateCrime/',views.validateCrime,name="validateCrime"),
+
 
 
 
