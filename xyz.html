@@ -76,6 +76,18 @@
         <a href="#" class="greyicon"><i class="fa fa-youtube"></i></a> -->
     </div>
     <div class="content">
+        <select id="mySelect2" onchange="myFunc()">
+            <option value="murder">Murder</option>
+            <option value="homicide">Homicide</option>
+            <option value="womenAssault">Assault on Women</option>
+            <option value="rape">Rape</option>
+            <option value="kidnapping">Kidnapping</option>
+            <option value="dacoity">Dacoity</option>
+            <option value="robbery">Robbery</option>
+            <option value="burglary">Burglary</option>
+            <option value="vehicleTheft">Vehicle Theft</option>
+            <option value="riots">Riots</option>
+        </select>
         <select id="mySelect" onchange="myFunc()">
             <option value="Maharashtra">Maharashtra</option>
             <option value="Chandigarh">Chandigarh</option>
@@ -88,6 +100,7 @@
 
             function myFunc() {
                 var x = document.getElementById("mySelect").value;
+                var y = document.getElementById("mySelect2").value;
                 if(x=="Maharashtra"){
                     lat=19.7515;
                     long=75.7139;
@@ -128,7 +141,48 @@
                     
                     var location = rat.geometry.coordinates.reverse();
 
-                    location.push(parseInt(rat.crime.womenAssault * 5));
+                    switch(y){
+                        case 'womenAssault':
+                        location.push(parseInt(rat.crime.womenAssault * 1));
+                        break;
+
+                        case 'murder':
+                        location.push(parseInt(rat.crime.murder * 1));
+                        break;
+
+                        case 'homicide':
+                        location.push(parseInt(rat.crime.homicide * 1));
+                        break;
+
+                        case 'rape':
+                        location.push(parseInt(rat.crime.rape * 1));
+                        break;
+
+                        case 'kidnapping':
+                        location.push(parseInt(rat.crime.kidnapping * 1));
+                        break;
+
+                        case 'dacoity':
+                        location.push(parseInt(rat.crime.dacoity * 1));
+                        break;
+
+                        case 'robbery':
+                        location.push(parseInt(rat.crime.robbery* 1));
+                        break;
+
+                        case 'burglary':
+                        location.push(parseInt(rat.crime.burglary * 1));
+                        break;
+
+                        case 'vehicleTheft':
+                        location.push(parseInt(rat.crime.vehicleTheft * 1));
+                        break;
+
+                        case 'riots':
+                        location.push(parseInt(rat.crime.riots * 1));
+                        break;
+                    }
+                    
                     return location; 
                 });
                 var heat = L.heatLayer(locations, { radius: 20 });
@@ -161,7 +215,7 @@
                     
                     var location = rat.geometry.coordinates.reverse();
 
-                    location.push(parseInt(rat.crime.womenAssault * 5));
+                    location.push(parseInt(rat.crime.murder * 5));
                     return location; 
                 });
                 var heat = L.heatLayer(locations, { radius: 20 });

@@ -1,20 +1,355 @@
-<html lang="en">
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
 <head>
-    <meta charset="UTF-8">
+	<title>Sahyog</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<!-- GOOGLE FONTS -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
+		rel="stylesheet" />
+	<link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+
+	<!-- PLUGINS CSS STYLE -->
+	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
+
+	<!-- SLEEK CSS -->
+	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Validators</title>
+    <link rel="stylesheet" href="{% static 'style.css'%}"> 
+	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
+
+	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
-<body>
-    lol
- 
-    {% for dict_item in validations %}
-    lol2
-   {% for key, value in dict_item.items %}
-      <h1>Key: {{key}}</h1>
-      <h2>Value: {{value}}</h2>
-   {% endfor %}
-{% endfor %}
-   
+<style>
+	.mdi {
+		color: #ffaa00 !important;
+	}
+    body,
+    html {
+      background: url("{% static 'india1.jpg' %}");
+      /* background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed; */
+      
+      background-position: center;
+    }
+  
+    #overlay {
+      position: fixed;
+      /* display: none; */
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 2;
+      cursor: pointer;
+      text-align: center;
+    }
+  
+  
+    .btn {
+      background-color: transparent;
+      border: 2px solid #ff9800;
+      border-color: #ff9800;
+      padding: 10px;
+      color: black;
+      margin: 20px;
+      font-family: georgia;
+      border-radius: 10px;
+      /*margin-top: 50vh;*/
+      font-size: 20px;
+    }
+  
+    .btn:hover {
+      background-color: #ffc400;
+	  border-color: #ffc400;
+    }
+
+    .sos{
+        background-color: black;
+        border-color: red;
+        color: white;
+    }
+    .sos:hover{
+        background-color: red;
+        color: white;
+    }
+    p{
+        font-size: 20px;
+    }
+  </style>
+<body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
+	<script>
+		NProgress.configure({ showSpinner: false });
+		NProgress.start();
+	</script>
+
+	<div class="mobile-sticky-body-overlay"></div>
+	<div class="wrapper">
+		<aside class="left-sidebar bg-sidebar">
+			<div id="sidebar" class="sidebar sidebar-with-footer">
+				<!-- Aplication Brand -->
+				<div style="background-color: #ffaa00;" class="app-brand">
+					<a href="">
+
+						<span class="brand-name">Sahyog Admin</span>
+					</a>
+				</div>
+				<!-- begin sidebar scrollbar -->
+				<div class="sidebar-scrollbar">
+
+					<!-- sidebar menu -->
+					<ul class="nav sidebar-inner" id="sidebar-menu">
+
+
+
+						<li class="has-sub active expand">
+							<a class="sidenav-item-link" href="/adminarea/admindashboard/" >
+								<i class="mdi mdi-view-dashboard-outline"></i>
+								<span class="nav-text">Admin Home</span>
+							</a>
+
+						</li>
+
+
+
+
+						<li class="has-sub">
+                            <a class="sidenav-item-link" href="/sahyog/report/" >
+                                <i class="mdi mdi-image-filter-none"></i>
+								
+								<span class="nav-text">Report</span>
+							</a>
+
+
+						</li>
+
+
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/validate/" >
+								<i class="mdi mdi-check"></i>
+								<span class="nav-text">Validate</span>
+							</a>
+
+                        </li>
+
+					
+
+                        <li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/safey/">
+								<i class="mdi mdi-map-marker-multiple"></i>
+								<span class="nav-text">Safe Route</span>
+							</a>
+
+
+						</li>
+
+
+
+                        <li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/analytics" >
+								<i class="mdi mdi-chart-line"></i>
+								<span class="nav-text">Analytics</span>
+							</a>
+						</li>
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link"  href="/sahyog/logout">
+								<i class="mdi mdi-logout"></i>
+									<span class="nav-text">Logout</span>
+							</a>
+							</li>
+
+
+
+						
+
+
+
+
+
+
+
+
+
+					</ul>
+
+				</div>
+
+				<hr class="separator" />
+
+				<div class="sidebar-footer">
+					<div class="sidebar-footer-content">
+						<h6 class="text-uppercase">
+							Cases Closed <span class="float-right">72%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar active" style="width: 72%;" role="progressbar"></div>
+						</div>
+						<h6 class="text-uppercase">
+							Crimes Validated<span class="float-right">65%</span>
+						</h6>
+						<div class="progress progress-xs">
+							<div class="progress-bar progress-bar-warning" style="width: 65%;" role="progressbar"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
+
+
+
+		<div class="page-wrapper">
+			<!-- Header -->
+			<header class="main-header " id="header">
+				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
+					<!-- Sidebar toggle button -->
+					<button style="background-color: black; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
+						<span class="sr-only">Toggle navigation</span>
+					</button>
+					<!-- search form -->
+					<div class="search-form d-none d-lg-inline-block">
+						<div class="input-group">
+
+						</div>
+						<div id="search-results-container">
+							<ul id="search-results"></ul>
+						</div>
+					</div>
+
+					<div class="navbar-right ">
+						<ul class="nav navbar-nav">
+                            <a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							<!-- <a href="/sahyog/register/" class="btn btn-dark">Register</a> -->
+							<!-- <a href="/sahyog/login/" class="btn btn-dark">Login</a> -->
+                      
+                            
+						</ul>
+					</div>
+				</nav>
+
+
+			</header>
+			<div class="content-wrapper">
+				<div class="content" style="color:black; ">
+                  
+						<div  class="row justify-content-center ">
+							<div  class="col-md-12 my-auto">
+							  <div class="card" style="width:100%;">
+								
+								<div class="card-body">
+					
+                                    <p><b>Crime Type:</b> <span id="modal-type">Assault</span> </p><br>
+                                    <p><b>Crime Location:</b> <span id="modal-location">Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</span> </p><br>
+                                   <p><b>Crime Description:</b> <span id="modal-body"></span>An assault on a man took place at the entrance of the hospital after some argument amidst the people.</p><br>
+                                   <p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}" alt="..." class="img-thumbnail"></span> </p><br>
+                                   <br><div class="form-group">
+                                       <p><b>Validators:</b></p><br>
+                                       <table class="table">
+                                        <thead>
+                                          <tr>
+                                            <th scope="col">No.</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Phone</th>
+                                            <th scope="col">Email</th>
+                                            <th scope="col">Description</th>
+                                          </tr>
+                                        </thead>
+                                        <tbody>
+                                          <tr>
+                                            <th scope="row">1</th>
+                                            <td>Girish Thatte</td>
+                                            <td>+918452070570</td>
+                                            <td>girishthatte@gmail.com</td>
+                                            <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
+                                          </tr>
+                                          <tr>
+                                            <th scope="row">2</th>
+                                            <td>Amisha Waghela</td>
+                                            <td>+919987718876</td>
+                                            <td>amishabw@gmail.com</td>
+                                            <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
+
+                                          </tr>
+                                          
+                                        </tbody>
+                                      </table>
+                                      <p><b>Comments:</b></p><br>
+                                    <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
+                                    <br>
+                                    <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+                <!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
+					
+				</div>
+			  </div>
+			</div>
+		   
+<!-- row close -->
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDCn8TFXGg17HAUcNpkwtxxyT9Io9B_NcM"
+defer></script>
+<script src="{% static 'assets-analytics/plugins/jquery/jquery.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/bootstrap/js/bootstrap.bundle.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/toaster/toastr.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/slimscrollbar/jquery.slimscroll.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/charts/Chart.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/ladda/spin.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/ladda/ladda.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/jquery-mask-input/jquery.mask.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/select2/js/select2.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/jvectormap/jquery-jvectormap-world-mill.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/daterangepicker/moment.min.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.js'%}"></script>
+<script src="{% static 'assets-analytics/plugins/jekyll-search.min.js'%}"></script>
+<script src="{% static 'assets-analytics/js/sleek.js'%}"></script>
+<script src="{% static 'assets-analytics/js/chart.js'%}"></script>
+<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
+<script src="{% static 'assets-analytics/js/map.js'%}"></script>
+<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
+
+
 </body>
+
 </html>
