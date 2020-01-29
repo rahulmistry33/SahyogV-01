@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MULTIPLE BAR GRAPH</title>
+	<script 
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"> 
+</script> 
+</head>
+<body>
+	
+	<canvas id="Chart" width="475" height="250"></canvas>
+
+	<script type="text/javascript">
+		var speedCanvas = document.getElementById("Chart");
+
+Chart.defaults.global.defaultFontFamily = "Lato";
+Chart.defaults.global.defaultFontSize = 18;
+
+var dataFirst = {
+    label: "MURDER",
+    data: [2839, 2772, 2621, 2693, 2693, 2818, 2512],
+    lineTension: 0,
+    fill: false,
+    borderColor: 'red'
+  };
+
+var dataSecond = {
+    label: "RAPE",
+    data: [1302, 1268, 1545, 1451,1483, 1701, 3063],
+    lineTension: 0,
+    fill: false,
+  borderColor: 'blue'
+  };
+
+var dataThird = {
+    label: "ROBBERY",
+    data: [2239, 2096, 2411, 2770, 3314, 4249, 9746],
+    lineTension: 0,
+    fill: false,
+  borderColor: 'green'
+  };
+
+var dataFourth = {
+    label: "KIDNAPPING",
+    data: [985, 926, 1194, 1312, 1286, 1669, 2640],
+    lineTension: 0,
+    fill: false,
+  borderColor: 'yellow'
+  };
+
+var dataFifth = {
+    label: "RIOTS",
+    data: [6719, 5714, 6779, 7993, 8030, 8556, 9610],
+    lineTension: 0,
+    fill: false,
+  borderColor: 'black'
+  };
+
+var dataSixth = {
+    label: "DACOITS",
+    data: [529, 514, 641, 716, 780, 773, 833],
+    lineTension: 0,
+    fill: false,
+  borderColor: 'purple'
+  };
+var speedData = {
+  labels: ["2001", "2003", "2005", "2007", "2009", "2011", "2013"],
+  datasets: [dataFirst, dataSecond, dataThird, dataFourth, dataFifth, dataSixth]
+};
+
+var chartOptions = {
+  legend: {
+    display: true,
+    position: 'top',
+    labels: {
+      boxWidth: 80,
+      fontColor: 'black'
+    }
+  }
+};
+
+var lineChart = new Chart(speedCanvas, {
+  type: 'line',
+  data: speedData,
+  options: chartOptions
+});
+	</script>
+</body>
+</html>

@@ -54,6 +54,9 @@ class LoginForm(forms.ModelForm):
         model = User
         fields = ('phone', 'password')
 
+def heatmap(request):
+    return render(request,'UserViews/xyz.html')
+
 def sendSMS(to, body):
     to = to
     client = Client(os.getenv('TWILIO_ACCOUNT_SID'), os.getenv('TWILIO_AUTH_TOKEN'))

@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "6",
+        "rape": "18",
+        "kidnapping": "56",
+        "dacoity": "5",
+        "robbery": "22",
+        "burglary": "364",
+        "vehicleTheft": "494",
+        "riots": "91",
+        "dowryDeaths": "3",
+        "womenAssault": "24",
+        "total": "3397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "7",
+        "rape": "18",
+        "kidnapping": "54",
+        "dacoity": "1",
+        "robbery": "26",
+        "burglary": "336",
+        "vehicleTheft": "617",
+        "riots": "78",
+        "dowryDeaths": "1",
+        "womenAssault": "36",
+        "total": "3806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "32",
+        "dacoity": "3",
+        "robbery": "12",
+        "burglary": "204",
+        "vehicleTheft": "552",
+        "riots": "46",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "2806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "10",
+        "rape": "19",
+        "kidnapping": "54",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "186",
+        "vehicleTheft": "653",
+        "riots": "43",
+        "dowryDeaths": "6",
+        "womenAssault": "20",
+        "total": "2889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "4",
+        "rape": "33",
+        "kidnapping": "54",
+        "dacoity": "0",
+        "robbery": "12",
+        "burglary": "223",
+        "vehicleTheft": "579",
+        "riots": "43",
+        "dowryDeaths": "3",
+        "womenAssault": "31",
+        "total": "3133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "8",
+        "rape": "19",
+        "kidnapping": "65",
+        "dacoity": "1",
+        "robbery": "34",
+        "burglary": "189",
+        "vehicleTheft": "529",
+        "riots": "44",
+        "dowryDeaths": "10",
+        "womenAssault": "20",
+        "total": "3126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "8",
+        "rape": "22",
+        "kidnapping": "52",
+        "dacoity": "2",
+        "robbery": "37",
+        "burglary": "191",
+        "vehicleTheft": "853",
+        "riots": "79",
+        "dowryDeaths": "1",
+        "womenAssault": "32",
+        "total": "3643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "6",
+        "rape": "20",
+        "kidnapping": "50",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "257",
+        "vehicleTheft": "1094",
+        "riots": "85",
+        "dowryDeaths": "3",
+        "womenAssault": "19",
+        "total": "3931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "8",
+        "rape": "29",
+        "kidnapping": "40",
+        "dacoity": "4",
+        "robbery": "27",
+        "burglary": "241",
+        "vehicleTheft": "1117",
+        "riots": "66",
+        "dowryDeaths": "2",
+        "womenAssault": "26",
+        "total": "3555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "9",
+        "rape": "31",
+        "kidnapping": "38",
+        "dacoity": "5",
+        "robbery": "67",
+        "burglary": "236",
+        "vehicleTheft": "898",
+        "riots": "65",
+        "dowryDeaths": "5",
+        "womenAssault": "29",
+        "total": "3373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "6",
+        "rape": "27",
+        "kidnapping": "58",
+        "dacoity": "6",
+        "robbery": "68",
+        "burglary": "285",
+        "vehicleTheft": "915",
+        "riots": "66",
+        "dowryDeaths": "2",
+        "womenAssault": "21",
+        "total": "3542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7646552,
+          30.7194022
+        ]
+      },
+      "properties": {
+        "name": "CHANDIGARH",
+        "state": "CHANDIGARH",
+        "address": "Chandigarh, 160020, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "5",
+        "rape": "27",
+        "kidnapping": "87",
+        "dacoity": "3",
+        "robbery": "63",
+        "burglary": "235",
+        "vehicleTheft": "894",
+        "riots": "49",
+        "dowryDeaths": "5",
+        "womenAssault": "45",
+        "total": "3606"
+      }
+    }
+  ]
+}

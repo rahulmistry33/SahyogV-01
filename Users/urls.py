@@ -28,4 +28,6 @@ urlpatterns = [
 
     path('validate/',views.validate,name="validate"),
     path('validateCrime/',views.validateCrime,name="validateCrime"),
+
+    path('heatmap/', views.heatmap, name='heatmap'),
 ]

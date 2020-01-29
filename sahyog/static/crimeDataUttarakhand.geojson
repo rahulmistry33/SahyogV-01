@@ -1,0 +1,3965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "4",
+        "kidnapping": "1",
+        "dacoity": "7",
+        "robbery": "7",
+        "burglary": "12",
+        "vehicleTheft": "5",
+        "riots": "4",
+        "dowryDeaths": "3",
+        "womenAssault": "5",
+        "total": "251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "8",
+        "womenAssault": "1",
+        "total": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "2",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "39",
+        "vehicleTheft": "1",
+        "riots": "22",
+        "dowryDeaths": "3",
+        "womenAssault": "10",
+        "total": "213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "3",
+        "rape": "12",
+        "kidnapping": "54",
+        "dacoity": "5",
+        "robbery": "31",
+        "burglary": "174",
+        "vehicleTheft": "157",
+        "riots": "111",
+        "dowryDeaths": "4",
+        "womenAssault": "13",
+        "total": "1988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "94",
+        "homicide": "6",
+        "rape": "13",
+        "kidnapping": "52",
+        "dacoity": "5",
+        "robbery": "43",
+        "burglary": "62",
+        "vehicleTheft": "107",
+        "riots": "137",
+        "dowryDeaths": "10",
+        "womenAssault": "21",
+        "total": "1843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "5",
+        "rape": "5",
+        "kidnapping": "14",
+        "dacoity": "5",
+        "robbery": "26",
+        "burglary": "64",
+        "vehicleTheft": "37",
+        "riots": "38",
+        "dowryDeaths": "5",
+        "womenAssault": "11",
+        "total": "877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "32",
+        "vehicleTheft": "12",
+        "riots": "19",
+        "dowryDeaths": "5",
+        "womenAssault": "4",
+        "total": "396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "3",
+        "rape": "7",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "28",
+        "vehicleTheft": "4",
+        "riots": "14",
+        "dowryDeaths": "2",
+        "womenAssault": "6",
+        "total": "364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "26",
+        "vehicleTheft": "4",
+        "riots": "11",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "31",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "3",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "22",
+        "vehicleTheft": "1",
+        "riots": "12",
+        "dowryDeaths": "11",
+        "womenAssault": "7",
+        "total": "324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "2",
+        "womenAssault": "0",
+        "total": "129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "27",
+        "vehicleTheft": "3",
+        "riots": "21",
+        "dowryDeaths": "5",
+        "womenAssault": "12",
+        "total": "227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "4",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "3",
+        "total": "92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "15",
+        "rape": "12",
+        "kidnapping": "62",
+        "dacoity": "4",
+        "robbery": "22",
+        "burglary": "139",
+        "vehicleTheft": "110",
+        "riots": "71",
+        "dowryDeaths": "5",
+        "womenAssault": "11",
+        "total": "1777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "75",
+        "homicide": "6",
+        "rape": "23",
+        "kidnapping": "63",
+        "dacoity": "5",
+        "robbery": "49",
+        "burglary": "90",
+        "vehicleTheft": "150",
+        "riots": "114",
+        "dowryDeaths": "11",
+        "womenAssault": "41",
+        "total": "2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "4",
+        "rape": "5",
+        "kidnapping": "13",
+        "dacoity": "3",
+        "robbery": "17",
+        "burglary": "75",
+        "vehicleTheft": "48",
+        "riots": "35",
+        "dowryDeaths": "5",
+        "womenAssault": "11",
+        "total": "806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "11",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "62",
+        "vehicleTheft": "5",
+        "riots": "11",
+        "dowryDeaths": "5",
+        "womenAssault": "7",
+        "total": "426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "3",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "12",
+        "dowryDeaths": "3",
+        "womenAssault": "7",
+        "total": "271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "19",
+        "vehicleTheft": "2",
+        "riots": "6",
+        "dowryDeaths": "3",
+        "womenAssault": "10",
+        "total": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "3",
+        "rape": "9",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "24",
+        "vehicleTheft": "6",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "23",
+        "vehicleTheft": "5",
+        "riots": "6",
+        "dowryDeaths": "9",
+        "womenAssault": "6",
+        "total": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "36",
+        "vehicleTheft": "2",
+        "riots": "33",
+        "dowryDeaths": "3",
+        "womenAssault": "8",
+        "total": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "2",
+        "womenAssault": "5",
+        "total": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "5",
+        "rape": "16",
+        "kidnapping": "30",
+        "dacoity": "3",
+        "robbery": "29",
+        "burglary": "114",
+        "vehicleTheft": "119",
+        "riots": "58",
+        "dowryDeaths": "11",
+        "womenAssault": "13",
+        "total": "1673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "75",
+        "homicide": "9",
+        "rape": "31",
+        "kidnapping": "48",
+        "dacoity": "4",
+        "robbery": "37",
+        "burglary": "82",
+        "vehicleTheft": "147",
+        "riots": "85",
+        "dowryDeaths": "7",
+        "womenAssault": "21",
+        "total": "1776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "80",
+        "vehicleTheft": "42",
+        "riots": "34",
+        "dowryDeaths": "12",
+        "womenAssault": "15",
+        "total": "875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "13",
+        "burglary": "55",
+        "vehicleTheft": "15",
+        "riots": "26",
+        "dowryDeaths": "13",
+        "womenAssault": "9",
+        "total": "451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "3",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "25",
+        "vehicleTheft": "5",
+        "riots": "14",
+        "dowryDeaths": "6",
+        "womenAssault": "7",
+        "total": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "32",
+        "vehicleTheft": "4",
+        "riots": "30",
+        "dowryDeaths": "6",
+        "womenAssault": "10",
+        "total": "317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "9",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "25",
+        "vehicleTheft": "1",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "21",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "7",
+        "womenAssault": "7",
+        "total": "221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "4",
+        "womenAssault": "0",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "20",
+        "vehicleTheft": "1",
+        "riots": "14",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "37",
+        "dacoity": "2",
+        "robbery": "24",
+        "burglary": "141",
+        "vehicleTheft": "204",
+        "riots": "78",
+        "dowryDeaths": "6",
+        "womenAssault": "16",
+        "total": "1955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "3",
+        "rape": "33",
+        "kidnapping": "54",
+        "dacoity": "13",
+        "robbery": "41",
+        "burglary": "106",
+        "vehicleTheft": "136",
+        "riots": "87",
+        "dowryDeaths": "10",
+        "womenAssault": "28",
+        "total": "1909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "8",
+        "rape": "6",
+        "kidnapping": "28",
+        "dacoity": "4",
+        "robbery": "23",
+        "burglary": "46",
+        "vehicleTheft": "42",
+        "riots": "29",
+        "dowryDeaths": "6",
+        "womenAssault": "18",
+        "total": "892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "62",
+        "vehicleTheft": "6",
+        "riots": "28",
+        "dowryDeaths": "7",
+        "womenAssault": "11",
+        "total": "439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "5",
+        "rape": "9",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "24",
+        "vehicleTheft": "3",
+        "riots": "15",
+        "dowryDeaths": "8",
+        "womenAssault": "4",
+        "total": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "22",
+        "vehicleTheft": "5",
+        "riots": "14",
+        "dowryDeaths": "4",
+        "womenAssault": "2",
+        "total": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "5",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "14",
+        "vehicleTheft": "2",
+        "riots": "17",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "17",
+        "burglary": "16",
+        "vehicleTheft": "4",
+        "riots": "6",
+        "dowryDeaths": "6",
+        "womenAssault": "4",
+        "total": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "2",
+        "rape": "4",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "44",
+        "vehicleTheft": "0",
+        "riots": "14",
+        "dowryDeaths": "6",
+        "womenAssault": "3",
+        "total": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "0",
+        "vehicleTheft": "2",
+        "riots": "7",
+        "dowryDeaths": "3",
+        "womenAssault": "2",
+        "total": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "5",
+        "rape": "23",
+        "kidnapping": "45",
+        "dacoity": "3",
+        "robbery": "24",
+        "burglary": "123",
+        "vehicleTheft": "161",
+        "riots": "108",
+        "dowryDeaths": "8",
+        "womenAssault": "13",
+        "total": "1845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "5",
+        "rape": "32",
+        "kidnapping": "54",
+        "dacoity": "18",
+        "robbery": "41",
+        "burglary": "88",
+        "vehicleTheft": "181",
+        "riots": "66",
+        "dowryDeaths": "7",
+        "womenAssault": "20",
+        "total": "1800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "5",
+        "rape": "7",
+        "kidnapping": "16",
+        "dacoity": "11",
+        "robbery": "19",
+        "burglary": "57",
+        "vehicleTheft": "50",
+        "riots": "45",
+        "dowryDeaths": "13",
+        "womenAssault": "6",
+        "total": "871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "3",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "45",
+        "vehicleTheft": "14",
+        "riots": "11",
+        "dowryDeaths": "1",
+        "womenAssault": "8",
+        "total": "387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "23",
+        "vehicleTheft": "0",
+        "riots": "10",
+        "dowryDeaths": "4",
+        "womenAssault": "6",
+        "total": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "16",
+        "vehicleTheft": "2",
+        "riots": "15",
+        "dowryDeaths": "6",
+        "womenAssault": "1",
+        "total": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "7",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "3",
+        "rape": "11",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "13",
+        "vehicleTheft": "1",
+        "riots": "11",
+        "dowryDeaths": "5",
+        "womenAssault": "3",
+        "total": "249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "4",
+        "womenAssault": "6",
+        "total": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "25",
+        "dowryDeaths": "5",
+        "womenAssault": "2",
+        "total": "189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "8",
+        "rape": "23",
+        "kidnapping": "43",
+        "dacoity": "3",
+        "robbery": "26",
+        "burglary": "123",
+        "vehicleTheft": "126",
+        "riots": "94",
+        "dowryDeaths": "9",
+        "womenAssault": "28",
+        "total": "2005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "4",
+        "rape": "32",
+        "kidnapping": "64",
+        "dacoity": "10",
+        "robbery": "54",
+        "burglary": "78",
+        "vehicleTheft": "220",
+        "riots": "105",
+        "dowryDeaths": "11",
+        "womenAssault": "45",
+        "total": "2162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "6",
+        "rape": "9",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "38",
+        "vehicleTheft": "50",
+        "riots": "30",
+        "dowryDeaths": "7",
+        "womenAssault": "7",
+        "total": "785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "8",
+        "dacoity": "4",
+        "robbery": "3",
+        "burglary": "55",
+        "vehicleTheft": "6",
+        "riots": "16",
+        "dowryDeaths": "8",
+        "womenAssault": "3",
+        "total": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "3",
+        "rape": "8",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "3",
+        "womenAssault": "13",
+        "total": "252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "13",
+        "vehicleTheft": "2",
+        "riots": "14",
+        "dowryDeaths": "6",
+        "womenAssault": "0",
+        "total": "171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "17",
+        "dowryDeaths": "3",
+        "womenAssault": "5",
+        "total": "189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "35",
+        "vehicleTheft": "2",
+        "riots": "11",
+        "dowryDeaths": "5",
+        "womenAssault": "4",
+        "total": "299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "2",
+        "womenAssault": "6",
+        "total": "109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "28",
+        "vehicleTheft": "1",
+        "riots": "19",
+        "dowryDeaths": "2",
+        "womenAssault": "5",
+        "total": "221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "7",
+        "vehicleTheft": "1",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "6",
+        "rape": "29",
+        "kidnapping": "60",
+        "dacoity": "7",
+        "robbery": "25",
+        "burglary": "148",
+        "vehicleTheft": "134",
+        "riots": "98",
+        "dowryDeaths": "3",
+        "womenAssault": "45",
+        "total": "2205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "13",
+        "rape": "28",
+        "kidnapping": "72",
+        "dacoity": "19",
+        "robbery": "70",
+        "burglary": "102",
+        "vehicleTheft": "210",
+        "riots": "99",
+        "dowryDeaths": "16",
+        "womenAssault": "31",
+        "total": "2534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "6",
+        "rape": "6",
+        "kidnapping": "25",
+        "dacoity": "7",
+        "robbery": "13",
+        "burglary": "38",
+        "vehicleTheft": "60",
+        "riots": "28",
+        "dowryDeaths": "12",
+        "womenAssault": "4",
+        "total": "883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "27",
+        "vehicleTheft": "10",
+        "riots": "12",
+        "dowryDeaths": "7",
+        "womenAssault": "4",
+        "total": "419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "4",
+        "rape": "9",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "33",
+        "vehicleTheft": "2",
+        "riots": "11",
+        "dowryDeaths": "3",
+        "womenAssault": "11",
+        "total": "341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "5",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "14",
+        "vehicleTheft": "3",
+        "riots": "18",
+        "dowryDeaths": "3",
+        "womenAssault": "2",
+        "total": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "17",
+        "vehicleTheft": "1",
+        "riots": "14",
+        "dowryDeaths": "3",
+        "womenAssault": "6",
+        "total": "219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "3",
+        "riots": "11",
+        "dowryDeaths": "8",
+        "womenAssault": "5",
+        "total": "252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "1",
+        "womenAssault": "3",
+        "total": "94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "3",
+        "womenAssault": "0",
+        "total": "79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "5",
+        "rape": "20",
+        "kidnapping": "65",
+        "dacoity": "1",
+        "robbery": "37",
+        "burglary": "131",
+        "vehicleTheft": "174",
+        "riots": "170",
+        "dowryDeaths": "9",
+        "womenAssault": "24",
+        "total": "2458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "13",
+        "rape": "24",
+        "kidnapping": "61",
+        "dacoity": "6",
+        "robbery": "53",
+        "burglary": "82",
+        "vehicleTheft": "268",
+        "riots": "141",
+        "dowryDeaths": "18",
+        "womenAssault": "29",
+        "total": "2522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "5",
+        "rape": "9",
+        "kidnapping": "22",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "33",
+        "vehicleTheft": "63",
+        "riots": "20",
+        "dowryDeaths": "10",
+        "womenAssault": "5",
+        "total": "892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "12",
+        "vehicleTheft": "7",
+        "riots": "6",
+        "dowryDeaths": "5",
+        "womenAssault": "3",
+        "total": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "3",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "3",
+        "womenAssault": "6",
+        "total": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "3",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "19",
+        "vehicleTheft": "2",
+        "riots": "14",
+        "dowryDeaths": "2",
+        "womenAssault": "4",
+        "total": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "12",
+        "vehicleTheft": "1",
+        "riots": "13",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "12",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "15",
+        "dowryDeaths": "4",
+        "womenAssault": "4",
+        "total": "246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "2",
+        "womenAssault": "1",
+        "total": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "12",
+        "vehicleTheft": "5",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "7",
+        "riots": "5",
+        "dowryDeaths": "2",
+        "womenAssault": "5",
+        "total": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "11",
+        "rape": "30",
+        "kidnapping": "76",
+        "dacoity": "16",
+        "robbery": "51",
+        "burglary": "113",
+        "vehicleTheft": "189",
+        "riots": "146",
+        "dowryDeaths": "11",
+        "womenAssault": "30",
+        "total": "2425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "11",
+        "rape": "26",
+        "kidnapping": "68",
+        "dacoity": "6",
+        "robbery": "50",
+        "burglary": "54",
+        "vehicleTheft": "204",
+        "riots": "122",
+        "dowryDeaths": "22",
+        "womenAssault": "30",
+        "total": "2268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "3",
+        "rape": "14",
+        "kidnapping": "37",
+        "dacoity": "7",
+        "robbery": "17",
+        "burglary": "37",
+        "vehicleTheft": "75",
+        "riots": "42",
+        "dowryDeaths": "23",
+        "womenAssault": "14",
+        "total": "928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "4",
+        "kidnapping": "13",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "11",
+        "vehicleTheft": "11",
+        "riots": "2",
+        "dowryDeaths": "6",
+        "womenAssault": "3",
+        "total": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "11",
+        "dowryDeaths": "1",
+        "womenAssault": "3",
+        "total": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "11",
+        "vehicleTheft": "8",
+        "riots": "1",
+        "dowryDeaths": "1",
+        "womenAssault": "3",
+        "total": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "7",
+        "dowryDeaths": "4",
+        "womenAssault": "3",
+        "total": "162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "2",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "5",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "16",
+        "rape": "37",
+        "kidnapping": "71",
+        "dacoity": "4",
+        "robbery": "50",
+        "burglary": "97",
+        "vehicleTheft": "228",
+        "riots": "130",
+        "dowryDeaths": "12",
+        "womenAssault": "26",
+        "total": "2370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "7",
+        "rape": "28",
+        "kidnapping": "86",
+        "dacoity": "3",
+        "robbery": "51",
+        "burglary": "56",
+        "vehicleTheft": "206",
+        "riots": "157",
+        "dowryDeaths": "15",
+        "womenAssault": "31",
+        "total": "2654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "11",
+        "rape": "13",
+        "kidnapping": "29",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "21",
+        "vehicleTheft": "74",
+        "riots": "29",
+        "dowryDeaths": "5",
+        "womenAssault": "15",
+        "total": "894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "4",
+        "rape": "4",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "15",
+        "vehicleTheft": "8",
+        "riots": "9",
+        "dowryDeaths": "4",
+        "womenAssault": "5",
+        "total": "197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "3",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "8",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "8",
+        "riots": "1",
+        "dowryDeaths": "2",
+        "womenAssault": "6",
+        "total": "116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "6",
+        "womenAssault": "4",
+        "total": "122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "2",
+        "womenAssault": "2",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "16",
+        "rape": "31",
+        "kidnapping": "55",
+        "dacoity": "0",
+        "robbery": "23",
+        "burglary": "98",
+        "vehicleTheft": "213",
+        "riots": "66",
+        "dowryDeaths": "10",
+        "womenAssault": "16",
+        "total": "1969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "13",
+        "rape": "26",
+        "kidnapping": "95",
+        "dacoity": "9",
+        "robbery": "89",
+        "burglary": "79",
+        "vehicleTheft": "263",
+        "riots": "161",
+        "dowryDeaths": "22",
+        "womenAssault": "30",
+        "total": "2632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "8",
+        "rape": "10",
+        "kidnapping": "24",
+        "dacoity": "0",
+        "robbery": "16",
+        "burglary": "20",
+        "vehicleTheft": "77",
+        "riots": "27",
+        "dowryDeaths": "15",
+        "womenAssault": "4",
+        "total": "768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "4",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "11",
+        "vehicleTheft": "18",
+        "riots": "20",
+        "dowryDeaths": "2",
+        "womenAssault": "6",
+        "total": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "5",
+        "womenAssault": "8",
+        "total": "157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "6",
+        "vehicleTheft": "2",
+        "riots": "6",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "2",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43317023326716,
+          29.703094999999998
+        ]
+      },
+      "properties": {
+        "name": "ALMORA",
+        "state": "UTTARAKHAND",
+        "address": "Almora, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "2",
+        "womenAssault": "5",
+        "total": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9302967950447,
+          30.0086722
+        ]
+      },
+      "properties": {
+        "name": "BAGESHWAR",
+        "state": "UTTARAKHAND",
+        "address": "Bageshwar, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "1",
+        "riots": "3",
+        "dowryDeaths": "4",
+        "womenAssault": "5",
+        "total": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.61879245944404,
+          30.499632300000002
+        ]
+      },
+      "properties": {
+        "name": "CHAMOLI",
+        "state": "UTTARAKHAND",
+        "address": "Chamoli, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10172076512075,
+          29.23631315
+        ]
+      },
+      "properties": {
+        "name": "CHAMPAWAT",
+        "state": "UTTARAKHAND",
+        "address": "Champawat, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0436813,
+          30.3255646
+        ]
+      },
+      "properties": {
+        "name": "DEHRADUN",
+        "state": "UTTARAKHAND",
+        "address": "Dehradun, Uttarakhand, 248001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "7",
+        "rape": "30",
+        "kidnapping": "43",
+        "dacoity": "4",
+        "robbery": "19",
+        "burglary": "118",
+        "vehicleTheft": "277",
+        "riots": "86",
+        "dowryDeaths": "13",
+        "womenAssault": "24",
+        "total": "2189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1452985,
+          29.9384473
+        ]
+      },
+      "properties": {
+        "name": "HARIDWAR",
+        "state": "UTTARAKHAND",
+        "address": "Haridw\u0101r, Hardwar, Haridwar, Uttarakhand, 249401, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "9",
+        "rape": "47",
+        "kidnapping": "106",
+        "dacoity": "11",
+        "robbery": "67",
+        "burglary": "71",
+        "vehicleTheft": "309",
+        "riots": "115",
+        "dowryDeaths": "10",
+        "womenAssault": "38",
+        "total": "2613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4176945,
+          29.2031392
+        ]
+      },
+      "properties": {
+        "name": "NAINITAL",
+        "state": "UTTARAKHAND",
+        "address": "Nainital, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "10",
+        "rape": "16",
+        "kidnapping": "29",
+        "dacoity": "2",
+        "robbery": "12",
+        "burglary": "30",
+        "vehicleTheft": "53",
+        "riots": "33",
+        "dowryDeaths": "10",
+        "womenAssault": "11",
+        "total": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.70766746320547,
+          29.84591115
+        ]
+      },
+      "properties": {
+        "name": "PAURI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Pauri Garhwal, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "3",
+        "rape": "2",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "19",
+        "vehicleTheft": "22",
+        "riots": "19",
+        "dowryDeaths": "2",
+        "womenAssault": "1",
+        "total": "256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48338013734374,
+          30.12666775
+        ]
+      },
+      "properties": {
+        "name": "PITHORAGARH",
+        "state": "UTTARAKHAND",
+        "address": "Pithoragarh, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "4",
+        "dowryDeaths": "2",
+        "womenAssault": "2",
+        "total": "103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.666667,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "TEHRI GARHWAL",
+        "state": "UTTARAKHAND",
+        "address": "Tehri-Garhwal, Tehri Garhwal, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "5",
+        "vehicleTheft": "7",
+        "riots": "5",
+        "dowryDeaths": "3",
+        "womenAssault": "1",
+        "total": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.63368731187963,
+          30.9654214
+        ]
+      },
+      "properties": {
+        "name": "UTTARKASHI",
+        "state": "UTTARAKHAND",
+        "address": "Uttarkashi, Uttarakhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "3",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "72"
+      }
+    }
+  ]
+}

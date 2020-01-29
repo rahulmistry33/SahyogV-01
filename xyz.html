@@ -60,23 +60,22 @@
 
 
         .content {
-            margin-left: 75px;
+            
             font-size: 30px;
+        }
+
+        select{
+            border: 2px solid silver;
+            margin: 0;
         }
     </style>
 
 </head>
 
 <body>
-    <div class="icon-bar">
-        <a href="#" class="greyicon"><i class="fa fa-clock-o"></i></a>
-        <a href="#" class="greyicon"><i class="fa fa-map-marker"></i></a>
-        <a href="#" class="greyicon"><i class="fa fa-map-pin"></i></a>
-        <!-- <a href="#" class="greyicon"><i class="fa fa-linkedin"></i></a>
-        <a href="#" class="greyicon"><i class="fa fa-youtube"></i></a> -->
-    </div>
+    
     <div class="content">
-        <select id="mySelect2" onchange="myFunc()">
+      Crime Type:  <select  id="mySelect2" onchange="myFunc()">
             <option value="murder">Murder</option>
             <option value="homicide">Homicide</option>
             <option value="womenAssault">Assault on Women</option>
@@ -88,10 +87,14 @@
             <option value="vehicleTheft">Vehicle Theft</option>
             <option value="riots">Riots</option>
         </select>
-        <select id="mySelect" onchange="myFunc()">
+        Area: <select id="mySelect" onchange="myFunc()">
             <option value="Maharashtra">Maharashtra</option>
             <option value="Chandigarh">Chandigarh</option>
-            <!-- <option value="DelhiUT">Delhi</option> -->
+            <option value="DelhiUT">Delhi</option>
+            <option value="Manipur">Manipur</option>
+            <option value="Puducherry">Puducherry</option>
+            <option value="UttarPradesh">UttarPradesh</option>
+            <option value="Uttarakhand">Uttarakhand</option>
             <option value="WestBengal">WestBengal</option>
         </select>
         <div id="mapBody"></div>
@@ -116,6 +119,22 @@
                 else if(x=="Chandigarh"){
                     lat=30.7333;
                     long=76.7794;
+                }
+                else if(x=="UttarPradesh"){
+                    lat=26.8467;
+                    long=80.9462;
+                }
+                else if(x=="Uttarakhand"){
+                    lat=30.0668;
+                    long=79.0193;
+                }
+                else if(x=="Puducherry"){
+                    lat=11.9416;
+                    long=79.8083;
+                }
+                else if(x=="Manipur"){
+                    lat=24.6637;
+                    long=93.9063;
                 }
                 document.getElementById('mapBody').innerHTML = "<div id='map' style='width: 100%; height: 100%;'></div>";
 
