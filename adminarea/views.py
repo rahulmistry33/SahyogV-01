@@ -35,7 +35,7 @@ def validators(request):
         return render(request,'adminarea/validators.html',status=200,context={'context':validations})
 
     else:
-        return redirect('admindashboard')
+        return redirect(admindashboard)
 
 
 

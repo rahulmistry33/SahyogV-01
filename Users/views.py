@@ -26,11 +26,19 @@ validateDB = db.Validate
 class RegisterForm(forms.ModelForm):
     phone_number = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
     password1 = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+    name = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
+    email = forms.EmailField(required=True, max_length=30,widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_1 = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_2 = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
     class Meta:
         model = User
         fields = (
             'phone_number',
             'password1',
+            'name',
+            'email',
+            'emergency_contact_1',
+            'emergency_contact_2',
             
         )
 
@@ -94,20 +102,20 @@ def getstart(request):
 
 def index(request,username=None):
     if request.session.has_key('username'):
-         return render(request, 'UserViews/newindex.html',{"username":request.session["username"]})
+         return render(request, 'UserViews/newindex.html',{"username":request.session["name"]})
     else: 
         return render(request, 'UserViews/newindex.html',{"username":None})
 
 
 def safey(request):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/safey.html',{"username":request.session["username"]})
+        return render(request, 'UserViews/safey.html',{"username":request.session["name"]})
     else:
         return render(request, 'UserViews/safey.html',{"username":None})
 
 def report(request):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/report.html',{"username":request.session["username"]})
+        return render(request, 'UserViews/report.html',{"username":request.session["name"]})
     else:
         return redirect(index,None)
 
@@ -122,19 +130,19 @@ def register(request):
             user = {
                 # "username": form.cleaned_data["username"], 
                 # "fname": form.cleaned_data["first_name"],
-                # "lname": form.cleaned_data["last_name"],
-                # "email": form.cleaned_data["email"],
+                "name": form.cleaned_data["name"],
+                "email": form.cleaned_data["email"],
                 "password": form.cleaned_data["password1"],
                 "phone": '+91'+ form.cleaned_data["phone_number"],
                 # "home": form.cleaned_data["home_address"],
                 # "work": form.cleaned_data["work_address"],
-                # "ec1": '+91'+ form.cleaned_data["emergency_contact_1"],
-                # "ec2": '+91'+ form.cleaned_data["emergency_contact_2"]
+                "ec1": '+91'+ form.cleaned_data["emergency_contact_1"],
+                "ec2": '+91'+ form.cleaned_data["emergency_contact_2"]
             }
             return redirect(validateOTP, json.dumps(user))
     else:
         if request.session.has_key('username'):
-            return index(request,request.session['username'])
+            return index(request,request.session['name'])
         form = RegisterForm()
     return render(request, 'UserViews/register.html', {"form": form})
 
@@ -147,9 +155,11 @@ def validateOTP(request, user):
         if otp == request.session["otp"]:
             userDB.insert_one(userObj)
             request.session['username'] = userObj["phone"]
-            # request.session['ec1'] = userObj["ec1"]
-            # request.session['ec2'] = userObj["ec2"]
-            return redirect(index, request.session["username"])
+            request.session['name'] = userObj["name"]
+            request.session['email'] = userObj["email"]
+            request.session['ec1'] = userObj["ec1"]
+            request.session['ec2'] = userObj["ec2"]
+            return redirect(index, request.session["name"])
 
     request.session["otp"] = OTPGenerator()
     msg = 'Your OTP is '+request.session['otp']
@@ -159,7 +169,7 @@ def validateOTP(request, user):
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
-        return redirect(index, {"username": request.session['username']})
+        return redirect(index, {"username": request.session['name']})
     else:
         if request.method=="POST":
             form = LoginForm(request.POST)
@@ -172,10 +182,12 @@ def login(request):
                     print("userpass: "+user["password"]+" formpass: "+form.cleaned_data["password"])
                     if user["password"] == form.cleaned_data["password"]:
                         request.session["username"] = username
-                        # request.session["ec1"] = user["ec1"]
-                        # request.session["ec2"] = user["ec2"]
+                        request.session['name'] = user["name"]
+                        request.session['email'] = user["email"]
+                        request.session["ec1"] = user["ec1"]
+                        request.session["ec2"] = user["ec2"]
                         print("validdd")
-                        return redirect(index,username)
+                        return redirect(index,request.session['name'])
                 # except:
                 #     return redirect(register)
             else:
@@ -224,7 +236,7 @@ def reportCrime(request):
 def analytics(request):
     locations = list(locationDB.find({"severity": "2"}))
     if request.session.has_key('username'):
-        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations), "username": request.session['username']})
+        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations), "username": request.session['name']})
     else:
         return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
     
@@ -242,7 +254,7 @@ def SSE(request):
 
 def validate(request):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/validate.html',{"username":request.session["username"]})
+        return render(request, 'UserViews/validate.html',{"username":request.session["name"]})
     else:
         return redirect(index,None)
 
@@ -257,10 +269,10 @@ def validateCrime(request):
             data = userDB.find({'username' :username})
             count = 0
 
-            # for items in data:
-                # fname = items['fname']
+            for items in data:
+                name = items['name']
                 # lname = items['lname']
-                # email = items['email']
+                email = items['email']
                 # phone = items['phone']
 
                 # count = items['count']
@@ -309,9 +321,9 @@ def validateCrime(request):
             # for count in counts:
             #     count = count +1
 
-            validation = {"username" : username,"location":location}
+            # validation = {"username" : username,"location":location}
 
-            # validation = {"username" : username,"fname":fname,"lname":lname,"email":email,"phone":phone,"location":location}
+            validation = {"username" : username,"name":name,"email":email,"location":location}
  
             validateDB.insert_one(validation)
             return HttpResponse(json.dumps({'status':'You have successfully validated this crime.'}),content_type='application/json')
