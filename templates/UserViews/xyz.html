@@ -1,0 +1,260 @@
+<html>
+{% load static %}
+<head>
+    <title>Sahyog</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+        integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
+        integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg=="
+        crossorigin=""></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="{% static 'leafletHeatMap.js' %}">
+
+
+    </script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        #map {
+            height: 100%
+        }
+    </style>
+    <style type="text/css">
+        .modal-backdrop {
+            opacity: 0.5 !important;
+        }
+
+        body {
+            margin: 0;
+            height: 2000px;
+        }
+
+        .icon-bar {
+            position: fixed;
+            top: 25%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+
+        .icon-bar a {
+            display: block;
+            text-align: center;
+            padding: 16px;
+            transition: all 0.3s ease;
+
+            color: #232323;
+            font-size: 30px;
+        }
+
+        .icon-bar a:hover {
+            background-color: #000;
+            color: white;
+        }
+
+        .greyicon {
+            background: #ffc400;
+
+        }
+
+
+        .content {
+            
+            font-size: 30px;
+        }
+
+        select{
+            border: 2px solid silver;
+            margin: 0;
+        }
+    </style>
+
+</head>
+
+<body>
+    
+    <div class="content">
+      Crime Type:  <select  id="mySelect2" onchange="myFunc()">
+            <option value="murder">Murder</option>
+            <option value="homicide">Homicide</option>
+            <option value="womenAssault">Assault on Women</option>
+            <option value="rape">Rape</option>
+            <option value="kidnapping">Kidnapping</option>
+            <option value="dacoity">Dacoity</option>
+            <option value="robbery">Robbery</option>
+            <option value="burglary">Burglary</option>
+            <option value="vehicleTheft">Vehicle Theft</option>
+            <option value="riots">Riots</option>
+        </select>
+        Area: <select id="mySelect" onchange="myFunc()">
+            <option value="Maharashtra">Maharashtra</option>
+            <option value="Chandigarh">Chandigarh</option>
+            <option value="DelhiUT">Delhi</option>
+            <option value="Manipur">Manipur</option>
+            <option value="Puducherry">Puducherry</option>
+            <option value="UttarPradesh">UttarPradesh</option>
+            <option value="Uttarakhand">Uttarakhand</option>
+            <option value="WestBengal">WestBengal</option>
+        </select>
+        <div id="mapBody"></div>
+
+        <script>
+
+            function myFunc() {
+                var x = document.getElementById("mySelect").value;
+                var y = document.getElementById("mySelect2").value;
+                var str;
+                if(x=="Maharashtra"){
+                    lat=19.7515;
+                    long=75.7139;
+                    str = "{% static 'crimeDataMaharashtra.geojson' %}";
+                }
+                else if(x=="WestBengal"){
+                    lat=22.9868;
+                    long=87.8550;
+                    str = "{% static 'crimeDataWestBengal.geojson' %}";
+                }
+                else if(x=="DelhiUT"){
+                    lat=28.7041;
+                    long=77.1025;
+                    str = "{% static 'crimeDataDelhiUT.geojson' %}";
+                }
+                else if(x=="Chandigarh"){
+                    lat=30.7333;
+                    long=76.7794;
+                    str = "{% static 'crimeDataChandigarh.geojson' %}";
+                }
+                else if(x=="UttarPradesh"){
+                    lat=26.8467;
+                    long=80.9462;
+                    str = "{% static 'crimeDataUttarPradesh.geojson' %}";
+                }
+                else if(x=="Uttarakhand"){
+                    lat=30.0668;
+                    long=79.0193;
+                    str = "{% static 'crimeDataUttarakhand.geojson' %}";
+                }
+                else if(x=="Puducherry"){
+                    lat=11.9416;
+                    long=79.8083;
+                    str = "{% static 'crimeDataPuducherry.geojson' %}";
+                }
+                else if(x=="Manipur"){
+                    lat=24.6637;
+                    long=93.9063;
+                    str = "{% static 'crimeDataManipur.geojson' %}";
+                }
+                document.getElementById('mapBody').innerHTML = "<div id='map' style='width: 100%; height: 100%;'></div>";
+
+                var map = L.map('map').setView(new L.LatLng(lat, long), 13);
+
+            // load a tile layer
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(map);
+
+            var latLon = L.latLng(lat, long);
+            var bounds = latLon.toBounds(1000000); // 500 = metres
+            map.panTo(latLon).fitBounds(bounds);
+            map.panBy([100, 800])
+
+
+            var temp = new L.LatLng(lat,long);
+            var markers = L.marker(temp).addTo(map);
+
+            $.getJSON(str, function (data) {
+                var locations = data.features.map(function (rat) {
+                    
+                    var location = rat.geometry.coordinates.reverse();
+
+                    switch(y){
+                        case 'womenAssault':
+                        location.push(parseInt(rat.crime.womenAssault * 1));
+                        break;
+
+                        case 'murder':
+                        location.push(parseInt(rat.crime.murder * 1));
+                        break;
+
+                        case 'homicide':
+                        location.push(parseInt(rat.crime.homicide * 1));
+                        break;
+
+                        case 'rape':
+                        location.push(parseInt(rat.crime.rape * 1));
+                        break;
+
+                        case 'kidnapping':
+                        location.push(parseInt(rat.crime.kidnapping * 1));
+                        break;
+
+                        case 'dacoity':
+                        location.push(parseInt(rat.crime.dacoity * 1));
+                        break;
+
+                        case 'robbery':
+                        location.push(parseInt(rat.crime.robbery* 1));
+                        break;
+
+                        case 'burglary':
+                        location.push(parseInt(rat.crime.burglary * 1));
+                        break;
+
+                        case 'vehicleTheft':
+                        location.push(parseInt(rat.crime.vehicleTheft * 1));
+                        break;
+
+                        case 'riots':
+                        location.push(parseInt(rat.crime.riots * 1));
+                        break;
+                    }
+                    
+                    return location; 
+                });
+                var heat = L.heatLayer(locations, { radius: 20 });
+                map.addLayer(heat);
+
+            });
+
+         }//func-end
+            document.getElementById('mapBody').innerHTML = "<div id='map' style='width: 100%; height: 100%;'></div>";
+            // initialize the map
+            var map = L.map('map').setView(new L.LatLng(19.7515, 75.7139), 13);
+
+            // load a tile layer
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(map);
+
+            var latLon = L.latLng(19.7515, 75.7139);
+            var bounds = latLon.toBounds(1000000); // 500 = metres
+            map.panTo(latLon).fitBounds(bounds);
+            map.panBy([100, 800])
+
+
+            var temp = new L.LatLng(19.7515, 75.7139);
+            var markers = L.marker(temp).addTo(map);
+
+            $.getJSON("{% static 'crimeDataMaharashtra.geojson' %}", function (data) {
+                var locations = data.features.map(function (rat) {
+                    
+                    var location = rat.geometry.coordinates.reverse();
+
+                    location.push(parseInt(rat.crime.murder * 5));
+                    return location; 
+                });
+                var heat = L.heatLayer(locations, { radius: 20 });
+                map.addLayer(heat);
+
+            });
+
+
+
+        </script>
+    </div>
+</body>
+
+</html>

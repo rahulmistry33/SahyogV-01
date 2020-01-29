@@ -242,7 +242,7 @@
 						<div class="col-xl-8 col-md-12">
 							<div class="card card-default" data-scroll-height="675">
 								<div class="card-header justify-content-center">
-									<h2>Statewise Analysis</h2>
+									<h2>No. of Crimes across Maharashtra</h2>
 								</div>
 								<div class="chart-container">
 									<canvas id="myChart"></canvas>
@@ -279,7 +279,7 @@
 						<div class="col-xl-4 col-md-12">
 							<!-- Doughnut Chart -->
 
-							<div class="card card-default" data-scroll-height="675">
+							<div class="card card-default" data-scroll-height="750">
 								<div class="card-header justify-content-center">
 									<h2>Crime Overview</h2>
 								</div>
@@ -312,6 +312,55 @@
 								</div>
 							</div>
 						</div>
+
+					</div>
+
+					<div class="row">
+
+
+						<div class=" col-md-11">
+							<div class="card card-default" data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>State & Crime Analysis</h2>
+								</div>
+								<a class="btn btn-dark" style="font-family: 20px;" href="/sahyog/heatmap">View Map</a>
+								
+							</div>
+						</div>
+						
+
+					</div>
+					<div class="row">
+
+
+						<div class=" col-md-11">
+							<div class="card card-default" data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>State & Crime Analysis</h2>
+								</div>
+								<div class="chart-container">
+									{% include "UserViews/multiLine.html" %}  
+								</div>
+							</div>
+						</div>
+						
+
+					</div>
+
+					<div class="row">
+
+
+						<div class=" col-md-11">
+							<div class="card card-default" data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>State & Crime Analysis</h2>
+								</div>
+								<div class="chart-container">
+									{% include "UserViews/multipleBar.html" %}  
+								</div>
+							</div>
+						</div>
+						
 
 					</div>
 				</div>
@@ -356,7 +405,7 @@
 					data: {
 						labels: ['Murder','Rape','Robbery','Kidnapping','Riot','Theft','Dacoity','Burglary'],
 						datasets: [{
-							label: 'No. of Crimes across Maharashtra',
+							// label: 'No. of Crimes across Maharashtra',
 							data: [2515, 3063, 9746, 2640, 9610, 52670, 833, 18328],
 							backgroundColor: ['#E0743E','#2A6592','#D01BF4','#39AA58', '#FBBF11', '#109BF8', '#7E9A9A', '#A44599'],
 							// borderColor: ['bc5d2d','0e75ba','b70eba'],
@@ -368,7 +417,7 @@
 					options: {
 						title: {
 							display: true,
-							text: 'No. of Crimes in Cities',
+							// text: 'No. of Crimes in Cities',
 							fontStyle: 'bold',
 							fontSize: 25
 						}

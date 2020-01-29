@@ -1,0 +1,3395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "2",
+        "burglary": "6",
+        "vehicleTheft": "1",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "16",
+        "robbery": "4",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(EAST)",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "2",
+        "rape": "7",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "12",
+        "vehicleTheft": "16",
+        "riots": "24",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(WEST)",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "2",
+        "rape": "7",
+        "kidnapping": "48",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "38",
+        "vehicleTheft": "52",
+        "riots": "83",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "1084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "20",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(EAST)",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "25",
+        "dacoity": "2",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "22",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(WEST)",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "44",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "20",
+        "vehicleTheft": "92",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "31",
+        "total": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "34",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "16",
+        "total": "274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(EAST)",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "18",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "29",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(WEST)",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "41",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "37",
+        "vehicleTheft": "92",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "22",
+        "total": "941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "34",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "2",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(EAST)",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "23",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "9",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(WEST)",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "38",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "40",
+        "vehicleTheft": "98",
+        "riots": "55",
+        "dowryDeaths": "0",
+        "womenAssault": "19",
+        "total": "1053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "32",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(EAST)",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "6",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL(WEST)",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "41",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "38",
+        "vehicleTheft": "82",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "1058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "3",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "1",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "1",
+        "rape": "20",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "26",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "10",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "51",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "34",
+        "vehicleTheft": "86",
+        "riots": "22",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "1058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "35",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "5",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "6",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "11",
+        "vehicleTheft": "3",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "13",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "64",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "30",
+        "vehicleTheft": "100",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "28",
+        "total": "1238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "12",
+        "vehicleTheft": "26",
+        "riots": "16",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "9",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "16",
+        "total": "327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "6",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "MANIPUR",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "43",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "15",
+        "vehicleTheft": "25",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "60",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "27",
+        "vehicleTheft": "138",
+        "riots": "18",
+        "dowryDeaths": "1",
+        "womenAssault": "22",
+        "total": "1191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "44",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "8",
+        "vehicleTheft": "42",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "8",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "MANIPUR",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "56",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "46",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "52",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "37",
+        "vehicleTheft": "207",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "1071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "32",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "16",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "8",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "6",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "MANIPUR",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "43",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "36",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "71",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "28",
+        "vehicleTheft": "178",
+        "riots": "25",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "1067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "5",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "37",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "13",
+        "vehicleTheft": "20",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "18",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "19",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "7",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "MANIPUR",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "36",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "11",
+        "vehicleTheft": "58",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "61",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "14",
+        "vehicleTheft": "422",
+        "riots": "22",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "1397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "8",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "21",
+        "kidnapping": "39",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "38",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8012483746545,
+          24.562463649999998
+        ]
+      },
+      "properties": {
+        "name": "BISHNUPUR",
+        "state": "MANIPUR",
+        "address": "Bishnupur, Manipur, 795126, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "28",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02109882254321,
+          24.3197442
+        ]
+      },
+      "properties": {
+        "name": "CHANDEL",
+        "state": "MANIPUR",
+        "address": "Chandel, Manipur, 795127, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69700149533944,
+          24.378704
+        ]
+      },
+      "properties": {
+        "name": "CHURACHANDPUR",
+        "state": "MANIPUR",
+        "address": "Churachandpur, Manipur, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "7",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "MANIPUR",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00947957721581,
+          24.85154025
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL EAST",
+        "state": "MANIPUR",
+        "address": "Imphal East, Manipur, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "46",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "176",
+        "riots": "16",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85847858025147,
+          24.757326
+        ]
+      },
+      "properties": {
+        "name": "IMPHAL WEST",
+        "state": "MANIPUR",
+        "address": "Imphal West, Manipur, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "3",
+        "rape": "18",
+        "kidnapping": "72",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "17",
+        "vehicleTheft": "456",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "1485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0569854178655,
+          25.380439600000003
+        ]
+      },
+      "properties": {
+        "name": "SENAPATI",
+        "state": "MANIPUR",
+        "address": "Senapati, Manipur, 795104, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "22",
+        "dacoity": "8",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.56791112289724,
+          24.935401300000002
+        ]
+      },
+      "properties": {
+        "name": "TAMENGLONG",
+        "state": "MANIPUR",
+        "address": "Tamenglong, Manipur, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.04247928402684,
+          24.624587
+        ]
+      },
+      "properties": {
+        "name": "THOUBAL",
+        "state": "MANIPUR",
+        "address": "Thoubal, Manipur, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "20",
+        "kidnapping": "44",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "66",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.38239281654197,
+          25.109266849999997
+        ]
+      },
+      "properties": {
+        "name": "UKHRUL",
+        "state": "MANIPUR",
+        "address": "Ukhrul, Manipur, 795144, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "99"
+      }
+    }
+  ]
+}
