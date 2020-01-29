@@ -76,11 +76,14 @@
 </head>
 <style>
     
+    .active{
+        background:#FFAA00 !important;
+    }
 .modal-backdrop {
         opacity: 0.5 !important;
     }
 	.mdi {
-		color: #ffaa00 !important;
+		color: white !important;
 	}
     body,
     html {
@@ -90,6 +93,9 @@
       background-attachment: fixed; */
       
       background-position: center;
+    }
+    .black{
+        color: black !important;
     }
   
     #overlay {
@@ -165,7 +171,7 @@
 
 
 
-						<li class="has-sub active expand">
+						<li class="has-sub expand">
 							<a class="sidenav-item-link" href="/adminarea/admindashboard/" >
 								<i class="mdi mdi-view-dashboard-outline"></i>
 								<span class="nav-text">Admin Home</span>
@@ -173,7 +179,7 @@
 
 						</li>
 
-                        <li class="has-sub">
+                        <li class="has-sub active ">
                             <a class="sidenav-item-link"  href="/adminarea/status/">
                                 <i class="mdi mdi-format-align-justify"></i>
                                     <span class="nav-text">Crime Status</span>
@@ -278,271 +284,193 @@
 			</header>
 			<div class="content-wrapper">
 				<div class="content">
-    <div id="mapid"></div>
-    
-  
+                    <div class="card w-90 mx-auto" style="text-align: center; color: black;">
+                        <div class="card-body">
+                          <h2 class="card-title">Crime Status</h2>
+                          <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                          <a href="#" class="btn btn-primary">Button</a> -->
+                          
+    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+    <li class="nav-item">
+        <a  class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Pending</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Active</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Resolved</a>
+    </li>
+    </ul>
+    <div class="tab-content" id="pills-tabContent">
+    <div style="background: white !important;" class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+        
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">No.</th>
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Girish Thatte</td>
+                <td>+918452070570</td>
+                <td>girishthatte@gmail.com</td>
+                <td>Robbery</td>
+                <td>1</td>
+                <td>Appetite-Resto Bar, Powai, Mumbai, Mumbai Suburban, Maharashtra, 400072, IND</td>
+                <td>A lady's bag was stolen by two men on bike.</td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Amisha Waghela</td>
+                <td>+919987718876</td>
+                <td>amishabw@gmail.com</td>
+                <td>Assault</td>
+                <td>1</td>
+                <td>Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</td>
+                <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
 
-<div class="modal " style=" font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" id="exampleModal" data-backdrop="static" data-keyboard="false">
-    <div class="modal-dialog" >
-        <div class="modal-content mx-auto" style="width: 60vw !important; margin:0">
-
-            <!-- Modal Header -->
-            <div class="modal-header">
-                <h4 class="modal-title" id="modal-title"></h4>
-
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-
-
-            <!-- Modal body -->
-            <div class="modal-body" >
-
-                <p><b>Crime Type:</b> <span id="modal-type"></span> </p><br>
-                <p><b>Crime Location:</b> <span id="modal-location"></span> </p><br>
-               <p><b>Crime Description:</b> <span id="modal-body"></span> </p><br>
-               <p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}" alt="..." class="img-thumbnail"></span> </p><br>
-               <div class="form-group">
-                <label  for="crimeDetails">Additional Details (Optional)</label>
-                <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
-            </div>
-            </div>
-           
-
-            <!-- Modal footer -->
-
-            <div class="modal-footer">
-                <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
-                <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-                <a href="/adminarea/validators/" class="btn btn-dark" >View Validators</a>
-                <!-- <form id="validators" action="{% url 'admindashboard' %}"  method="POST">
-                    {% csrf_token %}    
-                    <input type="submit" name="validatebutton" value="View Validators" id="submitBtn">
-                </form> -->
-            </div>
-        </div>
+              </tr>
+              
+            </tbody>
+          </table>        
     </div>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-
-
-    <script>
-        var latlng;
-        var mymap;
-        var crimeLocation;
-        var coodsLat = [];
-        var coodsLng = [];
-        // Leaflet Colored Markers :D
-        // green colors
-        var greenIcon = new L.Icon({
-            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-            });
-        // red color
-        var redIcon = new L.Icon({
-            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-            });
-        
-        // blue colors
-        var blueIcon = new L.Icon({
-            iconUrl: 'https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-            });
-        
-
-        navigator.geolocation.getCurrentPosition(function (location) {
-            latlng = new L.LatLng(location.coords.latitude, location.coords.longitude);
-            mymap = L.map('mapid').setView(latlng, 13)
-
-            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
-                maxZoom: 20,
-                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
-            }).addTo(mymap);
-            L.control.scale().addTo(mymap);
-
-
-            var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
-            var results = new L.LayerGroup().addTo(mymap);
-
-            searchControl.on('results', function (data) {
-                results.clearLayers();
-                for (var i = data.results.length - 1; i >= 0; i--) {
-                    results.addLayer(L.marker(data.results[i].latlng));
-                    // coodsLat.push(data.results[i].latlng.lat);
-                    // coodsLng.push(data.results[i].latlng.lng);
-                    console.log(data.results[i]);
-                    document.getElementById("location").value = data.results[i].text;
-                    crimeLocation = { "lat": data.results[i].latlng.lat, "lng": data.results[i].latlng.lng }
-                }
-            });
-
-            L.marker(latlng).addTo(mymap);
-
-        });
-
-
-        if (typeof (EventSource) !== "undefined") {
-            var source = new EventSource("{% url 'SSE' %}");
-
-            source.onmessage = function (event) {
-
-                console.log((JSON.parse(event.data)));
-                JSON.parse(event.data).forEach((item, index) => {
-                    if (!coodsLat.includes(item.lat) && !coodsLng.includes(item.lng)) {
-                        console.log('nope');
-                        coodsLat.push(item.lat);
-                        coodsLng.push(item.lng);
-                        var temp = new L.LatLng(item.lat, item.lng);
-                        let details = item.crimeDetails;
-                        let type = item.crimeType;
-                        let location = item.location;
-                        // console.log(location);
-                        
-                        if(item.crimeLevel === "1"){
-                            var markers = L.marker(temp,{icon:blueIcon}).addTo(mymap);
-                            markers.on('click', function(e) {
-                            // Force close the popup.
-                            // e.layer.closePopup();
-                            $('#exampleModal').modal('show');
-
-                            // var feature = e.layer.feature;
-                            // var title = feature.properties.title;
-                            // var content = feature.properties.description;
-                            // var latlng = feature.geometry.coordinates;
-
-                            // Modal Content
-                            $("#modal-title").text(type);
-
-                            $("#modal-type").text(type);
-                            if(details==""||details==null){
-                                $("#modal-body").text("-");
-                            }
-                            else{
-                                $("#modal-body").text(details);
-                            }
-                            
-
-                            $("#modal-location").text(location);
-                            // $("#marker_latlng").text(formatLatLng(latlng));
-
-                            $('#exampleModal').modal('show');
-                            });
-                            // console.log(`<b>${type}</b><br>${details}.`);
-
-                        }
-                        else if(item.crimeLevel === "2"){
-                            var markers = L.marker(temp,{icon:greenIcon}).addTo(mymap);
-
-                            markers.on('click', function(e) {
-                            // Force close the popup.
-                            // e.layer.closePopup();
-                            $('#exampleModal').modal('show');
-
-                            // var feature = e.layer.feature;
-                            // var title = feature.properties.title;
-                            // var content = feature.properties.description;
-                            // var latlng = feature.geometry.coordinates;
-
-                            // Modal Content
-                            $("#modal-title").text(type);
-
-                            $("#modal-type").text(type);
-                            if(details==""||details==null){
-                                $("#modal-body").text("-");
-                            }
-                            else{
-                                $("#modal-body").text(details);
-                            }
-                            $("#modal-location").text(location);
-                            // $("#marker_latlng").text(formatLatLng(latlng));
-
-                            $('#exampleModal').modal('show');
-                            });
-                        }
-                        else if(item.crimeLevel === "3"){
-                           var markers = L.marker(temp,{icon:redIcon}).addTo(mymap);
-                           markers.on('click', function(e) {
-                            // Force close the popup.
-                            // e.layer.closePopup();
-                            $('#exampleModal').modal('show');
-
-                            // var feature = e.layer.feature;
-                            // var title = feature.properties.title;
-                            // var content = feature.properties.description;
-                            // var latlng = feature.geometry.coordinates;
-
-                            // Modal Content
-                            $("#modal-title").text(type);
-
-                            $("#modal-type").text(type);
-                            if(details==""||details==null){
-                                $("#modal-body").text("-");
-                            }
-                            else{
-                                $("#modal-body").text(details);
-                            }
-                            $("#modal-location").text(location);
-                            // $("#marker_latlng").text(formatLatLng(latlng));
-
-                            $('#exampleModal').modal('show');
-                            });
-                        }
-                    }
-                });
-            };
-        } else {
-            console.log("Error");
-        }
-
-        $(document).on('submit', '#validators', function (event) {
-                // "{% csrf_token %}"
-                var $form = $(this),
-                url = $form.attr('action');
-                var paramArr = $("#validators").serializeArray();
-                console.log({ name: "Location", value: $("#modal-location").text()});
-                paramArr.push({ name: "Location", value: $("#modal-location").text()});
-                console.log({ name: "Location", value: $("#modal-location").text()})
-                $.post(url, $.param(paramArr), function (result) {
-                    // alert(result);
-
-                });
-            //    $.ajax({
-            //        type: "POST",
-            //        url: url,
-            //        data: paramArr,
-            //        success: (res)=>{alert(res); 
-            //         if(res.result === 'OK'){
-            //             alert("OK");
-            //         }
-            //     },
-            //        contentType: false,
-            //    });
-                
-                //$('#validators').unbind('submit').submit();
-                return true;
-            });
-        
-
+    <div style="background: white !important;" class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">No.</th>
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Rahul Mistry</td>
+                <td>+918452070570</td>
+                <td>rahulmistry@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Bhandup Village, Bhandup East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>My MI Phone was stolen. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              
+              
+            </tbody>
+          </table> 
+    </div>
+    <div style="background: white !important;" class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
     
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">No.</th>
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Prachit Mhalgi</td>
+                <td>+919594888717</td>
+                <td>prachit@gmail.com</td>
+                <td>Bombing</td>
+                <td>3</td>
+                <td>Chandivali, Andheri East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>Momb Alert received. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Kalpesh Mataghare</td>
+                <td>+919873732123</td>
+                <td>kmataghare@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Railway Station, Mulund West, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>Watch stolen at train station. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              <tr>
+              <th scope="row">3</th>
+              <td>Girish Thatte</td>
+              <td>+918452070570</td>
+              <td>girishthatte@gmail.com</td>
+              <td>Robbery</td>
+              <td>1</td>
+              <td>Appetite-Resto Bar, Powai, Mumbai, Mumbai Suburban, Maharashtra, 400072, IND</td>
+              <td>A lady's bag was stolen by two men on bike.</td>
+              <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>Amisha Waghela</td>
+              <td>+919987718876</td>
+              <td>amishabw@gmail.com</td>
+              <td>Assault</td>
+              <td>1</td>
+              <td>Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</td>
+              <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
+              <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
 
-    </script>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Rahul Mistry</td>
+                <td>+918452070570</td>
+                <td>rahulmistry@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Bhandup Village, Bhandup East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>My MI Phone was stolen. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+
+              
+            </tbody>
+          </table> 
+    </div>
+    </div>
+
+
+
+                        </div>
+                      </div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+   
 
 <script src="{% static 'assets/js/jquery-1.10.2.js' %}"></script>
 <!-- Bootstrap Js -->
