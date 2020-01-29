@@ -1,0 +1,9 @@
+{
+    "name":"Sahyog",
+    "start_url":"/sahyog/index",
+    "display":"standalone",
+    "theme_color": "#ffee00",
+    "background_color":"#FFE9D2",
+    "orientation":"portrait-primary"
+
+}

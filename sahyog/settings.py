@@ -12,8 +12,10 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 import os
 from dotenv import load_dotenv
+import django_heroku
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'sahyog\static\scripts', 'sw.js')
 
 
 # Quick-start development settings - unsuitable for production
@@ -25,7 +27,7 @@ SECRET_KEY = '3quat%ag&%g(^u7^7e+@8^f!sxu9l&7%lze$tmt2^p$u_p&m69'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','dceaa1c6.ngrok.io', '0.0.0.0/0']
+ALLOWED_HOSTS = ['127.0.0.1','0845fe66.ngrok.io', '0.0.0.0/0']
 
 
 # Application definition
@@ -42,6 +44,7 @@ INSTALLED_APPS = [
     'django_twilio',
     'crispy_forms',
     'adminarea',
+    'pwa',
 
 ]
 
@@ -133,3 +136,17 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR,'sahyog/static')
 ]
+
+# PWA stuffs
+# PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'templates/UserViews', 'serviceworkers.js')
+
+PWA_APP_NAME = 'Sahyog'
+PWA_APP_DESCRIPTION = "The Eye of Police"
+PWA_APP_THEME_COLOR = '#0A0302'
+PWA_APP_BACKGROUND_COLOR = '#ffffff'
+PWA_APP_DISPLAY = 'standalone'
+PWA_APP_SCOPE = '/'
+PWA_APP_ORIENTATION = 'any'
+PWA_APP_START_URL = '/sahyog/index'
+
+django_heroku.settings(locals())
