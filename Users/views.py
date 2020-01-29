@@ -238,6 +238,8 @@ def analytics(request):
 def SSE(request):
     locations = dumps(locationDB.find())
     # validators = dumps(validateDB.find())
+    # locations = locations.concat(validators)
+    
     return HttpResponse(
         "data: "+locations+"\n\n",
         

@@ -1,9 +1,10 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 import pymongo
 import os
 from dotenv import load_dotenv
 
-
+from django.http import JsonResponse
+from django.http import HttpResponse
 
 
 
@@ -17,25 +18,50 @@ validateDB = db.Validate
 
 
 
-
 def admindashboard(request):
-    
-
-    return render(request,'adminarea/index.html')
-
-
-def validators(request):
-   
     if request.method == "POST":
         print("POST HITTED")
         location = request.POST.get('Location')
-        print(location)
-        validations = list(validateDB.find({'location':location}))
-        print(validations)
-        return render(request,'adminarea/validators.html',status=200,context={'context':validations})
-
+        # print(location)
+        validations=(list(validateDB.find({'location':location})))
+        print("validations are",validations)
+        return render(request,'adminarea/validators.html', {"validations":validations})
+        # return HttpResponse("Hello")
     else:
-        return redirect('admindashboard')
+        return render(request,'adminarea/index.html')
+
+
+
+# def validators(request):
+   
+    
+#     if request.method == "POST":
+#         print("POST HITTED")
+#         location = request.POST.get('Location')
+#         # print(location)
+#         validations=(list(validateDB.find({'location':location})))
+#         print("validations are",validations)
+#         # if len(validations) == 0 :
+#         #     return render(request,'adminarea/validators.html', {"validations":"nothing"})
+        
+            
+#         return render(request,'adminarea/validators.html', {"validations":validations})
+        
+            
+        
+
+
+
+     
+            
+            
+         
+        
+        
+        
+
+
+    
 
 
 

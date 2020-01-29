@@ -87,13 +87,11 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-                <form id="validators" action="{% url 'validators' %}"  method="POST">{% csrf_token %}
-                        
-                    <input type="submit" value="View Validators">
+                <form id="validators" action="{% url 'admindashboard' %}"  method="POST">
+                    {% csrf_token %}    
+                    <input type="submit" name="validatebutton" value="View Validators" id="submitBtn">
                 </form>
             </div>
-            
-
         </div>
     </div>
 </div>
@@ -249,40 +247,38 @@
 
                             $('#exampleModal').modal('show');
                             });
-
-
                         }
-                        
-                        
-
-
-
                     }
-
                 });
-
             };
         } else {
             console.log("Error");
         }
         $(document).on('submit', '#validators', function (event) {
                 // "{% csrf_token %}"
-                event.preventDefault();
                 var $form = $(this),
-                    url = $form.attr('action');
-                
+                url = $form.attr('action');
                 var paramArr = $("#validators").serializeArray();
                 console.log({ name: "Location", value: $("#modal-location").text()});
-
                 paramArr.push({ name: "Location", value: $("#modal-location").text()});
-                
-                // alert( $("#modal-location").text());
                 console.log({ name: "Location", value: $("#modal-location").text()})
-               
                 $.post(url, $.param(paramArr), function (result) {
-                    // alert(result.status);
+                    // alert(result);
                 });
-                return false;
+            //    $.ajax({
+            //        type: "POST",
+            //        url: url,
+            //        data: paramArr,
+            //        success: (res)=>{alert(res); 
+            //         if(res.result === 'OK'){
+            //             alert("OK");
+            //         }
+            //     },
+            //        contentType: false,
+            //    });
+                
+                //$('#validators').unbind('submit').submit();
+                return true;
             });
         
 
