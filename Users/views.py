@@ -15,6 +15,10 @@ from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 import math, random
+import requests
+import json
+import os
+from dotenv import load_dotenv
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
@@ -58,10 +62,26 @@ def OTPGenerator():
     return OTP 
 
 # @describe: Send an SOS emergency message to users' emergency contacts....
-def SOS(request):
-    if request.session.has_key('username'):
+def sendSOS(request):
+    if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+        lat = request.POST.get('lat')
+        lon = request.POST.get('lon')
+           
+        load_dotenv()
+        place = "Village Road Nahur Police Station"
+        api_key = os.getenv("GOOGLE_APPLICATION_CREDENTIALS") #for getting api key of places API
+
+        place_detail = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key={}'.format(place,api_key)).content
+        place_detail = json.loads(place_detail)
+    
+ 
+
+        print(place_detail)
+
+
+
         return render(request, 'UserViews/SOS.html')
     return HttpResponse("hello")
 
