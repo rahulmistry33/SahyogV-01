@@ -4,7 +4,8 @@ from . import views
 urlpatterns = [
 
 
-	path('index/',views.index, name='index'),
+	path('index/<username>',views.index, name='index'),
+    path('index/',views.index, name='index'),
     path('report/',views.report, name='report'),
     path('SSE/', views.SSE, name='SSE'),
     path('SOS/', views.SOS, name='SOS'),
@@ -18,12 +19,16 @@ urlpatterns = [
     #path('index/',views.index,name='index'),
     # path('random/', views.random, name='random'),
     #path('SOS/', views.SOS, name='SOS'),
-    path('home/<username>', views.home,name="home"),
+    # path('home/<username>', views.home,name="home"),
     path('safey/', views.safey,name="safey"),
     #path('report/', views.report,name="report"),
     path('reportCrime/', views.reportCrime,name="reportCrime"),
+
+
     path('validate/',views.validate,name="validate"),
     path('validateCrime/',views.validateCrime,name="validateCrime"),
+
+
 
 
     

@@ -46,22 +46,6 @@ def admindashboard(request):
         
             
 #         return render(request,'adminarea/validators.html', {"validations":validations})
-        
-            
-        
-
-
-
-     
-            
-            
-         
-        
-        
-        
-
-
-    
 
 
 

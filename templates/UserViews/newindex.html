@@ -18,11 +18,12 @@
 	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
-	
+
 	<!-- SLEEK CSS -->
 	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{% static 'style.css'%}">
 	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -35,7 +36,6 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
-	
 
 	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
@@ -43,44 +43,59 @@
 	.mdi {
 		color: #ffaa00 !important;
 	}
-	.page-wrapper {
-      background: url("{% static 'india1.jpg' %}");
-      /* background-repeat: no-repeat;
+
+	body,
+	html {
+		background: url("{% static 'india1.jpg' %}");
+		/* background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed; */
-      
-	  background-position: center;
-	  /* overflow: hidden;
-	  margin: 0;
-	  height: 100%; */
-    }
-  
-      
-    .btn {
-      background-color: black;
-      border: 2px solid #ff9800;
-      border-color: #ff9800;
-      padding: 10px;
-      margin: 20px;
-      font-family: georgia;
-      border-radius: 10px;
-      /*margin-top: 50vh;*/
-      font-size: 20px;
-    }
-  
-    .btn:hover {
-      background-color: #ffc400;
-    }
 
-    .sos{
-        background-color: black;
-        border-color: red;
-        color: white;
-    }
-    .sos:hover{
-        background-color: red;
-        color: white;
-    }
+		background-position: center;
+	}
+
+	#overlay {
+		position: fixed;
+		/* display: none; */
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: rgba(0, 0, 0, 0.5);
+		z-index: 2;
+		cursor: pointer;
+		text-align: center;
+	}
+
+
+	.btn {
+		background-color: transparent;
+		border: 2px solid #ff9800;
+		border-color: #ff9800;
+		padding: 10px;
+		margin: 10px;
+		font-family: georgia;
+		border-radius: 10px;
+		/*margin-top: 50vh;*/
+		font-size: 20px;
+	}
+
+	.btn:hover {
+		background-color: #ffc400;
+	}
+
+	.sos {
+		background-color: black;
+		border-color: red;
+		color: white;
+	}
+
+	.sos:hover {
+		background-color: red;
+		color: white;
+	}
 </style>
 
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
@@ -107,8 +122,9 @@
 					<ul class="nav sidebar-inner" id="sidebar-menu">
 
 
-						<li class="has-sub  ">
-							<a class="sidenav-item-link" href="/sahyog/index/" >
+
+						<li class="has-sub active expand">
+							<a class="sidenav-item-link" href="/sahyog/index/">
 								<i class="mdi mdi-view-dashboard-outline"></i>
 								<span class="nav-text">Home</span>
 							</a>
@@ -119,9 +135,9 @@
 
 
 						<li class="has-sub">
-                            <a class="sidenav-item-link" href="/sahyog/report/" >
-                                <i class="mdi mdi-image-filter-none"></i>
-								
+							<a class="sidenav-item-link" href="/sahyog/report/">
+								<i class="mdi mdi-image-filter-none"></i>
+
 								<span class="nav-text">Report</span>
 							</a>
 
@@ -133,16 +149,16 @@
 
 
 						<li class="has-sub">
-							<a class="sidenav-item-link" href="/sahyog/validate/" >
+							<a class="sidenav-item-link" href="/sahyog/validate/">
 								<i class="mdi mdi-check"></i>
 								<span class="nav-text">Validate</span>
 							</a>
 
-                        </li>
+						</li>
 
-					
 
-                        <li class="has-sub">
+
+						<li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/safey/">
 								<i class="mdi mdi-map-marker-multiple"></i>
 								<span class="nav-text">Safe Route</span>
@@ -153,19 +169,25 @@
 
 
 
-                        <li class="has-sub active">
-							<a class="sidenav-item-link" href="/sahyog/analytics" >
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/analytics">
 								<i class="mdi mdi-chart-line"></i>
 								<span class="nav-text">Analytics</span>
 							</a>
 						</li>
 
+
+
 						<li class="has-sub">
-							<a class="sidenav-item-link"  href="/sahyog/logout">
+							<a class="sidenav-item-link" href="/sahyog/logout">
 								<i class="mdi mdi-logout"></i>
-									<span class="nav-text">Logout</span>
+								<span class="nav-text">Logout</span>
 							</a>
-							</li>
+						</li>
+
+
+
+
 
 
 
@@ -201,18 +223,20 @@
 
 
 
-		<div class="page-wrapper" style="background-color: #323232; ">
+		<div class="page-wrapper">
 			<!-- Header -->
 			<header class="main-header " id="header">
-				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
+				<nav style="background-color: transparent; border: none;"
+					class="navbar navbar-static-top navbar-expand-lg">
 					<!-- Sidebar toggle button -->
-					<button style="background-color: transparent; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
+					<button style="background-color: black; border: none; color: white;" id="sidebar-toggler"
+						class="sidebar-toggle">
 						<span class="sr-only">Toggle navigation</span>
 					</button>
 					<!-- search form -->
 					<div class="search-form d-none d-lg-inline-block">
 						<div class="input-group">
-							
+
 						</div>
 						<div id="search-results-container">
 							<ul id="search-results"></ul>
@@ -221,104 +245,86 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							<!-- <a href="/sahyog/SOS/"  class="btn sos">SOS</a> -->
+							<form id="reportcrime" action="{% url 'sendSOS' %}" method="POST">
+								<button type="submit" class="btn sos">SOS</button>
+							</form>
 							{% if  username  %}
 							<a href="" class="btn btn-dark">{{username}}</a>
 							{% else %}
-                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
+							<a href="/sahyog/register/" class="btn btn-dark">Register</a>
 							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
 							{% endif %}
+
 						</ul>
 					</div>
 				</nav>
 
 
 			</header>
-			<div class="content-wrapper"  >
-				<div class="content" >
-					<div class="row">
+			<div class="content-wrapper">
+				<div class="content">
+					<div id="overlay">
+						<img src="{% static 'map.svg' %}" style=" margin-top: 25vh; width: 130px; height: 150px;">
 
+						<h1 style="color: white; font-family: Open Sans Light; font-size: 60px; ">Sahyog</h1><br>
 
-						<div class="col-xl-8 col-md-12">
-							<div class="card card-default" data-scroll-height="675">
-								<div class="card-header justify-content-center">
-									<h2>Statewise Analysis</h2>
-								</div>
-								<div class="chart-container">
-									<canvas id="myChart"></canvas>
-
-								</div>
-								<a href="#" class="pb-5 d-block text-center text-muted"><i
-										class="mdi mdi-download mr-2"></i> Download overall report</a>
-								<div class="card-footer d-flex flex-wrap bg-white p-0">
-									<div class="col-6">
-										<div class="py-4 px-4">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #4c84ff"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #80e1c1 "></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-6 border-left">
-										<div class="py-4 px-4 ">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #8061ef"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #ffa128"></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- <div class="chart-container" style="position: relative; height:40vh; width:50vw;">
-			</div> -->
-						</div>
-						<div class="col-xl-4 col-md-12">
-							<!-- Doughnut Chart -->
-
-							<div class="card card-default" data-scroll-height="675">
-								<div class="card-header justify-content-center">
-									<h2>Crime Overview</h2>
-								</div>
-								<div class="card-body">
-									<canvas id="doChart"></canvas>
-								</div>
-								<a href="#" class="pb-5 d-block text-center text-muted"><i
-										class="mdi mdi-download mr-2"></i> Download overall report</a>
-								<div class="card-footer d-flex flex-wrap bg-white p-0">
-									<div class="col-6">
-										<div class="py-4 px-4">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #4c84ff"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #80e1c1 "></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-6 border-left">
-										<div class="py-4 px-4 ">
-											<ul class="d-flex flex-column justify-content-between">
-												<li class="mb-2"><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #8061ef"></i>lorem ipsum</li>
-												<li><i class="mdi mdi-checkbox-blank-circle-outline mr-2"
-														style="color: #ffa128"></i>lorem ipsum</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
 
 					</div>
 				</div>
 			</div>
 		</div>
 
+		<script>
+			var lat, lan;
+			navigator.geolocation.getCurrentPosition(function (location) {
+				lat = location.coords.latitude;
+				lon = location.coords.longitude;
 
+			});
+
+			// L.marker(latlng).addTo(mymap);
+
+
+
+
+			$(document).on('submit', '#sendSOS', function (event) {
+				event.preventDefault();
+				var $form = $(this),
+					url = $form.attr('action');
+				var paramArr = $("#sendSOS").serializeArray();
+
+				var HttpClient = function () {
+					this.get = function (aUrl, aCallback) {
+						var anHttpRequest = new XMLHttpRequest();
+						anHttpRequest.onreadystatechange = function () {
+							if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+								aCallback(anHttpRequest.responseText);
+						}
+
+						anHttpRequest.open("GET", aUrl, true);
+						anHttpRequest.send(null);
+					}
+				}
+				var reverseGeocoderAPISrc = new HttpClient();
+				reverseGeocoderAPISrc.get('https://reverse.geocoder.api.here.com/6.2/reversegeocode.json?app_id=zeI2BlhgRBZQiOrhtS1i&app_code=tS_8ziIKRg9jQkw_4lmezw&prox=' + newLat + ',' + newLon + ',' + radius + '&mode=retrieveAddresses&maxresults=1', function (response) {
+					// do something with response
+					let result = JSON.parse(response);
+					var location = result.Response.View[0].Result[0];
+					var content = location.Location.Address.Label;
+					paramArr.push({ name: "address", value: content });
+					alert(content);
+				});
+
+
+
+				$.post(url, $.param(paramArr), function (result) {
+					alert('success');
+				});
+				return false;
+			});
+
+		</script>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
@@ -346,52 +352,7 @@
 		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
 
-		<script type="text/javascript">
-			Chart.defaults.global.defaultFontFamily = 'Roboto Slab';
 
-			window.onload = () => {
-				var ctx = document.getElementById('myChart').getContext('2d');
-				var myChart = new Chart(ctx, {
-					type: 'bar',
-					data: {
-						labels: ['Mumbai', 'Chennai', 'Delhi', 'Hyderabad', 'Kolkata', 'Ahemdabad'],
-						datasets: [{
-							label: 'No. of Crimes',
-							data: [120, 190, 300, 410, 150, 40],
-							backgroundColor: [
-								'rgba(255, 99, 132, 0.2)',
-								'rgba(54, 162, 235, 0.2)',
-								'rgba(255, 206, 86, 0.2)',
-								'rgba(75, 192, 192, 0.2)',
-								'rgba(153, 102, 255, 0.2)',
-								'rgba(255, 159, 64, 0.2)'
-							],
-							borderColor: [
-								'rgba(255, 99, 132, 1)',
-								'rgba(54, 162, 235, 1)',
-								'rgba(255, 206, 86, 1)',
-								'rgba(75, 192, 192, 1)',
-								'rgba(153, 102, 255, 1)',
-								'rgba(255, 159, 64, 1)'
-							],
-							borderWidth: 1
-						}]
-					},
-					options: {
-						title: {
-							display: true,
-							text: 'No. of Crimes in Cities',
-							fontStyle: 'bold',
-							fontSize: 25
-						},
-						legend: {
-							display: false,
-						}
-					}
-				});
-			};
-
-		</script>
 </body>
 
 </html>

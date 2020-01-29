@@ -1,0 +1,122 @@
+<html>
+
+<head>
+    <title>A Leaflet map!</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+        integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
+        integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg=="
+        crossorigin=""></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="leafletHeatMap.js">
+
+
+    </script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        #map {
+            height: 100%
+        }
+    </style>
+    <style type="text/css">
+        .modal-backdrop {
+            opacity: 0.5 !important;
+        }
+
+        body {
+            margin: 0;
+            height: 2000px;
+        }
+
+        .icon-bar {
+            position: fixed;
+            top: 25%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+
+        .icon-bar a {
+            display: block;
+            text-align: center;
+            padding: 16px;
+            transition: all 0.3s ease;
+
+            color: #232323;
+            font-size: 30px;
+        }
+
+        .icon-bar a:hover {
+            background-color: #000;
+            color: white;
+        }
+
+        .greyicon {
+            background: #ffc400;
+
+        }
+
+
+        .content {
+            margin-left: 75px;
+            font-size: 30px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="icon-bar">
+        <a href="#" class="greyicon"><i class="fa fa-clock-o"></i></a>
+        <a href="#" class="greyicon"><i class="fa fa-map-marker"></i></a>
+        <a href="#" class="greyicon"><i class="fa fa-map-pin"></i></a>
+        <!-- <a href="#" class="greyicon"><i class="fa fa-linkedin"></i></a>
+        <a href="#" class="greyicon"><i class="fa fa-youtube"></i></a> -->
+    </div>
+    <div class="content">
+
+        <div id="map"></div>
+
+        <script>
+
+            // initialize the map
+            var map = L.map('map').setView(new L.LatLng(19.7515, 75.7139), 13);
+
+            // load a tile layer
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(map);
+
+            var latLon = L.latLng(19.7515, 75.7139);
+            var bounds = latLon.toBounds(1000000); // 500 = metres
+            map.panTo(latLon).fitBounds(bounds);
+            map.panBy([100, 800])
+
+
+            var temp = new L.LatLng(19.7515, 75.7139);
+            var markers = L.marker(temp).addTo(map);
+
+            $.getJSON("crimeDataMaharashtra.geojson", function (data) {
+                var locations = data.features.map(function (rat) {
+                    // the heatmap plugin wants an array of each location
+                    var location = rat.geometry.coordinates.reverse();
+
+                    location.push(parseInt(rat.crime.womenAssault * 5));
+                    return location; // e.g. [50.5, 30.5, 0.2], // lat, lng, intensity
+                });
+                //locations= [[19.2183,72.9781,100],[19.1726,72.9425,100]];
+                var heat = L.heatLayer(locations, { radius: 20 });
+                map.addLayer(heat);
+
+            });
+
+
+
+        </script>
+    </div>
+</body>
+
+</html>

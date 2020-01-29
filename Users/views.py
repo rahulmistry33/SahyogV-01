@@ -15,6 +15,10 @@ from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 import math, random
+import requests
+import json
+import os
+from dotenv import load_dotenv
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
@@ -23,38 +27,31 @@ locationDB = db.Location
 userDB = db.User
 validateDB = db.Validate
 
-class RegisterForm(UserCreationForm):
-    first_name = forms.CharField(required=True)
-    last_name = forms.CharField()
-    email = forms.EmailField(required=True, max_length=60)
-    phone_number = forms.CharField(required=True, max_length=13)
-    home_address = forms.CharField(required=True)
-    work_address = forms.CharField(required=True)
-    emergency_contact_1 = forms.CharField(required=True, max_length=13)
-    emergency_contact_2 = forms.CharField(required=True, max_length=13)
-
+class RegisterForm(forms.ModelForm):
+    phone_number = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
+    password1 = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+    name = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
+    email = forms.EmailField(required=True, max_length=30,widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_1 = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
+    emergency_contact_2 = forms.CharField(required=True, max_length=13,widget=forms.TextInput(attrs={'class': "form-control"}))
     class Meta:
         model = User
         fields = (
-            'username',
-            'first_name',
-            'last_name',
-            'email',
-            'password1',
-            'password2',
             'phone_number',
-            'home_address',
-            'work_address',
+            'password1',
+            'name',
+            'email',
             'emergency_contact_1',
-            'emergency_contact_2'
+            'emergency_contact_2',
+            
         )
 
 class LoginForm(forms.ModelForm):
-    username = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
+    phone = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
     password = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': "form-control"}))
     class Meta:
         model = User
-        fields = ('username', 'password')
+        fields = ('phone', 'password')
 
 def sendSMS(to, body):
     to = to
@@ -73,10 +70,26 @@ def OTPGenerator():
     return OTP 
 
 # @describe: Send an SOS emergency message to users' emergency contacts....
-def SOS(request):
-    if request.session.has_key('username'):
+def sendSOS(request):
+    if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
+        lat = request.POST.get('lat')
+        lon = request.POST.get('lon')
+           
+        load_dotenv()
+        place = "Village Road Nahur Police Station"
+        api_key = os.getenv("GOOGLE_APPLICATION_CREDENTIALS") #for getting api key of places API
+
+        place_detail = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key={}'.format(place,api_key)).content
+        place_detail = json.loads(place_detail)
+    
+ 
+
+        print(place_detail)
+
+
+
         return render(request, 'UserViews/SOS.html')
     return HttpResponse("hello")
 
@@ -104,22 +117,27 @@ def SOS(request):
 
 
 
+def getstart(request):
+    return render(request,'UserViews/getstart.html')
 
-
-
+def index(request,username=None):
+    if request.session.has_key('username'):
+         return render(request, 'UserViews/newindex.html',{"username":request.session["name"]})
+    else: 
+        return render(request, 'UserViews/newindex.html',{"username":None})
 
 
 def safey(request):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/safey.html')
+        return render(request, 'UserViews/safey.html',{"username":request.session["name"]})
     else:
-        return render(request,'UserViews/index.html')
+        return render(request, 'UserViews/safey.html',{"username":None})
 
 def report(request):
     if request.session.has_key('username'):
-        return render(request, 'UserViews/report.html')
+        return render(request, 'UserViews/report.html',{"username":request.session["name"]})
     else:
-        return render(request,'UserViews/index.html')
+        return redirect(index,None)
 
 
 
@@ -130,21 +148,21 @@ def register(request):
         form = RegisterForm(request.POST)
         if form.is_valid():
             user = {
-                "username": form.cleaned_data["username"], 
-                "fname": form.cleaned_data["first_name"],
-                "lname": form.cleaned_data["last_name"],
+                # "username": form.cleaned_data["username"], 
+                # "fname": form.cleaned_data["first_name"],
+                "name": form.cleaned_data["name"],
                 "email": form.cleaned_data["email"],
-                "password": form.cleaned_data["password2"],
+                "password": form.cleaned_data["password1"],
                 "phone": '+91'+ form.cleaned_data["phone_number"],
-                "home": form.cleaned_data["home_address"],
-                "work": form.cleaned_data["work_address"],
+                # "home": form.cleaned_data["home_address"],
+                # "work": form.cleaned_data["work_address"],
                 "ec1": '+91'+ form.cleaned_data["emergency_contact_1"],
                 "ec2": '+91'+ form.cleaned_data["emergency_contact_2"]
             }
             return redirect(validateOTP, json.dumps(user))
     else:
         if request.session.has_key('username'):
-            return home(request,request.session['username'])
+            return index(request,request.session['name'])
         form = RegisterForm()
     return render(request, 'UserViews/register.html', {"form": form})
 
@@ -156,10 +174,12 @@ def validateOTP(request, user):
         otp = request.POST.get('otp')
         if otp == request.session["otp"]:
             userDB.insert_one(userObj)
-            request.session['username'] = userObj["username"]
+            request.session['username'] = userObj["phone"]
+            request.session['name'] = userObj["name"]
+            request.session['email'] = userObj["email"]
             request.session['ec1'] = userObj["ec1"]
             request.session['ec2'] = userObj["ec2"]
-            return redirect(home, request.session["username"])
+            return redirect(index, request.session["name"])
 
     request.session["otp"] = OTPGenerator()
     msg = 'Your OTP is '+request.session['otp']
@@ -169,32 +189,40 @@ def validateOTP(request, user):
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
-        return redirect(home, {"username": request.session['username']})
+        return redirect(index, {"username": request.session['name']})
     else:
         if request.method=="POST":
             form = LoginForm(request.POST)
             if form.is_valid():
-                try:
-                    username = form.cleaned_data["username"]
-                    user = userDB.find_one({"username": username})
+                # try:
+                    username = form.cleaned_data["phone"]
+                    print("phone ",username)
+                    username="+91"+username
+                    user = userDB.find_one({"phone": username})
+                    print("userpass: "+user["password"]+" formpass: "+form.cleaned_data["password"])
                     if user["password"] == form.cleaned_data["password"]:
                         request.session["username"] = username
+                        request.session['name'] = user["name"]
+                        request.session['email'] = user["email"]
                         request.session["ec1"] = user["ec1"]
                         request.session["ec2"] = user["ec2"]
-                        return redirect(home, username)
-                except:
-                    return redirect(register)
+                        print("validdd")
+                        return redirect(index,request.session['name'])
+                # except:
+                #     return redirect(register)
             else:
+                print("form not valid")
                 return render(request, 'UserViews/login.html', {"form": form})
         else:
             form = LoginForm()
+        print("reached")
         return render(request, 'UserViews/login.html', {"form": form})
 
-def home(request, username):
-    if request.session.has_key('username'):
-        return render(request, 'UserViews/home.html', {"username": username})
-    else: 
-        return redirect(index)
+# def home(request, username):
+#     if request.session.has_key('username'):
+#         return render(request, 'UserViews/home.html', {"username": username})
+#     else: 
+#         return redirect(index)
 
 def logout(request):
    try:
@@ -203,11 +231,7 @@ def logout(request):
       pass
    return redirect(index)
 
-def index(request):
-    if request.session.has_key('username'):
-        return home(request,request.session['username'])
-    else: 
-        return render(request, 'UserViews/index.html')
+
 
 def reportCrime(request):
     if request.method == "POST":
@@ -231,7 +255,11 @@ def reportCrime(request):
 # Analyse statistics dashboard...
 def analytics(request):
     locations = list(locationDB.find({"severity": "2"}))
-    return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations), "username": request.session['name']})
+    else:
+        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
+    
 
 # A function for server sent events.... 
 # @describe: Add new markers dynamically on to map, without refreshing page...
@@ -247,7 +275,11 @@ def SSE(request):
     )
 
 def validate(request):
-    return render(request,'UserViews/validate.html')
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/validate.html',{"username":request.session["name"]})
+    else:
+        return redirect(index,None)
+
 
 
 def validateCrime(request):
@@ -258,11 +290,13 @@ def validateCrime(request):
         if check == None:
             data = userDB.find({'username' :username})
             count = 0
+
             for items in data:
-                fname = items['fname']
-                lname = items['lname']
+                name = items['name']
+                # lname = items['lname']
                 email = items['email']
-                phone = items['phone']
+                # phone = items['phone']
+
                 # count = items['count']
             # print(fname,lname,email,phone)
             temp = (locationDB.find({"location":location}))
@@ -308,7 +342,11 @@ def validateCrime(request):
             
             # for count in counts:
             #     count = count +1
-            validation = {"username" : username,"fname":fname,"lname":lname,"email":email,"phone":phone,"location":location}
+
+            # validation = {"username" : username,"location":location}
+
+            validation = {"username" : username,"name":name,"email":email,"location":location}
+ 
             validateDB.insert_one(validation)
             return HttpResponse(json.dumps({'status':'You have successfully validated this crime.'}),content_type='application/json')
         else:
@@ -316,7 +354,8 @@ def validateCrime(request):
 
         
     else:
-        return render(request,'UserViews/validate.html')
+        return redirect(validate)
+
 
 
 
