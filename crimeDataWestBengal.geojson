@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "202",
+        "homicide": "61",
+        "rape": "53",
+        "kidnapping": "81",
+        "dacoity": "14",
+        "robbery": "56",
+        "burglary": "46",
+        "vehicleTheft": "459",
+        "riots": "285",
+        "dowryDeaths": "23",
+        "womenAssault": "63",
+        "total": "6167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "107",
+        "homicide": "75",
+        "rape": "47",
+        "kidnapping": "53",
+        "dacoity": "15",
+        "robbery": "33",
+        "burglary": "16",
+        "vehicleTheft": "274",
+        "riots": "327",
+        "dowryDeaths": "48",
+        "womenAssault": "54",
+        "total": "5827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "5",
+        "riots": "12",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "12",
+        "rape": "26",
+        "kidnapping": "7",
+        "dacoity": "10",
+        "robbery": "30",
+        "burglary": "6",
+        "vehicleTheft": "15",
+        "riots": "66",
+        "dowryDeaths": "22",
+        "womenAssault": "28",
+        "total": "1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "25",
+        "rape": "43",
+        "kidnapping": "43",
+        "dacoity": "7",
+        "robbery": "30",
+        "burglary": "18",
+        "vehicleTheft": "44",
+        "riots": "282",
+        "dowryDeaths": "4",
+        "womenAssault": "43",
+        "total": "2213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "133",
+        "homicide": "43",
+        "rape": "46",
+        "kidnapping": "45",
+        "dacoity": "24",
+        "robbery": "42",
+        "burglary": "28",
+        "vehicleTheft": "67",
+        "riots": "237",
+        "dowryDeaths": "32",
+        "womenAssault": "85",
+        "total": "4693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "19",
+        "rape": "10",
+        "kidnapping": "31",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "2",
+        "vehicleTheft": "9",
+        "riots": "41",
+        "dowryDeaths": "4",
+        "womenAssault": "37",
+        "total": "1011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "28",
+        "rape": "20",
+        "kidnapping": "21",
+        "dacoity": "8",
+        "robbery": "21",
+        "burglary": "17",
+        "vehicleTheft": "134",
+        "riots": "40",
+        "dowryDeaths": "2",
+        "womenAssault": "26",
+        "total": "1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "33",
+        "rape": "29",
+        "kidnapping": "41",
+        "dacoity": "8",
+        "robbery": "28",
+        "burglary": "15",
+        "vehicleTheft": "44",
+        "riots": "363",
+        "dowryDeaths": "10",
+        "womenAssault": "39",
+        "total": "3020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "8",
+        "rape": "2",
+        "kidnapping": "11",
+        "dacoity": "5",
+        "robbery": "3",
+        "burglary": "1",
+        "vehicleTheft": "45",
+        "riots": "45",
+        "dowryDeaths": "8",
+        "womenAssault": "13",
+        "total": "1195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "11",
+        "rape": "7",
+        "kidnapping": "17",
+        "dacoity": "3",
+        "robbery": "16",
+        "burglary": "6",
+        "vehicleTheft": "163",
+        "riots": "79",
+        "dowryDeaths": "5",
+        "womenAssault": "6",
+        "total": "1438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "152",
+        "homicide": "60",
+        "rape": "54",
+        "kidnapping": "33",
+        "dacoity": "36",
+        "robbery": "58",
+        "burglary": "27",
+        "vehicleTheft": "51",
+        "riots": "84",
+        "dowryDeaths": "2",
+        "womenAssault": "47",
+        "total": "2321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "8",
+        "rape": "19",
+        "kidnapping": "121",
+        "dacoity": "26",
+        "robbery": "149",
+        "burglary": "148",
+        "vehicleTheft": "1061",
+        "riots": "275",
+        "dowryDeaths": "6",
+        "womenAssault": "165",
+        "total": "11970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "34",
+        "rape": "40",
+        "kidnapping": "38",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "10",
+        "vehicleTheft": "29",
+        "riots": "52",
+        "dowryDeaths": "5",
+        "womenAssault": "48",
+        "total": "1859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "120",
+        "homicide": "44",
+        "rape": "84",
+        "kidnapping": "74",
+        "dacoity": "16",
+        "robbery": "59",
+        "burglary": "39",
+        "vehicleTheft": "108",
+        "riots": "363",
+        "dowryDeaths": "58",
+        "womenAssault": "54",
+        "total": "4617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "130",
+        "homicide": "38",
+        "rape": "66",
+        "kidnapping": "52",
+        "dacoity": "21",
+        "robbery": "31",
+        "burglary": "10",
+        "vehicleTheft": "23",
+        "riots": "109",
+        "dowryDeaths": "12",
+        "womenAssault": "36",
+        "total": "2683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "124",
+        "homicide": "34",
+        "rape": "71",
+        "kidnapping": "91",
+        "dacoity": "28",
+        "robbery": "23",
+        "burglary": "10",
+        "vehicleTheft": "2",
+        "riots": "227",
+        "dowryDeaths": "10",
+        "womenAssault": "77",
+        "total": "3623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "5",
+        "rape": "23",
+        "kidnapping": "17",
+        "dacoity": "7",
+        "robbery": "20",
+        "burglary": "5",
+        "vehicleTheft": "1",
+        "riots": "70",
+        "dowryDeaths": "3",
+        "womenAssault": "48",
+        "total": "1292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "21",
+        "rape": "31",
+        "kidnapping": "41",
+        "dacoity": "19",
+        "robbery": "7",
+        "burglary": "8",
+        "vehicleTheft": "27",
+        "riots": "44",
+        "dowryDeaths": "4",
+        "womenAssault": "31",
+        "total": "1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "204",
+        "homicide": "47",
+        "rape": "88",
+        "kidnapping": "91",
+        "dacoity": "10",
+        "robbery": "60",
+        "burglary": "21",
+        "vehicleTheft": "467",
+        "riots": "248",
+        "dowryDeaths": "29",
+        "womenAssault": "84",
+        "total": "6894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "140",
+        "homicide": "62",
+        "rape": "68",
+        "kidnapping": "67",
+        "dacoity": "19",
+        "robbery": "26",
+        "burglary": "13",
+        "vehicleTheft": "312",
+        "riots": "218",
+        "dowryDeaths": "53",
+        "womenAssault": "64",
+        "total": "5965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "4",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "1",
+        "vehicleTheft": "15",
+        "riots": "8",
+        "dowryDeaths": "2",
+        "womenAssault": "1",
+        "total": "363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "14",
+        "rape": "19",
+        "kidnapping": "12",
+        "dacoity": "12",
+        "robbery": "9",
+        "burglary": "6",
+        "vehicleTheft": "5",
+        "riots": "61",
+        "dowryDeaths": "20",
+        "womenAssault": "22",
+        "total": "1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "23",
+        "rape": "36",
+        "kidnapping": "28",
+        "dacoity": "3",
+        "robbery": "11",
+        "burglary": "5",
+        "vehicleTheft": "34",
+        "riots": "150",
+        "dowryDeaths": "1",
+        "womenAssault": "50",
+        "total": "2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "38",
+        "rape": "53",
+        "kidnapping": "48",
+        "dacoity": "13",
+        "robbery": "27",
+        "burglary": "23",
+        "vehicleTheft": "58",
+        "riots": "150",
+        "dowryDeaths": "21",
+        "womenAssault": "59",
+        "total": "4129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "16",
+        "rape": "20",
+        "kidnapping": "26",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "12",
+        "riots": "35",
+        "dowryDeaths": "14",
+        "womenAssault": "31",
+        "total": "1114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "22",
+        "rape": "22",
+        "kidnapping": "23",
+        "dacoity": "10",
+        "robbery": "24",
+        "burglary": "6",
+        "vehicleTheft": "117",
+        "riots": "25",
+        "dowryDeaths": "1",
+        "womenAssault": "21",
+        "total": "1881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "25",
+        "rape": "32",
+        "kidnapping": "36",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "13",
+        "vehicleTheft": "62",
+        "riots": "309",
+        "dowryDeaths": "5",
+        "womenAssault": "26",
+        "total": "2773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "11",
+        "rape": "6",
+        "kidnapping": "8",
+        "dacoity": "8",
+        "robbery": "8",
+        "burglary": "3",
+        "vehicleTheft": "38",
+        "riots": "64",
+        "dowryDeaths": "9",
+        "womenAssault": "9",
+        "total": "1359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "9",
+        "rape": "10",
+        "kidnapping": "24",
+        "dacoity": "4",
+        "robbery": "16",
+        "burglary": "2",
+        "vehicleTheft": "106",
+        "riots": "43",
+        "dowryDeaths": "5",
+        "womenAssault": "7",
+        "total": "1258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "54",
+        "rape": "38",
+        "kidnapping": "22",
+        "dacoity": "13",
+        "robbery": "27",
+        "burglary": "9",
+        "vehicleTheft": "58",
+        "riots": "52",
+        "dowryDeaths": "3",
+        "womenAssault": "54",
+        "total": "1924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "15",
+        "rape": "33",
+        "kidnapping": "107",
+        "dacoity": "18",
+        "robbery": "166",
+        "burglary": "190",
+        "vehicleTheft": "980",
+        "riots": "242",
+        "dowryDeaths": "4",
+        "womenAssault": "160",
+        "total": "10663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "32",
+        "rape": "33",
+        "kidnapping": "39",
+        "dacoity": "3",
+        "robbery": "8",
+        "burglary": "1",
+        "vehicleTheft": "47",
+        "riots": "28",
+        "dowryDeaths": "5",
+        "womenAssault": "60",
+        "total": "1611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "123",
+        "homicide": "53",
+        "rape": "62",
+        "kidnapping": "37",
+        "dacoity": "15",
+        "robbery": "24",
+        "burglary": "6",
+        "vehicleTheft": "39",
+        "riots": "133",
+        "dowryDeaths": "8",
+        "womenAssault": "58",
+        "total": "2631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "99",
+        "homicide": "38",
+        "rape": "79",
+        "kidnapping": "82",
+        "dacoity": "18",
+        "robbery": "23",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "228",
+        "dowryDeaths": "13",
+        "womenAssault": "90",
+        "total": "3786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "24",
+        "rape": "53",
+        "kidnapping": "47",
+        "dacoity": "16",
+        "robbery": "24",
+        "burglary": "9",
+        "vehicleTheft": "53",
+        "riots": "167",
+        "dowryDeaths": "22",
+        "womenAssault": "35",
+        "total": "2587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "8",
+        "rape": "15",
+        "kidnapping": "14",
+        "dacoity": "6",
+        "robbery": "15",
+        "burglary": "3",
+        "vehicleTheft": "3",
+        "riots": "53",
+        "dowryDeaths": "4",
+        "womenAssault": "51",
+        "total": "1158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "17",
+        "rape": "20",
+        "kidnapping": "26",
+        "dacoity": "10",
+        "robbery": "5",
+        "burglary": "6",
+        "vehicleTheft": "22",
+        "riots": "48",
+        "dowryDeaths": "10",
+        "womenAssault": "26",
+        "total": "1325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "193",
+        "homicide": "50",
+        "rape": "92",
+        "kidnapping": "119",
+        "dacoity": "29",
+        "robbery": "73",
+        "burglary": "29",
+        "vehicleTheft": "615",
+        "riots": "243",
+        "dowryDeaths": "24",
+        "womenAssault": "105",
+        "total": "7351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "125",
+        "homicide": "60",
+        "rape": "89",
+        "kidnapping": "81",
+        "dacoity": "8",
+        "robbery": "30",
+        "burglary": "7",
+        "vehicleTheft": "253",
+        "riots": "250",
+        "dowryDeaths": "47",
+        "womenAssault": "105",
+        "total": "6556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "5",
+        "rape": "8",
+        "kidnapping": "11",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "8",
+        "vehicleTheft": "15",
+        "riots": "37",
+        "dowryDeaths": "4",
+        "womenAssault": "19",
+        "total": "1327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "11",
+        "rape": "43",
+        "kidnapping": "11",
+        "dacoity": "11",
+        "robbery": "9",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "51",
+        "dowryDeaths": "20",
+        "womenAssault": "31",
+        "total": "1341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "25",
+        "rape": "48",
+        "kidnapping": "35",
+        "dacoity": "4",
+        "robbery": "16",
+        "burglary": "10",
+        "vehicleTheft": "60",
+        "riots": "174",
+        "dowryDeaths": "13",
+        "womenAssault": "51",
+        "total": "1845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "98",
+        "homicide": "25",
+        "rape": "61",
+        "kidnapping": "33",
+        "dacoity": "8",
+        "robbery": "25",
+        "burglary": "17",
+        "vehicleTheft": "41",
+        "riots": "169",
+        "dowryDeaths": "26",
+        "womenAssault": "51",
+        "total": "3209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "12",
+        "rape": "31",
+        "kidnapping": "32",
+        "dacoity": "3",
+        "robbery": "5",
+        "burglary": "3",
+        "vehicleTheft": "16",
+        "riots": "18",
+        "dowryDeaths": "8",
+        "womenAssault": "40",
+        "total": "870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "16",
+        "rape": "24",
+        "kidnapping": "26",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "6",
+        "vehicleTheft": "148",
+        "riots": "15",
+        "dowryDeaths": "3",
+        "womenAssault": "20",
+        "total": "1720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "31",
+        "rape": "39",
+        "kidnapping": "34",
+        "dacoity": "18",
+        "robbery": "29",
+        "burglary": "25",
+        "vehicleTheft": "84",
+        "riots": "318",
+        "dowryDeaths": "14",
+        "womenAssault": "25",
+        "total": "3031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "15",
+        "rape": "9",
+        "kidnapping": "11",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "2",
+        "vehicleTheft": "46",
+        "riots": "47",
+        "dowryDeaths": "12",
+        "womenAssault": "7",
+        "total": "1113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "12",
+        "rape": "6",
+        "kidnapping": "12",
+        "dacoity": "5",
+        "robbery": "21",
+        "burglary": "2",
+        "vehicleTheft": "87",
+        "riots": "29",
+        "dowryDeaths": "5",
+        "womenAssault": "11",
+        "total": "1417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "108",
+        "homicide": "56",
+        "rape": "60",
+        "kidnapping": "29",
+        "dacoity": "7",
+        "robbery": "22",
+        "burglary": "7",
+        "vehicleTheft": "86",
+        "riots": "59",
+        "dowryDeaths": "4",
+        "womenAssault": "75",
+        "total": "2301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "13",
+        "rape": "36",
+        "kidnapping": "108",
+        "dacoity": "33",
+        "robbery": "173",
+        "burglary": "144",
+        "vehicleTheft": "929",
+        "riots": "200",
+        "dowryDeaths": "16",
+        "womenAssault": "185",
+        "total": "10714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "20",
+        "rape": "57",
+        "kidnapping": "24",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "10",
+        "vehicleTheft": "42",
+        "riots": "46",
+        "dowryDeaths": "4",
+        "womenAssault": "67",
+        "total": "1747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "116",
+        "homicide": "42",
+        "rape": "106",
+        "kidnapping": "91",
+        "dacoity": "7",
+        "robbery": "20",
+        "burglary": "5",
+        "vehicleTheft": "56",
+        "riots": "180",
+        "dowryDeaths": "17",
+        "womenAssault": "131",
+        "total": "3467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "7",
+        "rape": "108",
+        "kidnapping": "59",
+        "dacoity": "16",
+        "robbery": "14",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "193",
+        "dowryDeaths": "23",
+        "womenAssault": "96",
+        "total": "3520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "27",
+        "rape": "50",
+        "kidnapping": "45",
+        "dacoity": "30",
+        "robbery": "36",
+        "burglary": "21",
+        "vehicleTheft": "33",
+        "riots": "245",
+        "dowryDeaths": "18",
+        "womenAssault": "31",
+        "total": "2956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "10",
+        "rape": "25",
+        "kidnapping": "16",
+        "dacoity": "6",
+        "robbery": "21",
+        "burglary": "1",
+        "vehicleTheft": "8",
+        "riots": "36",
+        "dowryDeaths": "8",
+        "womenAssault": "34",
+        "total": "1089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "15",
+        "rape": "24",
+        "kidnapping": "25",
+        "dacoity": "5",
+        "robbery": "6",
+        "burglary": "4",
+        "vehicleTheft": "39",
+        "riots": "38",
+        "dowryDeaths": "14",
+        "womenAssault": "23",
+        "total": "1327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "177",
+        "homicide": "50",
+        "rape": "176",
+        "kidnapping": "180",
+        "dacoity": "32",
+        "robbery": "72",
+        "burglary": "60",
+        "vehicleTheft": "701",
+        "riots": "208",
+        "dowryDeaths": "55",
+        "womenAssault": "154",
+        "total": "8827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "130",
+        "homicide": "54",
+        "rape": "122",
+        "kidnapping": "103",
+        "dacoity": "13",
+        "robbery": "33",
+        "burglary": "12",
+        "vehicleTheft": "288",
+        "riots": "231",
+        "dowryDeaths": "43",
+        "womenAssault": "101",
+        "total": "7123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "8",
+        "rape": "9",
+        "kidnapping": "10",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "19",
+        "vehicleTheft": "34",
+        "riots": "62",
+        "dowryDeaths": "7",
+        "womenAssault": "37",
+        "total": "1062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "6",
+        "rape": "49",
+        "kidnapping": "24",
+        "dacoity": "10",
+        "robbery": "21",
+        "burglary": "10",
+        "vehicleTheft": "7",
+        "riots": "60",
+        "dowryDeaths": "22",
+        "womenAssault": "40",
+        "total": "1618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "25",
+        "rape": "58",
+        "kidnapping": "31",
+        "dacoity": "6",
+        "robbery": "16",
+        "burglary": "32",
+        "vehicleTheft": "61",
+        "riots": "187",
+        "dowryDeaths": "9",
+        "womenAssault": "37",
+        "total": "1612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "110",
+        "homicide": "26",
+        "rape": "92",
+        "kidnapping": "56",
+        "dacoity": "10",
+        "robbery": "22",
+        "burglary": "45",
+        "vehicleTheft": "60",
+        "riots": "209",
+        "dowryDeaths": "40",
+        "womenAssault": "56",
+        "total": "4140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "8",
+        "rape": "33",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "2",
+        "vehicleTheft": "14",
+        "riots": "24",
+        "dowryDeaths": "8",
+        "womenAssault": "36",
+        "total": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "31",
+        "rape": "21",
+        "kidnapping": "17",
+        "dacoity": "7",
+        "robbery": "5",
+        "burglary": "5",
+        "vehicleTheft": "97",
+        "riots": "19",
+        "dowryDeaths": "8",
+        "womenAssault": "24",
+        "total": "1261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "82",
+        "homicide": "23",
+        "rape": "56",
+        "kidnapping": "38",
+        "dacoity": "12",
+        "robbery": "39",
+        "burglary": "83",
+        "vehicleTheft": "80",
+        "riots": "399",
+        "dowryDeaths": "23",
+        "womenAssault": "37",
+        "total": "3663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "13",
+        "rape": "21",
+        "kidnapping": "19",
+        "dacoity": "12",
+        "robbery": "13",
+        "burglary": "4",
+        "vehicleTheft": "34",
+        "riots": "98",
+        "dowryDeaths": "15",
+        "womenAssault": "32",
+        "total": "1760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "8",
+        "rape": "15",
+        "kidnapping": "17",
+        "dacoity": "10",
+        "robbery": "22",
+        "burglary": "5",
+        "vehicleTheft": "142",
+        "riots": "33",
+        "dowryDeaths": "5",
+        "womenAssault": "16",
+        "total": "1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "118",
+        "homicide": "45",
+        "rape": "83",
+        "kidnapping": "59",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "21",
+        "vehicleTheft": "72",
+        "riots": "37",
+        "dowryDeaths": "8",
+        "womenAssault": "112",
+        "total": "2866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "16",
+        "rape": "27",
+        "kidnapping": "119",
+        "dacoity": "19",
+        "robbery": "117",
+        "burglary": "140",
+        "vehicleTheft": "763",
+        "riots": "227",
+        "dowryDeaths": "10",
+        "womenAssault": "174",
+        "total": "10757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "27",
+        "rape": "97",
+        "kidnapping": "65",
+        "dacoity": "8",
+        "robbery": "17",
+        "burglary": "10",
+        "vehicleTheft": "74",
+        "riots": "43",
+        "dowryDeaths": "4",
+        "womenAssault": "112",
+        "total": "2467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "111",
+        "homicide": "44",
+        "rape": "197",
+        "kidnapping": "126",
+        "dacoity": "8",
+        "robbery": "23",
+        "burglary": "14",
+        "vehicleTheft": "82",
+        "riots": "173",
+        "dowryDeaths": "32",
+        "womenAssault": "201",
+        "total": "4283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "99",
+        "homicide": "21",
+        "rape": "108",
+        "kidnapping": "80",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "17",
+        "vehicleTheft": "23",
+        "riots": "168",
+        "dowryDeaths": "30",
+        "womenAssault": "128",
+        "total": "4218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "20",
+        "rape": "74",
+        "kidnapping": "65",
+        "dacoity": "26",
+        "robbery": "30",
+        "burglary": "38",
+        "vehicleTheft": "33",
+        "riots": "212",
+        "dowryDeaths": "16",
+        "womenAssault": "67",
+        "total": "3305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "9",
+        "rape": "43",
+        "kidnapping": "11",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "5",
+        "vehicleTheft": "3",
+        "riots": "44",
+        "dowryDeaths": "8",
+        "womenAssault": "39",
+        "total": "1125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "9",
+        "rape": "47",
+        "kidnapping": "40",
+        "dacoity": "6",
+        "robbery": "8",
+        "burglary": "3",
+        "vehicleTheft": "38",
+        "riots": "17",
+        "dowryDeaths": "9",
+        "womenAssault": "40",
+        "total": "1566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "168",
+        "homicide": "38",
+        "rape": "217",
+        "kidnapping": "211",
+        "dacoity": "18",
+        "robbery": "39",
+        "burglary": "78",
+        "vehicleTheft": "493",
+        "riots": "203",
+        "dowryDeaths": "71",
+        "womenAssault": "151",
+        "total": "7958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "131",
+        "homicide": "39",
+        "rape": "136",
+        "kidnapping": "118",
+        "dacoity": "17",
+        "robbery": "21",
+        "burglary": "237",
+        "vehicleTheft": "257",
+        "riots": "246",
+        "dowryDeaths": "64",
+        "womenAssault": "123",
+        "total": "6724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "9",
+        "kidnapping": "14",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "93",
+        "riots": "69",
+        "dowryDeaths": "4",
+        "womenAssault": "10",
+        "total": "1217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "10",
+        "rape": "43",
+        "kidnapping": "27",
+        "dacoity": "25",
+        "robbery": "28",
+        "burglary": "13",
+        "vehicleTheft": "18",
+        "riots": "72",
+        "dowryDeaths": "22",
+        "womenAssault": "54",
+        "total": "1542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "16",
+        "rape": "78",
+        "kidnapping": "41",
+        "dacoity": "11",
+        "robbery": "31",
+        "burglary": "15",
+        "vehicleTheft": "37",
+        "riots": "189",
+        "dowryDeaths": "5",
+        "womenAssault": "42",
+        "total": "1680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "110",
+        "homicide": "26",
+        "rape": "113",
+        "kidnapping": "53",
+        "dacoity": "13",
+        "robbery": "26",
+        "burglary": "29",
+        "vehicleTheft": "100",
+        "riots": "209",
+        "dowryDeaths": "40",
+        "womenAssault": "56",
+        "total": "4502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "15",
+        "rape": "28",
+        "kidnapping": "33",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "5",
+        "vehicleTheft": "6",
+        "riots": "24",
+        "dowryDeaths": "20",
+        "womenAssault": "45",
+        "total": "943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "18",
+        "rape": "39",
+        "kidnapping": "17",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "4",
+        "vehicleTheft": "60",
+        "riots": "23",
+        "dowryDeaths": "1",
+        "womenAssault": "39",
+        "total": "1448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "23",
+        "rape": "42",
+        "kidnapping": "32",
+        "dacoity": "9",
+        "robbery": "21",
+        "burglary": "64",
+        "vehicleTheft": "69",
+        "riots": "337",
+        "dowryDeaths": "5",
+        "womenAssault": "31",
+        "total": "3270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "7",
+        "rape": "41",
+        "kidnapping": "34",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "3",
+        "vehicleTheft": "32",
+        "riots": "78",
+        "dowryDeaths": "9",
+        "womenAssault": "38",
+        "total": "1658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "11",
+        "rape": "20",
+        "kidnapping": "21",
+        "dacoity": "3",
+        "robbery": "30",
+        "burglary": "8",
+        "vehicleTheft": "176",
+        "riots": "63",
+        "dowryDeaths": "9",
+        "womenAssault": "18",
+        "total": "2381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "87",
+        "homicide": "42",
+        "rape": "108",
+        "kidnapping": "61",
+        "dacoity": "9",
+        "robbery": "20",
+        "burglary": "40",
+        "vehicleTheft": "79",
+        "riots": "53",
+        "dowryDeaths": "15",
+        "womenAssault": "103",
+        "total": "2886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "16",
+        "rape": "13",
+        "kidnapping": "82",
+        "dacoity": "17",
+        "robbery": "55",
+        "burglary": "130",
+        "vehicleTheft": "548",
+        "riots": "183",
+        "dowryDeaths": "6",
+        "womenAssault": "148",
+        "total": "9391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "21",
+        "rape": "96",
+        "kidnapping": "44",
+        "dacoity": "7",
+        "robbery": "18",
+        "burglary": "20",
+        "vehicleTheft": "111",
+        "riots": "64",
+        "dowryDeaths": "3",
+        "womenAssault": "137",
+        "total": "2241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "115",
+        "homicide": "46",
+        "rape": "236",
+        "kidnapping": "121",
+        "dacoity": "7",
+        "robbery": "18",
+        "burglary": "17",
+        "vehicleTheft": "99",
+        "riots": "139",
+        "dowryDeaths": "35",
+        "womenAssault": "223",
+        "total": "4052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "100",
+        "homicide": "12",
+        "rape": "148",
+        "kidnapping": "102",
+        "dacoity": "11",
+        "robbery": "15",
+        "burglary": "2",
+        "vehicleTheft": "129",
+        "riots": "233",
+        "dowryDeaths": "48",
+        "womenAssault": "95",
+        "total": "4454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "79",
+        "homicide": "14",
+        "rape": "92",
+        "kidnapping": "45",
+        "dacoity": "25",
+        "robbery": "27",
+        "burglary": "35",
+        "vehicleTheft": "36",
+        "riots": "184",
+        "dowryDeaths": "21",
+        "womenAssault": "57",
+        "total": "2716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "9",
+        "rape": "34",
+        "kidnapping": "8",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "4",
+        "vehicleTheft": "3",
+        "riots": "43",
+        "dowryDeaths": "8",
+        "womenAssault": "37",
+        "total": "1034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "13",
+        "rape": "53",
+        "kidnapping": "39",
+        "dacoity": "11",
+        "robbery": "16",
+        "burglary": "9",
+        "vehicleTheft": "37",
+        "riots": "30",
+        "dowryDeaths": "17",
+        "womenAssault": "47",
+        "total": "1705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "154",
+        "homicide": "39",
+        "rape": "174",
+        "kidnapping": "186",
+        "dacoity": "15",
+        "robbery": "29",
+        "burglary": "37",
+        "vehicleTheft": "431",
+        "riots": "180",
+        "dowryDeaths": "74",
+        "womenAssault": "175",
+        "total": "7776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "138",
+        "homicide": "34",
+        "rape": "190",
+        "kidnapping": "155",
+        "dacoity": "14",
+        "robbery": "17",
+        "burglary": "165",
+        "vehicleTheft": "298",
+        "riots": "289",
+        "dowryDeaths": "68",
+        "womenAssault": "157",
+        "total": "7396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "18",
+        "rape": "19",
+        "kidnapping": "16",
+        "dacoity": "3",
+        "robbery": "17",
+        "burglary": "9",
+        "vehicleTheft": "35",
+        "riots": "51",
+        "dowryDeaths": "13",
+        "womenAssault": "11",
+        "total": "1699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "5",
+        "rape": "51",
+        "kidnapping": "26",
+        "dacoity": "9",
+        "robbery": "16",
+        "burglary": "6",
+        "vehicleTheft": "15",
+        "riots": "62",
+        "dowryDeaths": "24",
+        "womenAssault": "43",
+        "total": "1282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "13",
+        "rape": "57",
+        "kidnapping": "39",
+        "dacoity": "9",
+        "robbery": "32",
+        "burglary": "21",
+        "vehicleTheft": "51",
+        "riots": "124",
+        "dowryDeaths": "18",
+        "womenAssault": "34",
+        "total": "1625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "25",
+        "rape": "64",
+        "kidnapping": "41",
+        "dacoity": "12",
+        "robbery": "43",
+        "burglary": "38",
+        "vehicleTheft": "182",
+        "riots": "201",
+        "dowryDeaths": "27",
+        "womenAssault": "91",
+        "total": "3897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "16",
+        "rape": "32",
+        "kidnapping": "49",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "9",
+        "riots": "36",
+        "dowryDeaths": "11",
+        "womenAssault": "60",
+        "total": "1101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "10",
+        "rape": "30",
+        "kidnapping": "43",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "15",
+        "vehicleTheft": "76",
+        "riots": "14",
+        "dowryDeaths": "1",
+        "womenAssault": "44",
+        "total": "1682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "18",
+        "rape": "43",
+        "kidnapping": "28",
+        "dacoity": "11",
+        "robbery": "25",
+        "burglary": "35",
+        "vehicleTheft": "170",
+        "riots": "254",
+        "dowryDeaths": "8",
+        "womenAssault": "37",
+        "total": "3220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "14",
+        "rape": "60",
+        "kidnapping": "66",
+        "dacoity": "6",
+        "robbery": "8",
+        "burglary": "13",
+        "vehicleTheft": "198",
+        "riots": "160",
+        "dowryDeaths": "26",
+        "womenAssault": "75",
+        "total": "3633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "44",
+        "rape": "118",
+        "kidnapping": "56",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "25",
+        "vehicleTheft": "67",
+        "riots": "32",
+        "dowryDeaths": "6",
+        "womenAssault": "102",
+        "total": "2610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "11",
+        "rape": "38",
+        "kidnapping": "94",
+        "dacoity": "11",
+        "robbery": "51",
+        "burglary": "115",
+        "vehicleTheft": "581",
+        "riots": "167",
+        "dowryDeaths": "4",
+        "womenAssault": "173",
+        "total": "9381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "30",
+        "rape": "74",
+        "kidnapping": "48",
+        "dacoity": "10",
+        "robbery": "26",
+        "burglary": "34",
+        "vehicleTheft": "151",
+        "riots": "53",
+        "dowryDeaths": "5",
+        "womenAssault": "110",
+        "total": "2102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "95",
+        "homicide": "46",
+        "rape": "224",
+        "kidnapping": "118",
+        "dacoity": "6",
+        "robbery": "22",
+        "burglary": "6",
+        "vehicleTheft": "204",
+        "riots": "175",
+        "dowryDeaths": "30",
+        "womenAssault": "217",
+        "total": "4759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "101",
+        "homicide": "20",
+        "rape": "158",
+        "kidnapping": "152",
+        "dacoity": "14",
+        "robbery": "16",
+        "burglary": "16",
+        "vehicleTheft": "88",
+        "riots": "164",
+        "dowryDeaths": "43",
+        "womenAssault": "175",
+        "total": "4672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "99",
+        "homicide": "20",
+        "rape": "79",
+        "kidnapping": "50",
+        "dacoity": "15",
+        "robbery": "30",
+        "burglary": "24",
+        "vehicleTheft": "32",
+        "riots": "153",
+        "dowryDeaths": "25",
+        "womenAssault": "73",
+        "total": "2700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "9",
+        "rape": "48",
+        "kidnapping": "13",
+        "dacoity": "3",
+        "robbery": "20",
+        "burglary": "4",
+        "vehicleTheft": "11",
+        "riots": "55",
+        "dowryDeaths": "20",
+        "womenAssault": "41",
+        "total": "1094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "10",
+        "rape": "76",
+        "kidnapping": "56",
+        "dacoity": "12",
+        "robbery": "15",
+        "burglary": "5",
+        "vehicleTheft": "45",
+        "riots": "34",
+        "dowryDeaths": "5",
+        "womenAssault": "53",
+        "total": "1981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "194",
+        "homicide": "46",
+        "rape": "231",
+        "kidnapping": "236",
+        "dacoity": "13",
+        "robbery": "18",
+        "burglary": "14",
+        "vehicleTheft": "269",
+        "riots": "545",
+        "dowryDeaths": "53",
+        "womenAssault": "187",
+        "total": "9201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "158",
+        "homicide": "48",
+        "rape": "205",
+        "kidnapping": "241",
+        "dacoity": "14",
+        "robbery": "39",
+        "burglary": "20",
+        "vehicleTheft": "322",
+        "riots": "325",
+        "dowryDeaths": "67",
+        "womenAssault": "205",
+        "total": "8856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "8",
+        "rape": "15",
+        "kidnapping": "18",
+        "dacoity": "3",
+        "robbery": "9",
+        "burglary": "1",
+        "vehicleTheft": "45",
+        "riots": "18",
+        "dowryDeaths": "11",
+        "womenAssault": "20",
+        "total": "1491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "6",
+        "rape": "44",
+        "kidnapping": "14",
+        "dacoity": "5",
+        "robbery": "20",
+        "burglary": "7",
+        "vehicleTheft": "16",
+        "riots": "87",
+        "dowryDeaths": "24",
+        "womenAssault": "43",
+        "total": "1329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "21",
+        "rape": "53",
+        "kidnapping": "31",
+        "dacoity": "10",
+        "robbery": "14",
+        "burglary": "13",
+        "vehicleTheft": "49",
+        "riots": "199",
+        "dowryDeaths": "9",
+        "womenAssault": "44",
+        "total": "1868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "122",
+        "homicide": "30",
+        "rape": "69",
+        "kidnapping": "54",
+        "dacoity": "13",
+        "robbery": "28",
+        "burglary": "18",
+        "vehicleTheft": "185",
+        "riots": "212",
+        "dowryDeaths": "31",
+        "womenAssault": "135",
+        "total": "4384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "7",
+        "rape": "46",
+        "kidnapping": "47",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "14",
+        "riots": "30",
+        "dowryDeaths": "10",
+        "womenAssault": "93",
+        "total": "1284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "19",
+        "rape": "48",
+        "kidnapping": "36",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "10",
+        "vehicleTheft": "90",
+        "riots": "28",
+        "dowryDeaths": "2",
+        "womenAssault": "37",
+        "total": "1873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "32",
+        "rape": "57",
+        "kidnapping": "46",
+        "dacoity": "12",
+        "robbery": "24",
+        "burglary": "39",
+        "vehicleTheft": "122",
+        "riots": "281",
+        "dowryDeaths": "16",
+        "womenAssault": "48",
+        "total": "3632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "10",
+        "rape": "45",
+        "kidnapping": "83",
+        "dacoity": "4",
+        "robbery": "17",
+        "burglary": "8",
+        "vehicleTheft": "157",
+        "riots": "180",
+        "dowryDeaths": "33",
+        "womenAssault": "87",
+        "total": "4073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "122",
+        "homicide": "40",
+        "rape": "235",
+        "kidnapping": "202",
+        "dacoity": "5",
+        "robbery": "35",
+        "burglary": "55",
+        "vehicleTheft": "95",
+        "riots": "69",
+        "dowryDeaths": "14",
+        "womenAssault": "211",
+        "total": "6654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "12",
+        "rape": "44",
+        "kidnapping": "114",
+        "dacoity": "2",
+        "robbery": "74",
+        "burglary": "114",
+        "vehicleTheft": "621",
+        "riots": "220",
+        "dowryDeaths": "8",
+        "womenAssault": "189",
+        "total": "10901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "23",
+        "rape": "103",
+        "kidnapping": "73",
+        "dacoity": "4",
+        "robbery": "15",
+        "burglary": "12",
+        "vehicleTheft": "103",
+        "riots": "35",
+        "dowryDeaths": "11",
+        "womenAssault": "103",
+        "total": "2175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "132",
+        "homicide": "30",
+        "rape": "369",
+        "kidnapping": "140",
+        "dacoity": "10",
+        "robbery": "17",
+        "burglary": "10",
+        "vehicleTheft": "103",
+        "riots": "212",
+        "dowryDeaths": "32",
+        "womenAssault": "250",
+        "total": "5243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "99",
+        "homicide": "9",
+        "rape": "183",
+        "kidnapping": "175",
+        "dacoity": "18",
+        "robbery": "14",
+        "burglary": "7",
+        "vehicleTheft": "51",
+        "riots": "193",
+        "dowryDeaths": "42",
+        "womenAssault": "249",
+        "total": "5623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "105",
+        "homicide": "14",
+        "rape": "60",
+        "kidnapping": "61",
+        "dacoity": "10",
+        "robbery": "31",
+        "burglary": "19",
+        "vehicleTheft": "44",
+        "riots": "204",
+        "dowryDeaths": "31",
+        "womenAssault": "83",
+        "total": "2933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "6",
+        "rape": "38",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "12",
+        "burglary": "3",
+        "vehicleTheft": "9",
+        "riots": "58",
+        "dowryDeaths": "14",
+        "womenAssault": "70",
+        "total": "1385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "13",
+        "rape": "76",
+        "kidnapping": "62",
+        "dacoity": "1",
+        "robbery": "21",
+        "burglary": "10",
+        "vehicleTheft": "56",
+        "riots": "25",
+        "dowryDeaths": "12",
+        "womenAssault": "58",
+        "total": "2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "192",
+        "homicide": "47",
+        "rape": "192",
+        "kidnapping": "317",
+        "dacoity": "15",
+        "robbery": "43",
+        "burglary": "19",
+        "vehicleTheft": "257",
+        "riots": "579",
+        "dowryDeaths": "67",
+        "womenAssault": "209",
+        "total": "11247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "239",
+        "homicide": "43",
+        "rape": "308",
+        "kidnapping": "280",
+        "dacoity": "16",
+        "robbery": "35",
+        "burglary": "11",
+        "vehicleTheft": "229",
+        "riots": "1115",
+        "dowryDeaths": "53",
+        "womenAssault": "192",
+        "total": "13920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "10",
+        "rape": "20",
+        "kidnapping": "18",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "4",
+        "vehicleTheft": "120",
+        "riots": "27",
+        "dowryDeaths": "9",
+        "womenAssault": "20",
+        "total": "1676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "6",
+        "rape": "46",
+        "kidnapping": "21",
+        "dacoity": "8",
+        "robbery": "22",
+        "burglary": "9",
+        "vehicleTheft": "20",
+        "riots": "126",
+        "dowryDeaths": "20",
+        "womenAssault": "45",
+        "total": "1460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "96",
+        "homicide": "31",
+        "rape": "58",
+        "kidnapping": "46",
+        "dacoity": "2",
+        "robbery": "30",
+        "burglary": "3",
+        "vehicleTheft": "77",
+        "riots": "372",
+        "dowryDeaths": "26",
+        "womenAssault": "67",
+        "total": "2526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "91",
+        "homicide": "26",
+        "rape": "61",
+        "kidnapping": "87",
+        "dacoity": "11",
+        "robbery": "29",
+        "burglary": "6",
+        "vehicleTheft": "118",
+        "riots": "333",
+        "dowryDeaths": "24",
+        "womenAssault": "107",
+        "total": "4128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "15",
+        "rape": "47",
+        "kidnapping": "50",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "2",
+        "vehicleTheft": "24",
+        "riots": "19",
+        "dowryDeaths": "8",
+        "womenAssault": "78",
+        "total": "1551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "16",
+        "rape": "47",
+        "kidnapping": "46",
+        "dacoity": "5",
+        "robbery": "14",
+        "burglary": "5",
+        "vehicleTheft": "110",
+        "riots": "73",
+        "dowryDeaths": "5",
+        "womenAssault": "60",
+        "total": "2246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "32",
+        "rape": "54",
+        "kidnapping": "50",
+        "dacoity": "15",
+        "robbery": "52",
+        "burglary": "26",
+        "vehicleTheft": "103",
+        "riots": "376",
+        "dowryDeaths": "17",
+        "womenAssault": "19",
+        "total": "3844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "82",
+        "homicide": "29",
+        "rape": "46",
+        "kidnapping": "105",
+        "dacoity": "11",
+        "robbery": "25",
+        "burglary": "11",
+        "vehicleTheft": "226",
+        "riots": "236",
+        "dowryDeaths": "20",
+        "womenAssault": "63",
+        "total": "5487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "126",
+        "homicide": "44",
+        "rape": "334",
+        "kidnapping": "299",
+        "dacoity": "11",
+        "robbery": "76",
+        "burglary": "135",
+        "vehicleTheft": "176",
+        "riots": "129",
+        "dowryDeaths": "18",
+        "womenAssault": "376",
+        "total": "12992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "23",
+        "rape": "35",
+        "kidnapping": "116",
+        "dacoity": "14",
+        "robbery": "86",
+        "burglary": "138",
+        "vehicleTheft": "546",
+        "riots": "211",
+        "dowryDeaths": "12",
+        "womenAssault": "211",
+        "total": "13005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "78",
+        "homicide": "24",
+        "rape": "130",
+        "kidnapping": "92",
+        "dacoity": "3",
+        "robbery": "16",
+        "burglary": "8",
+        "vehicleTheft": "134",
+        "riots": "36",
+        "dowryDeaths": "12",
+        "womenAssault": "83",
+        "total": "2798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "134",
+        "homicide": "34",
+        "rape": "308",
+        "kidnapping": "194",
+        "dacoity": "8",
+        "robbery": "30",
+        "burglary": "11",
+        "vehicleTheft": "138",
+        "riots": "282",
+        "dowryDeaths": "34",
+        "womenAssault": "184",
+        "total": "6302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "102",
+        "homicide": "28",
+        "rape": "178",
+        "kidnapping": "216",
+        "dacoity": "15",
+        "robbery": "34",
+        "burglary": "13",
+        "vehicleTheft": "93",
+        "riots": "319",
+        "dowryDeaths": "46",
+        "womenAssault": "296",
+        "total": "7247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "98",
+        "homicide": "41",
+        "rape": "56",
+        "kidnapping": "57",
+        "dacoity": "12",
+        "robbery": "28",
+        "burglary": "16",
+        "vehicleTheft": "41",
+        "riots": "230",
+        "dowryDeaths": "20",
+        "womenAssault": "58",
+        "total": "2933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "7",
+        "rape": "61",
+        "kidnapping": "23",
+        "dacoity": "3",
+        "robbery": "27",
+        "burglary": "3",
+        "vehicleTheft": "19",
+        "riots": "120",
+        "dowryDeaths": "4",
+        "womenAssault": "63",
+        "total": "1744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "14",
+        "rape": "78",
+        "kidnapping": "74",
+        "dacoity": "14",
+        "robbery": "21",
+        "burglary": "10",
+        "vehicleTheft": "53",
+        "riots": "80",
+        "dowryDeaths": "11",
+        "womenAssault": "63",
+        "total": "2730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "229",
+        "homicide": "241",
+        "rape": "166",
+        "kidnapping": "368",
+        "dacoity": "21",
+        "robbery": "88",
+        "burglary": "22",
+        "vehicleTheft": "491",
+        "riots": "778",
+        "dowryDeaths": "54",
+        "womenAssault": "203",
+        "total": "13046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "212",
+        "homicide": "35",
+        "rape": "280",
+        "kidnapping": "128",
+        "dacoity": "17",
+        "robbery": "52",
+        "burglary": "11",
+        "vehicleTheft": "430",
+        "riots": "1233",
+        "dowryDeaths": "63",
+        "womenAssault": "120",
+        "total": "13624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "10",
+        "rape": "13",
+        "kidnapping": "27",
+        "dacoity": "4",
+        "robbery": "12",
+        "burglary": "6",
+        "vehicleTheft": "138",
+        "riots": "61",
+        "dowryDeaths": "17",
+        "womenAssault": "14",
+        "total": "1361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "10",
+        "rape": "33",
+        "kidnapping": "36",
+        "dacoity": "4",
+        "robbery": "33",
+        "burglary": "6",
+        "vehicleTheft": "46",
+        "riots": "161",
+        "dowryDeaths": "28",
+        "womenAssault": "46",
+        "total": "1586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "20",
+        "rape": "52",
+        "kidnapping": "52",
+        "dacoity": "7",
+        "robbery": "29",
+        "burglary": "12",
+        "vehicleTheft": "116",
+        "riots": "346",
+        "dowryDeaths": "18",
+        "womenAssault": "60",
+        "total": "2702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "129",
+        "homicide": "66",
+        "rape": "55",
+        "kidnapping": "135",
+        "dacoity": "11",
+        "robbery": "37",
+        "burglary": "15",
+        "vehicleTheft": "257",
+        "riots": "541",
+        "dowryDeaths": "30",
+        "womenAssault": "25",
+        "total": "5556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "9",
+        "rape": "49",
+        "kidnapping": "56",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "9",
+        "vehicleTheft": "23",
+        "riots": "14",
+        "dowryDeaths": "7",
+        "womenAssault": "76",
+        "total": "1602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "11",
+        "rape": "54",
+        "kidnapping": "50",
+        "dacoity": "6",
+        "robbery": "8",
+        "burglary": "8",
+        "vehicleTheft": "211",
+        "riots": "68",
+        "dowryDeaths": "2",
+        "womenAssault": "55",
+        "total": "2629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "98",
+        "homicide": "71",
+        "rape": "48",
+        "kidnapping": "94",
+        "dacoity": "11",
+        "robbery": "35",
+        "burglary": "16",
+        "vehicleTheft": "135",
+        "riots": "573",
+        "dowryDeaths": "25",
+        "womenAssault": "24",
+        "total": "4064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "27",
+        "rape": "39",
+        "kidnapping": "130",
+        "dacoity": "10",
+        "robbery": "23",
+        "burglary": "17",
+        "vehicleTheft": "225",
+        "riots": "267",
+        "dowryDeaths": "21",
+        "womenAssault": "76",
+        "total": "5500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "112",
+        "homicide": "31",
+        "rape": "193",
+        "kidnapping": "206",
+        "dacoity": "7",
+        "robbery": "69",
+        "burglary": "52",
+        "vehicleTheft": "235",
+        "riots": "106",
+        "dowryDeaths": "11",
+        "womenAssault": "136",
+        "total": "6445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "42",
+        "rape": "42",
+        "kidnapping": "129",
+        "dacoity": "2",
+        "robbery": "40",
+        "burglary": "90",
+        "vehicleTheft": "433",
+        "riots": "253",
+        "dowryDeaths": "10",
+        "womenAssault": "201",
+        "total": "13615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "42",
+        "rape": "197",
+        "kidnapping": "178",
+        "dacoity": "9",
+        "robbery": "21",
+        "burglary": "5",
+        "vehicleTheft": "149",
+        "riots": "70",
+        "dowryDeaths": "10",
+        "womenAssault": "131",
+        "total": "3927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "184",
+        "homicide": "53",
+        "rape": "568",
+        "kidnapping": "408",
+        "dacoity": "22",
+        "robbery": "73",
+        "burglary": "11",
+        "vehicleTheft": "166",
+        "riots": "745",
+        "dowryDeaths": "51",
+        "womenAssault": "348",
+        "total": "12308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "135",
+        "homicide": "81",
+        "rape": "175",
+        "kidnapping": "297",
+        "dacoity": "28",
+        "robbery": "69",
+        "burglary": "21",
+        "vehicleTheft": "175",
+        "riots": "197",
+        "dowryDeaths": "44",
+        "womenAssault": "118",
+        "total": "8706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "198",
+        "homicide": "123",
+        "rape": "57",
+        "kidnapping": "79",
+        "dacoity": "15",
+        "robbery": "29",
+        "burglary": "6",
+        "vehicleTheft": "140",
+        "riots": "441",
+        "dowryDeaths": "31",
+        "womenAssault": "83",
+        "total": "3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "5",
+        "rape": "53",
+        "kidnapping": "27",
+        "dacoity": "8",
+        "robbery": "43",
+        "burglary": "1",
+        "vehicleTheft": "35",
+        "riots": "108",
+        "dowryDeaths": "9",
+        "womenAssault": "30",
+        "total": "1506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "14",
+        "rape": "80",
+        "kidnapping": "100",
+        "dacoity": "10",
+        "robbery": "33",
+        "burglary": "8",
+        "vehicleTheft": "89",
+        "riots": "99",
+        "dowryDeaths": "18",
+        "womenAssault": "75",
+        "total": "2923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "244",
+        "homicide": "179",
+        "rape": "173",
+        "kidnapping": "438",
+        "dacoity": "15",
+        "robbery": "83",
+        "burglary": "28",
+        "vehicleTheft": "576",
+        "riots": "815",
+        "dowryDeaths": "71",
+        "womenAssault": "174",
+        "total": "15151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "263",
+        "homicide": "25",
+        "rape": "258",
+        "kidnapping": "215",
+        "dacoity": "12",
+        "robbery": "39",
+        "burglary": "9",
+        "vehicleTheft": "475",
+        "riots": "1238",
+        "dowryDeaths": "48",
+        "womenAssault": "113",
+        "total": "15299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "14",
+        "rape": "18",
+        "kidnapping": "21",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "5",
+        "vehicleTheft": "175",
+        "riots": "49",
+        "dowryDeaths": "19",
+        "womenAssault": "13",
+        "total": "1841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "105",
+        "homicide": "6",
+        "rape": "36",
+        "kidnapping": "47",
+        "dacoity": "24",
+        "robbery": "38",
+        "burglary": "8",
+        "vehicleTheft": "49",
+        "riots": "262",
+        "dowryDeaths": "18",
+        "womenAssault": "59",
+        "total": "2251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "94",
+        "homicide": "20",
+        "rape": "44",
+        "kidnapping": "52",
+        "dacoity": "5",
+        "robbery": "28",
+        "burglary": "11",
+        "vehicleTheft": "82",
+        "riots": "281",
+        "dowryDeaths": "25",
+        "womenAssault": "48",
+        "total": "2547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "134",
+        "homicide": "33",
+        "rape": "72",
+        "kidnapping": "112",
+        "dacoity": "12",
+        "robbery": "54",
+        "burglary": "13",
+        "vehicleTheft": "257",
+        "riots": "396",
+        "dowryDeaths": "28",
+        "womenAssault": "93",
+        "total": "4996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "17",
+        "rape": "56",
+        "kidnapping": "96",
+        "dacoity": "0",
+        "robbery": "13",
+        "burglary": "9",
+        "vehicleTheft": "52",
+        "riots": "29",
+        "dowryDeaths": "19",
+        "womenAssault": "77",
+        "total": "2071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "17",
+        "rape": "36",
+        "kidnapping": "77",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "12",
+        "vehicleTheft": "186",
+        "riots": "86",
+        "dowryDeaths": "2",
+        "womenAssault": "57",
+        "total": "2848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "124",
+        "homicide": "24",
+        "rape": "52",
+        "kidnapping": "87",
+        "dacoity": "13",
+        "robbery": "40",
+        "burglary": "3",
+        "vehicleTheft": "184",
+        "riots": "728",
+        "dowryDeaths": "12",
+        "womenAssault": "47",
+        "total": "4748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "111",
+        "homicide": "15",
+        "rape": "59",
+        "kidnapping": "185",
+        "dacoity": "40",
+        "robbery": "68",
+        "burglary": "64",
+        "vehicleTheft": "370",
+        "riots": "297",
+        "dowryDeaths": "31",
+        "womenAssault": "121",
+        "total": "8519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "117",
+        "homicide": "34",
+        "rape": "180",
+        "kidnapping": "259",
+        "dacoity": "19",
+        "robbery": "65",
+        "burglary": "61",
+        "vehicleTheft": "165",
+        "riots": "74",
+        "dowryDeaths": "12",
+        "womenAssault": "269",
+        "total": "7433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "43",
+        "rape": "32",
+        "kidnapping": "125",
+        "dacoity": "0",
+        "robbery": "18",
+        "burglary": "66",
+        "vehicleTheft": "506",
+        "riots": "282",
+        "dowryDeaths": "12",
+        "womenAssault": "226",
+        "total": "15510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "24",
+        "rape": "167",
+        "kidnapping": "189",
+        "dacoity": "7",
+        "robbery": "24",
+        "burglary": "3",
+        "vehicleTheft": "138",
+        "riots": "80",
+        "dowryDeaths": "6",
+        "womenAssault": "139",
+        "total": "4286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "185",
+        "homicide": "36",
+        "rape": "526",
+        "kidnapping": "511",
+        "dacoity": "18",
+        "robbery": "44",
+        "burglary": "7",
+        "vehicleTheft": "204",
+        "riots": "553",
+        "dowryDeaths": "45",
+        "womenAssault": "609",
+        "total": "13094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "121",
+        "homicide": "21",
+        "rape": "167",
+        "kidnapping": "345",
+        "dacoity": "30",
+        "robbery": "86",
+        "burglary": "13",
+        "vehicleTheft": "190",
+        "riots": "189",
+        "dowryDeaths": "65",
+        "womenAssault": "102",
+        "total": "9274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "268",
+        "homicide": "49",
+        "rape": "67",
+        "kidnapping": "101",
+        "dacoity": "40",
+        "robbery": "55",
+        "burglary": "30",
+        "vehicleTheft": "158",
+        "riots": "445",
+        "dowryDeaths": "18",
+        "womenAssault": "70",
+        "total": "4640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "115",
+        "homicide": "7",
+        "rape": "42",
+        "kidnapping": "37",
+        "dacoity": "10",
+        "robbery": "37",
+        "burglary": "12",
+        "vehicleTheft": "44",
+        "riots": "104",
+        "dowryDeaths": "13",
+        "womenAssault": "60",
+        "total": "1795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "10",
+        "rape": "130",
+        "kidnapping": "118",
+        "dacoity": "15",
+        "robbery": "34",
+        "burglary": "4",
+        "vehicleTheft": "114",
+        "riots": "188",
+        "dowryDeaths": "22",
+        "womenAssault": "94",
+        "total": "3759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "232",
+        "homicide": "126",
+        "rape": "203",
+        "kidnapping": "587",
+        "dacoity": "32",
+        "robbery": "117",
+        "burglary": "27",
+        "vehicleTheft": "811",
+        "riots": "720",
+        "dowryDeaths": "88",
+        "womenAssault": "218",
+        "total": "17412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "247",
+        "homicide": "33",
+        "rape": "274",
+        "kidnapping": "349",
+        "dacoity": "15",
+        "robbery": "32",
+        "burglary": "4",
+        "vehicleTheft": "399",
+        "riots": "1445",
+        "dowryDeaths": "43",
+        "womenAssault": "121",
+        "total": "15252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "11",
+        "rape": "31",
+        "kidnapping": "64",
+        "dacoity": "8",
+        "robbery": "23",
+        "burglary": "9",
+        "vehicleTheft": "275",
+        "riots": "99",
+        "dowryDeaths": "10",
+        "womenAssault": "30",
+        "total": "3381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "3",
+        "rape": "44",
+        "kidnapping": "42",
+        "dacoity": "11",
+        "robbery": "33",
+        "burglary": "22",
+        "vehicleTheft": "47",
+        "riots": "183",
+        "dowryDeaths": "16",
+        "womenAssault": "83",
+        "total": "2296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "34",
+        "rape": "44",
+        "kidnapping": "58",
+        "dacoity": "8",
+        "robbery": "30",
+        "burglary": "7",
+        "vehicleTheft": "107",
+        "riots": "139",
+        "dowryDeaths": "25",
+        "womenAssault": "63",
+        "total": "2511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "16",
+        "rape": "52",
+        "kidnapping": "101",
+        "dacoity": "9",
+        "robbery": "33",
+        "burglary": "9",
+        "vehicleTheft": "156",
+        "riots": "274",
+        "dowryDeaths": "16",
+        "womenAssault": "21",
+        "total": "3997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "14",
+        "rape": "55",
+        "kidnapping": "121",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "9",
+        "vehicleTheft": "49",
+        "riots": "28",
+        "dowryDeaths": "11",
+        "womenAssault": "77",
+        "total": "2336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "8",
+        "rape": "49",
+        "kidnapping": "88",
+        "dacoity": "2",
+        "robbery": "24",
+        "burglary": "10",
+        "vehicleTheft": "134",
+        "riots": "56",
+        "dowryDeaths": "4",
+        "womenAssault": "51",
+        "total": "3555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "112",
+        "homicide": "21",
+        "rape": "54",
+        "kidnapping": "130",
+        "dacoity": "7",
+        "robbery": "24",
+        "burglary": "10",
+        "vehicleTheft": "266",
+        "riots": "596",
+        "dowryDeaths": "21",
+        "womenAssault": "38",
+        "total": "5391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "9",
+        "rape": "35",
+        "kidnapping": "129",
+        "dacoity": "26",
+        "robbery": "40",
+        "burglary": "66",
+        "vehicleTheft": "159",
+        "riots": "153",
+        "dowryDeaths": "26",
+        "womenAssault": "75",
+        "total": "5447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "12",
+        "rape": "24",
+        "kidnapping": "110",
+        "dacoity": "6",
+        "robbery": "36",
+        "burglary": "34",
+        "vehicleTheft": "259",
+        "riots": "74",
+        "dowryDeaths": "2",
+        "womenAssault": "2",
+        "total": "4709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "108",
+        "homicide": "27",
+        "rape": "211",
+        "kidnapping": "293",
+        "dacoity": "9",
+        "robbery": "37",
+        "burglary": "50",
+        "vehicleTheft": "295",
+        "riots": "54",
+        "dowryDeaths": "13",
+        "womenAssault": "223",
+        "total": "7886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "28",
+        "rape": "46",
+        "kidnapping": "148",
+        "dacoity": "1",
+        "robbery": "34",
+        "burglary": "63",
+        "vehicleTheft": "539",
+        "riots": "336",
+        "dowryDeaths": "11",
+        "womenAssault": "254",
+        "total": "17152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "98",
+        "homicide": "15",
+        "rape": "179",
+        "kidnapping": "243",
+        "dacoity": "3",
+        "robbery": "16",
+        "burglary": "9",
+        "vehicleTheft": "157",
+        "riots": "88",
+        "dowryDeaths": "14",
+        "womenAssault": "38",
+        "total": "4496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "145",
+        "homicide": "28",
+        "rape": "433",
+        "kidnapping": "566",
+        "dacoity": "21",
+        "robbery": "47",
+        "burglary": "13",
+        "vehicleTheft": "186",
+        "riots": "252",
+        "dowryDeaths": "49",
+        "womenAssault": "621",
+        "total": "14154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "136",
+        "homicide": "26",
+        "rape": "185",
+        "kidnapping": "500",
+        "dacoity": "25",
+        "robbery": "43",
+        "burglary": "20",
+        "vehicleTheft": "243",
+        "riots": "207",
+        "dowryDeaths": "65",
+        "womenAssault": "128",
+        "total": "12271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "171",
+        "homicide": "23",
+        "rape": "53",
+        "kidnapping": "141",
+        "dacoity": "22",
+        "robbery": "70",
+        "burglary": "39",
+        "vehicleTheft": "187",
+        "riots": "640",
+        "dowryDeaths": "27",
+        "womenAssault": "89",
+        "total": "5494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "4",
+        "rape": "65",
+        "kidnapping": "52",
+        "dacoity": "6",
+        "robbery": "29",
+        "burglary": "6",
+        "vehicleTheft": "66",
+        "riots": "129",
+        "dowryDeaths": "3",
+        "womenAssault": "64",
+        "total": "1895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "12",
+        "rape": "126",
+        "kidnapping": "172",
+        "dacoity": "7",
+        "robbery": "26",
+        "burglary": "10",
+        "vehicleTheft": "119",
+        "riots": "29",
+        "dowryDeaths": "19",
+        "womenAssault": "52",
+        "total": "3885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.42419936462305,
+          22.58376435
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS NORTH",
+        "state": "WEST BENGAL",
+        "address": "24, EE Block Main Lane 1, EE Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "140",
+        "homicide": "80",
+        "rape": "118",
+        "kidnapping": "497",
+        "dacoity": "34",
+        "robbery": "61",
+        "burglary": "6",
+        "vehicleTheft": "381",
+        "riots": "680",
+        "dowryDeaths": "74",
+        "womenAssault": "196",
+        "total": "11765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39957004793254,
+          22.591967500000003
+        ]
+      },
+      "properties": {
+        "name": "24 PARGANAS SOUTH",
+        "state": "WEST BENGAL",
+        "address": "24, 1st Cross Road, Duttabad, AA Block, Rajarhat, North 24 Parganas, West Bengal, 700037, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "224",
+        "homicide": "28",
+        "rape": "244",
+        "kidnapping": "419",
+        "dacoity": "34",
+        "robbery": "35",
+        "burglary": "51",
+        "vehicleTheft": "194",
+        "riots": "1976",
+        "dowryDeaths": "45",
+        "womenAssault": "83",
+        "total": "14370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9746587,
+          23.6871297
+        ]
+      },
+      "properties": {
+        "name": "ASANSOL",
+        "state": "WEST BENGAL",
+        "address": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "9",
+        "rape": "36",
+        "kidnapping": "77",
+        "dacoity": "15",
+        "robbery": "75",
+        "burglary": "21",
+        "vehicleTheft": "254",
+        "riots": "212",
+        "dowryDeaths": "15",
+        "womenAssault": "31",
+        "total": "3897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.20739720367507,
+          23.13195425
+        ]
+      },
+      "properties": {
+        "name": "BANKURA",
+        "state": "WEST BENGAL",
+        "address": "Bankura, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "6",
+        "rape": "35",
+        "kidnapping": "84",
+        "dacoity": "11",
+        "robbery": "26",
+        "burglary": "14",
+        "vehicleTheft": "47",
+        "riots": "219",
+        "dowryDeaths": "26",
+        "womenAssault": "90",
+        "total": "2758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.583333,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "BIRBHUM",
+        "state": "WEST BENGAL",
+        "address": "B\u012brbh\u016bm, Birbhum, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "113",
+        "homicide": "63",
+        "rape": "49",
+        "kidnapping": "76",
+        "dacoity": "10",
+        "robbery": "42",
+        "burglary": "26",
+        "vehicleTheft": "112",
+        "riots": "248",
+        "dowryDeaths": "23",
+        "womenAssault": "87",
+        "total": "3083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.97390558509159,
+          23.24808895
+        ]
+      },
+      "properties": {
+        "name": "BURDWAN",
+        "state": "WEST BENGAL",
+        "address": "Burdwan - II, Purba Bardhaman, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "91",
+        "homicide": "23",
+        "rape": "58",
+        "kidnapping": "99",
+        "dacoity": "6",
+        "robbery": "41",
+        "burglary": "6",
+        "vehicleTheft": "194",
+        "riots": "349",
+        "dowryDeaths": "55",
+        "womenAssault": "145",
+        "total": "4674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50471504999999,
+          25.38703085
+        ]
+      },
+      "properties": {
+        "name": "DAKSHIN DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Dakshin Dinajpur, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "8",
+        "rape": "66",
+        "kidnapping": "142",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "4",
+        "vehicleTheft": "27",
+        "riots": "15",
+        "dowryDeaths": "18",
+        "womenAssault": "83",
+        "total": "2725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30714958252707,
+          26.8349002
+        ]
+      },
+      "properties": {
+        "name": "DARJEELING",
+        "state": "WEST BENGAL",
+        "address": "Darjeeling, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "15",
+        "rape": "10",
+        "kidnapping": "47",
+        "dacoity": "6",
+        "robbery": "6",
+        "burglary": "2",
+        "vehicleTheft": "55",
+        "riots": "2",
+        "dowryDeaths": "2",
+        "womenAssault": "52",
+        "total": "1574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3760639,
+          22.9052114
+        ]
+      },
+      "properties": {
+        "name": "HOOGHLY",
+        "state": "WEST BENGAL",
+        "address": "Hooghly, Grand Trunk Road, Chunchura, Chinsurah - Magra, Hugli, West Bengal, 712123, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "132",
+        "homicide": "16",
+        "rape": "68",
+        "kidnapping": "177",
+        "dacoity": "10",
+        "robbery": "26",
+        "burglary": "6",
+        "vehicleTheft": "205",
+        "riots": "531",
+        "dowryDeaths": "32",
+        "womenAssault": "86",
+        "total": "6434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "13",
+        "rape": "56",
+        "kidnapping": "132",
+        "dacoity": "14",
+        "robbery": "36",
+        "burglary": "67",
+        "vehicleTheft": "117",
+        "riots": "203",
+        "dowryDeaths": "16",
+        "womenAssault": "99",
+        "total": "5059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.323139,
+          22.5882216
+        ]
+      },
+      "properties": {
+        "name": "HOWRAH CITY",
+        "state": "WEST BENGAL",
+        "address": "Howrah, Haora, Howrah, West Bengal, 711101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "9",
+        "rape": "28",
+        "kidnapping": "191",
+        "dacoity": "3",
+        "robbery": "35",
+        "burglary": "19",
+        "vehicleTheft": "274",
+        "riots": "85",
+        "dowryDeaths": "15",
+        "womenAssault": "199",
+        "total": "5675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.73407701468993,
+          26.626483649999997
+        ]
+      },
+      "properties": {
+        "name": "JALPAIGURI",
+        "state": "WEST BENGAL",
+        "address": "Jalpaiguri, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "117",
+        "homicide": "27",
+        "rape": "163",
+        "kidnapping": "334",
+        "dacoity": "5",
+        "robbery": "36",
+        "burglary": "25",
+        "vehicleTheft": "292",
+        "riots": "42",
+        "dowryDeaths": "17",
+        "womenAssault": "179",
+        "total": "7861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.04867177362203,
+          22.3770636
+        ]
+      },
+      "properties": {
+        "name": "JHARGRAM",
+        "state": "WEST BENGAL",
+        "address": "Jhargram, West Bengal, 721507, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "5",
+        "rape": "21",
+        "kidnapping": "21",
+        "dacoity": "10",
+        "robbery": "19",
+        "burglary": "3",
+        "vehicleTheft": "11",
+        "riots": "52",
+        "dowryDeaths": "6",
+        "womenAssault": "28",
+        "total": "711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3567751581234,
+          22.54541245
+        ]
+      },
+      "properties": {
+        "name": "KOLKATA",
+        "state": "WEST BENGAL",
+        "address": "Kolkata, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "85",
+        "homicide": "29",
+        "rape": "68",
+        "kidnapping": "271",
+        "dacoity": "8",
+        "robbery": "44",
+        "burglary": "96",
+        "vehicleTheft": "659",
+        "riots": "397",
+        "dowryDeaths": "19",
+        "womenAssault": "486",
+        "total": "25370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1398483,
+          25.0057449
+        ]
+      },
+      "properties": {
+        "name": "MALDA",
+        "state": "WEST BENGAL",
+        "address": "Malda, English Bazar, Maldah, West Bengal, 732101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "118",
+        "homicide": "21",
+        "rape": "158",
+        "kidnapping": "290",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "21",
+        "vehicleTheft": "161",
+        "riots": "59",
+        "dowryDeaths": "7",
+        "womenAssault": "177",
+        "total": "5634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2721335,
+          24.1745993
+        ]
+      },
+      "properties": {
+        "name": "MURSHIDABAD",
+        "state": "WEST BENGAL",
+        "address": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "174",
+        "homicide": "30",
+        "rape": "257",
+        "kidnapping": "579",
+        "dacoity": "9",
+        "robbery": "42",
+        "burglary": "4",
+        "vehicleTheft": "309",
+        "riots": "190",
+        "dowryDeaths": "39",
+        "womenAssault": "609",
+        "total": "12713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55676307470536,
+          23.48454125
+        ]
+      },
+      "properties": {
+        "name": "NADIA",
+        "state": "WEST BENGAL",
+        "address": "Nadia, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "146",
+        "homicide": "21",
+        "rape": "174",
+        "kidnapping": "433",
+        "dacoity": "29",
+        "robbery": "34",
+        "burglary": "21",
+        "vehicleTheft": "244",
+        "riots": "128",
+        "dowryDeaths": "46",
+        "womenAssault": "56",
+        "total": "11919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3219109,
+          22.4205314
+        ]
+      },
+      "properties": {
+        "name": "PASCHIM MIDNAPUR",
+        "state": "WEST BENGAL",
+        "address": "Midnapur Medical College and Hospital Blood Bank, Keranitola-KshudiramStatue-PachhurChawk, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "27",
+        "rape": "64",
+        "kidnapping": "115",
+        "dacoity": "13",
+        "robbery": "37",
+        "burglary": "13",
+        "vehicleTheft": "141",
+        "riots": "416",
+        "dowryDeaths": "26",
+        "womenAssault": "99",
+        "total": "5000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.41893564374078,
+          23.3711646
+        ]
+      },
+      "properties": {
+        "name": "PURULIA",
+        "state": "WEST BENGAL",
+        "address": "Purulia - II, Puruliya, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "6",
+        "rape": "50",
+        "kidnapping": "44",
+        "dacoity": "8",
+        "robbery": "26",
+        "burglary": "2",
+        "vehicleTheft": "44",
+        "riots": "100",
+        "dowryDeaths": "12",
+        "womenAssault": "64",
+        "total": "1841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96259728449391,
+          25.8707958
+        ]
+      },
+      "properties": {
+        "name": "UTTAR DINAJPUR",
+        "state": "WEST BENGAL",
+        "address": "Uttar Dinajpur, West Bengal, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "110",
+        "homicide": "10",
+        "rape": "92",
+        "kidnapping": "306",
+        "dacoity": "13",
+        "robbery": "29",
+        "burglary": "7",
+        "vehicleTheft": "129",
+        "riots": "51",
+        "dowryDeaths": "9",
+        "womenAssault": "150",
+        "total": "5212"
+      }
+    }
+  ]
+}
