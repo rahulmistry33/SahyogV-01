@@ -114,6 +114,7 @@
       border-color: #ff9800;
       padding: 10px;
       margin: 10px;
+      color: black;
       font-family: georgia;
       border-radius: 10px;
       /*margin-top: 50vh;*/
@@ -298,7 +299,7 @@
                 <p><b>Crime Type:</b> <span id="modal-type"></span> </p><br>
                 <p><b>Crime Location:</b> <span id="modal-location"></span> </p><br>
                <p><b>Crime Description:</b> <span id="modal-body"></span> </p><br>
-               <p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'world.jpg' %}" alt="..." class="img-thumbnail"></span> </p><br>
+               <p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}" alt="..." class="img-thumbnail"></span> </p><br>
                <div class="form-group">
                 <label  for="crimeDetails">Additional Details (Optional)</label>
                 <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
@@ -311,10 +312,11 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-                <form id="validators" action="{% url 'admindashboard' %}"  method="POST">
+                <a href="/adminarea/validators/" class="btn btn-dark" >View Validators</a>
+                <!-- <form id="validators" action="{% url 'admindashboard' %}"  method="POST">
                     {% csrf_token %}    
                     <input type="submit" name="validatebutton" value="View Validators" id="submitBtn">
-                </form>
+                </form> -->
             </div>
         </div>
     </div>

@@ -1,0 +1,4505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "4",
+        "rape": "28",
+        "kidnapping": "62",
+        "dacoity": "3",
+        "robbery": "42",
+        "burglary": "149",
+        "vehicleTheft": "560",
+        "riots": "9",
+        "dowryDeaths": "4",
+        "womenAssault": "30",
+        "total": "3750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "15",
+        "rape": "24",
+        "kidnapping": "163",
+        "dacoity": "4",
+        "robbery": "47",
+        "burglary": "270",
+        "vehicleTheft": "835",
+        "riots": "20",
+        "dowryDeaths": "11",
+        "womenAssault": "56",
+        "total": "4447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "22",
+        "burglary": "75",
+        "vehicleTheft": "341",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "2660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "5",
+        "rape": "28",
+        "kidnapping": "99",
+        "dacoity": "2",
+        "robbery": "52",
+        "burglary": "177",
+        "vehicleTheft": "455",
+        "riots": "11",
+        "dowryDeaths": "4",
+        "womenAssault": "26",
+        "total": "3998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "5",
+        "rape": "36",
+        "kidnapping": "157",
+        "dacoity": "3",
+        "robbery": "74",
+        "burglary": "157",
+        "vehicleTheft": "500",
+        "riots": "7",
+        "dowryDeaths": "20",
+        "womenAssault": "34",
+        "total": "3449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "134",
+        "homicide": "13",
+        "rape": "103",
+        "kidnapping": "518",
+        "dacoity": "14",
+        "robbery": "122",
+        "burglary": "619",
+        "vehicleTheft": "1429",
+        "riots": "20",
+        "dowryDeaths": "25",
+        "womenAssault": "102",
+        "total": "10001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889757,
+          50.9277257
+        ]
+      },
+      "properties": {
+        "name": "S.T.F.",
+        "state": "DELHI UT",
+        "address": "Taj of India, 3, Unterm Markt, Zentrum, Jena-Zentrum, Jena, Th\u00fcringen, 07743, Deutschland",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "7",
+        "rape": "65",
+        "kidnapping": "265",
+        "dacoity": "9",
+        "robbery": "120",
+        "burglary": "803",
+        "vehicleTheft": "1986",
+        "riots": "46",
+        "dowryDeaths": "15",
+        "womenAssault": "96",
+        "total": "10745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "1",
+        "rape": "42",
+        "kidnapping": "174",
+        "dacoity": "9",
+        "robbery": "74",
+        "burglary": "359",
+        "vehicleTheft": "772",
+        "riots": "32",
+        "dowryDeaths": "16",
+        "womenAssault": "69",
+        "total": "5389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "12",
+        "rape": "45",
+        "kidnapping": "151",
+        "dacoity": "2",
+        "robbery": "58",
+        "burglary": "418",
+        "vehicleTheft": "996",
+        "riots": "5",
+        "dowryDeaths": "18",
+        "womenAssault": "65",
+        "total": "7690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "7",
+        "rape": "22",
+        "kidnapping": "71",
+        "dacoity": "1",
+        "robbery": "39",
+        "burglary": "143",
+        "vehicleTheft": "453",
+        "riots": "8",
+        "dowryDeaths": "2",
+        "womenAssault": "41",
+        "total": "3578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "9",
+        "rape": "10",
+        "kidnapping": "141",
+        "dacoity": "7",
+        "robbery": "37",
+        "burglary": "210",
+        "vehicleTheft": "779",
+        "riots": "14",
+        "dowryDeaths": "19",
+        "womenAssault": "55",
+        "total": "3881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "20",
+        "burglary": "54",
+        "vehicleTheft": "347",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "2406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "12",
+        "rape": "27",
+        "kidnapping": "84",
+        "dacoity": "7",
+        "robbery": "43",
+        "burglary": "131",
+        "vehicleTheft": "412",
+        "riots": "14",
+        "dowryDeaths": "5",
+        "womenAssault": "31",
+        "total": "3681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "2",
+        "rape": "39",
+        "kidnapping": "156",
+        "dacoity": "2",
+        "robbery": "65",
+        "burglary": "139",
+        "vehicleTheft": "473",
+        "riots": "12",
+        "dowryDeaths": "13",
+        "womenAssault": "27",
+        "total": "2957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "135",
+        "homicide": "9",
+        "rape": "120",
+        "kidnapping": "430",
+        "dacoity": "20",
+        "robbery": "112",
+        "burglary": "487",
+        "vehicleTheft": "1210",
+        "riots": "14",
+        "dowryDeaths": "26",
+        "womenAssault": "101",
+        "total": "9191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889757,
+          50.9277257
+        ]
+      },
+      "properties": {
+        "name": "S.T.F.",
+        "state": "DELHI UT",
+        "address": "Taj of India, 3, Unterm Markt, Zentrum, Jena-Zentrum, Jena, Th\u00fcringen, 07743, Deutschland",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "6",
+        "rape": "65",
+        "kidnapping": "163",
+        "dacoity": "4",
+        "robbery": "74",
+        "burglary": "518",
+        "vehicleTheft": "1897",
+        "riots": "37",
+        "dowryDeaths": "22",
+        "womenAssault": "76",
+        "total": "9306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "5",
+        "rape": "68",
+        "kidnapping": "126",
+        "dacoity": "4",
+        "robbery": "48",
+        "burglary": "364",
+        "vehicleTheft": "774",
+        "riots": "24",
+        "dowryDeaths": "21",
+        "womenAssault": "62",
+        "total": "4814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5897464,
+          17.9949169
+        ]
+      },
+      "properties": {
+        "name": "SPL CELL",
+        "state": "DELHI UT",
+        "address": "Women Protecting Cell, NH563, Hanamkonda, Hanamkonda mandal, Warangal Urban, Telangana, 506007, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "16",
+        "rape": "44",
+        "kidnapping": "128",
+        "dacoity": "1",
+        "robbery": "50",
+        "burglary": "313",
+        "vehicleTheft": "1060",
+        "riots": "5",
+        "dowryDeaths": "27",
+        "womenAssault": "37",
+        "total": "7148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "6",
+        "rape": "20",
+        "kidnapping": "63",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "102",
+        "vehicleTheft": "490",
+        "riots": "0",
+        "dowryDeaths": "4",
+        "womenAssault": "29",
+        "total": "2998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "6",
+        "rape": "37",
+        "kidnapping": "158",
+        "dacoity": "4",
+        "robbery": "39",
+        "burglary": "179",
+        "vehicleTheft": "927",
+        "riots": "9",
+        "dowryDeaths": "15",
+        "womenAssault": "73",
+        "total": "4331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "16",
+        "burglary": "58",
+        "vehicleTheft": "312",
+        "riots": "4",
+        "dowryDeaths": "1",
+        "womenAssault": "20",
+        "total": "2177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "12",
+        "rape": "34",
+        "kidnapping": "63",
+        "dacoity": "1",
+        "robbery": "35",
+        "burglary": "81",
+        "vehicleTheft": "337",
+        "riots": "7",
+        "dowryDeaths": "4",
+        "womenAssault": "16",
+        "total": "3391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "5",
+        "rape": "53",
+        "kidnapping": "182",
+        "dacoity": "4",
+        "robbery": "56",
+        "burglary": "130",
+        "vehicleTheft": "459",
+        "riots": "4",
+        "dowryDeaths": "20",
+        "womenAssault": "41",
+        "total": "3125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "106",
+        "homicide": "12",
+        "rape": "128",
+        "kidnapping": "301",
+        "dacoity": "6",
+        "robbery": "93",
+        "burglary": "390",
+        "vehicleTheft": "1232",
+        "riots": "7",
+        "dowryDeaths": "27",
+        "womenAssault": "102",
+        "total": "8782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889757,
+          50.9277257
+        ]
+      },
+      "properties": {
+        "name": "S.T.F.",
+        "state": "DELHI UT",
+        "address": "Taj of India, 3, Unterm Markt, Zentrum, Jena-Zentrum, Jena, Th\u00fcringen, 07743, Deutschland",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "10",
+        "rape": "83",
+        "kidnapping": "134",
+        "dacoity": "4",
+        "robbery": "57",
+        "burglary": "375",
+        "vehicleTheft": "1790",
+        "riots": "19",
+        "dowryDeaths": "24",
+        "womenAssault": "89",
+        "total": "8440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "5",
+        "rape": "57",
+        "kidnapping": "118",
+        "dacoity": "3",
+        "robbery": "60",
+        "burglary": "368",
+        "vehicleTheft": "716",
+        "riots": "21",
+        "dowryDeaths": "22",
+        "womenAssault": "52",
+        "total": "5179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "6",
+        "rape": "70",
+        "kidnapping": "105",
+        "dacoity": "3",
+        "robbery": "53",
+        "burglary": "215",
+        "vehicleTheft": "1155",
+        "riots": "4",
+        "dowryDeaths": "10",
+        "womenAssault": "58",
+        "total": "7077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "6",
+        "rape": "27",
+        "kidnapping": "57",
+        "dacoity": "1",
+        "robbery": "18",
+        "burglary": "84",
+        "vehicleTheft": "513",
+        "riots": "8",
+        "dowryDeaths": "1",
+        "womenAssault": "44",
+        "total": "3335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "13",
+        "rape": "62",
+        "kidnapping": "172",
+        "dacoity": "6",
+        "robbery": "52",
+        "burglary": "137",
+        "vehicleTheft": "1194",
+        "riots": "6",
+        "dowryDeaths": "13",
+        "womenAssault": "82",
+        "total": "5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "5",
+        "rape": "8",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "79",
+        "vehicleTheft": "366",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "34",
+        "total": "2651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "8",
+        "rape": "23",
+        "kidnapping": "85",
+        "dacoity": "5",
+        "robbery": "30",
+        "burglary": "99",
+        "vehicleTheft": "429",
+        "riots": "6",
+        "dowryDeaths": "6",
+        "womenAssault": "21",
+        "total": "3418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "3",
+        "rape": "67",
+        "kidnapping": "157",
+        "dacoity": "4",
+        "robbery": "65",
+        "burglary": "153",
+        "vehicleTheft": "595",
+        "riots": "4",
+        "dowryDeaths": "18",
+        "womenAssault": "46",
+        "total": "3896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "129",
+        "homicide": "19",
+        "rape": "124",
+        "kidnapping": "285",
+        "dacoity": "4",
+        "robbery": "120",
+        "burglary": "443",
+        "vehicleTheft": "1522",
+        "riots": "11",
+        "dowryDeaths": "29",
+        "womenAssault": "129",
+        "total": "9840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5889757,
+          50.9277257
+        ]
+      },
+      "properties": {
+        "name": "S.T.F.",
+        "state": "DELHI UT",
+        "address": "Taj of India, 3, Unterm Markt, Zentrum, Jena-Zentrum, Jena, Th\u00fcringen, 07743, Deutschland",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "13",
+        "rape": "96",
+        "kidnapping": "216",
+        "dacoity": "5",
+        "robbery": "54",
+        "burglary": "274",
+        "vehicleTheft": "2053",
+        "riots": "10",
+        "dowryDeaths": "21",
+        "womenAssault": "130",
+        "total": "9672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "6",
+        "rape": "79",
+        "kidnapping": "97",
+        "dacoity": "3",
+        "robbery": "51",
+        "burglary": "366",
+        "vehicleTheft": "749",
+        "riots": "13",
+        "dowryDeaths": "11",
+        "womenAssault": "59",
+        "total": "5932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "6",
+        "rape": "58",
+        "kidnapping": "110",
+        "dacoity": "1",
+        "robbery": "50",
+        "burglary": "235",
+        "vehicleTheft": "1420",
+        "riots": "5",
+        "dowryDeaths": "24",
+        "womenAssault": "46",
+        "total": "7343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "52",
+        "dacoity": "1",
+        "robbery": "20",
+        "burglary": "57",
+        "vehicleTheft": "492",
+        "riots": "1",
+        "dowryDeaths": "4",
+        "womenAssault": "40",
+        "total": "3529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "2",
+        "rape": "59",
+        "kidnapping": "153",
+        "dacoity": "1",
+        "robbery": "58",
+        "burglary": "187",
+        "vehicleTheft": "1146",
+        "riots": "8",
+        "dowryDeaths": "12",
+        "womenAssault": "105",
+        "total": "5453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "0",
+        "vehicleTheft": "19",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "3",
+        "rape": "6",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "13",
+        "burglary": "42",
+        "vehicleTheft": "236",
+        "riots": "9",
+        "dowryDeaths": "2",
+        "womenAssault": "26",
+        "total": "2295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "1",
+        "rape": "22",
+        "kidnapping": "78",
+        "dacoity": "3",
+        "robbery": "34",
+        "burglary": "86",
+        "vehicleTheft": "310",
+        "riots": "5",
+        "dowryDeaths": "2",
+        "womenAssault": "45",
+        "total": "3306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "8",
+        "rape": "106",
+        "kidnapping": "212",
+        "dacoity": "4",
+        "robbery": "60",
+        "burglary": "186",
+        "vehicleTheft": "718",
+        "riots": "6",
+        "dowryDeaths": "29",
+        "womenAssault": "79",
+        "total": "4849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "128",
+        "homicide": "18",
+        "rape": "190",
+        "kidnapping": "572",
+        "dacoity": "9",
+        "robbery": "124",
+        "burglary": "543",
+        "vehicleTheft": "1546",
+        "riots": "13",
+        "dowryDeaths": "23",
+        "womenAssault": "138",
+        "total": "11019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "6",
+        "rape": "87",
+        "kidnapping": "231",
+        "dacoity": "4",
+        "robbery": "93",
+        "burglary": "287",
+        "vehicleTheft": "2274",
+        "riots": "8",
+        "dowryDeaths": "19",
+        "womenAssault": "151",
+        "total": "10529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "10",
+        "rape": "71",
+        "kidnapping": "114",
+        "dacoity": "2",
+        "robbery": "51",
+        "burglary": "378",
+        "vehicleTheft": "737",
+        "riots": "9",
+        "dowryDeaths": "12",
+        "womenAssault": "86",
+        "total": "5762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5897464,
+          17.9949169
+        ]
+      },
+      "properties": {
+        "name": "SPL CELL",
+        "state": "DELHI UT",
+        "address": "Women Protecting Cell, NH563, Hanamkonda, Hanamkonda mandal, Warangal Urban, Telangana, 506007, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "12",
+        "rape": "94",
+        "kidnapping": "151",
+        "dacoity": "3",
+        "robbery": "49",
+        "burglary": "325",
+        "vehicleTheft": "1369",
+        "riots": "1",
+        "dowryDeaths": "10",
+        "womenAssault": "86",
+        "total": "7217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "6",
+        "rape": "17",
+        "kidnapping": "73",
+        "dacoity": "0",
+        "robbery": "22",
+        "burglary": "63",
+        "vehicleTheft": "452",
+        "riots": "5",
+        "dowryDeaths": "3",
+        "womenAssault": "21",
+        "total": "3706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "8",
+        "rape": "61",
+        "kidnapping": "118",
+        "dacoity": "3",
+        "robbery": "66",
+        "burglary": "168",
+        "vehicleTheft": "1268",
+        "riots": "14",
+        "dowryDeaths": "9",
+        "womenAssault": "86",
+        "total": "5573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "1",
+        "vehicleTheft": "33",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "1076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "2",
+        "vehicleTheft": "25",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "26",
+        "dacoity": "0",
+        "robbery": "20",
+        "burglary": "42",
+        "vehicleTheft": "262",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "31",
+        "total": "2288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "5",
+        "rape": "22",
+        "kidnapping": "41",
+        "dacoity": "0",
+        "robbery": "29",
+        "burglary": "78",
+        "vehicleTheft": "269",
+        "riots": "4",
+        "dowryDeaths": "8",
+        "womenAssault": "27",
+        "total": "3016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "9",
+        "rape": "93",
+        "kidnapping": "197",
+        "dacoity": "3",
+        "robbery": "82",
+        "burglary": "173",
+        "vehicleTheft": "685",
+        "riots": "11",
+        "dowryDeaths": "28",
+        "womenAssault": "92",
+        "total": "5389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "128",
+        "homicide": "12",
+        "rape": "169",
+        "kidnapping": "437",
+        "dacoity": "4",
+        "robbery": "105",
+        "burglary": "456",
+        "vehicleTheft": "1769",
+        "riots": "12",
+        "dowryDeaths": "28",
+        "womenAssault": "137",
+        "total": "11146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "13",
+        "rape": "87",
+        "kidnapping": "215",
+        "dacoity": "2",
+        "robbery": "117",
+        "burglary": "350",
+        "vehicleTheft": "2302",
+        "riots": "12",
+        "dowryDeaths": "19",
+        "womenAssault": "141",
+        "total": "10854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "11",
+        "rape": "79",
+        "kidnapping": "161",
+        "dacoity": "0",
+        "robbery": "48",
+        "burglary": "345",
+        "vehicleTheft": "915",
+        "riots": "9",
+        "dowryDeaths": "24",
+        "womenAssault": "84",
+        "total": "6584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "10",
+        "rape": "88",
+        "kidnapping": "155",
+        "dacoity": "2",
+        "robbery": "39",
+        "burglary": "272",
+        "vehicleTheft": "1386",
+        "riots": "5",
+        "dowryDeaths": "17",
+        "womenAssault": "97",
+        "total": "7368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "6",
+        "rape": "22",
+        "kidnapping": "70",
+        "dacoity": "1",
+        "robbery": "28",
+        "burglary": "63",
+        "vehicleTheft": "538",
+        "riots": "4",
+        "dowryDeaths": "6",
+        "womenAssault": "38",
+        "total": "3248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "8",
+        "rape": "73",
+        "kidnapping": "145",
+        "dacoity": "7",
+        "robbery": "102",
+        "burglary": "196",
+        "vehicleTheft": "1183",
+        "riots": "17",
+        "dowryDeaths": "16",
+        "womenAssault": "112",
+        "total": "6016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "40",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "1",
+        "vehicleTheft": "26",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "12",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "53",
+        "vehicleTheft": "215",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "23",
+        "total": "2195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "9",
+        "rape": "33",
+        "kidnapping": "64",
+        "dacoity": "5",
+        "robbery": "33",
+        "burglary": "84",
+        "vehicleTheft": "300",
+        "riots": "7",
+        "dowryDeaths": "6",
+        "womenAssault": "43",
+        "total": "3352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "9",
+        "rape": "89",
+        "kidnapping": "241",
+        "dacoity": "2",
+        "robbery": "55",
+        "burglary": "206",
+        "vehicleTheft": "732",
+        "riots": "2",
+        "dowryDeaths": "17",
+        "womenAssault": "120",
+        "total": "5121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "11",
+        "rape": "51",
+        "kidnapping": "208",
+        "dacoity": "4",
+        "robbery": "63",
+        "burglary": "272",
+        "vehicleTheft": "1206",
+        "riots": "6",
+        "dowryDeaths": "7",
+        "womenAssault": "64",
+        "total": "5189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "102",
+        "homicide": "17",
+        "rape": "121",
+        "kidnapping": "360",
+        "dacoity": "4",
+        "robbery": "85",
+        "burglary": "231",
+        "vehicleTheft": "700",
+        "riots": "12",
+        "dowryDeaths": "29",
+        "womenAssault": "100",
+        "total": "5690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "68",
+        "homicide": "11",
+        "rape": "83",
+        "kidnapping": "256",
+        "dacoity": "2",
+        "robbery": "75",
+        "burglary": "412",
+        "vehicleTheft": "1742",
+        "riots": "19",
+        "dowryDeaths": "22",
+        "womenAssault": "169",
+        "total": "10414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "8",
+        "rape": "51",
+        "kidnapping": "148",
+        "dacoity": "7",
+        "robbery": "47",
+        "burglary": "304",
+        "vehicleTheft": "960",
+        "riots": "9",
+        "dowryDeaths": "19",
+        "womenAssault": "85",
+        "total": "6821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "14",
+        "rape": "64",
+        "kidnapping": "169",
+        "dacoity": "0",
+        "robbery": "38",
+        "burglary": "232",
+        "vehicleTheft": "1232",
+        "riots": "3",
+        "dowryDeaths": "16",
+        "womenAssault": "102",
+        "total": "6391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "4",
+        "rape": "30",
+        "kidnapping": "84",
+        "dacoity": "0",
+        "robbery": "33",
+        "burglary": "92",
+        "vehicleTheft": "792",
+        "riots": "2",
+        "dowryDeaths": "6",
+        "womenAssault": "38",
+        "total": "3100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "name": "CRIME BRANCH",
+        "state": "DELHI UT",
+        "address": "Crime branch, Rangehills Marg, Mandalay Lines, Pune, Pune City, Pune District, Maharashtra, 411001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "1",
+        "rape": "73",
+        "kidnapping": "191",
+        "dacoity": "5",
+        "robbery": "74",
+        "burglary": "180",
+        "vehicleTheft": "1490",
+        "riots": "13",
+        "dowryDeaths": "21",
+        "womenAssault": "93",
+        "total": "5540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200362,
+          5.4172759
+        ]
+      },
+      "properties": {
+        "name": "EOW",
+        "state": "DELHI UT",
+        "address": "Jalan Lim Eow Thoon, Taman Jajar, Pulau Tikus, George Town, Timur Laut, Pulau Pinang, 10450, Malaysia",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "27",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "0",
+        "vehicleTheft": "37",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "14",
+        "burglary": "46",
+        "vehicleTheft": "244",
+        "riots": "11",
+        "dowryDeaths": "1",
+        "womenAssault": "18",
+        "total": "1859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "7",
+        "rape": "20",
+        "kidnapping": "80",
+        "dacoity": "2",
+        "robbery": "56",
+        "burglary": "75",
+        "vehicleTheft": "422",
+        "riots": "4",
+        "dowryDeaths": "4",
+        "womenAssault": "35",
+        "total": "3113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "12",
+        "rape": "32",
+        "kidnapping": "210",
+        "dacoity": "0",
+        "robbery": "47",
+        "burglary": "182",
+        "vehicleTheft": "995",
+        "riots": "7",
+        "dowryDeaths": "17",
+        "womenAssault": "77",
+        "total": "4514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "2",
+        "rape": "59",
+        "kidnapping": "137",
+        "dacoity": "3",
+        "robbery": "85",
+        "burglary": "250",
+        "vehicleTheft": "1143",
+        "riots": "2",
+        "dowryDeaths": "12",
+        "womenAssault": "48",
+        "total": "4204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "14",
+        "rape": "59",
+        "kidnapping": "355",
+        "dacoity": "7",
+        "robbery": "43",
+        "burglary": "249",
+        "vehicleTheft": "1277",
+        "riots": "3",
+        "dowryDeaths": "21",
+        "womenAssault": "48",
+        "total": "5237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "5",
+        "rape": "37",
+        "kidnapping": "70",
+        "dacoity": "1",
+        "robbery": "42",
+        "burglary": "262",
+        "vehicleTheft": "1228",
+        "riots": "8",
+        "dowryDeaths": "8",
+        "womenAssault": "52",
+        "total": "4821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2370253,
+          30.7640468
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-EAST",
+        "state": "DELHI UT",
+        "address": "Seh, Samrala Tahsil, Ludhiana, Punjab, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "6",
+        "rape": "61",
+        "kidnapping": "182",
+        "dacoity": "1",
+        "robbery": "66",
+        "burglary": "222",
+        "vehicleTheft": "1342",
+        "riots": "9",
+        "dowryDeaths": "15",
+        "womenAssault": "82",
+        "total": "5904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "6",
+        "rape": "38",
+        "kidnapping": "87",
+        "dacoity": "2",
+        "robbery": "37",
+        "burglary": "136",
+        "vehicleTheft": "725",
+        "riots": "7",
+        "dowryDeaths": "9",
+        "womenAssault": "39",
+        "total": "3945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "8",
+        "rape": "54",
+        "kidnapping": "145",
+        "dacoity": "2",
+        "robbery": "39",
+        "burglary": "231",
+        "vehicleTheft": "1298",
+        "riots": "4",
+        "dowryDeaths": "14",
+        "womenAssault": "77",
+        "total": "5286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "8",
+        "rape": "28",
+        "kidnapping": "93",
+        "dacoity": "0",
+        "robbery": "33",
+        "burglary": "107",
+        "vehicleTheft": "789",
+        "riots": "4",
+        "dowryDeaths": "6",
+        "womenAssault": "34",
+        "total": "2833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "name": "CRIME BRANCH",
+        "state": "DELHI UT",
+        "address": "Crime branch, Rangehills Marg, Mandalay Lines, Pune, Pune City, Pune District, Maharashtra, 411001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "5",
+        "rape": "52",
+        "kidnapping": "299",
+        "dacoity": "9",
+        "robbery": "52",
+        "burglary": "196",
+        "vehicleTheft": "2022",
+        "riots": "9",
+        "dowryDeaths": "10",
+        "womenAssault": "81",
+        "total": "6379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200362,
+          5.4172759
+        ]
+      },
+      "properties": {
+        "name": "EOW",
+        "state": "DELHI UT",
+        "address": "Jalan Lim Eow Thoon, Taman Jajar, Pulau Tikus, George Town, Timur Laut, Pulau Pinang, 10450, Malaysia",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "11",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "1",
+        "vehicleTheft": "29",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "19",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "46",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "45",
+        "vehicleTheft": "197",
+        "riots": "3",
+        "dowryDeaths": "1",
+        "womenAssault": "17",
+        "total": "1492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "6",
+        "rape": "19",
+        "kidnapping": "140",
+        "dacoity": "1",
+        "robbery": "24",
+        "burglary": "77",
+        "vehicleTheft": "488",
+        "riots": "4",
+        "dowryDeaths": "8",
+        "womenAssault": "35",
+        "total": "2908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "5",
+        "rape": "47",
+        "kidnapping": "375",
+        "dacoity": "5",
+        "robbery": "53",
+        "burglary": "117",
+        "vehicleTheft": "1434",
+        "riots": "7",
+        "dowryDeaths": "15",
+        "womenAssault": "67",
+        "total": "4720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "4",
+        "rape": "54",
+        "kidnapping": "218",
+        "dacoity": "6",
+        "robbery": "118",
+        "burglary": "233",
+        "vehicleTheft": "1301",
+        "riots": "6",
+        "dowryDeaths": "13",
+        "womenAssault": "39",
+        "total": "4676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "10",
+        "rape": "41",
+        "kidnapping": "332",
+        "dacoity": "3",
+        "robbery": "21",
+        "burglary": "217",
+        "vehicleTheft": "1295",
+        "riots": "6",
+        "dowryDeaths": "21",
+        "womenAssault": "61",
+        "total": "4969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "4",
+        "rape": "42",
+        "kidnapping": "133",
+        "dacoity": "0",
+        "robbery": "36",
+        "burglary": "241",
+        "vehicleTheft": "1693",
+        "riots": "7",
+        "dowryDeaths": "10",
+        "womenAssault": "45",
+        "total": "5353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2370253,
+          30.7640468
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-EAST",
+        "state": "DELHI UT",
+        "address": "Seh, Samrala Tahsil, Ludhiana, Punjab, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "5",
+        "rape": "59",
+        "kidnapping": "318",
+        "dacoity": "1",
+        "robbery": "62",
+        "burglary": "174",
+        "vehicleTheft": "1684",
+        "riots": "3",
+        "dowryDeaths": "18",
+        "womenAssault": "78",
+        "total": "6267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "15",
+        "rape": "52",
+        "kidnapping": "241",
+        "dacoity": "4",
+        "robbery": "44",
+        "burglary": "133",
+        "vehicleTheft": "851",
+        "riots": "5",
+        "dowryDeaths": "17",
+        "womenAssault": "53",
+        "total": "3610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "19",
+        "rape": "63",
+        "kidnapping": "328",
+        "dacoity": "2",
+        "robbery": "46",
+        "burglary": "192",
+        "vehicleTheft": "1422",
+        "riots": "3",
+        "dowryDeaths": "21",
+        "womenAssault": "38",
+        "total": "5111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "126",
+        "dacoity": "0",
+        "robbery": "35",
+        "burglary": "65",
+        "vehicleTheft": "791",
+        "riots": "5",
+        "dowryDeaths": "2",
+        "womenAssault": "25",
+        "total": "2828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "name": "CRIME BRANCH",
+        "state": "DELHI UT",
+        "address": "Crime branch, Rangehills Marg, Mandalay Lines, Pune, Pune City, Pune District, Maharashtra, 411001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "8",
+        "rape": "47",
+        "kidnapping": "357",
+        "dacoity": "7",
+        "robbery": "81",
+        "burglary": "204",
+        "vehicleTheft": "2617",
+        "riots": "14",
+        "dowryDeaths": "12",
+        "womenAssault": "83",
+        "total": "6723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200362,
+          5.4172759
+        ]
+      },
+      "properties": {
+        "name": "EOW",
+        "state": "DELHI UT",
+        "address": "Jalan Lim Eow Thoon, Taman Jajar, Pulau Tikus, George Town, Timur Laut, Pulau Pinang, 10450, Malaysia",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "23",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "0",
+        "vehicleTheft": "32",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "31",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "16",
+        "kidnapping": "29",
+        "dacoity": "1",
+        "robbery": "19",
+        "burglary": "33",
+        "vehicleTheft": "194",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "7",
+        "rape": "7",
+        "kidnapping": "161",
+        "dacoity": "0",
+        "robbery": "24",
+        "burglary": "75",
+        "vehicleTheft": "604",
+        "riots": "1",
+        "dowryDeaths": "8",
+        "womenAssault": "23",
+        "total": "2889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "68",
+        "homicide": "7",
+        "rape": "51",
+        "kidnapping": "458",
+        "dacoity": "5",
+        "robbery": "57",
+        "burglary": "81",
+        "vehicleTheft": "1821",
+        "riots": "6",
+        "dowryDeaths": "24",
+        "womenAssault": "68",
+        "total": "5062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "4",
+        "rape": "50",
+        "kidnapping": "260",
+        "dacoity": "8",
+        "robbery": "178",
+        "burglary": "225",
+        "vehicleTheft": "1472",
+        "riots": "2",
+        "dowryDeaths": "11",
+        "womenAssault": "62",
+        "total": "5016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "98",
+        "homicide": "7",
+        "rape": "49",
+        "kidnapping": "457",
+        "dacoity": "4",
+        "robbery": "39",
+        "burglary": "234",
+        "vehicleTheft": "1540",
+        "riots": "3",
+        "dowryDeaths": "21",
+        "womenAssault": "64",
+        "total": "5495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "5",
+        "rape": "59",
+        "kidnapping": "240",
+        "dacoity": "4",
+        "robbery": "47",
+        "burglary": "203",
+        "vehicleTheft": "1677",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "66",
+        "total": "5308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2370253,
+          30.7640468
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-EAST",
+        "state": "DELHI UT",
+        "address": "Seh, Samrala Tahsil, Ludhiana, Punjab, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "11",
+        "rape": "80",
+        "kidnapping": "369",
+        "dacoity": "0",
+        "robbery": "32",
+        "burglary": "142",
+        "vehicleTheft": "1516",
+        "riots": "10",
+        "dowryDeaths": "13",
+        "womenAssault": "92",
+        "total": "5606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "3",
+        "rape": "54",
+        "kidnapping": "363",
+        "dacoity": "1",
+        "robbery": "30",
+        "burglary": "83",
+        "vehicleTheft": "919",
+        "riots": "7",
+        "dowryDeaths": "24",
+        "womenAssault": "28",
+        "total": "3503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "14",
+        "rape": "72",
+        "kidnapping": "350",
+        "dacoity": "0",
+        "robbery": "48",
+        "burglary": "156",
+        "vehicleTheft": "1752",
+        "riots": "1",
+        "dowryDeaths": "19",
+        "womenAssault": "60",
+        "total": "5475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "10",
+        "rape": "16",
+        "kidnapping": "154",
+        "dacoity": "0",
+        "robbery": "26",
+        "burglary": "39",
+        "vehicleTheft": "831",
+        "riots": "2",
+        "dowryDeaths": "3",
+        "womenAssault": "32",
+        "total": "2451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "name": "CRIME BRANCH",
+        "state": "DELHI UT",
+        "address": "Crime branch, Rangehills Marg, Mandalay Lines, Pune, Pune City, Pune District, Maharashtra, 411001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "6",
+        "rape": "55",
+        "kidnapping": "393",
+        "dacoity": "7",
+        "robbery": "67",
+        "burglary": "154",
+        "vehicleTheft": "2405",
+        "riots": "10",
+        "dowryDeaths": "14",
+        "womenAssault": "78",
+        "total": "7004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200362,
+          5.4172759
+        ]
+      },
+      "properties": {
+        "name": "EOW",
+        "state": "DELHI UT",
+        "address": "Jalan Lim Eow Thoon, Taman Jajar, Pulau Tikus, George Town, Timur Laut, Pulau Pinang, 10450, Malaysia",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "25",
+        "dacoity": "3",
+        "robbery": "21",
+        "burglary": "4",
+        "vehicleTheft": "32",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "7",
+        "total": "972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "12",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "3",
+        "rape": "2",
+        "kidnapping": "33",
+        "dacoity": "1",
+        "robbery": "12",
+        "burglary": "38",
+        "vehicleTheft": "166",
+        "riots": "3",
+        "dowryDeaths": "1",
+        "womenAssault": "17",
+        "total": "1181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "3",
+        "rape": "11",
+        "kidnapping": "177",
+        "dacoity": "1",
+        "robbery": "38",
+        "burglary": "59",
+        "vehicleTheft": "614",
+        "riots": "1",
+        "dowryDeaths": "4",
+        "womenAssault": "15",
+        "total": "2841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "9",
+        "rape": "69",
+        "kidnapping": "530",
+        "dacoity": "5",
+        "robbery": "55",
+        "burglary": "76",
+        "vehicleTheft": "1812",
+        "riots": "3",
+        "dowryDeaths": "21",
+        "womenAssault": "88",
+        "total": "5734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "58",
+        "kidnapping": "331",
+        "dacoity": "4",
+        "robbery": "89",
+        "burglary": "180",
+        "vehicleTheft": "1554",
+        "riots": "1",
+        "dowryDeaths": "10",
+        "womenAssault": "48",
+        "total": "4889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "84",
+        "homicide": "10",
+        "rape": "73",
+        "kidnapping": "577",
+        "dacoity": "4",
+        "robbery": "74",
+        "burglary": "260",
+        "vehicleTheft": "1570",
+        "riots": "4",
+        "dowryDeaths": "34",
+        "womenAssault": "65",
+        "total": "6118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "5",
+        "rape": "65",
+        "kidnapping": "222",
+        "dacoity": "1",
+        "robbery": "31",
+        "burglary": "203",
+        "vehicleTheft": "1457",
+        "riots": "4",
+        "dowryDeaths": "11",
+        "womenAssault": "50",
+        "total": "5141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2370253,
+          30.7640468
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-EAST",
+        "state": "DELHI UT",
+        "address": "Seh, Samrala Tahsil, Ludhiana, Punjab, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "6",
+        "rape": "75",
+        "kidnapping": "478",
+        "dacoity": "4",
+        "robbery": "54",
+        "burglary": "147",
+        "vehicleTheft": "1578",
+        "riots": "6",
+        "dowryDeaths": "19",
+        "womenAssault": "127",
+        "total": "6377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "5",
+        "rape": "69",
+        "kidnapping": "391",
+        "dacoity": "0",
+        "robbery": "52",
+        "burglary": "158",
+        "vehicleTheft": "818",
+        "riots": "10",
+        "dowryDeaths": "11",
+        "womenAssault": "56",
+        "total": "3783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "64",
+        "homicide": "12",
+        "rape": "73",
+        "kidnapping": "453",
+        "dacoity": "3",
+        "robbery": "43",
+        "burglary": "101",
+        "vehicleTheft": "1819",
+        "riots": "5",
+        "dowryDeaths": "13",
+        "womenAssault": "65",
+        "total": "5883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3587427,
+          22.5724857
+        ]
+      },
+      "properties": {
+        "name": "CENTRAL",
+        "state": "DELHI UT",
+        "address": "Central, Chittaranjan Avenue, Central Avenue 2, Kolkata, West Bengal, 700012, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "10",
+        "rape": "31",
+        "kidnapping": "180",
+        "dacoity": "2",
+        "robbery": "47",
+        "burglary": "101",
+        "vehicleTheft": "846",
+        "riots": "6",
+        "dowryDeaths": "4",
+        "womenAssault": "47",
+        "total": "2973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "name": "CRIME BRANCH",
+        "state": "DELHI UT",
+        "address": "Crime branch, Rangehills Marg, Mandalay Lines, Pune, Pune City, Pune District, Maharashtra, 411001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "DELHI UT",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "9",
+        "rape": "90",
+        "kidnapping": "503",
+        "dacoity": "4",
+        "robbery": "57",
+        "burglary": "172",
+        "vehicleTheft": "2137",
+        "riots": "14",
+        "dowryDeaths": "7",
+        "womenAssault": "96",
+        "total": "7423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200362,
+          5.4172759
+        ]
+      },
+      "properties": {
+        "name": "EOW",
+        "state": "DELHI UT",
+        "address": "Jalan Lim Eow Thoon, Taman Jajar, Pulau Tikus, George Town, Timur Laut, Pulau Pinang, 10450, Malaysia",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7100757,
+          16.075307
+        ]
+      },
+      "properties": {
+        "name": "GRP(RLY)",
+        "state": "DELHI UT",
+        "address": "Kelavadi +RLY STN, Badami taluku, Bagalkote district, Karnataka, 587101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "27",
+        "dacoity": "0",
+        "robbery": "12",
+        "burglary": "1",
+        "vehicleTheft": "32",
+        "riots": "4",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08467458266915,
+          28.55489735
+        ]
+      },
+      "properties": {
+        "name": "IGI AIRPORT",
+        "state": "DELHI UT",
+        "address": "Indira Gandhi International Airport, Abdul Gaffar Khan Marg, Bana Singh Enclave, Vasant Kunj, Rangpuri, New Delhi, Delhi, 110010, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "16",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2022662,
+          28.6141793
+        ]
+      },
+      "properties": {
+        "name": "NEW DELHI",
+        "state": "DELHI UT",
+        "address": "New Delhi, Delhi, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "25",
+        "vehicleTheft": "138",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "29",
+        "total": "1057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "153",
+        "dacoity": "0",
+        "robbery": "45",
+        "burglary": "97",
+        "vehicleTheft": "612",
+        "riots": "5",
+        "dowryDeaths": "6",
+        "womenAssault": "29",
+        "total": "2700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3422672,
+          26.7723404
+        ]
+      },
+      "properties": {
+        "name": "NORTH-EAST",
+        "state": "DELHI UT",
+        "address": "Ne, Madhopur Gas Godam Road, Gorakhpur, Uttar Pradesh, 273001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "11",
+        "rape": "78",
+        "kidnapping": "510",
+        "dacoity": "4",
+        "robbery": "58",
+        "burglary": "57",
+        "vehicleTheft": "1944",
+        "riots": "5",
+        "dowryDeaths": "25",
+        "womenAssault": "69",
+        "total": "5903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH-WEST",
+        "state": "DELHI UT",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "8",
+        "rape": "64",
+        "kidnapping": "357",
+        "dacoity": "6",
+        "robbery": "65",
+        "burglary": "166",
+        "vehicleTheft": "1329",
+        "riots": "0",
+        "dowryDeaths": "12",
+        "womenAssault": "19",
+        "total": "4542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.683333,
+          2.183333
+        ]
+      },
+      "properties": {
+        "name": "OUTER",
+        "state": "DELHI UT",
+        "address": "India, Amuria, Eastern Region, Uganda",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "96",
+        "homicide": "15",
+        "rape": "67",
+        "kidnapping": "572",
+        "dacoity": "6",
+        "robbery": "91",
+        "burglary": "262",
+        "vehicleTheft": "1405",
+        "riots": "7",
+        "dowryDeaths": "15",
+        "womenAssault": "79",
+        "total": "6344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "DELHI UT",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "3",
+        "rape": "70",
+        "kidnapping": "245",
+        "dacoity": "2",
+        "robbery": "52",
+        "burglary": "235",
+        "vehicleTheft": "1354",
+        "riots": "3",
+        "dowryDeaths": "17",
+        "womenAssault": "59",
+        "total": "5045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2370253,
+          30.7640468
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-EAST",
+        "state": "DELHI UT",
+        "address": "Seh, Samrala Tahsil, Ludhiana, Punjab, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "6",
+        "rape": "116",
+        "kidnapping": "538",
+        "dacoity": "2",
+        "robbery": "72",
+        "burglary": "201",
+        "vehicleTheft": "2045",
+        "riots": "12",
+        "dowryDeaths": "11",
+        "womenAssault": "160",
+        "total": "7040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3003216,
+          28.357158
+        ]
+      },
+      "properties": {
+        "name": "SOUTH-WEST",
+        "state": "DELHI UT",
+        "address": "Sehramau, Puranpur, Pilibhit, Uttar Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "6",
+        "rape": "87",
+        "kidnapping": "399",
+        "dacoity": "0",
+        "robbery": "47",
+        "burglary": "211",
+        "vehicleTheft": "800",
+        "riots": "6",
+        "dowryDeaths": "18",
+        "womenAssault": "69",
+        "total": "4085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "DELHI UT",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "10",
+        "rape": "79",
+        "kidnapping": "454",
+        "dacoity": "2",
+        "robbery": "52",
+        "burglary": "186",
+        "vehicleTheft": "1733",
+        "riots": "5",
+        "dowryDeaths": "18",
+        "womenAssault": "53",
+        "total": "5558"
+      }
+    }
+  ]
+}
