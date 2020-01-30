@@ -7,6 +7,10 @@ from django.http import JsonResponse
 from django.http import HttpResponse
 
 
+from . import RT
+
+
+
 
 # from twilio.rest import Client
 
@@ -47,6 +51,12 @@ def status(request):
         
             
 #         return render(request,'adminarea/validators.html', {"validations":validations})
+
+def predictCrime(request):
+    preds = RT.predict(308,0.00124153,992,53.1,0.1154,0.00125,0.6651088,107,0.000001417,50.47,90366,9.2)
+    return render(request,'adminarea/predictCrime.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4]})
+
+    
 
 
 

@@ -20,6 +20,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
+from . import RT
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
@@ -268,11 +269,17 @@ def reportCrime(request):
 
 # Analyse statistics dashboard...
 def analytics(request):
-    locations = list(locationDB.find({"severity": "2"}))
-    if request.session.has_key('username'):
-        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations), "username": request.session['name']})
+    if request.method == "POST":
+        preds = RT.predict(request.POST.get("a"),request.POST.get("b"),request.POST.get("c"),request.POST.get("d"),request.POST.get("e"),request.POST.get("f"),request.POST.get("g"),request.POST.get("h"),request.POST.get("i"),request.POST.get("j"),request.POST.get("k"),request.POST.get("l"))
+        if request.session.has_key('username'):
+            return render(request, 'UserViews/analytics.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4], "username": request.session['name']})
+        else:
+            return render(request, 'UserViews/analytics.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4]})
     else:
-        return render(request, 'UserViews/analytics.html', {"total_crimes": len(locations)})
+        if request.session.has_key('username'):
+            return render(request, 'UserViews/analytics.html',{"username":request.session["name"]})
+        else:
+            return render(request, 'UserViews/analytics.html')
     
 
 # A function for server sent events.... 

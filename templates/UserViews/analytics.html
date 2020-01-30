@@ -18,7 +18,7 @@
 	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
 	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
-	
+
 	<!-- SLEEK CSS -->
 	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
 
@@ -35,7 +35,7 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
-	
+
 
 	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
 </head>
@@ -43,44 +43,48 @@
 	.mdi {
 		color: #ffaa00 !important;
 	}
+
 	.page-wrapper {
-      background: url("{% static 'india1.jpg' %}");
-      /* background-repeat: no-repeat;
+		background: url("{% static 'india1.jpg' %}");
+		/* background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed; */
-      
-	  background-position: center;
-	  /* overflow: hidden;
+
+		background-position: center;
+		/* overflow: hidden;
 	  margin: 0;
 	  height: 100%; */
-    }
-  
-      
-    .btn {
-      background-color: black;
-      border: 2px solid #ff9800;
-      border-color: #ff9800;
-      padding: 10px;
-      margin: 20px;
-      font-family: georgia;
-      border-radius: 10px;
-      /*margin-top: 50vh;*/
-      font-size: 20px;
-    }
-  
-    .btn:hover {
-      background-color: #ffc400;
-    }
+	}
 
-    .sos{
-        background-color: black;
-        border-color: red;
-        color: white;
-    }
-    .sos:hover{
-        background-color: red;
-        color: white;
-    }
+
+	.btn {
+		background-color: transparent;
+		border: 2px solid #ff9800;
+		border-color: #ff9800;
+		padding: 10px;
+		color: black;
+		margin: 20px;
+		font-family: georgia;
+		border-radius: 10px;
+		/*margin-top: 50vh;*/
+		font-size: 20px;
+	}
+
+	.btn:hover {
+		background-color: #ffc400;
+		border-color: #ffc400;
+	}
+
+	.sos {
+		background-color: black;
+		border-color: red;
+		color: white;
+	}
+
+	.sos:hover {
+		background-color: red;
+		color: white;
+	}
 </style>
 
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
@@ -108,7 +112,7 @@
 
 
 						<li class="has-sub  ">
-							<a class="sidenav-item-link" href="/sahyog/index/" >
+							<a class="sidenav-item-link" href="/sahyog/index/">
 								<i class="mdi mdi-view-dashboard-outline"></i>
 								<span class="nav-text">Home</span>
 							</a>
@@ -119,9 +123,9 @@
 
 
 						<li class="has-sub">
-                            <a class="sidenav-item-link" href="/sahyog/report/" >
-                                <i class="mdi mdi-image-filter-none"></i>
-								
+							<a class="sidenav-item-link" href="/sahyog/report/">
+								<i class="mdi mdi-image-filter-none"></i>
+
 								<span class="nav-text">Report</span>
 							</a>
 
@@ -133,16 +137,16 @@
 
 
 						<li class="has-sub">
-							<a class="sidenav-item-link" href="/sahyog/validate/" >
+							<a class="sidenav-item-link" href="/sahyog/validate/">
 								<i class="mdi mdi-check"></i>
 								<span class="nav-text">Validate</span>
 							</a>
 
-                        </li>
+						</li>
 
-					
 
-                        <li class="has-sub">
+
+						<li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/safey/">
 								<i class="mdi mdi-map-marker-multiple"></i>
 								<span class="nav-text">Safe Route</span>
@@ -153,19 +157,19 @@
 
 
 
-                        <li class="has-sub active">
-							<a class="sidenav-item-link" href="/sahyog/analytics" >
+						<li class="has-sub active">
+							<a class="sidenav-item-link" href="/sahyog/analytics">
 								<i class="mdi mdi-chart-line"></i>
 								<span class="nav-text">Analytics</span>
 							</a>
 						</li>
 
 						<li class="has-sub">
-							<a class="sidenav-item-link"  href="/sahyog/logout">
+							<a class="sidenav-item-link" href="/sahyog/logout">
 								<i class="mdi mdi-logout"></i>
-									<span class="nav-text">Logout</span>
+								<span class="nav-text">Logout</span>
 							</a>
-							</li>
+						</li>
 
 
 
@@ -204,15 +208,17 @@
 		<div class="page-wrapper" style="background-color: #323232; ">
 			<!-- Header -->
 			<header class="main-header " id="header">
-				<nav style="background-color: transparent; border: none;" class="navbar navbar-static-top navbar-expand-lg">
+				<nav style="background-color: transparent; border: none;"
+					class="navbar navbar-static-top navbar-expand-lg">
 					<!-- Sidebar toggle button -->
-					<button style="background-color: transparent; border: none; color: white;" id="sidebar-toggler" class="sidebar-toggle">
+					<button style="background-color: transparent; border: none; color: white;" id="sidebar-toggler"
+						class="sidebar-toggle">
 						<span class="sr-only">Toggle navigation</span>
 					</button>
 					<!-- search form -->
 					<div class="search-form d-none d-lg-inline-block">
 						<div class="input-group">
-							
+
 						</div>
 						<div id="search-results-container">
 							<ul id="search-results"></ul>
@@ -221,12 +227,15 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-							<a href="/sahyog/SOS/"  class="btn sos">SOS</a>
+							<a href="/sahyog/SOS/" class="btn sos">SOS</a>
 							{% if  username  %}
-							<a href="" class="btn btn-dark">{{username}}</a>
+							<a href="" style="color: white; background-color: black;"
+								class="btn btn-dark">{{username}}</a>
 							{% else %}
-                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
-							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
+							<a style="color: white; background-color: black;" href="/sahyog/register/"
+								class="btn btn-dark">Register</a>
+							<a style="color: white; background-color: black;" href="/sahyog/login/"
+								class="btn btn-dark">Login</a>
 							{% endif %}
 						</ul>
 					</div>
@@ -234,8 +243,8 @@
 
 
 			</header>
-			<div class="content-wrapper"  >
-				<div class="content" >
+			<div class="content-wrapper">
+				<div class="content">
 					<div class="row">
 
 
@@ -318,16 +327,120 @@
 					<div class="row">
 
 
-						<div class=" col-md-11">
+						<div class=" col-xl-8 col-md-12">
+							<div class="card card-default" style="padding: 15px; color: black;"
+								data-scroll-height="675">
+								<div class="card-header justify-content-center">
+									<h2>Crime rate Prediction</h2>
+								</div>
+								<!-- <a class="btn btn-dark" style="font-family: 20px;" href="/sahyog/heatmap">View Map</a> -->
+								{% if murder %}
+								<div class="row">
+									<label class="col-2 col-form-label">Murder</label>
+									<div class="col-4">
+										<input class="form-control" type="number" value="{{murder}}" readonly>
+									</div>
+									<label class="col-2 col-form-label">Rape</label>
+									<div class="col-4">
+										<input class="form-control" type="number" value="{{rape}}" readonly>
+									</div>
+								</div><br>
+								<div class="row">
+									<label class="col-2 col-form-label">Robbery</label>
+									<div class="col-4">
+										<input class="form-control" type="number" value="{{robbery}}" readonly>
+									</div>
+									<label class="col-2 col-form-label">Kidnapping</label>
+									<div class="col-4">
+										<input class="form-control" type="number" value="{{kidnapping}}" readonly>
+									</div>
+								</div><br>
+								<div class="row">
+									<label class="col-2 col-form-label">Riots</label>
+									<div class="col-4">
+										<input class="form-control" type="number" value="{{riots}}" readonly>
+									</div>
+								</div>
+
+								{% else %}
+								<form method="POST" action="/sahyog/analytics/">
+									<div class="row">
+										<label for="a" class="col-3 col-form-label">Population</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="308" name="a">
+										</div>
+										<label for="b" class="col-3 col-form-label">Per Capita IPC Crimes</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="0.00124153" name="b">
+										</div>
+									</div>
+									<div class="row">
+										<label for="c" class="col-3 col-form-label">Sex Ratio</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="992" name="c">
+										</div>
+										<label for="d" class="col-3 col-form-label">Houseolds Availing bank
+											services</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="53.1" name="d">
+										</div>
+									</div>
+									<div class="row">
+										<label for="e" class="col-3 col-form-label">Minority Population</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="0.1154" name="e">
+										</div>
+										<label for="f" class="col-3 col-form-label">Per Capita Schools</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="0.00125" name="f">
+										</div>
+									</div>
+									<br>
+									<div class="row">
+										<label for="g" class="col-3 col-form-label">Rural Population</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="0.6651088" name="g">
+										</div>
+										<label for="h" class="col-3 col-form-label">Total Police Per Lakh Pop</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="107" name="h">
+										</div>
+									</div>
+									<div class="row">
+										<label for="i" class="col-3 col-form-label">Per Capita Jails</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="0.000001417" name="i">
+										</div>
+										<label for="j" class="col-3 col-form-label">Literacy Rate</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="50.47" name="j">
+										</div>
+									</div>
+									<br>
+									<div class="row">
+										<label for="k" class="col-3 col-form-label">Per Capita Income</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="90366" name="k">
+										</div>
+										<label for="l" class="col-3 col-form-label">Poverty Line</label>
+										<div class="col-3">
+											<input class="form-control" type="number" value="9.2" name="l">
+										</div>
+									</div>
+									<input type="submit" class="btn btn-dark" value="Predict">
+								</form>
+								{% endif %}
+							</div>
+						</div>
+						<div class=" col-xl-4 col-md-12">
 							<div class="card card-default" data-scroll-height="675">
 								<div class="card-header justify-content-center">
 									<h2>State & Crime Analysis</h2>
 								</div>
 								<a class="btn btn-dark" style="font-family: 20px;" href="/sahyog/heatmap">View Map</a>
-								
+
 							</div>
 						</div>
-						
 
 					</div>
 					<div class="row">
@@ -339,11 +452,11 @@
 									<h2>State & Crime Analysis</h2>
 								</div>
 								<div class="chart-container">
-									{% include "UserViews/multiLine.html" %}  
+									{% include "UserViews/multiLine.html" %}
 								</div>
 							</div>
 						</div>
-						
+
 
 					</div>
 
@@ -356,11 +469,11 @@
 									<h2>State & Crime Analysis</h2>
 								</div>
 								<div class="chart-container">
-									{% include "UserViews/multipleBar.html" %}  
+									{% include "UserViews/multipleBar.html" %}
 								</div>
 							</div>
 						</div>
-						
+
 
 					</div>
 				</div>
@@ -403,11 +516,11 @@
 				var myDoughnutChart = new Chart(ctx, {
 					type: 'pie',
 					data: {
-						labels: ['Murder','Rape','Robbery','Kidnapping','Riot','Theft','Dacoity','Burglary'],
+						labels: ['Murder', 'Rape', 'Robbery', 'Kidnapping', 'Riot', 'Theft', 'Dacoity', 'Burglary'],
 						datasets: [{
 							// label: 'No. of Crimes across Maharashtra',
 							data: [2515, 3063, 9746, 2640, 9610, 52670, 833, 18328],
-							backgroundColor: ['#E0743E','#2A6592','#D01BF4','#39AA58', '#FBBF11', '#109BF8', '#7E9A9A', '#A44599'],
+							backgroundColor: ['#E0743E', '#2A6592', '#D01BF4', '#39AA58', '#FBBF11', '#109BF8', '#7E9A9A', '#A44599'],
 							// borderColor: ['bc5d2d','0e75ba','b70eba'],
 							borderAlign: 'inner',
 							// hoverBorderColor: ['9b4920','095487','8c098e'],
@@ -421,7 +534,7 @@
 							fontStyle: 'bold',
 							fontSize: 25
 						}
-					} 
+					}
 				});
 			};
 
