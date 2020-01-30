@@ -249,6 +249,9 @@ def logout(request):
 
 def reportCrime(request):
     if request.method == "POST":
+        name = request.session["name"]
+        phone = request.session["username"]
+        email = request.session["email"]
         location = request.POST.get('location')
         lat = request.POST.get('lat')
         lng = request.POST.get('lng')
@@ -258,7 +261,7 @@ def reportCrime(request):
         #print("lat :",lat,"lng :",lng)
         #print('location: ',location)
         load_dotenv()
-        location = {"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails,"count":0}
+        location = {"status":"Pending","userName":name,"phone":phone,"email":email,"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails,"count":0}
         print(location)
         locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
