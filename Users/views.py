@@ -297,16 +297,20 @@ def validateCrime(request):
     if request.method == "POST":
         username = request.session['username']
         location = request.POST.get('Location')
+        name = ""
+        email = ""
         check = validateDB.find_one({'username' :username,"location":location})
         if check == None:
             data = userDB.find({'username' :username})
             count = 0
+           
 
             for items in data:
                 name = items['name']
                 # lname = items['lname']
                 email = items['email']
                 # phone = items['phone']
+                print(items['username'])
 
                 # count = items['count']
             # print(fname,lname,email,phone)
