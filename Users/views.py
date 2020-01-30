@@ -272,18 +272,11 @@ def reportCrime(request):
 
 # Analyse statistics dashboard...
 def analytics(request):
-    if request.method == "POST":
-        preds = RT.predict(request.POST.get("a"),request.POST.get("b"),request.POST.get("c"),request.POST.get("d"),request.POST.get("e"),request.POST.get("f"),request.POST.get("g"),request.POST.get("h"),request.POST.get("i"),request.POST.get("j"),request.POST.get("k"),request.POST.get("l"))
-        if request.session.has_key('username'):
-            return render(request, 'UserViews/analytics.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4], "username": request.session['name']})
-        else:
-            return render(request, 'UserViews/analytics.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4]})
+    if request.session.has_key('username'):
+        return render(request, 'UserViews/analytics.html',{"username":request.session["name"]})
     else:
-        if request.session.has_key('username'):
-            return render(request, 'UserViews/analytics.html',{"username":request.session["name"]})
-        else:
-            return render(request, 'UserViews/analytics.html')
-    
+        return render(request, 'UserViews/analytics.html')
+
 
 # A function for server sent events.... 
 # @describe: Add new markers dynamically on to map, without refreshing page...

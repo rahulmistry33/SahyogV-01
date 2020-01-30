@@ -102,9 +102,18 @@ def status(request):
 #         return render(request,'adminarea/validators.html', {"validations":validations})
 
 def predictCrime(request):
-    preds = RT.predict(308,0.00124153,992,53.1,0.1154,0.00125,0.6651088,107,0.000001417,50.47,90366,9.2)
-    return render(request,'adminarea/predictCrime.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4]})
-
+    if request.method == "POST":
+        preds = RT.predict(request.POST.get("a"),0.00124153,request.POST.get("c"),request.POST.get("d"),request.POST.get("e"),request.POST.get("f"),request.POST.get("g"),request.POST.get("h"),request.POST.get("i"),request.POST.get("j"),request.POST.get("k"),request.POST.get("l"))
+        if request.session.has_key('username'):
+            return render(request, 'adminarea/predictCrime.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4], "username": request.session['name']})
+        else:
+            return render(request, 'adminarea/predictCrime.html', {"murder":preds[0],"rape":preds[1],"robbery":preds[2],"kidnapping":preds[3],"riots":preds[4]})
+    else:
+        if request.session.has_key('username'):
+            return render(request, 'adminarea/predictCrime.html',{"username":request.session["name"]})
+        else:
+            return render(request, 'adminarea/predictCrime.html')
+    
     
 
 
