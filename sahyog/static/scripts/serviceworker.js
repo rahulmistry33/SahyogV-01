@@ -6,6 +6,9 @@ self.addEventListener('install', function(event) {
       return cache.addAll([
         '/sahyog/index/',
         '/static/style.css/',
+        '/Users',
+        '/adminarea',
+        '/newindex.html'
       ]);
     })
   );
