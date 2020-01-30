@@ -79,8 +79,8 @@ def SOS(request):
     if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-        lat = request.POST.get('lat')
-        lon = request.POST.get('lon') 
+        #lat = request.POST.get('lat')
+        #lon = request.POST.get('lon') 
         print(make_call2.makeCall())
         lat = request.POST.get('address')       
 

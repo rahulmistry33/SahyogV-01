@@ -277,6 +277,11 @@
             </header>
             <div class="content-wrapper">
                 <div class="content">
+                    <div style="background-color:black; color: white;" class="row">
+                        LBS Rd, Chirag Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India<br>
+                        Ghatkopar Police Station<br>
+
+                    </div>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="panel panel-default">
@@ -286,14 +291,7 @@
                         </div>
                     </div>
 
-                    <div style="background-color: white;">
-                        {{address}} <br>
-                        {{lat}}<br>
-                        {{lng}}<br>
-                        {{name}}<br>
-                        {{isOpen}}<br>
-                        {{rating}}<br>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -306,9 +304,8 @@
             var coodsLat = [];
             var coodsLng = [];
             navigator.geolocation.getCurrentPosition(function (location) {
-                lat = "{{lat}}";
-                lon = "{{lng}}";
-                policeLatlng = new L.LatLng(lat, lon);
+
+                policeLatlng = new L.LatLng(72.90005289999999, 19.087432);
                 latlng = new L.LatLng(19.0800, 72.8988);
                 mymap = L.map('mapid').setView(latlng, 15)
 
@@ -338,7 +335,7 @@
                 L.marker(latlng).addTo(mymap);
                 L.marker(policeLatlng).addTo(mymap);
                 latlngs = [];
-                latlngs.push([19.0800, 72.8988], [lat, lon]);
+                latlngs.push([19.0800, 72.8988], [19.087432, 72.90005289999999]);
                 var polyline = L.polyline(latlngs).addTo(mymap);
                 // zoom the map to the polyline
                 mymap.fitBounds(polyline.getBounds());
