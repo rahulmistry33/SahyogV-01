@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MULTIPLE BAR GRAPH</title>
+	<script 
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"> 
+</script> 
+</head>
+<body>
+	<canvas id="densityChart" width="600" height="300">
+		
+	
+	</canvas>
+	
+	
+	<!-- <script src= 
+"https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"> 
+</script>  -->
+	<script type="text/javascript">
+		var densityCanvas = document.getElementById("densityChart");
+
+Chart.defaults.global.defaultFontFamily = "Lato";
+Chart.defaults.global.defaultFontSize = 18;
+
+var crimeData = {
+  label: 'Number of Crimes',
+  data: [226445, 227453, 136689, 72098, 234385, 36667, 1216, 3178],
+  backgroundColor: 'rgba(0, 99, 132, 0.6)',
+  borderWidth: 0,
+  yAxisID: "y-axis-crime"
+};
+
+var policeData = {
+  label: 'Number of police per 100,000',
+  data: [89, 121, 136, 157, 183, 268, 1171, 830],
+  backgroundColor: 'rgba(99, 132, 0, 0.6)',
+  borderWidth: 0,
+  yAxisID: "y-axis-police"
+};
+
+var stateData = {
+  labels: ["UP", "MP", "KARNATAKA", "HARYANA", "MAHARASHTRA", "PUNJAB", "NAGALAND", "MANIPUR"],
+  datasets: [crimeData, policeData]
+};
+
+var chartOptions = {
+  scales: {
+    xAxes: [{
+      barPercentage: 1,
+      categoryPercentage: 0.6
+    }],
+    yAxes: [{
+      id: "y-axis-crime"
+    }, {
+      id: "y-axis-police"
+    }]
+  }
+};
+
+var barChart = new Chart(densityCanvas, {
+  type: 'bar',
+  data: stateData,
+  options: chartOptions
+});
+	</script>
+</body>
+</html>
