@@ -296,7 +296,7 @@
 
             <!-- Modal body -->
             <div class="modal-body" >
-
+                
                 <p><b>Crime Type:</b> <span id="modal-type"></span> </p><br>
                 <p><b>Crime Location:</b> <span id="modal-location"></span> </p><br>
                <p><b>Crime Description:</b> <span id="modal-body"></span> </p><br>
@@ -313,7 +313,11 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
                 <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-                <a href="/adminarea/validators/" class="btn btn-dark" >View Validators</a>
+                <form method="POST" action="/adminarea/validators/">
+                    <input type="hidden" name="hid" id="hid"/>
+                    <input type="submit" class="btn btn-dark" value="View Validators">
+                </form>
+                <!-- <a href="/adminarea/validators/" class="btn btn-dark" ></a> -->
                 <!-- <form id="validators" action="{% url 'admindashboard' %}"  method="POST">
                     {% csrf_token %}    
                     <input type="submit" name="validatebutton" value="View Validators" id="submitBtn">
@@ -413,6 +417,10 @@
                         let details = item.crimeDetails;
                         let type = item.crimeType;
                         let location = item.location;
+                        let id = JSON.parse(JSON.stringify(item._id))['$oid'];
+                        
+                        
+
                         // console.log(location);
                         
                         if(item.crimeLevel === "1"){
@@ -438,7 +446,7 @@
                                 $("#modal-body").text(details);
                             }
                             
-
+                            $('#hid').val(id);
                             $("#modal-location").text(location);
                             // $("#marker_latlng").text(formatLatLng(latlng));
 
@@ -470,6 +478,7 @@
                             else{
                                 $("#modal-body").text(details);
                             }
+                            $('#hid').val(id);
                             $("#modal-location").text(location);
                             // $("#marker_latlng").text(formatLatLng(latlng));
 
@@ -498,6 +507,7 @@
                             else{
                                 $("#modal-body").text(details);
                             }
+                            $('#hid').val(id);
                             $("#modal-location").text(location);
                             // $("#marker_latlng").text(formatLatLng(latlng));
 

@@ -147,6 +147,7 @@
     }
   </style>
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
+    
 	<script>
 		NProgress.configure({ showSpinner: false });
 		NProgress.start();
@@ -319,32 +320,28 @@
               </tr>
             </thead>
             <tbody>
+                     
+                {% for locatn, ctype, clevel, cdet, email, ph, stat, uName in reports %}
+                {% if stat == "Pending" %}
+                
+                
               <tr>
-                <th scope="row">1</th>
-                <td>Girish Thatte</td>
-                <td>+918452070570</td>
-                <td>girishthatte@gmail.com</td>
-                <td>Robbery</td>
-                <td>1</td>
-                <td>Appetite-Resto Bar, Powai, Mumbai, Mumbai Suburban, Maharashtra, 400072, IND</td>
-                <td>A lady's bag was stolen by two men on bike.</td>
+                <!-- <th scope="row">{{i}}</th> -->
+                <td>{{uName}}</td>
+                <td>{{ph}}</td>
+                <td>{{email}}</td>
+                <td>{{ctype}}</td>
+                <td>{{clevel}}</td>
+                <td>{{locatn}}</td>
+                <td>{{cdet}}</td>
                 <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
               </tr>
-              <tr>
-                <th scope="row">2</th>
-                <td>Amisha Waghela</td>
-                <td>+919987718876</td>
-                <td>amishabw@gmail.com</td>
-                <td>Assault</td>
-                <td>1</td>
-                <td>Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</td>
-                <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
-                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
-
-              </tr>
+              {% endif %}
+              {% endfor %}
+              
               
             </tbody>
-          </table>        
+          </table>     
     </div>
     <div style="background: white !important;" class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
         <table class="table table-hover">
@@ -379,7 +376,7 @@
           </table> 
     </div>
     <div style="background: white !important;" class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-    
+        
         <table class="table table-hover">
             <thead>
               <tr>
@@ -395,6 +392,7 @@
               </tr>
             </thead>
             <tbody>
+                
               <tr>
                 <th scope="row">1</th>
                 <td>Prachit Mhalgi</td>

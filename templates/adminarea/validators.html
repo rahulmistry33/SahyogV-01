@@ -256,9 +256,14 @@
 								
 								<div class="card-body">
 					
-                                    <p><b>Crime Type:</b> <span id="modal-type">Assault</span> </p><br>
-                                    <p><b>Crime Location:</b> <span id="modal-location">Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</span> </p><br>
-                                   <p><b>Crime Description:</b> <span id="modal-body"></span>An assault on a man took place at the entrance of the hospital after some argument amidst the people.</p><br>
+									<p><b>Crime Type:</b> <span id="modal-type">{{ctype}}</span> </p><br>
+									<p><b>Crime Level:</b> <span id="modal-body"></span>{{clevel}}</p><br>
+                                    <p><b>Crime Location:</b> <span id="modal-location">{{location}}</span> </p><br>
+								   <p><b>Crime Description:</b> <span id="modal-body"></span>{{cdet}}</p><br>
+								   <p><b>Crime Status:</b> <span id="modal-body"></span>{{stat}}</p><br>
+								   <p><b>Crime Reported By User:</b> <span id="modal-body"></span>{{name}}</p><br>
+								   <p><b>User Phone Number:</b> <span id="modal-body"></span>{{phone}}</p><br>
+								   <p><b>User Email:</b> <span id="modal-body"></span>{{email}}</p><br>
                                    <p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}" alt="..." class="img-thumbnail"></span> </p><br>
                                    <br><div class="form-group">
                                        <p><b>Validators:</b></p><br>
@@ -293,9 +298,13 @@
                                       </table>
                                       <p><b>Comments:</b></p><br>
                                     <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
-                                    <br>
-                                    <button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
-                <button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+									<br>
+									{% if status != "Resolved" %}
+									<button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
+									{% endif %}
+									{% if status == "Pending" %}
+				<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+				{% endif %}
                 <!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
 					
 				</div>
