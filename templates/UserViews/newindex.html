@@ -258,7 +258,9 @@
 							<form id="reportcrime" action="{% url 'SOS' %}" method="POST">
 								<button type="submit" class="btn sos">SOS</button>
 							</form>
-							<a href="" class="btn btn-dark" id="meratag">Send SOS</a>
+
+							<a href="" id="meratag" class="btn btn-dark">Send SOS</a>
+
 							{% if  username  %}
 							<a href="" class="btn btn-dark">{{username}}</a>
 							{% else %}
@@ -290,7 +292,10 @@
 			navigator.geolocation.getCurrentPosition(function (location) {
 				lat = location.coords.latitude;
 				lon = location.coords.longitude;
-				document.getElementById('meratag').href = 'sms:9967549192?body=hello world '+lat+" "+lon;
+
+				document.getElementById("meratag").href = "sms:9987718876?body=This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link: http://www.google.com/maps/place/" + lat + "," + lon;
+
+
 
 			});
 

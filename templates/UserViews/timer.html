@@ -1,15 +1,23 @@
-{% load static %}
-
 <!DOCTYPE html>
 <html>
+	{% load pwa %}
+	{% load static %}
+
 
 <head>
 	<title>Sahyog</title>
+	<!-- {% progressive_web_app_meta %} -->
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<!-- GOOGLE FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
 		rel="stylesheet" />
 	<link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+	<!-- <link rel="manifest" href="{% static 'scripts/manifest.json' %}"> -->
+	<!-- <link rel="manifest" href="/manifest.json"> -->
+
+	
+
 
 	<!-- PLUGINS CSS STYLE -->
 	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
@@ -25,26 +33,84 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="{% static 'style.css'%}">
-	<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="{% static 'style.css'%}"> -->
-
-	<!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
 </head>
+
+<script>
+
+    $(document).on('submit', '#SOSForm', function (event) {
+        event.preventDefault();
+        var $form = $(this),
+            url = $form.attr('action');
+        var paramArr = $("#SOSForm").serializeArray();
+        paramArr.push({ name: "test", value: "lalala" });
+
+        $.post(url, $.param(paramArr), function (result) {
+            alert('success');
+        });
+        return false;
+    });
+
+    var timeElapsed = 0;
+    var sec = 0, min = 0;
+    var myTimer;
+
+    function tick() {
+        timeElapsed++;
+        if (timeElapsed % 100 == 0) {
+            sec += timeElapsed / 100;
+            timeElapsed = timeElapsed % 100;
+        }
+        if (sec % 60 == 0) {
+            min += sec / 60;
+            sec = sec % 60;
+        }
+        if (min >= 1) {
+            stop();
+            document.getElementById('SOSForm').submit();
+        }
+        document.getElementById("sec").innerHTML = sec;
+        document.getElementById("time").innerHTML = timeElapsed;
+        document.getElementById("min").innerHTML = min;
+    }
+    function start() {
+        //call the first setInterval
+        myTimer = setInterval(tick, 1);
+    }
+    function stop() {
+        clearInterval(myTimer);
+        document.getElementById("sec").innerHTML = sec;
+        document.getElementById("time").innerHTML = timeElapsed;
+        document.getElementById("min").innerHTML = min;
+    }
+
+    function reset() {
+        timeElapsed = 0, min = 0, sec = 0;
+        document.getElementById("sec").innerHTML = sec;
+        document.getElementById("time").innerHTML = timeElapsed;
+        document.getElementById("min").innerHTML = min;
+    }
+
+
+</script>
 <style>
 	.mdi {
 		color: #ffaa00 !important;
 	}
-
+    .b {
+        font-size: 200px;
+        color:  #ffaa00;
+    }
 	body,
 	html {
 		background: url("{% static 'india1.jpg' %}");
@@ -76,8 +142,7 @@
 		border: 2px solid #ff9800;
 		border-color: #ff9800;
 		padding: 10px;
-		color: black;
-		margin: 20px;
+		margin: 10px;
 		font-family: georgia;
 		border-radius: 10px;
 		/*margin-top: 50vh;*/
@@ -86,7 +151,6 @@
 
 	.btn:hover {
 		background-color: #ffc400;
-		border-color: #ffc400;
 	}
 
 	.sos {
@@ -98,10 +162,6 @@
 	.sos:hover {
 		background-color: red;
 		color: white;
-	}
-
-	p {
-		font-size: 20px;
 	}
 </style>
 
@@ -117,9 +177,9 @@
 			<div id="sidebar" class="sidebar sidebar-with-footer">
 				<!-- Aplication Brand -->
 				<div style="background-color: #ffaa00;" class="app-brand">
-					<a href="">
+					<a href="/index.html">
 
-						<span class="brand-name">Sahyog Admin</span>
+						<span class="brand-name">Sahyog</span>
 					</a>
 				</div>
 				<!-- begin sidebar scrollbar -->
@@ -131,29 +191,15 @@
 
 
 						<li class="has-sub active expand">
-							<a class="sidenav-item-link" href="/adminarea/admindashboard/">
+							<a class="sidenav-item-link" href="/sahyog/index/">
 								<i class="mdi mdi-view-dashboard-outline"></i>
-								<span class="nav-text">Admin Home</span>
+								<span class="nav-text">Home</span>
 							</a>
 
 						</li>
 
-						<li class="has-sub">
-							<a class="sidenav-item-link" href="/adminarea/status/">
-								<i class="mdi mdi-format-align-justify"></i>
-								<span class="nav-text">Crime Status</span>
-							</a>
-						</li>
 
 
-
-
-						<li class="has-sub">
-							<a class="sidenav-item-link" href="/adminarea/predictCrime/">
-								<i class="mdi mdi-chart-histogram"></i>
-								<span class="nav-text">Predict Crime</span>
-							</a>
-						</li>
 
 						<li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/report/">
@@ -196,6 +242,24 @@
 								<span class="nav-text">Analytics</span>
 							</a>
 						</li>
+
+
+
+						<li class="has-sub">
+							<a class="sidenav-item-link" href="/sahyog/logout">
+								<i class="mdi mdi-logout"></i>
+								<span class="nav-text">Logout</span>
+							</a>
+						</li>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -248,10 +312,19 @@
 
 					<div class="navbar-right ">
 						<ul class="nav navbar-nav">
-							<a href="/sahyog/SOS/" class="btn sos">SOS</a>
-							<!-- <a href="/sahyog/register/" class="btn btn-dark">Register</a> -->
-							<!-- <a href="/sahyog/login/" class="btn btn-dark">Login</a> -->
+							<!-- <a href="/sahyog/SOS/"  class="btn sos">SOS</a> -->
+							<form id="reportcrime" action="{% url 'SOS' %}" method="POST">
+								<button type="submit" class="btn sos">SOS</button>
+							</form>
 
+							<a href="" id="meratag" class="btn btn-dark">Send SOS</a>
+
+							{% if  username  %}
+							<a href="" class="btn btn-dark">{{username}}</a>
+							{% else %}
+							<a href="/sahyog/register/" class="btn btn-dark">Register</a>
+							<a href="/sahyog/login/" class="btn btn-dark">Login</a>
+							{% endif %}
 
 						</ul>
 					</div>
@@ -260,43 +333,29 @@
 
 			</header>
 			<div class="content-wrapper">
-				<div class="content" style="color:black; ">
+				<div class="content">
+        
+        <!-- <h1 style="font-size: 200px;" class="display-1"><span id="min">0</span> : <span id="sec">0</span> : <span id="time">0</span></h1> -->
+        
+            <form id="SOSForm" action="{% url 'SOS' %}" method="POST">
+                {% csrf_token %}
+            </form>
+        <div class="row ">
+            <div class="column-lg-2 mx-auto"><span class="b" id="min">0</span></div>
+            <div class="column-lg-2 mx-auto"><span class="b">:</span></div>
+            <div class="column-lg-2 mx-auto"><span class="b" id="sec">0</span></div>
+            <div class="column-lg-2 mx-auto"><span class="b">:</span></div>
+            <div class="column-lg-2 mx-auto"><span class="b" id="time">0</span></div>
+        </div><br><br>
+        <button class="btn btn-dark" onclick="start()">Start</button>
+        <button class="btn btn-dark" onclick="reset()">Reset</button>
+        <button class="btn btn-dark" onclick="stop()">Stop</button>
+    </div>
+</div>
+</div>
 
-					<div class="row justify-content-center ">
-						<div class="col-md-12 my-auto">
-							<div class="card" style="width:100%;">
-
-								<div class="card-body">
-
-									<p><b>Crime Type:</b> <span id="modal-type">{{ctype}}</span> </p><br>
-									<p><b>Crime Level:</b> <span id="modal-body"></span>{{clevel}}</p><br>
-									<p><b>Crime Location:</b> <span id="modal-location">{{location}}</span> </p><br>
-									<p><b>Crime Description:</b> <span id="modal-body"></span>{{cdet}}</p><br>
-									<p><b>Crime Status:</b> <span id="modal-body"></span>{{stat}}</p><br>
-									<p><b>Crime Reported By User:</b> <span id="modal-body"></span>{{name}}</p><br>
-									<p><b>User Phone Number:</b> <span id="modal-body"></span>{{phone}}</p><br>
-									<p><b>User Email:</b> <span id="modal-body"></span>{{email}}</p><br>
-									<p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}"
-												alt="..." class="img-thumbnail"></span> </p><br>
-									<br>
-
-									{% if stat != "Resolved" %}
-									<button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
-									{% endif %}
-									{% if stat == "Pending" %}
-									<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-									{% endif %}
-                <!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
-					
-
-				</div>
-			</div>
-		</div>
-
-
-
-
-		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+</body>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
@@ -321,8 +380,5 @@
 		<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
-
-
-</body>
 
 </html>
