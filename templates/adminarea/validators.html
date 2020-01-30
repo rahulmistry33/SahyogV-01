@@ -279,60 +279,16 @@
 									<p><b>Crime Image:</b> <span id="modal-image"><img src="{% static 'assault.jpg' %}"
 												alt="..." class="img-thumbnail"></span> </p><br>
 									<br>
-									<div class="form-group">
-										<p><b>Validators:</b></p><br>
-										<table class="table">
-											<thead>
-												<tr>
-													<th scope="col">No.</th>
-													<th scope="col">Name</th>
-													<th scope="col">Phone</th>
-													<th scope="col">Email</th>
-													<th scope="col">Description</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<th scope="row">1</th>
-													<td>Girish Thatte</td>
-													<td>+918452070570</td>
-													<td>girishthatte@gmail.com</td>
-													<td>The crime was witnessed by me while entering the hospital. A
-														person was aasaulted while entering</td>
-												</tr>
-												<tr>
-													<th scope="row">2</th>
-													<td>Amisha Waghela</td>
-													<td>+919987718876</td>
-													<td>amishabw@gmail.com</td>
-													<td>The crime was witnessed by me while entering the hospital. A
-														person was aasaulted while entering</td>
 
-												</tr>
+									{% if stat != "Resolved" %}
+									<button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
+									{% endif %}
+									{% if stat == "Pending" %}
+									<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+									{% endif %}
+                <!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
+					
 
-											</tbody>
-										</table>
-										<p><b>Comments:</b></p><br>
-										<textarea class="form-control" rows="4" name="crimeDetails"></textarea>
-										<br>
-										{% if status != "Resolved" %}
-										<button type="button" class="btn btn-dark" data-dismiss="modal">Mark As
-											Resolved</button>
-										{% endif %}
-										{% if status == "Pending" %}
-										<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy
-											Forces</button>
-										{% endif %}
-										<!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
-
-									</div>
-								</div>
-							</div>
-
-							<!-- row close -->
-						</div>
-
-					</div>
 				</div>
 			</div>
 		</div>
