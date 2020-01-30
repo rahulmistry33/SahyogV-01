@@ -21,6 +21,7 @@ import json
 import os
 from dotenv import load_dotenv
 from . import RT
+from . import app_settings
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
@@ -201,6 +202,23 @@ def validateOTP(request, user):
     sendSMS(userObj['phone'],msg)    
     return render(request, 'UserViews/OTP.html')
      
+
+def service_worker(request):
+    response = HttpResponse(open(app_settings.PWA_SERVICE_WORKER_PATH).read(), content_type='application/javascript')
+    return response
+
+
+def manifest(request):
+    return render(request, 'manifest.json', {
+        setting_name: getattr(app_settings, setting_name)
+        for setting_name in dir(app_settings)
+        if setting_name.startswith('PWA_')
+    })
+
+
+def offline(request):
+    return render(request, "offline.html")
+
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):
