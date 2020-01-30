@@ -30,4 +30,5 @@ urlpatterns = [
     path('validateCrime/',views.validateCrime,name="validateCrime"),
 
     path('heatmap/', views.heatmap, name='heatmap'),
+    path('timer/', views.timer, name='timer'),
 ]
