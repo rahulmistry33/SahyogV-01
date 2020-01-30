@@ -1,14 +1,23 @@
-{% load static %}
 <!DOCTYPE html>
 <html>
+	{% load pwa %}
+	{% load static %}
+
 
 <head>
 	<title>Sahyog</title>
+	<!-- {% progressive_web_app_meta %} -->
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<!-- GOOGLE FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Poppins:400,500,600,700|Roboto:400,500"
 		rel="stylesheet" />
 	<link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
+	<!-- <link rel="manifest" href="{% static 'scripts/manifest.json' %}"> -->
+	<!-- <link rel="manifest" href="/manifest.json"> -->
+
+	
+
 
 	<!-- PLUGINS CSS STYLE -->
 	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
@@ -249,6 +258,9 @@
 							<form id="reportcrime" action="{% url 'SOS' %}" method="POST">
 								<button type="submit" class="btn sos">SOS</button>
 							</form>
+
+							<a href="" id="meratag" class="btn btn-dark">Send SOS</a>
+
 							{% if  username  %}
 							<a href="" class="btn btn-dark">{{username}}</a>
 							{% else %}
@@ -281,6 +293,10 @@
 				lat = location.coords.latitude;
 				lon = location.coords.longitude;
 
+				document.getElementById("meratag").href = "sms:9987718876?body=This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link: http://www.google.com/maps/place/" + lat + "," + lon;
+
+
+
 			});
 
 			// L.marker(latlng).addTo(mymap);
@@ -301,7 +317,6 @@
 							if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
 								aCallback(anHttpRequest.responseText);
 						}
-
 						anHttpRequest.open("GET", aUrl, true);
 						anHttpRequest.send(null);
 					}
@@ -351,6 +366,7 @@
 		<script src="{% static 'assets-analytics/js/date-range.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/map.js'%}"></script>
 		<script src="{% static 'assets-analytics/js/custom.js'%}"></script>
+		<!-- <script src="{% static 'scripts/app.js'%}" type="text/javascript"></script> -->
 
 
 </body>
