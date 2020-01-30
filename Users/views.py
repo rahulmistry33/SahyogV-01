@@ -65,6 +65,8 @@ def sendSMS(to, body):
     body=body, 
     to=to, from_=os.getenv('TWILIO_PHONE_NUMBER'))
 
+def timer(request):
+    return render(request,'UserViews/timer.html')
     
 # @describe: 6-digit random OTP generator function....
 def OTPGenerator():
