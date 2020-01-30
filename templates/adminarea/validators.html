@@ -299,12 +299,12 @@
                                       <p><b>Comments:</b></p><br>
                                     <textarea class="form-control" rows="4" name="crimeDetails"></textarea>
 									<br>
-									{% if status != "Resolved" %}
+									{% if stat != "Resolved" %}
 									<button type="button" class="btn btn-dark" data-dismiss="modal">Mark As Resolved</button>
 									{% endif %}
-									{% if status == "Pending" %}
-				<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
-				{% endif %}
+									{% if stat == "Pending" %}
+									<button type="button" class="btn btn-dark" data-dismiss="modal">Deploy Forces</button>
+									{% endif %}
                 <!-- <button type="button" class="btn btn-dark" data-dismiss="modal">View Validators</button> -->
 					
 				</div>

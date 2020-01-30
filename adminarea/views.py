@@ -58,7 +58,9 @@ def validators(request):
     if request.method=="POST":
         # print(request.POST.get('hid'))
         obj=locationDB.find_one({"_id":ObjectId(request.POST.get('hid'))})
-    return render(request,'adminarea/validators.html',{"ctype":obj['crimeType'],"location":obj['location'],"clevel":obj['crimeLevel'],"cdet":obj['crimeDetails'],"name":obj['userName'],"email":obj['email'],"stat":obj['status'],"phone":obj['phone']})
+        return render(request,'adminarea/validators.html',{"ctype":obj['crimeType'],"location":obj['location'],"clevel":obj['crimeLevel'],"cdet":obj['crimeDetails'],"name":obj['userName'],"email":obj['email'],"stat":obj['status'],"phone":obj['phone']})
+    else:
+        redirect(admindashboard)
 
 
 def status(request):
