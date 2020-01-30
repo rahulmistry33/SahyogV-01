@@ -21,6 +21,7 @@ import json
 import os
 from dotenv import load_dotenv
 from . import RT
+from . import app_settings
 
 client = pymongo.MongoClient("mongodb+srv://"+str(os.getenv("USER"))+":"+str(os.getenv("PASSWORD"))+"@devcluster-qbbgy.mongodb.net/Sahyog?retryWrites=true&w=majority")
 db = client.Sahyog
@@ -81,8 +82,7 @@ def SOS(request):
     if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-        # lat = request.POST.get('lat')
-        # lon = request.POST.get('lon') 
+
         print(make_call2.makeCall())
         lat = request.POST.get('address')       
 
@@ -203,6 +203,23 @@ def validateOTP(request, user):
     sendSMS(userObj['phone'],msg)    
     return render(request, 'UserViews/OTP.html')
      
+
+def service_worker(request):
+    response = HttpResponse(open(app_settings.PWA_SERVICE_WORKER_PATH).read(), content_type='application/javascript')
+    return response
+
+
+def manifest(request):
+    return render(request, 'manifest.json', {
+        setting_name: getattr(app_settings, setting_name)
+        for setting_name in dir(app_settings)
+        if setting_name.startswith('PWA_')
+    })
+
+
+def offline(request):
+    return render(request, "offline.html")
+
 # @describe: Existing user login
 def login(request):
     if request.session.has_key('username'):

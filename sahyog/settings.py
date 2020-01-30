@@ -28,7 +28,7 @@ SECRET_KEY = '3quat%ag&%g(^u7^7e+@8^f!sxu9l&7%lze$tmt2^p$u_p&m69'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1','147ae97e.ngrok.io', '0.0.0.0/0']
+ALLOWED_HOSTS = ['127.0.0.1','6a1100ce..ngrok.io', '0.0.0.0/0']
 
 
 
@@ -141,16 +141,5 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR,'sahyog/static')
 ]
 
-# PWA stuffs
-# PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'templates/UserViews', 'serviceworkers.js')
-
-PWA_APP_NAME = 'Sahyog'
-PWA_APP_DESCRIPTION = "The Eye of Police"
-PWA_APP_THEME_COLOR = '#0A0302'
-PWA_APP_BACKGROUND_COLOR = '#ffffff'
-PWA_APP_DISPLAY = 'standalone'
-PWA_APP_SCOPE = '/'
-PWA_APP_ORIENTATION = 'any'
-PWA_APP_START_URL = '/sahyog/index'
 
 django_heroku.settings(locals())
