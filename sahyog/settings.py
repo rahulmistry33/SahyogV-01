@@ -139,6 +139,7 @@ STATICFILES_DIRS = [
 
 # PWA stuffs
 # PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'templates/UserViews', 'serviceworkers.js')
+PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'sahyog\static\scripts', 'serviceworker.js')
 
 PWA_APP_NAME = 'Sahyog'
 PWA_APP_DESCRIPTION = "The Eye of Police"
