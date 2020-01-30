@@ -15,7 +15,6 @@ from dotenv import load_dotenv
 import django_heroku
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'sahyog\static\scripts', 'sw.js')
 
 
 # Quick-start development settings - unsuitable for production
@@ -139,7 +138,7 @@ STATICFILES_DIRS = [
 
 # PWA stuffs
 # PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'templates/UserViews', 'serviceworkers.js')
-PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'sahyog\static\scripts', 'serviceworker.js')
+PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'sahyog/static/scripts', 'serviceworker.js')
 
 PWA_APP_NAME = 'Sahyog'
 PWA_APP_DESCRIPTION = "The Eye of Police"
