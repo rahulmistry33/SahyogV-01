@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "34",
+        "vehicleTheft": "15",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "1",
+        "burglary": "38",
+        "vehicleTheft": "38",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "41",
+        "vehicleTheft": "15",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "12",
+        "dacoity": "3",
+        "robbery": "2",
+        "burglary": "20",
+        "vehicleTheft": "20",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "13",
+        "dacoity": "3",
+        "robbery": "2",
+        "burglary": "25",
+        "vehicleTheft": "17",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "18",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "41",
+        "vehicleTheft": "13",
+        "riots": "8",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "28",
+        "vehicleTheft": "19",
+        "riots": "39",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "49",
+        "vehicleTheft": "18",
+        "riots": "24",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "12",
+        "dacoity": "9",
+        "robbery": "2",
+        "burglary": "43",
+        "vehicleTheft": "21",
+        "riots": "53",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "25",
+        "vehicleTheft": "34",
+        "riots": "44",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "9",
+        "dacoity": "7",
+        "robbery": "2",
+        "burglary": "22",
+        "vehicleTheft": "43",
+        "riots": "20",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6656535,
+          41.5236911
+        ]
+      },
+      "properties": {
+        "name": "D and N HAVELI",
+        "state": "D & N HAVELI",
+        "address": "Haveli India, South Main Street, Long Hill, Middletown, Middlesex County, Connecticut, 06457, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "13",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "22",
+        "vehicleTheft": "36",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "318"
+      }
+    }
+  ]
+}

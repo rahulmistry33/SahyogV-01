@@ -1,0 +1,3725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "4",
+        "rape": "4",
+        "kidnapping": "13",
+        "dacoity": "4",
+        "robbery": "89",
+        "burglary": "55",
+        "vehicleTheft": "48",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "19",
+        "burglary": "30",
+        "vehicleTheft": "40",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "4",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "14",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "19",
+        "dacoity": "9",
+        "robbery": "91",
+        "burglary": "58",
+        "vehicleTheft": "52",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "0",
+        "dacoity": "4",
+        "robbery": "0",
+        "burglary": "19",
+        "vehicleTheft": "24",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "12",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "3",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "3",
+        "robbery": "0",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "3",
+        "rape": "2",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "54",
+        "burglary": "20",
+        "vehicleTheft": "17",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "16",
+        "burglary": "19",
+        "vehicleTheft": "13",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "10",
+        "dacoity": "3",
+        "robbery": "3",
+        "burglary": "7",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "6",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "3",
+        "robbery": "5",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "9",
+        "dacoity": "4",
+        "robbery": "93",
+        "burglary": "23",
+        "vehicleTheft": "7",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "16",
+        "vehicleTheft": "11",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "2",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "5",
+        "dacoity": "5",
+        "robbery": "55",
+        "burglary": "35",
+        "vehicleTheft": "73",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "12",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "17",
+        "vehicleTheft": "13",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "3",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "65",
+        "burglary": "21",
+        "vehicleTheft": "82",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "10",
+        "dacoity": "6",
+        "robbery": "10",
+        "burglary": "19",
+        "vehicleTheft": "24",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "5",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "49",
+        "burglary": "64",
+        "vehicleTheft": "161",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "4",
+        "robbery": "18",
+        "burglary": "17",
+        "vehicleTheft": "21",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "10",
+        "vehicleTheft": "8",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "64",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "31",
+        "dacoity": "2",
+        "robbery": "66",
+        "burglary": "66",
+        "vehicleTheft": "135",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "22",
+        "vehicleTheft": "33",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "8",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "12",
+        "vehicleTheft": "6",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "11",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "3",
+        "rape": "7",
+        "kidnapping": "33",
+        "dacoity": "5",
+        "robbery": "70",
+        "burglary": "50",
+        "vehicleTheft": "14",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "12",
+        "vehicleTheft": "46",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "0",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "41",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "29",
+        "vehicleTheft": "15",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "6",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "10",
+        "burglary": "9",
+        "vehicleTheft": "54",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "10",
+        "burglary": "3",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "10",
+        "burglary": "14",
+        "vehicleTheft": "6",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "24",
+        "dacoity": "4",
+        "robbery": "46",
+        "burglary": "26",
+        "vehicleTheft": "6",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "8",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "28",
+        "vehicleTheft": "59",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "0",
+        "vehicleTheft": "11",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "0",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "12",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7283707,
+          25.9135914
+        ]
+      },
+      "properties": {
+        "name": "DIMAPUR",
+        "state": "NAGALAND",
+        "address": "Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797112, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "16",
+        "dacoity": "1",
+        "robbery": "36",
+        "burglary": "19",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.84166400470303,
+          25.81551155
+        ]
+      },
+      "properties": {
+        "name": "KIPHIRE",
+        "state": "NAGALAND",
+        "address": "Kiphire, Nagaland, 798611, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.166667,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "KOHIMA",
+        "state": "NAGALAND",
+        "address": "Koh\u012bma, Kohima, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "15",
+        "vehicleTheft": "44",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.77214247303138,
+          26.49031725
+        ]
+      },
+      "properties": {
+        "name": "LONGLENG",
+        "state": "NAGALAND",
+        "address": "Longleng, Nagaland, 798625, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.51052754768273,
+          26.4795861
+        ]
+      },
+      "properties": {
+        "name": "MOKOKCHUNG",
+        "state": "NAGALAND",
+        "address": "Mokokchung, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.833333,
+          26.75
+        ]
+      },
+      "properties": {
+        "name": "MON",
+        "state": "NAGALAND",
+        "address": "Mon, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72563659313207,
+          25.47907705
+        ]
+      },
+      "properties": {
+        "name": "PEREN",
+        "state": "NAGALAND",
+        "address": "Peren, Nagaland, 797101, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "PHEK",
+        "state": "NAGALAND",
+        "address": "Phek, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "3",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.85819821659115,
+          26.168505500000002
+        ]
+      },
+      "properties": {
+        "name": "TUENSANG",
+        "state": "NAGALAND",
+        "address": "Tuensang, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          26.166667
+        ]
+      },
+      "properties": {
+        "name": "WOKHA",
+        "state": "NAGALAND",
+        "address": "Wokha, Nagaland, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "7",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "ZUNHEBOTO",
+        "state": "NAGALAND",
+        "address": "Zunheboto, Nagaland, 798620, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "11",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "66"
+      }
+    }
+  ]
+}
