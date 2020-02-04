@@ -1,0 +1,7925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "38",
+        "dacoity": "38",
+        "robbery": "66",
+        "burglary": "108",
+        "vehicleTheft": "35",
+        "riots": "119",
+        "dowryDeaths": "25",
+        "womenAssault": "24",
+        "total": "1936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "109",
+        "homicide": "10",
+        "rape": "32",
+        "kidnapping": "17",
+        "dacoity": "7",
+        "robbery": "9",
+        "burglary": "38",
+        "vehicleTheft": "42",
+        "riots": "22",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "10",
+        "dacoity": "23",
+        "robbery": "15",
+        "burglary": "30",
+        "vehicleTheft": "8",
+        "riots": "90",
+        "dowryDeaths": "7",
+        "womenAssault": "0",
+        "total": "748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "4",
+        "rape": "22",
+        "kidnapping": "7",
+        "dacoity": "13",
+        "robbery": "15",
+        "burglary": "66",
+        "vehicleTheft": "29",
+        "riots": "118",
+        "dowryDeaths": "10",
+        "womenAssault": "13",
+        "total": "1106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "97",
+        "homicide": "7",
+        "rape": "32",
+        "kidnapping": "57",
+        "dacoity": "56",
+        "robbery": "48",
+        "burglary": "203",
+        "vehicleTheft": "43",
+        "riots": "205",
+        "dowryDeaths": "30",
+        "womenAssault": "47",
+        "total": "2916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "4",
+        "rape": "27",
+        "kidnapping": "24",
+        "dacoity": "11",
+        "robbery": "8",
+        "burglary": "48",
+        "vehicleTheft": "36",
+        "riots": "75",
+        "dowryDeaths": "3",
+        "womenAssault": "20",
+        "total": "1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "6",
+        "rape": "11",
+        "kidnapping": "5",
+        "dacoity": "19",
+        "robbery": "17",
+        "burglary": "32",
+        "vehicleTheft": "15",
+        "riots": "113",
+        "dowryDeaths": "15",
+        "womenAssault": "0",
+        "total": "788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "6",
+        "rape": "42",
+        "kidnapping": "15",
+        "dacoity": "56",
+        "robbery": "27",
+        "burglary": "116",
+        "vehicleTheft": "56",
+        "riots": "173",
+        "dowryDeaths": "30",
+        "womenAssault": "13",
+        "total": "1918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "30",
+        "dacoity": "24",
+        "robbery": "18",
+        "burglary": "66",
+        "vehicleTheft": "49",
+        "riots": "90",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "136",
+        "homicide": "7",
+        "rape": "29",
+        "kidnapping": "16",
+        "dacoity": "30",
+        "robbery": "44",
+        "burglary": "31",
+        "vehicleTheft": "39",
+        "riots": "40",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "4",
+        "rape": "41",
+        "kidnapping": "42",
+        "dacoity": "85",
+        "robbery": "68",
+        "burglary": "150",
+        "vehicleTheft": "80",
+        "riots": "268",
+        "dowryDeaths": "31",
+        "womenAssault": "15",
+        "total": "2498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "8",
+        "rape": "50",
+        "kidnapping": "60",
+        "dacoity": "10",
+        "robbery": "27",
+        "burglary": "134",
+        "vehicleTheft": "67",
+        "riots": "131",
+        "dowryDeaths": "6",
+        "womenAssault": "58",
+        "total": "2712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "14",
+        "dacoity": "6",
+        "robbery": "9",
+        "burglary": "21",
+        "vehicleTheft": "24",
+        "riots": "61",
+        "dowryDeaths": "5",
+        "womenAssault": "13",
+        "total": "473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "14",
+        "dacoity": "13",
+        "robbery": "15",
+        "burglary": "27",
+        "vehicleTheft": "3",
+        "riots": "80",
+        "dowryDeaths": "11",
+        "womenAssault": "8",
+        "total": "667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "5",
+        "rape": "12",
+        "kidnapping": "4",
+        "dacoity": "44",
+        "robbery": "9",
+        "burglary": "13",
+        "vehicleTheft": "15",
+        "riots": "27",
+        "dowryDeaths": "6",
+        "womenAssault": "0",
+        "total": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "23",
+        "kidnapping": "7",
+        "dacoity": "11",
+        "robbery": "5",
+        "burglary": "13",
+        "vehicleTheft": "29",
+        "riots": "39",
+        "dowryDeaths": "7",
+        "womenAssault": "0",
+        "total": "483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "14",
+        "dacoity": "43",
+        "robbery": "32",
+        "burglary": "71",
+        "vehicleTheft": "20",
+        "riots": "160",
+        "dowryDeaths": "18",
+        "womenAssault": "8",
+        "total": "1461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "243",
+        "homicide": "18",
+        "rape": "73",
+        "kidnapping": "1",
+        "dacoity": "81",
+        "robbery": "140",
+        "burglary": "2",
+        "vehicleTheft": "97",
+        "riots": "66",
+        "dowryDeaths": "4",
+        "womenAssault": "24",
+        "total": "1602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "17",
+        "dacoity": "12",
+        "robbery": "8",
+        "burglary": "25",
+        "vehicleTheft": "26",
+        "riots": "72",
+        "dowryDeaths": "3",
+        "womenAssault": "23",
+        "total": "628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "53",
+        "rape": "17",
+        "kidnapping": "19",
+        "dacoity": "15",
+        "robbery": "12",
+        "burglary": "43",
+        "vehicleTheft": "22",
+        "riots": "29",
+        "dowryDeaths": "4",
+        "womenAssault": "18",
+        "total": "692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "12",
+        "dacoity": "13",
+        "robbery": "27",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "48",
+        "kidnapping": "40",
+        "dacoity": "40",
+        "robbery": "64",
+        "burglary": "132",
+        "vehicleTheft": "95",
+        "riots": "180",
+        "dowryDeaths": "29",
+        "womenAssault": "32",
+        "total": "2194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "134",
+        "homicide": "38",
+        "rape": "37",
+        "kidnapping": "19",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "34",
+        "vehicleTheft": "5",
+        "riots": "34",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "4",
+        "dacoity": "31",
+        "robbery": "19",
+        "burglary": "19",
+        "vehicleTheft": "24",
+        "riots": "123",
+        "dowryDeaths": "15",
+        "womenAssault": "0",
+        "total": "840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "5",
+        "dacoity": "13",
+        "robbery": "25",
+        "burglary": "53",
+        "vehicleTheft": "20",
+        "riots": "145",
+        "dowryDeaths": "16",
+        "womenAssault": "7",
+        "total": "1283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "13",
+        "rape": "38",
+        "kidnapping": "72",
+        "dacoity": "69",
+        "robbery": "64",
+        "burglary": "149",
+        "vehicleTheft": "31",
+        "riots": "237",
+        "dowryDeaths": "36",
+        "womenAssault": "53",
+        "total": "3201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "4",
+        "rape": "50",
+        "kidnapping": "15",
+        "dacoity": "7",
+        "robbery": "13",
+        "burglary": "54",
+        "vehicleTheft": "0",
+        "riots": "99",
+        "dowryDeaths": "8",
+        "womenAssault": "31",
+        "total": "1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "9",
+        "dacoity": "17",
+        "robbery": "20",
+        "burglary": "29",
+        "vehicleTheft": "0",
+        "riots": "107",
+        "dowryDeaths": "14",
+        "womenAssault": "2",
+        "total": "869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "4",
+        "rape": "39",
+        "kidnapping": "23",
+        "dacoity": "49",
+        "robbery": "42",
+        "burglary": "91",
+        "vehicleTheft": "2",
+        "riots": "108",
+        "dowryDeaths": "52",
+        "womenAssault": "48",
+        "total": "1955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "86",
+        "kidnapping": "21",
+        "dacoity": "9",
+        "robbery": "10",
+        "burglary": "46",
+        "vehicleTheft": "0",
+        "riots": "125",
+        "dowryDeaths": "4",
+        "womenAssault": "0",
+        "total": "2203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "108",
+        "homicide": "8",
+        "rape": "31",
+        "kidnapping": "9",
+        "dacoity": "23",
+        "robbery": "41",
+        "burglary": "37",
+        "vehicleTheft": "7",
+        "riots": "32",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "11",
+        "rape": "71",
+        "kidnapping": "33",
+        "dacoity": "60",
+        "robbery": "66",
+        "burglary": "103",
+        "vehicleTheft": "44",
+        "riots": "198",
+        "dowryDeaths": "31",
+        "womenAssault": "27",
+        "total": "2621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "9",
+        "rape": "76",
+        "kidnapping": "50",
+        "dacoity": "8",
+        "robbery": "29",
+        "burglary": "156",
+        "vehicleTheft": "135",
+        "riots": "114",
+        "dowryDeaths": "12",
+        "womenAssault": "40",
+        "total": "2755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "13",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "30",
+        "vehicleTheft": "4",
+        "riots": "39",
+        "dowryDeaths": "3",
+        "womenAssault": "14",
+        "total": "534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "13",
+        "dacoity": "39",
+        "robbery": "24",
+        "burglary": "13",
+        "vehicleTheft": "6",
+        "riots": "103",
+        "dowryDeaths": "7",
+        "womenAssault": "8",
+        "total": "785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "8",
+        "dacoity": "27",
+        "robbery": "13",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "20",
+        "dowryDeaths": "3",
+        "womenAssault": "4",
+        "total": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "6",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "16",
+        "vehicleTheft": "2",
+        "riots": "44",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "3",
+        "rape": "14",
+        "kidnapping": "16",
+        "dacoity": "31",
+        "robbery": "40",
+        "burglary": "111",
+        "vehicleTheft": "4",
+        "riots": "167",
+        "dowryDeaths": "24",
+        "womenAssault": "11",
+        "total": "1549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "270",
+        "homicide": "0",
+        "rape": "55",
+        "kidnapping": "67",
+        "dacoity": "85",
+        "robbery": "181",
+        "burglary": "222",
+        "vehicleTheft": "159",
+        "riots": "263",
+        "dowryDeaths": "9",
+        "womenAssault": "73",
+        "total": "4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "22",
+        "dacoity": "5",
+        "robbery": "17",
+        "burglary": "21",
+        "vehicleTheft": "6",
+        "riots": "65",
+        "dowryDeaths": "5",
+        "womenAssault": "22",
+        "total": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "16",
+        "dacoity": "12",
+        "robbery": "7",
+        "burglary": "45",
+        "vehicleTheft": "8",
+        "riots": "31",
+        "dowryDeaths": "3",
+        "womenAssault": "4",
+        "total": "824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "3",
+        "rape": "16",
+        "kidnapping": "2",
+        "dacoity": "10",
+        "robbery": "12",
+        "burglary": "16",
+        "vehicleTheft": "3",
+        "riots": "10",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "48",
+        "kidnapping": "40",
+        "dacoity": "40",
+        "robbery": "64",
+        "burglary": "122",
+        "vehicleTheft": "95",
+        "riots": "180",
+        "dowryDeaths": "29",
+        "womenAssault": "32",
+        "total": "2154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "129",
+        "homicide": "34",
+        "rape": "38",
+        "kidnapping": "21",
+        "dacoity": "7",
+        "robbery": "17",
+        "burglary": "34",
+        "vehicleTheft": "5",
+        "riots": "39",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "3",
+        "rape": "14",
+        "kidnapping": "7",
+        "dacoity": "29",
+        "robbery": "23",
+        "burglary": "18",
+        "vehicleTheft": "3",
+        "riots": "130",
+        "dowryDeaths": "16",
+        "womenAssault": "2",
+        "total": "1038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "5",
+        "rape": "53",
+        "kidnapping": "8",
+        "dacoity": "13",
+        "robbery": "31",
+        "burglary": "89",
+        "vehicleTheft": "36",
+        "riots": "184",
+        "dowryDeaths": "14",
+        "womenAssault": "14",
+        "total": "1582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "7",
+        "rape": "43",
+        "kidnapping": "55",
+        "dacoity": "53",
+        "robbery": "50",
+        "burglary": "190",
+        "vehicleTheft": "28",
+        "riots": "218",
+        "dowryDeaths": "30",
+        "womenAssault": "47",
+        "total": "3227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "3",
+        "rape": "49",
+        "kidnapping": "19",
+        "dacoity": "9",
+        "robbery": "9",
+        "burglary": "51",
+        "vehicleTheft": "12",
+        "riots": "22",
+        "dowryDeaths": "9",
+        "womenAssault": "23",
+        "total": "967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "3",
+        "rape": "23",
+        "kidnapping": "18",
+        "dacoity": "25",
+        "robbery": "26",
+        "burglary": "33",
+        "vehicleTheft": "0",
+        "riots": "156",
+        "dowryDeaths": "13",
+        "womenAssault": "5",
+        "total": "985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "7",
+        "rape": "35",
+        "kidnapping": "31",
+        "dacoity": "63",
+        "robbery": "50",
+        "burglary": "116",
+        "vehicleTheft": "5",
+        "riots": "128",
+        "dowryDeaths": "42",
+        "womenAssault": "52",
+        "total": "2386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "76",
+        "kidnapping": "25",
+        "dacoity": "9",
+        "robbery": "15",
+        "burglary": "46",
+        "vehicleTheft": "0",
+        "riots": "124",
+        "dowryDeaths": "4",
+        "womenAssault": "0",
+        "total": "2195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "131",
+        "homicide": "12",
+        "rape": "31",
+        "kidnapping": "14",
+        "dacoity": "32",
+        "robbery": "33",
+        "burglary": "41",
+        "vehicleTheft": "5",
+        "riots": "43",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "11",
+        "rape": "40",
+        "kidnapping": "36",
+        "dacoity": "103",
+        "robbery": "102",
+        "burglary": "132",
+        "vehicleTheft": "77",
+        "riots": "295",
+        "dowryDeaths": "41",
+        "womenAssault": "57",
+        "total": "2839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "5",
+        "rape": "28",
+        "kidnapping": "37",
+        "dacoity": "12",
+        "robbery": "36",
+        "burglary": "108",
+        "vehicleTheft": "102",
+        "riots": "122",
+        "dowryDeaths": "12",
+        "womenAssault": "23",
+        "total": "2138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "3",
+        "rape": "35",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "36",
+        "dowryDeaths": "5",
+        "womenAssault": "6",
+        "total": "476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "39",
+        "robbery": "24",
+        "burglary": "13",
+        "vehicleTheft": "6",
+        "riots": "103",
+        "dowryDeaths": "7",
+        "womenAssault": "8",
+        "total": "751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "1",
+        "dacoity": "46",
+        "robbery": "22",
+        "burglary": "69",
+        "vehicleTheft": "0",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "4",
+        "rape": "31",
+        "kidnapping": "12",
+        "dacoity": "7",
+        "robbery": "13",
+        "burglary": "25",
+        "vehicleTheft": "9",
+        "riots": "57",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "1",
+        "rape": "13",
+        "kidnapping": "14",
+        "dacoity": "51",
+        "robbery": "31",
+        "burglary": "62",
+        "vehicleTheft": "3",
+        "riots": "194",
+        "dowryDeaths": "11",
+        "womenAssault": "4",
+        "total": "1603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "250",
+        "homicide": "0",
+        "rape": "55",
+        "kidnapping": "70",
+        "dacoity": "89",
+        "robbery": "183",
+        "burglary": "214",
+        "vehicleTheft": "161",
+        "riots": "264",
+        "dowryDeaths": "9",
+        "womenAssault": "73",
+        "total": "4277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "3",
+        "rape": "23",
+        "kidnapping": "16",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "24",
+        "vehicleTheft": "2",
+        "riots": "25",
+        "dowryDeaths": "9",
+        "womenAssault": "17",
+        "total": "642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "0",
+        "rape": "31",
+        "kidnapping": "26",
+        "dacoity": "5",
+        "robbery": "32",
+        "burglary": "22",
+        "vehicleTheft": "5",
+        "riots": "33",
+        "dowryDeaths": "7",
+        "womenAssault": "14",
+        "total": "973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "2",
+        "rape": "19",
+        "kidnapping": "12",
+        "dacoity": "10",
+        "robbery": "17",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "48",
+        "kidnapping": "40",
+        "dacoity": "40",
+        "robbery": "64",
+        "burglary": "132",
+        "vehicleTheft": "95",
+        "riots": "180",
+        "dowryDeaths": "29",
+        "womenAssault": "32",
+        "total": "2194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "134",
+        "homicide": "38",
+        "rape": "37",
+        "kidnapping": "19",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "34",
+        "vehicleTheft": "5",
+        "riots": "34",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "4",
+        "dacoity": "31",
+        "robbery": "19",
+        "burglary": "19",
+        "vehicleTheft": "24",
+        "riots": "123",
+        "dowryDeaths": "15",
+        "womenAssault": "0",
+        "total": "840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "5",
+        "dacoity": "13",
+        "robbery": "25",
+        "burglary": "53",
+        "vehicleTheft": "20",
+        "riots": "145",
+        "dowryDeaths": "16",
+        "womenAssault": "7",
+        "total": "1283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "13",
+        "rape": "38",
+        "kidnapping": "72",
+        "dacoity": "69",
+        "robbery": "64",
+        "burglary": "149",
+        "vehicleTheft": "31",
+        "riots": "237",
+        "dowryDeaths": "36",
+        "womenAssault": "53",
+        "total": "3201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "4",
+        "rape": "50",
+        "kidnapping": "15",
+        "dacoity": "7",
+        "robbery": "13",
+        "burglary": "54",
+        "vehicleTheft": "0",
+        "riots": "99",
+        "dowryDeaths": "8",
+        "womenAssault": "31",
+        "total": "1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "9",
+        "dacoity": "17",
+        "robbery": "20",
+        "burglary": "29",
+        "vehicleTheft": "0",
+        "riots": "107",
+        "dowryDeaths": "14",
+        "womenAssault": "2",
+        "total": "869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "4",
+        "rape": "39",
+        "kidnapping": "23",
+        "dacoity": "49",
+        "robbery": "42",
+        "burglary": "91",
+        "vehicleTheft": "2",
+        "riots": "108",
+        "dowryDeaths": "52",
+        "womenAssault": "48",
+        "total": "1955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "86",
+        "kidnapping": "21",
+        "dacoity": "9",
+        "robbery": "10",
+        "burglary": "46",
+        "vehicleTheft": "0",
+        "riots": "125",
+        "dowryDeaths": "4",
+        "womenAssault": "0",
+        "total": "2203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "108",
+        "homicide": "8",
+        "rape": "31",
+        "kidnapping": "9",
+        "dacoity": "23",
+        "robbery": "41",
+        "burglary": "37",
+        "vehicleTheft": "7",
+        "riots": "32",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "11",
+        "rape": "71",
+        "kidnapping": "33",
+        "dacoity": "60",
+        "robbery": "66",
+        "burglary": "103",
+        "vehicleTheft": "44",
+        "riots": "198",
+        "dowryDeaths": "31",
+        "womenAssault": "27",
+        "total": "2621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "9",
+        "rape": "76",
+        "kidnapping": "50",
+        "dacoity": "8",
+        "robbery": "29",
+        "burglary": "156",
+        "vehicleTheft": "135",
+        "riots": "114",
+        "dowryDeaths": "12",
+        "womenAssault": "40",
+        "total": "2755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "13",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "30",
+        "vehicleTheft": "4",
+        "riots": "39",
+        "dowryDeaths": "3",
+        "womenAssault": "14",
+        "total": "534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "13",
+        "dacoity": "39",
+        "robbery": "24",
+        "burglary": "13",
+        "vehicleTheft": "6",
+        "riots": "103",
+        "dowryDeaths": "7",
+        "womenAssault": "8",
+        "total": "785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "8",
+        "dacoity": "27",
+        "robbery": "13",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "20",
+        "dowryDeaths": "3",
+        "womenAssault": "4",
+        "total": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "6",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "16",
+        "vehicleTheft": "2",
+        "riots": "44",
+        "dowryDeaths": "2",
+        "womenAssault": "3",
+        "total": "584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "3",
+        "rape": "14",
+        "kidnapping": "16",
+        "dacoity": "31",
+        "robbery": "40",
+        "burglary": "111",
+        "vehicleTheft": "4",
+        "riots": "167",
+        "dowryDeaths": "24",
+        "womenAssault": "11",
+        "total": "1549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "270",
+        "homicide": "0",
+        "rape": "55",
+        "kidnapping": "67",
+        "dacoity": "85",
+        "robbery": "181",
+        "burglary": "222",
+        "vehicleTheft": "159",
+        "riots": "263",
+        "dowryDeaths": "9",
+        "womenAssault": "73",
+        "total": "4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "22",
+        "dacoity": "5",
+        "robbery": "17",
+        "burglary": "21",
+        "vehicleTheft": "6",
+        "riots": "65",
+        "dowryDeaths": "5",
+        "womenAssault": "22",
+        "total": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "16",
+        "dacoity": "12",
+        "robbery": "7",
+        "burglary": "45",
+        "vehicleTheft": "8",
+        "riots": "31",
+        "dowryDeaths": "3",
+        "womenAssault": "4",
+        "total": "824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "3",
+        "rape": "16",
+        "kidnapping": "2",
+        "dacoity": "10",
+        "robbery": "12",
+        "burglary": "16",
+        "vehicleTheft": "3",
+        "riots": "10",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "43",
+        "dacoity": "34",
+        "robbery": "45",
+        "burglary": "186",
+        "vehicleTheft": "90",
+        "riots": "128",
+        "dowryDeaths": "19",
+        "womenAssault": "0",
+        "total": "2411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "115",
+        "homicide": "2",
+        "rape": "53",
+        "kidnapping": "2",
+        "dacoity": "11",
+        "robbery": "21",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "27",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "1004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "9",
+        "dacoity": "15",
+        "robbery": "20",
+        "burglary": "16",
+        "vehicleTheft": "2",
+        "riots": "82",
+        "dowryDeaths": "14",
+        "womenAssault": "1",
+        "total": "716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "1",
+        "rape": "46",
+        "kidnapping": "10",
+        "dacoity": "10",
+        "robbery": "15",
+        "burglary": "119",
+        "vehicleTheft": "15",
+        "riots": "164",
+        "dowryDeaths": "3",
+        "womenAssault": "15",
+        "total": "1385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "97",
+        "homicide": "12",
+        "rape": "32",
+        "kidnapping": "68",
+        "dacoity": "71",
+        "robbery": "52",
+        "burglary": "179",
+        "vehicleTheft": "154",
+        "riots": "296",
+        "dowryDeaths": "48",
+        "womenAssault": "16",
+        "total": "3645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "7",
+        "rape": "38",
+        "kidnapping": "23",
+        "dacoity": "10",
+        "robbery": "5",
+        "burglary": "71",
+        "vehicleTheft": "37",
+        "riots": "135",
+        "dowryDeaths": "12",
+        "womenAssault": "11",
+        "total": "1571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "20",
+        "dacoity": "8",
+        "robbery": "17",
+        "burglary": "46",
+        "vehicleTheft": "0",
+        "riots": "132",
+        "dowryDeaths": "17",
+        "womenAssault": "0",
+        "total": "964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "2",
+        "rape": "28",
+        "kidnapping": "41",
+        "dacoity": "53",
+        "robbery": "36",
+        "burglary": "119",
+        "vehicleTheft": "12",
+        "riots": "222",
+        "dowryDeaths": "24",
+        "womenAssault": "54",
+        "total": "2356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "6",
+        "rape": "46",
+        "kidnapping": "29",
+        "dacoity": "6",
+        "robbery": "11",
+        "burglary": "52",
+        "vehicleTheft": "0",
+        "riots": "142",
+        "dowryDeaths": "8",
+        "womenAssault": "28",
+        "total": "1273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "140",
+        "homicide": "1",
+        "rape": "45",
+        "kidnapping": "17",
+        "dacoity": "26",
+        "robbery": "27",
+        "burglary": "32",
+        "vehicleTheft": "14",
+        "riots": "31",
+        "dowryDeaths": "2",
+        "womenAssault": "10",
+        "total": "787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "104",
+        "homicide": "11",
+        "rape": "57",
+        "kidnapping": "55",
+        "dacoity": "99",
+        "robbery": "82",
+        "burglary": "155",
+        "vehicleTheft": "181",
+        "riots": "279",
+        "dowryDeaths": "31",
+        "womenAssault": "32",
+        "total": "3189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "87",
+        "homicide": "8",
+        "rape": "37",
+        "kidnapping": "43",
+        "dacoity": "17",
+        "robbery": "49",
+        "burglary": "152",
+        "vehicleTheft": "112",
+        "riots": "85",
+        "dowryDeaths": "10",
+        "womenAssault": "34",
+        "total": "3143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "6",
+        "dacoity": "12",
+        "robbery": "5",
+        "burglary": "25",
+        "vehicleTheft": "2",
+        "riots": "70",
+        "dowryDeaths": "6",
+        "womenAssault": "17",
+        "total": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "14",
+        "dacoity": "22",
+        "robbery": "18",
+        "burglary": "17",
+        "vehicleTheft": "27",
+        "riots": "41",
+        "dowryDeaths": "15",
+        "womenAssault": "4",
+        "total": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "1",
+        "rape": "12",
+        "kidnapping": "6",
+        "dacoity": "26",
+        "robbery": "13",
+        "burglary": "16",
+        "vehicleTheft": "7",
+        "riots": "14",
+        "dowryDeaths": "1",
+        "womenAssault": "2",
+        "total": "459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "4",
+        "rape": "30",
+        "kidnapping": "9",
+        "dacoity": "7",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "7",
+        "riots": "90",
+        "dowryDeaths": "4",
+        "womenAssault": "12",
+        "total": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "4",
+        "rape": "27",
+        "kidnapping": "44",
+        "dacoity": "9",
+        "robbery": "34",
+        "burglary": "91",
+        "vehicleTheft": "19",
+        "riots": "217",
+        "dowryDeaths": "21",
+        "womenAssault": "13",
+        "total": "1718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "239",
+        "homicide": "19",
+        "rape": "102",
+        "kidnapping": "105",
+        "dacoity": "82",
+        "robbery": "190",
+        "burglary": "239",
+        "vehicleTheft": "462",
+        "riots": "174",
+        "dowryDeaths": "11",
+        "womenAssault": "14",
+        "total": "5075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "4",
+        "rape": "44",
+        "kidnapping": "26",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "17",
+        "vehicleTheft": "7",
+        "riots": "70",
+        "dowryDeaths": "4",
+        "womenAssault": "6",
+        "total": "813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "2",
+        "rape": "33",
+        "kidnapping": "19",
+        "dacoity": "18",
+        "robbery": "7",
+        "burglary": "6",
+        "vehicleTheft": "10",
+        "riots": "52",
+        "dowryDeaths": "3",
+        "womenAssault": "6",
+        "total": "1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "0",
+        "rape": "20",
+        "kidnapping": "10",
+        "dacoity": "12",
+        "robbery": "11",
+        "burglary": "4",
+        "vehicleTheft": "9",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "49",
+        "dacoity": "34",
+        "robbery": "38",
+        "burglary": "109",
+        "vehicleTheft": "81",
+        "riots": "144",
+        "dowryDeaths": "16",
+        "womenAssault": "7",
+        "total": "2322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "129",
+        "homicide": "1",
+        "rape": "53",
+        "kidnapping": "12",
+        "dacoity": "16",
+        "robbery": "33",
+        "burglary": "33",
+        "vehicleTheft": "0",
+        "riots": "38",
+        "dowryDeaths": "7",
+        "womenAssault": "7",
+        "total": "1032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "11",
+        "dacoity": "18",
+        "robbery": "22",
+        "burglary": "22",
+        "vehicleTheft": "13",
+        "riots": "82",
+        "dowryDeaths": "16",
+        "womenAssault": "3",
+        "total": "772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "4",
+        "rape": "33",
+        "kidnapping": "8",
+        "dacoity": "9",
+        "robbery": "19",
+        "burglary": "109",
+        "vehicleTheft": "31",
+        "riots": "164",
+        "dowryDeaths": "19",
+        "womenAssault": "4",
+        "total": "1780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "16",
+        "rape": "37",
+        "kidnapping": "65",
+        "dacoity": "50",
+        "robbery": "61",
+        "burglary": "158",
+        "vehicleTheft": "175",
+        "riots": "265",
+        "dowryDeaths": "32",
+        "womenAssault": "28",
+        "total": "3707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "4",
+        "rape": "55",
+        "kidnapping": "28",
+        "dacoity": "9",
+        "robbery": "9",
+        "burglary": "62",
+        "vehicleTheft": "57",
+        "riots": "110",
+        "dowryDeaths": "7",
+        "womenAssault": "46",
+        "total": "1522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "4",
+        "rape": "26",
+        "kidnapping": "14",
+        "dacoity": "16",
+        "robbery": "17",
+        "burglary": "32",
+        "vehicleTheft": "5",
+        "riots": "174",
+        "dowryDeaths": "16",
+        "womenAssault": "0",
+        "total": "1168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "1",
+        "rape": "56",
+        "kidnapping": "35",
+        "dacoity": "59",
+        "robbery": "34",
+        "burglary": "100",
+        "vehicleTheft": "25",
+        "riots": "287",
+        "dowryDeaths": "39",
+        "womenAssault": "65",
+        "total": "2689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "5",
+        "rape": "33",
+        "kidnapping": "25",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "50",
+        "vehicleTheft": "0",
+        "riots": "137",
+        "dowryDeaths": "8",
+        "womenAssault": "16",
+        "total": "1231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "126",
+        "homicide": "3",
+        "rape": "55",
+        "kidnapping": "26",
+        "dacoity": "18",
+        "robbery": "25",
+        "burglary": "16",
+        "vehicleTheft": "16",
+        "riots": "38",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "97",
+        "homicide": "12",
+        "rape": "45",
+        "kidnapping": "77",
+        "dacoity": "73",
+        "robbery": "88",
+        "burglary": "161",
+        "vehicleTheft": "135",
+        "riots": "306",
+        "dowryDeaths": "39",
+        "womenAssault": "70",
+        "total": "3034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "6",
+        "rape": "54",
+        "kidnapping": "43",
+        "dacoity": "20",
+        "robbery": "36",
+        "burglary": "84",
+        "vehicleTheft": "100",
+        "riots": "124",
+        "dowryDeaths": "16",
+        "womenAssault": "43",
+        "total": "3192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "4",
+        "rape": "21",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "3",
+        "burglary": "23",
+        "vehicleTheft": "9",
+        "riots": "78",
+        "dowryDeaths": "4",
+        "womenAssault": "4",
+        "total": "676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "3",
+        "rape": "21",
+        "kidnapping": "19",
+        "dacoity": "15",
+        "robbery": "13",
+        "burglary": "28",
+        "vehicleTheft": "18",
+        "riots": "68",
+        "dowryDeaths": "10",
+        "womenAssault": "2",
+        "total": "769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "5",
+        "rape": "12",
+        "kidnapping": "9",
+        "dacoity": "27",
+        "robbery": "26",
+        "burglary": "16",
+        "vehicleTheft": "1",
+        "riots": "46",
+        "dowryDeaths": "2",
+        "womenAssault": "1",
+        "total": "543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "5",
+        "rape": "28",
+        "kidnapping": "19",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "13",
+        "vehicleTheft": "8",
+        "riots": "95",
+        "dowryDeaths": "3",
+        "womenAssault": "13",
+        "total": "731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "28",
+        "dacoity": "14",
+        "robbery": "33",
+        "burglary": "79",
+        "vehicleTheft": "16",
+        "riots": "136",
+        "dowryDeaths": "19",
+        "womenAssault": "0",
+        "total": "1566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "253",
+        "homicide": "16",
+        "rape": "79",
+        "kidnapping": "94",
+        "dacoity": "73",
+        "robbery": "190",
+        "burglary": "221",
+        "vehicleTheft": "373",
+        "riots": "229",
+        "dowryDeaths": "14",
+        "womenAssault": "36",
+        "total": "5302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "0",
+        "rape": "53",
+        "kidnapping": "22",
+        "dacoity": "3",
+        "robbery": "12",
+        "burglary": "30",
+        "vehicleTheft": "9",
+        "riots": "54",
+        "dowryDeaths": "5",
+        "womenAssault": "19",
+        "total": "841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "14",
+        "dacoity": "15",
+        "robbery": "25",
+        "burglary": "38",
+        "vehicleTheft": "22",
+        "riots": "30",
+        "dowryDeaths": "2",
+        "womenAssault": "4",
+        "total": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "1",
+        "rape": "29",
+        "kidnapping": "9",
+        "dacoity": "11",
+        "robbery": "17",
+        "burglary": "16",
+        "vehicleTheft": "7",
+        "riots": "9",
+        "dowryDeaths": "2",
+        "womenAssault": "10",
+        "total": "438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "0",
+        "rape": "57",
+        "kidnapping": "43",
+        "dacoity": "18",
+        "robbery": "45",
+        "burglary": "108",
+        "vehicleTheft": "142",
+        "riots": "125",
+        "dowryDeaths": "21",
+        "womenAssault": "7",
+        "total": "2751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "127",
+        "homicide": "2",
+        "rape": "43",
+        "kidnapping": "19",
+        "dacoity": "10",
+        "robbery": "21",
+        "burglary": "21",
+        "vehicleTheft": "29",
+        "riots": "41",
+        "dowryDeaths": "6",
+        "womenAssault": "10",
+        "total": "1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "1",
+        "rape": "25",
+        "kidnapping": "12",
+        "dacoity": "34",
+        "robbery": "33",
+        "burglary": "29",
+        "vehicleTheft": "10",
+        "riots": "113",
+        "dowryDeaths": "15",
+        "womenAssault": "3",
+        "total": "960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "3",
+        "rape": "24",
+        "kidnapping": "26",
+        "dacoity": "11",
+        "robbery": "22",
+        "burglary": "133",
+        "vehicleTheft": "58",
+        "riots": "140",
+        "dowryDeaths": "21",
+        "womenAssault": "2",
+        "total": "1813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "7",
+        "rape": "41",
+        "kidnapping": "87",
+        "dacoity": "40",
+        "robbery": "58",
+        "burglary": "180",
+        "vehicleTheft": "312",
+        "riots": "299",
+        "dowryDeaths": "29",
+        "womenAssault": "32",
+        "total": "3712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "0",
+        "rape": "52",
+        "kidnapping": "29",
+        "dacoity": "6",
+        "robbery": "11",
+        "burglary": "64",
+        "vehicleTheft": "78",
+        "riots": "98",
+        "dowryDeaths": "23",
+        "womenAssault": "35",
+        "total": "1569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "3",
+        "rape": "17",
+        "kidnapping": "20",
+        "dacoity": "14",
+        "robbery": "16",
+        "burglary": "21",
+        "vehicleTheft": "10",
+        "riots": "141",
+        "dowryDeaths": "8",
+        "womenAssault": "0",
+        "total": "1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "0",
+        "rape": "46",
+        "kidnapping": "35",
+        "dacoity": "52",
+        "robbery": "31",
+        "burglary": "103",
+        "vehicleTheft": "27",
+        "riots": "310",
+        "dowryDeaths": "20",
+        "womenAssault": "61",
+        "total": "2710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "3",
+        "rape": "30",
+        "kidnapping": "39",
+        "dacoity": "8",
+        "robbery": "9",
+        "burglary": "64",
+        "vehicleTheft": "0",
+        "riots": "129",
+        "dowryDeaths": "7",
+        "womenAssault": "3",
+        "total": "1295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "137",
+        "homicide": "3",
+        "rape": "60",
+        "kidnapping": "34",
+        "dacoity": "24",
+        "robbery": "45",
+        "burglary": "8",
+        "vehicleTheft": "21",
+        "riots": "27",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "78",
+        "homicide": "6",
+        "rape": "41",
+        "kidnapping": "28",
+        "dacoity": "56",
+        "robbery": "54",
+        "burglary": "136",
+        "vehicleTheft": "87",
+        "riots": "157",
+        "dowryDeaths": "45",
+        "womenAssault": "40",
+        "total": "2777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "7",
+        "rape": "65",
+        "kidnapping": "39",
+        "dacoity": "17",
+        "robbery": "62",
+        "burglary": "149",
+        "vehicleTheft": "334",
+        "riots": "118",
+        "dowryDeaths": "20",
+        "womenAssault": "30",
+        "total": "3471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "5",
+        "rape": "22",
+        "kidnapping": "21",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "34",
+        "vehicleTheft": "10",
+        "riots": "74",
+        "dowryDeaths": "6",
+        "womenAssault": "11",
+        "total": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "91",
+        "homicide": "4",
+        "rape": "15",
+        "kidnapping": "15",
+        "dacoity": "12",
+        "robbery": "26",
+        "burglary": "2",
+        "vehicleTheft": "4",
+        "riots": "9",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "18",
+        "dacoity": "15",
+        "robbery": "16",
+        "burglary": "20",
+        "vehicleTheft": "34",
+        "riots": "102",
+        "dowryDeaths": "11",
+        "womenAssault": "2",
+        "total": "785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "14",
+        "dacoity": "27",
+        "robbery": "17",
+        "burglary": "9",
+        "vehicleTheft": "4",
+        "riots": "38",
+        "dowryDeaths": "4",
+        "womenAssault": "2",
+        "total": "569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "9",
+        "rape": "45",
+        "kidnapping": "22",
+        "dacoity": "5",
+        "robbery": "3",
+        "burglary": "16",
+        "vehicleTheft": "16",
+        "riots": "66",
+        "dowryDeaths": "4",
+        "womenAssault": "13",
+        "total": "756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "1",
+        "rape": "29",
+        "kidnapping": "36",
+        "dacoity": "21",
+        "robbery": "40",
+        "burglary": "96",
+        "vehicleTheft": "12",
+        "riots": "122",
+        "dowryDeaths": "17",
+        "womenAssault": "6",
+        "total": "1597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "0",
+        "rape": "28",
+        "kidnapping": "37",
+        "dacoity": "17",
+        "robbery": "36",
+        "burglary": "27",
+        "vehicleTheft": "57",
+        "riots": "132",
+        "dowryDeaths": "11",
+        "womenAssault": "11",
+        "total": "1346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "203",
+        "homicide": "24",
+        "rape": "53",
+        "kidnapping": "88",
+        "dacoity": "69",
+        "robbery": "146",
+        "burglary": "171",
+        "vehicleTheft": "437",
+        "riots": "204",
+        "dowryDeaths": "17",
+        "womenAssault": "27",
+        "total": "4849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "2",
+        "rape": "64",
+        "kidnapping": "32",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "61",
+        "vehicleTheft": "7",
+        "riots": "38",
+        "dowryDeaths": "9",
+        "womenAssault": "18",
+        "total": "896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "23",
+        "dacoity": "12",
+        "robbery": "18",
+        "burglary": "4",
+        "vehicleTheft": "37",
+        "riots": "31",
+        "dowryDeaths": "4",
+        "womenAssault": "2",
+        "total": "907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "20",
+        "dacoity": "15",
+        "robbery": "17",
+        "burglary": "15",
+        "vehicleTheft": "11",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "0",
+        "rape": "40",
+        "kidnapping": "41",
+        "dacoity": "21",
+        "robbery": "27",
+        "burglary": "71",
+        "vehicleTheft": "141",
+        "riots": "142",
+        "dowryDeaths": "15",
+        "womenAssault": "0",
+        "total": "2665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "127",
+        "homicide": "35",
+        "rape": "42",
+        "kidnapping": "7",
+        "dacoity": "7",
+        "robbery": "16",
+        "burglary": "19",
+        "vehicleTheft": "27",
+        "riots": "31",
+        "dowryDeaths": "7",
+        "womenAssault": "16",
+        "total": "837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "17",
+        "dacoity": "14",
+        "robbery": "27",
+        "burglary": "18",
+        "vehicleTheft": "9",
+        "riots": "121",
+        "dowryDeaths": "14",
+        "womenAssault": "1",
+        "total": "1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "1",
+        "rape": "33",
+        "kidnapping": "11",
+        "dacoity": "18",
+        "robbery": "22",
+        "burglary": "112",
+        "vehicleTheft": "61",
+        "riots": "148",
+        "dowryDeaths": "6",
+        "womenAssault": "5",
+        "total": "1475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "12",
+        "rape": "47",
+        "kidnapping": "88",
+        "dacoity": "38",
+        "robbery": "59",
+        "burglary": "182",
+        "vehicleTheft": "276",
+        "riots": "204",
+        "dowryDeaths": "36",
+        "womenAssault": "35",
+        "total": "3579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "0",
+        "rape": "60",
+        "kidnapping": "26",
+        "dacoity": "6",
+        "robbery": "17",
+        "burglary": "80",
+        "vehicleTheft": "12",
+        "riots": "109",
+        "dowryDeaths": "17",
+        "womenAssault": "7",
+        "total": "1758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "27",
+        "dacoity": "18",
+        "robbery": "30",
+        "burglary": "29",
+        "vehicleTheft": "1",
+        "riots": "139",
+        "dowryDeaths": "9",
+        "womenAssault": "15",
+        "total": "1279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "0",
+        "rape": "48",
+        "kidnapping": "52",
+        "dacoity": "41",
+        "robbery": "45",
+        "burglary": "88",
+        "vehicleTheft": "47",
+        "riots": "378",
+        "dowryDeaths": "33",
+        "womenAssault": "22",
+        "total": "2819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "41",
+        "dacoity": "5",
+        "robbery": "16",
+        "burglary": "55",
+        "vehicleTheft": "0",
+        "riots": "124",
+        "dowryDeaths": "7",
+        "womenAssault": "16",
+        "total": "1863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "158",
+        "homicide": "4",
+        "rape": "38",
+        "kidnapping": "37",
+        "dacoity": "20",
+        "robbery": "62",
+        "burglary": "22",
+        "vehicleTheft": "58",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "2",
+        "rape": "57",
+        "kidnapping": "65",
+        "dacoity": "32",
+        "robbery": "55",
+        "burglary": "116",
+        "vehicleTheft": "133",
+        "riots": "323",
+        "dowryDeaths": "36",
+        "womenAssault": "31",
+        "total": "3021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "102",
+        "homicide": "10",
+        "rape": "41",
+        "kidnapping": "36",
+        "dacoity": "20",
+        "robbery": "59",
+        "burglary": "123",
+        "vehicleTheft": "325",
+        "riots": "44",
+        "dowryDeaths": "14",
+        "womenAssault": "18",
+        "total": "3212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "42",
+        "vehicleTheft": "6",
+        "riots": "71",
+        "dowryDeaths": "5",
+        "womenAssault": "9",
+        "total": "654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "5",
+        "rape": "8",
+        "kidnapping": "13",
+        "dacoity": "6",
+        "robbery": "16",
+        "burglary": "4",
+        "vehicleTheft": "3",
+        "riots": "15",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "18",
+        "vehicleTheft": "28",
+        "riots": "103",
+        "dowryDeaths": "11",
+        "womenAssault": "6",
+        "total": "825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "2",
+        "rape": "11",
+        "kidnapping": "14",
+        "dacoity": "22",
+        "robbery": "19",
+        "burglary": "16",
+        "vehicleTheft": "2",
+        "riots": "18",
+        "dowryDeaths": "6",
+        "womenAssault": "10",
+        "total": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "6",
+        "rape": "53",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "19",
+        "vehicleTheft": "23",
+        "riots": "56",
+        "dowryDeaths": "1",
+        "womenAssault": "9",
+        "total": "796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "102",
+        "homicide": "6",
+        "rape": "30",
+        "kidnapping": "57",
+        "dacoity": "20",
+        "robbery": "41",
+        "burglary": "80",
+        "vehicleTheft": "34",
+        "riots": "143",
+        "dowryDeaths": "18",
+        "womenAssault": "1",
+        "total": "2117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "20",
+        "dacoity": "18",
+        "robbery": "29",
+        "burglary": "33",
+        "vehicleTheft": "75",
+        "riots": "90",
+        "dowryDeaths": "5",
+        "womenAssault": "6",
+        "total": "1067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "209",
+        "homicide": "10",
+        "rape": "62",
+        "kidnapping": "117",
+        "dacoity": "49",
+        "robbery": "112",
+        "burglary": "155",
+        "vehicleTheft": "766",
+        "riots": "138",
+        "dowryDeaths": "12",
+        "womenAssault": "23",
+        "total": "4805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "4",
+        "rape": "61",
+        "kidnapping": "35",
+        "dacoity": "4",
+        "robbery": "9",
+        "burglary": "24",
+        "vehicleTheft": "31",
+        "riots": "37",
+        "dowryDeaths": "4",
+        "womenAssault": "14",
+        "total": "844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "3",
+        "rape": "13",
+        "kidnapping": "14",
+        "dacoity": "13",
+        "robbery": "24",
+        "burglary": "20",
+        "vehicleTheft": "55",
+        "riots": "51",
+        "dowryDeaths": "5",
+        "womenAssault": "8",
+        "total": "857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "75",
+        "homicide": "4",
+        "rape": "26",
+        "kidnapping": "12",
+        "dacoity": "7",
+        "robbery": "19",
+        "burglary": "17",
+        "vehicleTheft": "8",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "37",
+        "dacoity": "16",
+        "robbery": "33",
+        "burglary": "86",
+        "vehicleTheft": "135",
+        "riots": "93",
+        "dowryDeaths": "16",
+        "womenAssault": "2",
+        "total": "2476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "118",
+        "homicide": "2",
+        "rape": "34",
+        "kidnapping": "13",
+        "dacoity": "9",
+        "robbery": "25",
+        "burglary": "17",
+        "vehicleTheft": "45",
+        "riots": "22",
+        "dowryDeaths": "6",
+        "womenAssault": "23",
+        "total": "812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "4",
+        "rape": "16",
+        "kidnapping": "21",
+        "dacoity": "13",
+        "robbery": "9",
+        "burglary": "34",
+        "vehicleTheft": "13",
+        "riots": "84",
+        "dowryDeaths": "11",
+        "womenAssault": "0",
+        "total": "858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "1",
+        "rape": "45",
+        "kidnapping": "29",
+        "dacoity": "29",
+        "robbery": "27",
+        "burglary": "115",
+        "vehicleTheft": "49",
+        "riots": "115",
+        "dowryDeaths": "18",
+        "womenAssault": "4",
+        "total": "1588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "11",
+        "rape": "36",
+        "kidnapping": "81",
+        "dacoity": "73",
+        "robbery": "49",
+        "burglary": "251",
+        "vehicleTheft": "559",
+        "riots": "204",
+        "dowryDeaths": "45",
+        "womenAssault": "24",
+        "total": "3787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "68",
+        "homicide": "11",
+        "rape": "61",
+        "kidnapping": "34",
+        "dacoity": "17",
+        "robbery": "15",
+        "burglary": "47",
+        "vehicleTheft": "50",
+        "riots": "87",
+        "dowryDeaths": "5",
+        "womenAssault": "2",
+        "total": "1519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "1",
+        "rape": "27",
+        "kidnapping": "37",
+        "dacoity": "5",
+        "robbery": "32",
+        "burglary": "34",
+        "vehicleTheft": "3",
+        "riots": "199",
+        "dowryDeaths": "12",
+        "womenAssault": "11",
+        "total": "1321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "36",
+        "dacoity": "40",
+        "robbery": "22",
+        "burglary": "61",
+        "vehicleTheft": "75",
+        "riots": "261",
+        "dowryDeaths": "45",
+        "womenAssault": "37",
+        "total": "2564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "36",
+        "dacoity": "6",
+        "robbery": "19",
+        "burglary": "48",
+        "vehicleTheft": "36",
+        "riots": "118",
+        "dowryDeaths": "7",
+        "womenAssault": "20",
+        "total": "1236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "168",
+        "homicide": "10",
+        "rape": "39",
+        "kidnapping": "36",
+        "dacoity": "13",
+        "robbery": "36",
+        "burglary": "14",
+        "vehicleTheft": "42",
+        "riots": "52",
+        "dowryDeaths": "1",
+        "womenAssault": "7",
+        "total": "926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "4",
+        "rape": "33",
+        "kidnapping": "53",
+        "dacoity": "11",
+        "robbery": "34",
+        "burglary": "66",
+        "vehicleTheft": "119",
+        "riots": "190",
+        "dowryDeaths": "32",
+        "womenAssault": "9",
+        "total": "2409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "106",
+        "homicide": "18",
+        "rape": "46",
+        "kidnapping": "64",
+        "dacoity": "25",
+        "robbery": "72",
+        "burglary": "138",
+        "vehicleTheft": "705",
+        "riots": "85",
+        "dowryDeaths": "8",
+        "womenAssault": "33",
+        "total": "3595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "12",
+        "dacoity": "6",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "24",
+        "riots": "32",
+        "dowryDeaths": "10",
+        "womenAssault": "14",
+        "total": "449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "13",
+        "burglary": "4",
+        "vehicleTheft": "7",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "14",
+        "dacoity": "8",
+        "robbery": "10",
+        "burglary": "21",
+        "vehicleTheft": "48",
+        "riots": "100",
+        "dowryDeaths": "13",
+        "womenAssault": "8",
+        "total": "987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "4",
+        "rape": "13",
+        "kidnapping": "22",
+        "dacoity": "16",
+        "robbery": "22",
+        "burglary": "12",
+        "vehicleTheft": "9",
+        "riots": "34",
+        "dowryDeaths": "6",
+        "womenAssault": "4",
+        "total": "658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "5",
+        "rape": "46",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "13",
+        "riots": "80",
+        "dowryDeaths": "3",
+        "womenAssault": "12",
+        "total": "693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "79",
+        "homicide": "1",
+        "rape": "37",
+        "kidnapping": "61",
+        "dacoity": "25",
+        "robbery": "55",
+        "burglary": "69",
+        "vehicleTheft": "40",
+        "riots": "208",
+        "dowryDeaths": "18",
+        "womenAssault": "18",
+        "total": "1888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "2",
+        "rape": "16",
+        "kidnapping": "19",
+        "dacoity": "10",
+        "robbery": "26",
+        "burglary": "31",
+        "vehicleTheft": "34",
+        "riots": "49",
+        "dowryDeaths": "12",
+        "womenAssault": "5",
+        "total": "1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "202",
+        "homicide": "16",
+        "rape": "63",
+        "kidnapping": "113",
+        "dacoity": "43",
+        "robbery": "178",
+        "burglary": "192",
+        "vehicleTheft": "829",
+        "riots": "166",
+        "dowryDeaths": "19",
+        "womenAssault": "12",
+        "total": "5138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "45",
+        "kidnapping": "35",
+        "dacoity": "4",
+        "robbery": "12",
+        "burglary": "34",
+        "vehicleTheft": "22",
+        "riots": "48",
+        "dowryDeaths": "4",
+        "womenAssault": "16",
+        "total": "935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "1",
+        "rape": "23",
+        "kidnapping": "15",
+        "dacoity": "11",
+        "robbery": "22",
+        "burglary": "42",
+        "vehicleTheft": "82",
+        "riots": "25",
+        "dowryDeaths": "3",
+        "womenAssault": "1",
+        "total": "865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "10",
+        "dacoity": "7",
+        "robbery": "10",
+        "burglary": "7",
+        "vehicleTheft": "4",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "0",
+        "rape": "28",
+        "kidnapping": "64",
+        "dacoity": "13",
+        "robbery": "30",
+        "burglary": "74",
+        "vehicleTheft": "137",
+        "riots": "128",
+        "dowryDeaths": "26",
+        "womenAssault": "2",
+        "total": "2808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "119",
+        "homicide": "0",
+        "rape": "48",
+        "kidnapping": "24",
+        "dacoity": "12",
+        "robbery": "33",
+        "burglary": "14",
+        "vehicleTheft": "62",
+        "riots": "13",
+        "dowryDeaths": "1",
+        "womenAssault": "7",
+        "total": "916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "26",
+        "dacoity": "9",
+        "robbery": "22",
+        "burglary": "20",
+        "vehicleTheft": "15",
+        "riots": "82",
+        "dowryDeaths": "18",
+        "womenAssault": "3",
+        "total": "923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "3",
+        "rape": "33",
+        "kidnapping": "28",
+        "dacoity": "16",
+        "robbery": "20",
+        "burglary": "126",
+        "vehicleTheft": "97",
+        "riots": "158",
+        "dowryDeaths": "19",
+        "womenAssault": "7",
+        "total": "1702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "10",
+        "rape": "32",
+        "kidnapping": "95",
+        "dacoity": "52",
+        "robbery": "47",
+        "burglary": "205",
+        "vehicleTheft": "394",
+        "riots": "209",
+        "dowryDeaths": "31",
+        "womenAssault": "30",
+        "total": "3835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "4",
+        "rape": "52",
+        "kidnapping": "38",
+        "dacoity": "4",
+        "robbery": "8",
+        "burglary": "58",
+        "vehicleTheft": "42",
+        "riots": "62",
+        "dowryDeaths": "6",
+        "womenAssault": "8",
+        "total": "1504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "27",
+        "dacoity": "8",
+        "robbery": "40",
+        "burglary": "44",
+        "vehicleTheft": "13",
+        "riots": "163",
+        "dowryDeaths": "10",
+        "womenAssault": "11",
+        "total": "1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "58",
+        "dacoity": "33",
+        "robbery": "30",
+        "burglary": "73",
+        "vehicleTheft": "63",
+        "riots": "316",
+        "dowryDeaths": "39",
+        "womenAssault": "9",
+        "total": "2580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "3",
+        "rape": "26",
+        "kidnapping": "42",
+        "dacoity": "4",
+        "robbery": "16",
+        "burglary": "45",
+        "vehicleTheft": "19",
+        "riots": "131",
+        "dowryDeaths": "7",
+        "womenAssault": "25",
+        "total": "1464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "153",
+        "homicide": "11",
+        "rape": "57",
+        "kidnapping": "44",
+        "dacoity": "6",
+        "robbery": "31",
+        "burglary": "11",
+        "vehicleTheft": "33",
+        "riots": "30",
+        "dowryDeaths": "2",
+        "womenAssault": "8",
+        "total": "945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "5",
+        "rape": "30",
+        "kidnapping": "53",
+        "dacoity": "17",
+        "robbery": "41",
+        "burglary": "68",
+        "vehicleTheft": "97",
+        "riots": "232",
+        "dowryDeaths": "27",
+        "womenAssault": "18",
+        "total": "2238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "113",
+        "homicide": "15",
+        "rape": "38",
+        "kidnapping": "89",
+        "dacoity": "14",
+        "robbery": "36",
+        "burglary": "171",
+        "vehicleTheft": "494",
+        "riots": "160",
+        "dowryDeaths": "15",
+        "womenAssault": "9",
+        "total": "3574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "9",
+        "dacoity": "8",
+        "robbery": "10",
+        "burglary": "17",
+        "vehicleTheft": "29",
+        "riots": "49",
+        "dowryDeaths": "2",
+        "womenAssault": "9",
+        "total": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "6",
+        "robbery": "13",
+        "burglary": "6",
+        "vehicleTheft": "9",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "23",
+        "dacoity": "7",
+        "robbery": "8",
+        "burglary": "21",
+        "vehicleTheft": "25",
+        "riots": "60",
+        "dowryDeaths": "8",
+        "womenAssault": "6",
+        "total": "927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "25",
+        "dacoity": "11",
+        "robbery": "12",
+        "burglary": "17",
+        "vehicleTheft": "17",
+        "riots": "27",
+        "dowryDeaths": "3",
+        "womenAssault": "0",
+        "total": "455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "6",
+        "rape": "45",
+        "kidnapping": "17",
+        "dacoity": "2",
+        "robbery": "8",
+        "burglary": "15",
+        "vehicleTheft": "4",
+        "riots": "77",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "89",
+        "homicide": "0",
+        "rape": "27",
+        "kidnapping": "63",
+        "dacoity": "25",
+        "robbery": "49",
+        "burglary": "68",
+        "vehicleTheft": "42",
+        "riots": "193",
+        "dowryDeaths": "23",
+        "womenAssault": "21",
+        "total": "2101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "3",
+        "rape": "13",
+        "kidnapping": "23",
+        "dacoity": "9",
+        "robbery": "15",
+        "burglary": "27",
+        "vehicleTheft": "69",
+        "riots": "54",
+        "dowryDeaths": "5",
+        "womenAssault": "10",
+        "total": "932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "183",
+        "homicide": "8",
+        "rape": "92",
+        "kidnapping": "128",
+        "dacoity": "34",
+        "robbery": "160",
+        "burglary": "174",
+        "vehicleTheft": "884",
+        "riots": "198",
+        "dowryDeaths": "22",
+        "womenAssault": "14",
+        "total": "5862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "3",
+        "rape": "51",
+        "kidnapping": "33",
+        "dacoity": "4",
+        "robbery": "11",
+        "burglary": "24",
+        "vehicleTheft": "17",
+        "riots": "57",
+        "dowryDeaths": "4",
+        "womenAssault": "12",
+        "total": "907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "4",
+        "rape": "32",
+        "kidnapping": "16",
+        "dacoity": "15",
+        "robbery": "24",
+        "burglary": "45",
+        "vehicleTheft": "90",
+        "riots": "13",
+        "dowryDeaths": "6",
+        "womenAssault": "8",
+        "total": "886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "14",
+        "dacoity": "11",
+        "robbery": "17",
+        "burglary": "12",
+        "vehicleTheft": "11",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "0",
+        "rape": "46",
+        "kidnapping": "57",
+        "dacoity": "14",
+        "robbery": "39",
+        "burglary": "105",
+        "vehicleTheft": "161",
+        "riots": "114",
+        "dowryDeaths": "13",
+        "womenAssault": "4",
+        "total": "2973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "136",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "14",
+        "dacoity": "13",
+        "robbery": "19",
+        "burglary": "24",
+        "vehicleTheft": "47",
+        "riots": "16",
+        "dowryDeaths": "6",
+        "womenAssault": "5",
+        "total": "844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "22",
+        "dacoity": "16",
+        "robbery": "30",
+        "burglary": "22",
+        "vehicleTheft": "20",
+        "riots": "85",
+        "dowryDeaths": "15",
+        "womenAssault": "1",
+        "total": "925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "3",
+        "rape": "34",
+        "kidnapping": "24",
+        "dacoity": "10",
+        "robbery": "27",
+        "burglary": "88",
+        "vehicleTheft": "66",
+        "riots": "127",
+        "dowryDeaths": "18",
+        "womenAssault": "16",
+        "total": "1506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "79",
+        "homicide": "12",
+        "rape": "32",
+        "kidnapping": "99",
+        "dacoity": "37",
+        "robbery": "60",
+        "burglary": "160",
+        "vehicleTheft": "401",
+        "riots": "214",
+        "dowryDeaths": "39",
+        "womenAssault": "34",
+        "total": "3708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "5",
+        "rape": "34",
+        "kidnapping": "28",
+        "dacoity": "6",
+        "robbery": "13",
+        "burglary": "56",
+        "vehicleTheft": "41",
+        "riots": "81",
+        "dowryDeaths": "7",
+        "womenAssault": "19",
+        "total": "1562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "4",
+        "rape": "51",
+        "kidnapping": "33",
+        "dacoity": "7",
+        "robbery": "28",
+        "burglary": "50",
+        "vehicleTheft": "27",
+        "riots": "210",
+        "dowryDeaths": "19",
+        "womenAssault": "22",
+        "total": "1865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "1",
+        "rape": "47",
+        "kidnapping": "63",
+        "dacoity": "28",
+        "robbery": "23",
+        "burglary": "108",
+        "vehicleTheft": "87",
+        "riots": "263",
+        "dowryDeaths": "30",
+        "womenAssault": "40",
+        "total": "2418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "3",
+        "rape": "29",
+        "kidnapping": "38",
+        "dacoity": "8",
+        "robbery": "9",
+        "burglary": "44",
+        "vehicleTheft": "1",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "1263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "201",
+        "homicide": "7",
+        "rape": "46",
+        "kidnapping": "52",
+        "dacoity": "5",
+        "robbery": "44",
+        "burglary": "23",
+        "vehicleTheft": "37",
+        "riots": "40",
+        "dowryDeaths": "1",
+        "womenAssault": "10",
+        "total": "1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "6",
+        "rape": "22",
+        "kidnapping": "58",
+        "dacoity": "18",
+        "robbery": "28",
+        "burglary": "59",
+        "vehicleTheft": "111",
+        "riots": "138",
+        "dowryDeaths": "26",
+        "womenAssault": "25",
+        "total": "2282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "85",
+        "homicide": "12",
+        "rape": "39",
+        "kidnapping": "73",
+        "dacoity": "11",
+        "robbery": "36",
+        "burglary": "153",
+        "vehicleTheft": "379",
+        "riots": "114",
+        "dowryDeaths": "17",
+        "womenAssault": "32",
+        "total": "3106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "11",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "22",
+        "vehicleTheft": "3",
+        "riots": "51",
+        "dowryDeaths": "10",
+        "womenAssault": "10",
+        "total": "708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "126",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "13",
+        "dacoity": "8",
+        "robbery": "21",
+        "burglary": "9",
+        "vehicleTheft": "11",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "24",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "26",
+        "vehicleTheft": "37",
+        "riots": "88",
+        "dowryDeaths": "16",
+        "womenAssault": "7",
+        "total": "1090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "27",
+        "kidnapping": "27",
+        "dacoity": "7",
+        "robbery": "9",
+        "burglary": "13",
+        "vehicleTheft": "16",
+        "riots": "64",
+        "dowryDeaths": "2",
+        "womenAssault": "4",
+        "total": "513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "5",
+        "rape": "39",
+        "kidnapping": "19",
+        "dacoity": "6",
+        "robbery": "2",
+        "burglary": "8",
+        "vehicleTheft": "29",
+        "riots": "74",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "0",
+        "rape": "28",
+        "kidnapping": "63",
+        "dacoity": "31",
+        "robbery": "47",
+        "burglary": "78",
+        "vehicleTheft": "96",
+        "riots": "180",
+        "dowryDeaths": "28",
+        "womenAssault": "6",
+        "total": "2033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "31",
+        "dacoity": "20",
+        "robbery": "26",
+        "burglary": "22",
+        "vehicleTheft": "70",
+        "riots": "34",
+        "dowryDeaths": "7",
+        "womenAssault": "8",
+        "total": "979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "151",
+        "homicide": "6",
+        "rape": "50",
+        "kidnapping": "66",
+        "dacoity": "29",
+        "robbery": "54",
+        "burglary": "69",
+        "vehicleTheft": "89",
+        "riots": "91",
+        "dowryDeaths": "8",
+        "womenAssault": "9",
+        "total": "2222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "11",
+        "rape": "71",
+        "kidnapping": "54",
+        "dacoity": "8",
+        "robbery": "15",
+        "burglary": "20",
+        "vehicleTheft": "6",
+        "riots": "54",
+        "dowryDeaths": "5",
+        "womenAssault": "4",
+        "total": "1128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "64",
+        "homicide": "6",
+        "rape": "30",
+        "kidnapping": "16",
+        "dacoity": "9",
+        "robbery": "26",
+        "burglary": "46",
+        "vehicleTheft": "66",
+        "riots": "27",
+        "dowryDeaths": "8",
+        "womenAssault": "9",
+        "total": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "0",
+        "rape": "25",
+        "kidnapping": "19",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "10",
+        "vehicleTheft": "16",
+        "riots": "1",
+        "dowryDeaths": "1",
+        "womenAssault": "6",
+        "total": "396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.99106894165021,
+          23.699127949999998
+        ]
+      },
+      "properties": {
+        "name": "BOKARO",
+        "state": "JHARKHAND",
+        "address": "Bokaro, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "1",
+        "rape": "46",
+        "kidnapping": "63",
+        "dacoity": "12",
+        "robbery": "24",
+        "burglary": "131",
+        "vehicleTheft": "191",
+        "riots": "162",
+        "dowryDeaths": "21",
+        "womenAssault": "4",
+        "total": "3564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81888764651222,
+          22.5483518
+        ]
+      },
+      "properties": {
+        "name": "CHAIBASA",
+        "state": "JHARKHAND",
+        "address": "Chaibasa, Pashchimi Singhbhum, Jharkhand, 833201, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "144",
+        "homicide": "0",
+        "rape": "34",
+        "kidnapping": "15",
+        "dacoity": "11",
+        "robbery": "20",
+        "burglary": "25",
+        "vehicleTheft": "36",
+        "riots": "10",
+        "dowryDeaths": "6",
+        "womenAssault": "8",
+        "total": "944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.87817691941733,
+          24.20162495
+        ]
+      },
+      "properties": {
+        "name": "CHATRA",
+        "state": "JHARKHAND",
+        "address": "Chatra, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "24",
+        "dacoity": "12",
+        "robbery": "17",
+        "burglary": "19",
+        "vehicleTheft": "25",
+        "riots": "92",
+        "dowryDeaths": "8",
+        "womenAssault": "6",
+        "total": "1017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.60673245386945,
+          24.4766423
+        ]
+      },
+      "properties": {
+        "name": "DEOGHAR",
+        "state": "JHARKHAND",
+        "address": "Deoghar, Jharkhand, 814112, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "8",
+        "rape": "38",
+        "kidnapping": "48",
+        "dacoity": "16",
+        "robbery": "25",
+        "burglary": "100",
+        "vehicleTheft": "55",
+        "riots": "189",
+        "dowryDeaths": "18",
+        "womenAssault": "35",
+        "total": "2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4309638,
+          23.7952809
+        ]
+      },
+      "properties": {
+        "name": "DHANBAD",
+        "state": "JHARKHAND",
+        "address": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "14",
+        "rape": "41",
+        "kidnapping": "121",
+        "dacoity": "46",
+        "robbery": "44",
+        "burglary": "180",
+        "vehicleTheft": "435",
+        "riots": "188",
+        "dowryDeaths": "49",
+        "womenAssault": "4",
+        "total": "4606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.30064714192224,
+          24.2538512
+        ]
+      },
+      "properties": {
+        "name": "DUMKA",
+        "state": "JHARKHAND",
+        "address": "Dumka, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "7",
+        "rape": "29",
+        "kidnapping": "34",
+        "dacoity": "8",
+        "robbery": "4",
+        "burglary": "45",
+        "vehicleTheft": "71",
+        "riots": "69",
+        "dowryDeaths": "8",
+        "womenAssault": "12",
+        "total": "1479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.82522584408349,
+          24.15529035
+        ]
+      },
+      "properties": {
+        "name": "GARHWA",
+        "state": "JHARKHAND",
+        "address": "Garhwa, Jharkhand, 822114, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "85",
+        "homicide": "6",
+        "rape": "43",
+        "kidnapping": "24",
+        "dacoity": "4",
+        "robbery": "38",
+        "burglary": "42",
+        "vehicleTheft": "36",
+        "riots": "168",
+        "dowryDeaths": "21",
+        "womenAssault": "14",
+        "total": "2139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.916667,
+          24.25
+        ]
+      },
+      "properties": {
+        "name": "GIRIDIH",
+        "state": "JHARKHAND",
+        "address": "Gir\u012bd\u012bh, Giridih, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "53",
+        "dacoity": "23",
+        "robbery": "31",
+        "burglary": "74",
+        "vehicleTheft": "148",
+        "riots": "259",
+        "dowryDeaths": "32",
+        "womenAssault": "46",
+        "total": "2871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29285061796858,
+          24.74334305
+        ]
+      },
+      "properties": {
+        "name": "GODDA",
+        "state": "JHARKHAND",
+        "address": "Godda, Jharkhand, 814133, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "63",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "26",
+        "vehicleTheft": "38",
+        "riots": "31",
+        "dowryDeaths": "11",
+        "womenAssault": "2",
+        "total": "1765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5738480719802,
+          23.0916741
+        ]
+      },
+      "properties": {
+        "name": "GUMLA",
+        "state": "JHARKHAND",
+        "address": "Gumla, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "192",
+        "homicide": "4",
+        "rape": "36",
+        "kidnapping": "55",
+        "dacoity": "5",
+        "robbery": "25",
+        "burglary": "20",
+        "vehicleTheft": "22",
+        "riots": "26",
+        "dowryDeaths": "2",
+        "womenAssault": "9",
+        "total": "933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.43884568595615,
+          23.9675151
+        ]
+      },
+      "properties": {
+        "name": "HAZARIBAGH",
+        "state": "JHARKHAND",
+        "address": "Hazaribagh, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "68",
+        "homicide": "5",
+        "rape": "42",
+        "kidnapping": "53",
+        "dacoity": "11",
+        "robbery": "22",
+        "burglary": "65",
+        "vehicleTheft": "159",
+        "riots": "149",
+        "dowryDeaths": "24",
+        "womenAssault": "9",
+        "total": "2427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2029579,
+          22.8015194
+        ]
+      },
+      "properties": {
+        "name": "JAMSHEDPUR",
+        "state": "JHARKHAND",
+        "address": "Jamshedpur, Golmuri-Cum-Jugsalai, Purbi Singhbhum, Jharkhand, 831001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "85",
+        "homicide": "5",
+        "rape": "56",
+        "kidnapping": "98",
+        "dacoity": "9",
+        "robbery": "40",
+        "burglary": "155",
+        "vehicleTheft": "412",
+        "riots": "114",
+        "dowryDeaths": "17",
+        "womenAssault": "22",
+        "total": "4022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77353493891458,
+          23.9232867
+        ]
+      },
+      "properties": {
+        "name": "JAMTARA",
+        "state": "JHARKHAND",
+        "address": "Jamtara, Jharkhand, 815351, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "2",
+        "rape": "27",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "31",
+        "vehicleTheft": "25",
+        "riots": "135",
+        "dowryDeaths": "5",
+        "womenAssault": "1",
+        "total": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3454593617985,
+          23.10018105
+        ]
+      },
+      "properties": {
+        "name": "KHUNTI",
+        "state": "JHARKHAND",
+        "address": "Khunti, Jharkhand, 835210, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "106",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "1",
+        "vehicleTheft": "9",
+        "riots": "35",
+        "dowryDeaths": "1",
+        "womenAssault": "2",
+        "total": "377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.55608107203881,
+          24.4931239
+        ]
+      },
+      "properties": {
+        "name": "KODERMA",
+        "state": "JHARKHAND",
+        "address": "Koderma, Kodarma, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "30",
+        "dacoity": "7",
+        "robbery": "12",
+        "burglary": "16",
+        "vehicleTheft": "32",
+        "riots": "74",
+        "dowryDeaths": "13",
+        "womenAssault": "12",
+        "total": "1135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51301366522105,
+          23.74186545
+        ]
+      },
+      "properties": {
+        "name": "LATEHAR",
+        "state": "JHARKHAND",
+        "address": "Latehar, Jharkhand, 829206, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "28",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "4",
+        "vehicleTheft": "16",
+        "riots": "37",
+        "dowryDeaths": "4",
+        "womenAssault": "6",
+        "total": "527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8556962,
+          24.6379064
+        ]
+      },
+      "properties": {
+        "name": "PAKUR",
+        "state": "JHARKHAND",
+        "address": "Pakur, NH133A, Pakur, Pakaur, Jharkhand, 816107, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "5",
+        "rape": "53",
+        "kidnapping": "23",
+        "dacoity": "8",
+        "robbery": "3",
+        "burglary": "1",
+        "vehicleTheft": "27",
+        "riots": "107",
+        "dowryDeaths": "1",
+        "womenAssault": "10",
+        "total": "933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.083333,
+          23.916667
+        ]
+      },
+      "properties": {
+        "name": "PALAMU",
+        "state": "JHARKHAND",
+        "address": "Pal\u0101mu, Palamu, Jharkhand, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "57",
+        "dacoity": "22",
+        "robbery": "42",
+        "burglary": "76",
+        "vehicleTheft": "75",
+        "riots": "139",
+        "dowryDeaths": "28",
+        "womenAssault": "10",
+        "total": "2107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53691564663127,
+          23.598775949999997
+        ]
+      },
+      "properties": {
+        "name": "RAMGARH",
+        "state": "JHARKHAND",
+        "address": "Ramgarh, Jharkhand, 829122, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "1",
+        "rape": "26",
+        "kidnapping": "28",
+        "dacoity": "16",
+        "robbery": "12",
+        "burglary": "31",
+        "vehicleTheft": "76",
+        "riots": "89",
+        "dowryDeaths": "7",
+        "womenAssault": "10",
+        "total": "996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250132,
+          23.3700354
+        ]
+      },
+      "properties": {
+        "name": "RANCHI",
+        "state": "JHARKHAND",
+        "address": "Ranchi, Kanke, Ranchi, Jharkhand, HINDPIRI, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "145",
+        "homicide": "13",
+        "rape": "52",
+        "kidnapping": "76",
+        "dacoity": "40",
+        "robbery": "54",
+        "burglary": "82",
+        "vehicleTheft": "154",
+        "riots": "155",
+        "dowryDeaths": "11",
+        "womenAssault": "22",
+        "total": "2396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.94329919044557,
+          26.253086000000003
+        ]
+      },
+      "properties": {
+        "name": "SAHEBGANJ",
+        "state": "JHARKHAND",
+        "address": "Sahebganj, Muzaffarpur, Bihar, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "1",
+        "rape": "65",
+        "kidnapping": "71",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "19",
+        "vehicleTheft": "40",
+        "riots": "51",
+        "dowryDeaths": "6",
+        "womenAssault": "11",
+        "total": "1467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.91689291046393,
+          22.7464225
+        ]
+      },
+      "properties": {
+        "name": "SARAIKELA",
+        "state": "JHARKHAND",
+        "address": "Saraikela, Seraikela Kharsawan, Jharkhand, 833219, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "35",
+        "kidnapping": "16",
+        "dacoity": "5",
+        "robbery": "16",
+        "burglary": "45",
+        "vehicleTheft": "69",
+        "riots": "36",
+        "dowryDeaths": "6",
+        "womenAssault": "10",
+        "total": "897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5502679119221,
+          22.6664325
+        ]
+      },
+      "properties": {
+        "name": "SIMDEGA",
+        "state": "JHARKHAND",
+        "address": "Simdega, Jharkhand, 825223, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "2",
+        "rape": "32",
+        "kidnapping": "20",
+        "dacoity": "7",
+        "robbery": "10",
+        "burglary": "7",
+        "vehicleTheft": "17",
+        "riots": "4",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "456"
+      }
+    }
+  ]
+}
