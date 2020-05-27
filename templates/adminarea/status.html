@@ -1,5 +1,5 @@
 {% load static %}
-
+{% load pwa %}
 <!DOCTYPE html>
 <html>
 
@@ -71,7 +71,8 @@
 	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
 
 	<!-- SLEEK CSS -->
-	<link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+  <link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+  {% progressive_web_app_meta %}
 	
 </head>
 <style>
