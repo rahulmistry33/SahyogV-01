@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "170",
+        "vehicleTheft": "88",
+        "riots": "31",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "1070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "159",
+        "vehicleTheft": "64",
+        "riots": "36",
+        "dowryDeaths": "1",
+        "womenAssault": "9",
+        "total": "1060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "3",
+        "rape": "9",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "77",
+        "vehicleTheft": "53",
+        "riots": "13",
+        "dowryDeaths": "1",
+        "womenAssault": "8",
+        "total": "914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "3",
+        "rape": "13",
+        "kidnapping": "3",
+        "dacoity": "4",
+        "robbery": "11",
+        "burglary": "147",
+        "vehicleTheft": "79",
+        "riots": "18",
+        "dowryDeaths": "2",
+        "womenAssault": "16",
+        "total": "1227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "2",
+        "rape": "24",
+        "kidnapping": "10",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "114",
+        "vehicleTheft": "41",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "151",
+        "vehicleTheft": "133",
+        "riots": "27",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "1199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "7",
+        "burglary": "101",
+        "vehicleTheft": "90",
+        "riots": "36",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "1005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "6",
+        "rape": "5",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "180",
+        "vehicleTheft": "119",
+        "riots": "47",
+        "dowryDeaths": "2",
+        "womenAssault": "8",
+        "total": "1290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "9",
+        "dacoity": "7",
+        "robbery": "13",
+        "burglary": "112",
+        "vehicleTheft": "88",
+        "riots": "23",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "1189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "8",
+        "rape": "15",
+        "kidnapping": "19",
+        "dacoity": "2",
+        "robbery": "8",
+        "burglary": "150",
+        "vehicleTheft": "128",
+        "riots": "43",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "1489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "15",
+        "burglary": "152",
+        "vehicleTheft": "110",
+        "riots": "59",
+        "dowryDeaths": "2",
+        "womenAssault": "17",
+        "total": "1253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "8",
+        "rape": "31",
+        "kidnapping": "17",
+        "dacoity": "2",
+        "robbery": "20",
+        "burglary": "162",
+        "vehicleTheft": "186",
+        "riots": "25",
+        "dowryDeaths": "1",
+        "womenAssault": "17",
+        "total": "1673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "3",
+        "rape": "16",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "132",
+        "vehicleTheft": "150",
+        "riots": "25",
+        "dowryDeaths": "2",
+        "womenAssault": "20",
+        "total": "1332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "28",
+        "burglary": "209",
+        "vehicleTheft": "195",
+        "riots": "40",
+        "dowryDeaths": "1",
+        "womenAssault": "24",
+        "total": "1926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "24",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "159",
+        "vehicleTheft": "164",
+        "riots": "24",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "1367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "15",
+        "burglary": "172",
+        "vehicleTheft": "279",
+        "riots": "45",
+        "dowryDeaths": "1",
+        "womenAssault": "20",
+        "total": "2056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "6",
+        "rape": "16",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "11",
+        "burglary": "146",
+        "vehicleTheft": "184",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "1393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00172406307475,
+          15.60444125
+        ]
+      },
+      "properties": {
+        "name": "NORTH GOA",
+        "state": "GOA",
+        "address": "North Goa, Goa, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "3",
+        "rape": "26",
+        "kidnapping": "15",
+        "dacoity": "3",
+        "robbery": "11",
+        "burglary": "189",
+        "vehicleTheft": "175",
+        "riots": "72",
+        "dowryDeaths": "0",
+        "womenAssault": "29",
+        "total": "2102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1152813019196,
+          15.21961365
+        ]
+      },
+      "properties": {
+        "name": "SOUTH GOA",
+        "state": "GOA",
+        "address": "South Goa, Goa, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "167",
+        "vehicleTheft": "125",
+        "riots": "50",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "1506"
+      }
+    }
+  ]
+}

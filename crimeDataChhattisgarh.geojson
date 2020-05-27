@@ -1,0 +1,6815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "1",
+        "dacoity": "17",
+        "robbery": "11",
+        "burglary": "26",
+        "vehicleTheft": "0",
+        "riots": "15",
+        "dowryDeaths": "1",
+        "womenAssault": "18",
+        "total": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "99",
+        "homicide": "11",
+        "rape": "69",
+        "kidnapping": "20",
+        "dacoity": "4",
+        "robbery": "37",
+        "burglary": "551",
+        "vehicleTheft": "72",
+        "riots": "166",
+        "dowryDeaths": "7",
+        "womenAssault": "180",
+        "total": "4353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "0",
+        "rape": "19",
+        "kidnapping": "11",
+        "dacoity": "7",
+        "robbery": "5",
+        "burglary": "59",
+        "vehicleTheft": "5",
+        "riots": "14",
+        "dowryDeaths": "1",
+        "womenAssault": "18",
+        "total": "739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "0",
+        "burglary": "125",
+        "vehicleTheft": "11",
+        "riots": "22",
+        "dowryDeaths": "1",
+        "womenAssault": "41",
+        "total": "996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "0",
+        "rape": "144",
+        "kidnapping": "57",
+        "dacoity": "9",
+        "robbery": "50",
+        "burglary": "593",
+        "vehicleTheft": "208",
+        "riots": "48",
+        "dowryDeaths": "12",
+        "womenAssault": "287",
+        "total": "6544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "8",
+        "vehicleTheft": "5",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "4",
+        "rape": "59",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "23",
+        "burglary": "146",
+        "vehicleTheft": "18",
+        "riots": "35",
+        "dowryDeaths": "3",
+        "womenAssault": "49",
+        "total": "1812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "9",
+        "dacoity": "2",
+        "robbery": "25",
+        "burglary": "193",
+        "vehicleTheft": "25",
+        "riots": "105",
+        "dowryDeaths": "9",
+        "womenAssault": "110",
+        "total": "2059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "6",
+        "rape": "36",
+        "kidnapping": "2",
+        "dacoity": "5",
+        "robbery": "17",
+        "burglary": "88",
+        "vehicleTheft": "8",
+        "riots": "13",
+        "dowryDeaths": "2",
+        "womenAssault": "41",
+        "total": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "1",
+        "rape": "42",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "5",
+        "burglary": "67",
+        "vehicleTheft": "11",
+        "riots": "23",
+        "dowryDeaths": "1",
+        "womenAssault": "36",
+        "total": "760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2332055,
+          22.0059254
+        ]
+      },
+      "properties": {
+        "name": "KAWARDHA",
+        "state": "CHHATTISGARH",
+        "address": "Kawardha, Kawardha Tahsil, Kabirdham, Chhattisgarh, 491995, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "2",
+        "rape": "35",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "69",
+        "vehicleTheft": "4",
+        "riots": "10",
+        "dowryDeaths": "1",
+        "womenAssault": "45",
+        "total": "685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "46",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "221",
+        "vehicleTheft": "72",
+        "riots": "67",
+        "dowryDeaths": "1",
+        "womenAssault": "90",
+        "total": "2112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "4",
+        "rape": "34",
+        "kidnapping": "7",
+        "dacoity": "3",
+        "robbery": "6",
+        "burglary": "228",
+        "vehicleTheft": "7",
+        "riots": "21",
+        "dowryDeaths": "3",
+        "womenAssault": "102",
+        "total": "1644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "5",
+        "rape": "43",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "108",
+        "vehicleTheft": "21",
+        "riots": "30",
+        "dowryDeaths": "6",
+        "womenAssault": "69",
+        "total": "1185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "0",
+        "rape": "53",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "212",
+        "vehicleTheft": "27",
+        "riots": "34",
+        "dowryDeaths": "2",
+        "womenAssault": "104",
+        "total": "1650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "10",
+        "rape": "104",
+        "kidnapping": "38",
+        "dacoity": "10",
+        "robbery": "58",
+        "burglary": "793",
+        "vehicleTheft": "347",
+        "riots": "110",
+        "dowryDeaths": "16",
+        "womenAssault": "253",
+        "total": "6786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "0",
+        "rape": "58",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "15",
+        "burglary": "289",
+        "vehicleTheft": "38",
+        "riots": "50",
+        "dowryDeaths": "3",
+        "womenAssault": "92",
+        "total": "2650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "30",
+        "kidnapping": "3",
+        "dacoity": "35",
+        "robbery": "18",
+        "burglary": "61",
+        "vehicleTheft": "5",
+        "riots": "23",
+        "dowryDeaths": "2",
+        "womenAssault": "33",
+        "total": "618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "9",
+        "rape": "72",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "48",
+        "burglary": "504",
+        "vehicleTheft": "101",
+        "riots": "140",
+        "dowryDeaths": "13",
+        "womenAssault": "160",
+        "total": "4709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "62",
+        "vehicleTheft": "9",
+        "riots": "19",
+        "dowryDeaths": "1",
+        "womenAssault": "19",
+        "total": "616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "105",
+        "vehicleTheft": "19",
+        "riots": "26",
+        "dowryDeaths": "1",
+        "womenAssault": "40",
+        "total": "1249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "0",
+        "rape": "132",
+        "kidnapping": "29",
+        "dacoity": "2",
+        "robbery": "51",
+        "burglary": "569",
+        "vehicleTheft": "206",
+        "riots": "59",
+        "dowryDeaths": "11",
+        "womenAssault": "230",
+        "total": "6121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "8",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "0",
+        "rape": "46",
+        "kidnapping": "19",
+        "dacoity": "35",
+        "robbery": "19",
+        "burglary": "169",
+        "vehicleTheft": "20",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "46",
+        "total": "1910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "0",
+        "rape": "42",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "18",
+        "burglary": "163",
+        "vehicleTheft": "27",
+        "riots": "78",
+        "dowryDeaths": "13",
+        "womenAssault": "99",
+        "total": "2014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "2",
+        "rape": "35",
+        "kidnapping": "0",
+        "dacoity": "9",
+        "robbery": "18",
+        "burglary": "59",
+        "vehicleTheft": "9",
+        "riots": "15",
+        "dowryDeaths": "2",
+        "womenAssault": "16",
+        "total": "766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "20",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "73",
+        "vehicleTheft": "7",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "42",
+        "total": "817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "6",
+        "dacoity": "21",
+        "robbery": "4",
+        "burglary": "76",
+        "vehicleTheft": "6",
+        "riots": "22",
+        "dowryDeaths": "1",
+        "womenAssault": "33",
+        "total": "1046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "38",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "236",
+        "vehicleTheft": "86",
+        "riots": "45",
+        "dowryDeaths": "9",
+        "womenAssault": "82",
+        "total": "2295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "1",
+        "rape": "58",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "203",
+        "vehicleTheft": "17",
+        "riots": "20",
+        "dowryDeaths": "1",
+        "womenAssault": "72",
+        "total": "1531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "4",
+        "rape": "33",
+        "kidnapping": "5",
+        "dacoity": "3",
+        "robbery": "9",
+        "burglary": "141",
+        "vehicleTheft": "29",
+        "riots": "27",
+        "dowryDeaths": "0",
+        "womenAssault": "56",
+        "total": "1324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "0",
+        "rape": "39",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "226",
+        "vehicleTheft": "0",
+        "riots": "58",
+        "dowryDeaths": "4",
+        "womenAssault": "103",
+        "total": "1547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "3",
+        "rape": "159",
+        "kidnapping": "40",
+        "dacoity": "5",
+        "robbery": "36",
+        "burglary": "467",
+        "vehicleTheft": "242",
+        "riots": "59",
+        "dowryDeaths": "20",
+        "womenAssault": "184",
+        "total": "5595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "0",
+        "rape": "62",
+        "kidnapping": "8",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "216",
+        "vehicleTheft": "63",
+        "riots": "57",
+        "dowryDeaths": "6",
+        "womenAssault": "86",
+        "total": "2494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "4",
+        "dacoity": "13",
+        "robbery": "11",
+        "burglary": "51",
+        "vehicleTheft": "3",
+        "riots": "16",
+        "dowryDeaths": "3",
+        "womenAssault": "29",
+        "total": "488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "95",
+        "homicide": "27",
+        "rape": "49",
+        "kidnapping": "12",
+        "dacoity": "3",
+        "robbery": "32",
+        "burglary": "549",
+        "vehicleTheft": "153",
+        "riots": "123",
+        "dowryDeaths": "18",
+        "womenAssault": "165",
+        "total": "4896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "6",
+        "dacoity": "8",
+        "robbery": "5",
+        "burglary": "56",
+        "vehicleTheft": "7",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "104",
+        "vehicleTheft": "37",
+        "riots": "21",
+        "dowryDeaths": "3",
+        "womenAssault": "71",
+        "total": "1412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "0",
+        "rape": "117",
+        "kidnapping": "21",
+        "dacoity": "1",
+        "robbery": "45",
+        "burglary": "559",
+        "vehicleTheft": "38",
+        "riots": "40",
+        "dowryDeaths": "13",
+        "womenAssault": "229",
+        "total": "6127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "5",
+        "vehicleTheft": "5",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "3",
+        "rape": "71",
+        "kidnapping": "12",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "172",
+        "vehicleTheft": "32",
+        "riots": "40",
+        "dowryDeaths": "0",
+        "womenAssault": "72",
+        "total": "1923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "0",
+        "rape": "47",
+        "kidnapping": "8",
+        "dacoity": "1",
+        "robbery": "19",
+        "burglary": "171",
+        "vehicleTheft": "27",
+        "riots": "55",
+        "dowryDeaths": "3",
+        "womenAssault": "84",
+        "total": "1733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "5",
+        "rape": "33",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "20",
+        "burglary": "49",
+        "vehicleTheft": "14",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "39",
+        "total": "704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "69",
+        "vehicleTheft": "3",
+        "riots": "28",
+        "dowryDeaths": "1",
+        "womenAssault": "59",
+        "total": "869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "5",
+        "dacoity": "21",
+        "robbery": "9",
+        "burglary": "51",
+        "vehicleTheft": "4",
+        "riots": "16",
+        "dowryDeaths": "0",
+        "womenAssault": "30",
+        "total": "874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "239",
+        "vehicleTheft": "76",
+        "riots": "71",
+        "dowryDeaths": "4",
+        "womenAssault": "97",
+        "total": "2661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "1",
+        "rape": "40",
+        "kidnapping": "4",
+        "dacoity": "5",
+        "robbery": "6",
+        "burglary": "175",
+        "vehicleTheft": "15",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "66",
+        "total": "1313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "5",
+        "rape": "30",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "130",
+        "vehicleTheft": "21",
+        "riots": "24",
+        "dowryDeaths": "2",
+        "womenAssault": "39",
+        "total": "1412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "7",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "34",
+        "burglary": "224",
+        "vehicleTheft": "30",
+        "riots": "56",
+        "dowryDeaths": "2",
+        "womenAssault": "94",
+        "total": "1941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "4",
+        "rape": "126",
+        "kidnapping": "41",
+        "dacoity": "1",
+        "robbery": "41",
+        "burglary": "510",
+        "vehicleTheft": "365",
+        "riots": "46",
+        "dowryDeaths": "15",
+        "womenAssault": "185",
+        "total": "6198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "6",
+        "rape": "60",
+        "kidnapping": "8",
+        "dacoity": "7",
+        "robbery": "16",
+        "burglary": "214",
+        "vehicleTheft": "49",
+        "riots": "32",
+        "dowryDeaths": "13",
+        "womenAssault": "67",
+        "total": "2247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "8",
+        "rape": "27",
+        "kidnapping": "6",
+        "dacoity": "15",
+        "robbery": "17",
+        "burglary": "27",
+        "vehicleTheft": "0",
+        "riots": "20",
+        "dowryDeaths": "0",
+        "womenAssault": "32",
+        "total": "489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "3",
+        "rape": "61",
+        "kidnapping": "21",
+        "dacoity": "2",
+        "robbery": "36",
+        "burglary": "585",
+        "vehicleTheft": "220",
+        "riots": "164",
+        "dowryDeaths": "9",
+        "womenAssault": "179",
+        "total": "5327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "8",
+        "dacoity": "4",
+        "robbery": "0",
+        "burglary": "45",
+        "vehicleTheft": "9",
+        "riots": "13",
+        "dowryDeaths": "1",
+        "womenAssault": "8",
+        "total": "702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "113",
+        "vehicleTheft": "17",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "64",
+        "total": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "0",
+        "rape": "124",
+        "kidnapping": "41",
+        "dacoity": "2",
+        "robbery": "50",
+        "burglary": "576",
+        "vehicleTheft": "227",
+        "riots": "53",
+        "dowryDeaths": "10",
+        "womenAssault": "253",
+        "total": "6518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "2",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "8",
+        "vehicleTheft": "7",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "0",
+        "rape": "82",
+        "kidnapping": "20",
+        "dacoity": "10",
+        "robbery": "16",
+        "burglary": "196",
+        "vehicleTheft": "38",
+        "riots": "44",
+        "dowryDeaths": "0",
+        "womenAssault": "69",
+        "total": "2197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "8",
+        "dacoity": "3",
+        "robbery": "26",
+        "burglary": "213",
+        "vehicleTheft": "42",
+        "riots": "74",
+        "dowryDeaths": "7",
+        "womenAssault": "104",
+        "total": "2398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "0",
+        "rape": "56",
+        "kidnapping": "4",
+        "dacoity": "4",
+        "robbery": "19",
+        "burglary": "72",
+        "vehicleTheft": "21",
+        "riots": "17",
+        "dowryDeaths": "1",
+        "womenAssault": "60",
+        "total": "835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "22",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "74",
+        "vehicleTheft": "11",
+        "riots": "18",
+        "dowryDeaths": "5",
+        "womenAssault": "70",
+        "total": "1114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "12",
+        "dacoity": "23",
+        "robbery": "14",
+        "burglary": "57",
+        "vehicleTheft": "15",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "43",
+        "total": "966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "4",
+        "rape": "34",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "13",
+        "burglary": "194",
+        "vehicleTheft": "77",
+        "riots": "35",
+        "dowryDeaths": "5",
+        "womenAssault": "49",
+        "total": "2210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "0",
+        "rape": "50",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "16",
+        "burglary": "159",
+        "vehicleTheft": "26",
+        "riots": "20",
+        "dowryDeaths": "2",
+        "womenAssault": "109",
+        "total": "1486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "1",
+        "rape": "35",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "121",
+        "vehicleTheft": "35",
+        "riots": "21",
+        "dowryDeaths": "6",
+        "womenAssault": "54",
+        "total": "1489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "12",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "5",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "0",
+        "rape": "45",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "36",
+        "burglary": "203",
+        "vehicleTheft": "89",
+        "riots": "49",
+        "dowryDeaths": "7",
+        "womenAssault": "78",
+        "total": "2035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "84",
+        "homicide": "4",
+        "rape": "143",
+        "kidnapping": "31",
+        "dacoity": "6",
+        "robbery": "42",
+        "burglary": "559",
+        "vehicleTheft": "349",
+        "riots": "77",
+        "dowryDeaths": "10",
+        "womenAssault": "253",
+        "total": "6970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "0",
+        "rape": "61",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "12",
+        "burglary": "192",
+        "vehicleTheft": "56",
+        "riots": "15",
+        "dowryDeaths": "5",
+        "womenAssault": "74",
+        "total": "2380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "5",
+        "rape": "36",
+        "kidnapping": "5",
+        "dacoity": "16",
+        "robbery": "14",
+        "burglary": "44",
+        "vehicleTheft": "4",
+        "riots": "24",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "94",
+        "homicide": "11",
+        "rape": "77",
+        "kidnapping": "36",
+        "dacoity": "4",
+        "robbery": "50",
+        "burglary": "530",
+        "vehicleTheft": "235",
+        "riots": "152",
+        "dowryDeaths": "18",
+        "womenAssault": "154",
+        "total": "5477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "6",
+        "dacoity": "13",
+        "robbery": "3",
+        "burglary": "57",
+        "vehicleTheft": "10",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "136",
+        "vehicleTheft": "25",
+        "riots": "20",
+        "dowryDeaths": "2",
+        "womenAssault": "80",
+        "total": "1309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "90",
+        "homicide": "0",
+        "rape": "128",
+        "kidnapping": "28",
+        "dacoity": "1",
+        "robbery": "71",
+        "burglary": "508",
+        "vehicleTheft": "285",
+        "riots": "54",
+        "dowryDeaths": "14",
+        "womenAssault": "216",
+        "total": "6647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "11",
+        "vehicleTheft": "17",
+        "riots": "5",
+        "dowryDeaths": "2",
+        "womenAssault": "6",
+        "total": "385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "0",
+        "rape": "74",
+        "kidnapping": "9",
+        "dacoity": "8",
+        "robbery": "12",
+        "burglary": "177",
+        "vehicleTheft": "29",
+        "riots": "54",
+        "dowryDeaths": "3",
+        "womenAssault": "50",
+        "total": "2087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "2",
+        "rape": "43",
+        "kidnapping": "10",
+        "dacoity": "3",
+        "robbery": "8",
+        "burglary": "223",
+        "vehicleTheft": "77",
+        "riots": "102",
+        "dowryDeaths": "12",
+        "womenAssault": "77",
+        "total": "2705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "4",
+        "rape": "68",
+        "kidnapping": "19",
+        "dacoity": "7",
+        "robbery": "34",
+        "burglary": "78",
+        "vehicleTheft": "26",
+        "riots": "16",
+        "dowryDeaths": "3",
+        "womenAssault": "45",
+        "total": "959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "2",
+        "rape": "24",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "92",
+        "vehicleTheft": "15",
+        "riots": "23",
+        "dowryDeaths": "1",
+        "womenAssault": "55",
+        "total": "1119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "11",
+        "dacoity": "28",
+        "robbery": "14",
+        "burglary": "58",
+        "vehicleTheft": "9",
+        "riots": "37",
+        "dowryDeaths": "0",
+        "womenAssault": "26",
+        "total": "1022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "3",
+        "rape": "27",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "136",
+        "vehicleTheft": "97",
+        "riots": "33",
+        "dowryDeaths": "7",
+        "womenAssault": "48",
+        "total": "2083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "1",
+        "rape": "51",
+        "kidnapping": "5",
+        "dacoity": "4",
+        "robbery": "15",
+        "burglary": "142",
+        "vehicleTheft": "18",
+        "riots": "27",
+        "dowryDeaths": "3",
+        "womenAssault": "64",
+        "total": "1343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "120",
+        "vehicleTheft": "43",
+        "riots": "13",
+        "dowryDeaths": "3",
+        "womenAssault": "81",
+        "total": "1551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "24",
+        "robbery": "7",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "2",
+        "rape": "35",
+        "kidnapping": "11",
+        "dacoity": "8",
+        "robbery": "30",
+        "burglary": "175",
+        "vehicleTheft": "133",
+        "riots": "61",
+        "dowryDeaths": "9",
+        "womenAssault": "64",
+        "total": "2234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "92",
+        "homicide": "2",
+        "rape": "125",
+        "kidnapping": "46",
+        "dacoity": "4",
+        "robbery": "42",
+        "burglary": "619",
+        "vehicleTheft": "474",
+        "riots": "101",
+        "dowryDeaths": "16",
+        "womenAssault": "235",
+        "total": "7454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "81",
+        "kidnapping": "8",
+        "dacoity": "7",
+        "robbery": "16",
+        "burglary": "157",
+        "vehicleTheft": "59",
+        "riots": "29",
+        "dowryDeaths": "5",
+        "womenAssault": "69",
+        "total": "2419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "2",
+        "rape": "41",
+        "kidnapping": "8",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "130",
+        "vehicleTheft": "15",
+        "riots": "46",
+        "dowryDeaths": "1",
+        "womenAssault": "62",
+        "total": "1213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "45",
+        "kidnapping": "1",
+        "dacoity": "10",
+        "robbery": "16",
+        "burglary": "41",
+        "vehicleTheft": "2",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "40",
+        "total": "603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "95",
+        "homicide": "1",
+        "rape": "68",
+        "kidnapping": "27",
+        "dacoity": "5",
+        "robbery": "55",
+        "burglary": "492",
+        "vehicleTheft": "265",
+        "riots": "147",
+        "dowryDeaths": "23",
+        "womenAssault": "192",
+        "total": "5301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "88",
+        "homicide": "0",
+        "rape": "14",
+        "kidnapping": "16",
+        "dacoity": "17",
+        "robbery": "1",
+        "burglary": "65",
+        "vehicleTheft": "5",
+        "riots": "28",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "27",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "116",
+        "vehicleTheft": "20",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "62",
+        "total": "1463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "6",
+        "rape": "108",
+        "kidnapping": "33",
+        "dacoity": "5",
+        "robbery": "63",
+        "burglary": "484",
+        "vehicleTheft": "290",
+        "riots": "51",
+        "dowryDeaths": "19",
+        "womenAssault": "241",
+        "total": "6938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "9",
+        "vehicleTheft": "11",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "0",
+        "rape": "71",
+        "kidnapping": "14",
+        "dacoity": "5",
+        "robbery": "19",
+        "burglary": "191",
+        "vehicleTheft": "33",
+        "riots": "61",
+        "dowryDeaths": "4",
+        "womenAssault": "55",
+        "total": "2197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "0",
+        "rape": "40",
+        "kidnapping": "12",
+        "dacoity": "1",
+        "robbery": "22",
+        "burglary": "232",
+        "vehicleTheft": "44",
+        "riots": "104",
+        "dowryDeaths": "10",
+        "womenAssault": "109",
+        "total": "2851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "1",
+        "rape": "62",
+        "kidnapping": "8",
+        "dacoity": "6",
+        "robbery": "32",
+        "burglary": "60",
+        "vehicleTheft": "24",
+        "riots": "20",
+        "dowryDeaths": "1",
+        "womenAssault": "46",
+        "total": "974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "75",
+        "vehicleTheft": "21",
+        "riots": "15",
+        "dowryDeaths": "1",
+        "womenAssault": "67",
+        "total": "1171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "1",
+        "rape": "23",
+        "kidnapping": "9",
+        "dacoity": "9",
+        "robbery": "13",
+        "burglary": "65",
+        "vehicleTheft": "15",
+        "riots": "33",
+        "dowryDeaths": "2",
+        "womenAssault": "20",
+        "total": "1017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "0",
+        "rape": "40",
+        "kidnapping": "5",
+        "dacoity": "8",
+        "robbery": "25",
+        "burglary": "145",
+        "vehicleTheft": "110",
+        "riots": "44",
+        "dowryDeaths": "5",
+        "womenAssault": "86",
+        "total": "2311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "0",
+        "rape": "51",
+        "kidnapping": "7",
+        "dacoity": "11",
+        "robbery": "12",
+        "burglary": "126",
+        "vehicleTheft": "17",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "64",
+        "total": "1368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "12",
+        "burglary": "131",
+        "vehicleTheft": "51",
+        "riots": "21",
+        "dowryDeaths": "2",
+        "womenAssault": "64",
+        "total": "1517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "0",
+        "rape": "38",
+        "kidnapping": "7",
+        "dacoity": "14",
+        "robbery": "23",
+        "burglary": "213",
+        "vehicleTheft": "83",
+        "riots": "67",
+        "dowryDeaths": "4",
+        "womenAssault": "92",
+        "total": "2369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "106",
+        "homicide": "2",
+        "rape": "130",
+        "kidnapping": "54",
+        "dacoity": "6",
+        "robbery": "48",
+        "burglary": "662",
+        "vehicleTheft": "502",
+        "riots": "126",
+        "dowryDeaths": "25",
+        "womenAssault": "228",
+        "total": "7932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "1",
+        "rape": "69",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "19",
+        "burglary": "168",
+        "vehicleTheft": "71",
+        "riots": "24",
+        "dowryDeaths": "5",
+        "womenAssault": "83",
+        "total": "2569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "57",
+        "kidnapping": "5",
+        "dacoity": "8",
+        "robbery": "24",
+        "burglary": "112",
+        "vehicleTheft": "10",
+        "riots": "42",
+        "dowryDeaths": "1",
+        "womenAssault": "57",
+        "total": "1182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "3",
+        "rape": "46",
+        "kidnapping": "2",
+        "dacoity": "3",
+        "robbery": "6",
+        "burglary": "33",
+        "vehicleTheft": "5",
+        "riots": "25",
+        "dowryDeaths": "1",
+        "womenAssault": "45",
+        "total": "658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "5",
+        "rape": "61",
+        "kidnapping": "22",
+        "dacoity": "3",
+        "robbery": "62",
+        "burglary": "527",
+        "vehicleTheft": "294",
+        "riots": "158",
+        "dowryDeaths": "26",
+        "womenAssault": "179",
+        "total": "5581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "87",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "6",
+        "dacoity": "13",
+        "robbery": "1",
+        "burglary": "52",
+        "vehicleTheft": "9",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "8",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "138",
+        "vehicleTheft": "39",
+        "riots": "23",
+        "dowryDeaths": "1",
+        "womenAssault": "63",
+        "total": "1628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "2",
+        "rape": "119",
+        "kidnapping": "35",
+        "dacoity": "7",
+        "robbery": "51",
+        "burglary": "456",
+        "vehicleTheft": "274",
+        "riots": "55",
+        "dowryDeaths": "14",
+        "womenAssault": "200",
+        "total": "6084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "5",
+        "vehicleTheft": "11",
+        "riots": "3",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "1",
+        "rape": "60",
+        "kidnapping": "14",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "85",
+        "vehicleTheft": "44",
+        "riots": "60",
+        "dowryDeaths": "2",
+        "womenAssault": "45",
+        "total": "1924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "0",
+        "rape": "54",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "28",
+        "burglary": "251",
+        "vehicleTheft": "80",
+        "riots": "69",
+        "dowryDeaths": "13",
+        "womenAssault": "97",
+        "total": "2740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "0",
+        "rape": "61",
+        "kidnapping": "22",
+        "dacoity": "13",
+        "robbery": "32",
+        "burglary": "82",
+        "vehicleTheft": "32",
+        "riots": "27",
+        "dowryDeaths": "1",
+        "womenAssault": "43",
+        "total": "1053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "3",
+        "rape": "29",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "81",
+        "vehicleTheft": "18",
+        "riots": "19",
+        "dowryDeaths": "3",
+        "womenAssault": "57",
+        "total": "1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "6",
+        "dacoity": "9",
+        "robbery": "16",
+        "burglary": "81",
+        "vehicleTheft": "12",
+        "riots": "29",
+        "dowryDeaths": "1",
+        "womenAssault": "24",
+        "total": "1143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "1",
+        "rape": "31",
+        "kidnapping": "5",
+        "dacoity": "3",
+        "robbery": "15",
+        "burglary": "152",
+        "vehicleTheft": "118",
+        "riots": "31",
+        "dowryDeaths": "1",
+        "womenAssault": "69",
+        "total": "2228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "1",
+        "rape": "66",
+        "kidnapping": "8",
+        "dacoity": "2",
+        "robbery": "16",
+        "burglary": "191",
+        "vehicleTheft": "33",
+        "riots": "23",
+        "dowryDeaths": "0",
+        "womenAssault": "77",
+        "total": "1589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "25",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "122",
+        "vehicleTheft": "57",
+        "riots": "17",
+        "dowryDeaths": "2",
+        "womenAssault": "56",
+        "total": "1460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "9",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "0",
+        "rape": "55",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "222",
+        "vehicleTheft": "120",
+        "riots": "80",
+        "dowryDeaths": "7",
+        "womenAssault": "86",
+        "total": "2764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "110",
+        "homicide": "3",
+        "rape": "120",
+        "kidnapping": "53",
+        "dacoity": "8",
+        "robbery": "61",
+        "burglary": "714",
+        "vehicleTheft": "517",
+        "riots": "139",
+        "dowryDeaths": "15",
+        "womenAssault": "253",
+        "total": "8344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "0",
+        "rape": "54",
+        "kidnapping": "16",
+        "dacoity": "3",
+        "robbery": "18",
+        "burglary": "219",
+        "vehicleTheft": "67",
+        "riots": "28",
+        "dowryDeaths": "8",
+        "womenAssault": "78",
+        "total": "2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "1",
+        "rape": "65",
+        "kidnapping": "4",
+        "dacoity": "5",
+        "robbery": "27",
+        "burglary": "107",
+        "vehicleTheft": "20",
+        "riots": "45",
+        "dowryDeaths": "3",
+        "womenAssault": "81",
+        "total": "1310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "1",
+        "rape": "41",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "20",
+        "burglary": "46",
+        "vehicleTheft": "1",
+        "riots": "32",
+        "dowryDeaths": "3",
+        "womenAssault": "43",
+        "total": "774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "112",
+        "homicide": "0",
+        "rape": "71",
+        "kidnapping": "33",
+        "dacoity": "6",
+        "robbery": "55",
+        "burglary": "610",
+        "vehicleTheft": "307",
+        "riots": "211",
+        "dowryDeaths": "19",
+        "womenAssault": "171",
+        "total": "6337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "8",
+        "dacoity": "25",
+        "robbery": "1",
+        "burglary": "44",
+        "vehicleTheft": "13",
+        "riots": "28",
+        "dowryDeaths": "1",
+        "womenAssault": "17",
+        "total": "723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "4",
+        "dacoity": "5",
+        "robbery": "11",
+        "burglary": "152",
+        "vehicleTheft": "52",
+        "riots": "34",
+        "dowryDeaths": "3",
+        "womenAssault": "47",
+        "total": "1552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "4",
+        "rape": "109",
+        "kidnapping": "18",
+        "dacoity": "5",
+        "robbery": "61",
+        "burglary": "593",
+        "vehicleTheft": "323",
+        "riots": "54",
+        "dowryDeaths": "11",
+        "womenAssault": "218",
+        "total": "6595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "7",
+        "vehicleTheft": "20",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "1",
+        "rape": "68",
+        "kidnapping": "13",
+        "dacoity": "11",
+        "robbery": "13",
+        "burglary": "112",
+        "vehicleTheft": "55",
+        "riots": "55",
+        "dowryDeaths": "2",
+        "womenAssault": "49",
+        "total": "2309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "1",
+        "rape": "47",
+        "kidnapping": "8",
+        "dacoity": "3",
+        "robbery": "34",
+        "burglary": "270",
+        "vehicleTheft": "86",
+        "riots": "100",
+        "dowryDeaths": "14",
+        "womenAssault": "135",
+        "total": "3011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "0",
+        "rape": "71",
+        "kidnapping": "46",
+        "dacoity": "6",
+        "robbery": "24",
+        "burglary": "87",
+        "vehicleTheft": "26",
+        "riots": "27",
+        "dowryDeaths": "0",
+        "womenAssault": "56",
+        "total": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "5",
+        "dacoity": "3",
+        "robbery": "13",
+        "burglary": "120",
+        "vehicleTheft": "20",
+        "riots": "50",
+        "dowryDeaths": "5",
+        "womenAssault": "79",
+        "total": "1720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "10",
+        "dacoity": "14",
+        "robbery": "13",
+        "burglary": "76",
+        "vehicleTheft": "13",
+        "riots": "26",
+        "dowryDeaths": "4",
+        "womenAssault": "26",
+        "total": "1062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "31",
+        "kidnapping": "12",
+        "dacoity": "4",
+        "robbery": "36",
+        "burglary": "147",
+        "vehicleTheft": "133",
+        "riots": "39",
+        "dowryDeaths": "5",
+        "womenAssault": "68",
+        "total": "2515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "54",
+        "kidnapping": "5",
+        "dacoity": "4",
+        "robbery": "13",
+        "burglary": "209",
+        "vehicleTheft": "27",
+        "riots": "28",
+        "dowryDeaths": "2",
+        "womenAssault": "93",
+        "total": "1798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "24",
+        "kidnapping": "8",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "120",
+        "vehicleTheft": "37",
+        "riots": "20",
+        "dowryDeaths": "6",
+        "womenAssault": "57",
+        "total": "1493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "7",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "89",
+        "homicide": "0",
+        "rape": "30",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "28",
+        "burglary": "237",
+        "vehicleTheft": "162",
+        "riots": "109",
+        "dowryDeaths": "7",
+        "womenAssault": "74",
+        "total": "2945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "112",
+        "homicide": "1",
+        "rape": "128",
+        "kidnapping": "46",
+        "dacoity": "5",
+        "robbery": "85",
+        "burglary": "823",
+        "vehicleTheft": "672",
+        "riots": "183",
+        "dowryDeaths": "11",
+        "womenAssault": "247",
+        "total": "9981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "4",
+        "rape": "60",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "23",
+        "burglary": "251",
+        "vehicleTheft": "81",
+        "riots": "42",
+        "dowryDeaths": "7",
+        "womenAssault": "72",
+        "total": "3252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "78",
+        "kidnapping": "10",
+        "dacoity": "4",
+        "robbery": "25",
+        "burglary": "110",
+        "vehicleTheft": "25",
+        "riots": "42",
+        "dowryDeaths": "3",
+        "womenAssault": "71",
+        "total": "1480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "1",
+        "rape": "43",
+        "kidnapping": "10",
+        "dacoity": "9",
+        "robbery": "11",
+        "burglary": "49",
+        "vehicleTheft": "0",
+        "riots": "23",
+        "dowryDeaths": "2",
+        "womenAssault": "40",
+        "total": "761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "96",
+        "homicide": "1",
+        "rape": "59",
+        "kidnapping": "45",
+        "dacoity": "5",
+        "robbery": "68",
+        "burglary": "576",
+        "vehicleTheft": "326",
+        "riots": "187",
+        "dowryDeaths": "30",
+        "womenAssault": "175",
+        "total": "6438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "0",
+        "rape": "14",
+        "kidnapping": "10",
+        "dacoity": "30",
+        "robbery": "6",
+        "burglary": "36",
+        "vehicleTheft": "14",
+        "riots": "20",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "7",
+        "dacoity": "5",
+        "robbery": "10",
+        "burglary": "134",
+        "vehicleTheft": "40",
+        "riots": "29",
+        "dowryDeaths": "1",
+        "womenAssault": "64",
+        "total": "1442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "87",
+        "homicide": "0",
+        "rape": "109",
+        "kidnapping": "19",
+        "dacoity": "8",
+        "robbery": "63",
+        "burglary": "564",
+        "vehicleTheft": "316",
+        "riots": "81",
+        "dowryDeaths": "8",
+        "womenAssault": "223",
+        "total": "7341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "6",
+        "vehicleTheft": "22",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "1",
+        "rape": "60",
+        "kidnapping": "19",
+        "dacoity": "9",
+        "robbery": "19",
+        "burglary": "144",
+        "vehicleTheft": "94",
+        "riots": "31",
+        "dowryDeaths": "0",
+        "womenAssault": "36",
+        "total": "2211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "0",
+        "rape": "25",
+        "kidnapping": "13",
+        "dacoity": "2",
+        "robbery": "21",
+        "burglary": "206",
+        "vehicleTheft": "96",
+        "riots": "107",
+        "dowryDeaths": "12",
+        "womenAssault": "97",
+        "total": "2964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "1",
+        "rape": "64",
+        "kidnapping": "26",
+        "dacoity": "3",
+        "robbery": "30",
+        "burglary": "104",
+        "vehicleTheft": "36",
+        "riots": "10",
+        "dowryDeaths": "3",
+        "womenAssault": "57",
+        "total": "1258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "5",
+        "rape": "20",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "77",
+        "vehicleTheft": "16",
+        "riots": "42",
+        "dowryDeaths": "1",
+        "womenAssault": "55",
+        "total": "1567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "11",
+        "dacoity": "11",
+        "robbery": "10",
+        "burglary": "62",
+        "vehicleTheft": "13",
+        "riots": "28",
+        "dowryDeaths": "2",
+        "womenAssault": "28",
+        "total": "993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "1",
+        "rape": "35",
+        "kidnapping": "6",
+        "dacoity": "3",
+        "robbery": "38",
+        "burglary": "181",
+        "vehicleTheft": "105",
+        "riots": "49",
+        "dowryDeaths": "9",
+        "womenAssault": "82",
+        "total": "2428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "70",
+        "kidnapping": "8",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "166",
+        "vehicleTheft": "8",
+        "riots": "17",
+        "dowryDeaths": "4",
+        "womenAssault": "83",
+        "total": "1574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "28",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "138",
+        "vehicleTheft": "76",
+        "riots": "24",
+        "dowryDeaths": "8",
+        "womenAssault": "60",
+        "total": "1660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "82",
+        "homicide": "0",
+        "rape": "43",
+        "kidnapping": "18",
+        "dacoity": "5",
+        "robbery": "56",
+        "burglary": "224",
+        "vehicleTheft": "176",
+        "riots": "63",
+        "dowryDeaths": "9",
+        "womenAssault": "73",
+        "total": "2890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "101",
+        "homicide": "1",
+        "rape": "145",
+        "kidnapping": "42",
+        "dacoity": "9",
+        "robbery": "119",
+        "burglary": "889",
+        "vehicleTheft": "696",
+        "riots": "156",
+        "dowryDeaths": "26",
+        "womenAssault": "260",
+        "total": "9915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "6",
+        "rape": "47",
+        "kidnapping": "13",
+        "dacoity": "6",
+        "robbery": "29",
+        "burglary": "191",
+        "vehicleTheft": "72",
+        "riots": "32",
+        "dowryDeaths": "8",
+        "womenAssault": "78",
+        "total": "3071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "0",
+        "rape": "76",
+        "kidnapping": "11",
+        "dacoity": "11",
+        "robbery": "17",
+        "burglary": "109",
+        "vehicleTheft": "15",
+        "riots": "21",
+        "dowryDeaths": "3",
+        "womenAssault": "81",
+        "total": "1450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "1",
+        "rape": "61",
+        "kidnapping": "12",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "37",
+        "vehicleTheft": "0",
+        "riots": "29",
+        "dowryDeaths": "1",
+        "womenAssault": "71",
+        "total": "886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "106",
+        "homicide": "1",
+        "rape": "69",
+        "kidnapping": "38",
+        "dacoity": "5",
+        "robbery": "61",
+        "burglary": "525",
+        "vehicleTheft": "223",
+        "riots": "224",
+        "dowryDeaths": "20",
+        "womenAssault": "167",
+        "total": "6599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "8",
+        "dacoity": "12",
+        "robbery": "9",
+        "burglary": "32",
+        "vehicleTheft": "12",
+        "riots": "34",
+        "dowryDeaths": "2",
+        "womenAssault": "8",
+        "total": "692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "40",
+        "kidnapping": "10",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "103",
+        "vehicleTheft": "48",
+        "riots": "25",
+        "dowryDeaths": "2",
+        "womenAssault": "55",
+        "total": "1382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "85",
+        "homicide": "3",
+        "rape": "106",
+        "kidnapping": "39",
+        "dacoity": "1",
+        "robbery": "83",
+        "burglary": "634",
+        "vehicleTheft": "389",
+        "riots": "101",
+        "dowryDeaths": "14",
+        "womenAssault": "269",
+        "total": "9563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "4",
+        "vehicleTheft": "13",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "0",
+        "rape": "48",
+        "kidnapping": "17",
+        "dacoity": "11",
+        "robbery": "20",
+        "burglary": "101",
+        "vehicleTheft": "89",
+        "riots": "30",
+        "dowryDeaths": "4",
+        "womenAssault": "33",
+        "total": "2157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "3",
+        "rape": "39",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "30",
+        "burglary": "197",
+        "vehicleTheft": "91",
+        "riots": "117",
+        "dowryDeaths": "14",
+        "womenAssault": "90",
+        "total": "2896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "1",
+        "rape": "69",
+        "kidnapping": "24",
+        "dacoity": "3",
+        "robbery": "21",
+        "burglary": "73",
+        "vehicleTheft": "15",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "53",
+        "total": "1240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "3",
+        "rape": "19",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "75",
+        "vehicleTheft": "21",
+        "riots": "33",
+        "dowryDeaths": "2",
+        "womenAssault": "85",
+        "total": "1378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "11",
+        "dacoity": "15",
+        "robbery": "12",
+        "burglary": "46",
+        "vehicleTheft": "21",
+        "riots": "28",
+        "dowryDeaths": "2",
+        "womenAssault": "27",
+        "total": "976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "2",
+        "rape": "32",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "30",
+        "burglary": "160",
+        "vehicleTheft": "94",
+        "riots": "55",
+        "dowryDeaths": "10",
+        "womenAssault": "80",
+        "total": "2600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "1",
+        "rape": "58",
+        "kidnapping": "21",
+        "dacoity": "5",
+        "robbery": "9",
+        "burglary": "172",
+        "vehicleTheft": "30",
+        "riots": "25",
+        "dowryDeaths": "3",
+        "womenAssault": "98",
+        "total": "1817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "116",
+        "vehicleTheft": "36",
+        "riots": "12",
+        "dowryDeaths": "7",
+        "womenAssault": "65",
+        "total": "1624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "9",
+        "dacoity": "8",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "4",
+        "rape": "52",
+        "kidnapping": "19",
+        "dacoity": "13",
+        "robbery": "52",
+        "burglary": "264",
+        "vehicleTheft": "166",
+        "riots": "93",
+        "dowryDeaths": "10",
+        "womenAssault": "89",
+        "total": "3130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "102",
+        "homicide": "4",
+        "rape": "136",
+        "kidnapping": "49",
+        "dacoity": "7",
+        "robbery": "108",
+        "burglary": "750",
+        "vehicleTheft": "722",
+        "riots": "164",
+        "dowryDeaths": "7",
+        "womenAssault": "268",
+        "total": "10360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "1",
+        "rape": "43",
+        "kidnapping": "18",
+        "dacoity": "1",
+        "robbery": "16",
+        "burglary": "177",
+        "vehicleTheft": "55",
+        "riots": "28",
+        "dowryDeaths": "9",
+        "womenAssault": "72",
+        "total": "2849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "2",
+        "rape": "77",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "12",
+        "burglary": "88",
+        "vehicleTheft": "16",
+        "riots": "23",
+        "dowryDeaths": "5",
+        "womenAssault": "69",
+        "total": "1602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "2",
+        "rape": "55",
+        "kidnapping": "2",
+        "dacoity": "6",
+        "robbery": "6",
+        "burglary": "30",
+        "vehicleTheft": "0",
+        "riots": "29",
+        "dowryDeaths": "3",
+        "womenAssault": "52",
+        "total": "908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "112",
+        "homicide": "2",
+        "rape": "70",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "57",
+        "burglary": "401",
+        "vehicleTheft": "217",
+        "riots": "153",
+        "dowryDeaths": "17",
+        "womenAssault": "146",
+        "total": "5446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "9",
+        "dacoity": "12",
+        "robbery": "2",
+        "burglary": "26",
+        "vehicleTheft": "18",
+        "riots": "31",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "27",
+        "kidnapping": "18",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "109",
+        "vehicleTheft": "29",
+        "riots": "12",
+        "dowryDeaths": "4",
+        "womenAssault": "44",
+        "total": "1190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "8",
+        "rape": "115",
+        "kidnapping": "115",
+        "dacoity": "4",
+        "robbery": "83",
+        "burglary": "614",
+        "vehicleTheft": "298",
+        "riots": "75",
+        "dowryDeaths": "13",
+        "womenAssault": "291",
+        "total": "11218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.18783100443316,
+          20.52684285
+        ]
+      },
+      "properties": {
+        "name": "GARIYABAND",
+        "state": "CHHATTISGARH",
+        "address": "Bindranavagarh(Gariyaband) Tahsil, Gariaband, Chhattisgarh, 493889, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "2",
+        "burglary": "34",
+        "vehicleTheft": "15",
+        "riots": "6",
+        "dowryDeaths": "5",
+        "womenAssault": "30",
+        "total": "687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "5",
+        "vehicleTheft": "6",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "1",
+        "rape": "68",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "11",
+        "burglary": "111",
+        "vehicleTheft": "60",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "29",
+        "total": "2262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "1",
+        "rape": "33",
+        "kidnapping": "13",
+        "dacoity": "1",
+        "robbery": "44",
+        "burglary": "202",
+        "vehicleTheft": "133",
+        "riots": "120",
+        "dowryDeaths": "15",
+        "womenAssault": "114",
+        "total": "3335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "2",
+        "rape": "23",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "81",
+        "vehicleTheft": "25",
+        "riots": "37",
+        "dowryDeaths": "2",
+        "womenAssault": "43",
+        "total": "1417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "1",
+        "rape": "29",
+        "kidnapping": "8",
+        "dacoity": "8",
+        "robbery": "8",
+        "burglary": "28",
+        "vehicleTheft": "13",
+        "riots": "30",
+        "dowryDeaths": "4",
+        "womenAssault": "14",
+        "total": "929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "0",
+        "rape": "39",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "36",
+        "burglary": "148",
+        "vehicleTheft": "120",
+        "riots": "64",
+        "dowryDeaths": "5",
+        "womenAssault": "86",
+        "total": "2448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "0",
+        "rape": "72",
+        "kidnapping": "16",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "138",
+        "vehicleTheft": "50",
+        "riots": "21",
+        "dowryDeaths": "3",
+        "womenAssault": "95",
+        "total": "1690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "30",
+        "kidnapping": "37",
+        "dacoity": "1",
+        "robbery": "14",
+        "burglary": "136",
+        "vehicleTheft": "62",
+        "riots": "40",
+        "dowryDeaths": "2",
+        "womenAssault": "65",
+        "total": "2140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "8",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "87",
+        "homicide": "5",
+        "rape": "62",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "33",
+        "burglary": "242",
+        "vehicleTheft": "209",
+        "riots": "66",
+        "dowryDeaths": "11",
+        "womenAssault": "84",
+        "total": "3024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "95",
+        "homicide": "2",
+        "rape": "133",
+        "kidnapping": "55",
+        "dacoity": "7",
+        "robbery": "74",
+        "burglary": "776",
+        "vehicleTheft": "815",
+        "riots": "137",
+        "dowryDeaths": "11",
+        "womenAssault": "232",
+        "total": "10652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "1",
+        "rape": "38",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "23",
+        "burglary": "169",
+        "vehicleTheft": "87",
+        "riots": "20",
+        "dowryDeaths": "4",
+        "womenAssault": "70",
+        "total": "3133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.97290272665015,
+          23.35151515
+        ]
+      },
+      "properties": {
+        "name": "SURAJPUR",
+        "state": "CHHATTISGARH",
+        "address": "Surajpur, Chhattisgarh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "1",
+        "rape": "76",
+        "kidnapping": "17",
+        "dacoity": "0",
+        "robbery": "12",
+        "burglary": "80",
+        "vehicleTheft": "25",
+        "riots": "16",
+        "dowryDeaths": "3",
+        "womenAssault": "58",
+        "total": "1660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.14335738365043,
+          20.73218365
+        ]
+      },
+      "properties": {
+        "name": "BALOD",
+        "state": "CHHATTISGARH",
+        "address": "Balod, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "2",
+        "rape": "22",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "70",
+        "vehicleTheft": "25",
+        "riots": "14",
+        "dowryDeaths": "4",
+        "womenAssault": "50",
+        "total": "1117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.43670691696435,
+          21.572645950000002
+        ]
+      },
+      "properties": {
+        "name": "BALODA BAZAR",
+        "state": "CHHATTISGARH",
+        "address": "Baloda Bazar, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "45",
+        "kidnapping": "18",
+        "dacoity": "3",
+        "robbery": "26",
+        "burglary": "182",
+        "vehicleTheft": "57",
+        "riots": "39",
+        "dowryDeaths": "0",
+        "womenAssault": "98",
+        "total": "2371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.39541774073132,
+          27.4504805
+        ]
+      },
+      "properties": {
+        "name": "BALRAMPUR",
+        "state": "CHHATTISGARH",
+        "address": "Balrampur, Uttar Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "0",
+        "rape": "64",
+        "kidnapping": "5",
+        "dacoity": "4",
+        "robbery": "7",
+        "burglary": "33",
+        "vehicleTheft": "0",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "52",
+        "total": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.43047622833333,
+          21.6783969
+        ]
+      },
+      "properties": {
+        "name": "BEMETARA",
+        "state": "CHHATTISGARH",
+        "address": "Bemetara, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "24",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "57",
+        "vehicleTheft": "35",
+        "riots": "19",
+        "dowryDeaths": "3",
+        "womenAssault": "61",
+        "total": "1323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "CHHATTISGARH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "1",
+        "rape": "47",
+        "kidnapping": "33",
+        "dacoity": "7",
+        "robbery": "65",
+        "burglary": "428",
+        "vehicleTheft": "240",
+        "riots": "140",
+        "dowryDeaths": "10",
+        "womenAssault": "169",
+        "total": "4576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.35497,
+          18.9079355
+        ]
+      },
+      "properties": {
+        "name": "DANTEWARA",
+        "state": "CHHATTISGARH",
+        "address": "Dantewara, NH163A, Dantewada, Dantewada Tahsil, Dantewada, Chhattisgarh, 494449, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "1",
+        "dacoity": "3",
+        "robbery": "0",
+        "burglary": "17",
+        "vehicleTheft": "4",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.70915145737666,
+          20.537276650000003
+        ]
+      },
+      "properties": {
+        "name": "DHAMTARI",
+        "state": "CHHATTISGARH",
+        "address": "Dhamtari, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "1",
+        "rape": "21",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "97",
+        "vehicleTheft": "46",
+        "riots": "14",
+        "dowryDeaths": "1",
+        "womenAssault": "36",
+        "total": "1147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3979545573657,
+          21.19903535
+        ]
+      },
+      "properties": {
+        "name": "DURG",
+        "state": "CHHATTISGARH",
+        "address": "Durg, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "1",
+        "rape": "91",
+        "kidnapping": "55",
+        "dacoity": "1",
+        "robbery": "32",
+        "burglary": "377",
+        "vehicleTheft": "362",
+        "riots": "31",
+        "dowryDeaths": "9",
+        "womenAssault": "178",
+        "total": "7471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.18783100443316,
+          20.52684285
+        ]
+      },
+      "properties": {
+        "name": "GARIYABAND",
+        "state": "CHHATTISGARH",
+        "address": "Bindranavagarh(Gariyaband) Tahsil, Gariaband, Chhattisgarh, 493889, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "2",
+        "rape": "19",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "53",
+        "vehicleTheft": "20",
+        "riots": "18",
+        "dowryDeaths": "1",
+        "womenAssault": "28",
+        "total": "831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "GRP RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "3",
+        "vehicleTheft": "10",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0235715,
+          19.0870758
+        ]
+      },
+      "properties": {
+        "name": "JAGDALPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jagdalpur, Jagdalpur Tahsil, Bastar, Chhattisgarh, 494001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "2",
+        "rape": "36",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "76",
+        "vehicleTheft": "48",
+        "riots": "27",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "1454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.578896,
+          22.0090841
+        ]
+      },
+      "properties": {
+        "name": "JANJGIR",
+        "state": "CHHATTISGARH",
+        "address": "Janjgir, Janjgir Tahsil, Janjgir-Champa, Chhattisgarh, 495668, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "1",
+        "rape": "33",
+        "kidnapping": "21",
+        "dacoity": "2",
+        "robbery": "32",
+        "burglary": "236",
+        "vehicleTheft": "188",
+        "riots": "123",
+        "dowryDeaths": "11",
+        "womenAssault": "104",
+        "total": "3287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.95304518953317,
+          22.76678355
+        ]
+      },
+      "properties": {
+        "name": "JASHPUR",
+        "state": "CHHATTISGARH",
+        "address": "Jashpur, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "54",
+        "homicide": "1",
+        "rape": "80",
+        "kidnapping": "60",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "67",
+        "vehicleTheft": "31",
+        "riots": "18",
+        "dowryDeaths": "2",
+        "womenAssault": "29",
+        "total": "1237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.25157988751951,
+          22.11428865
+        ]
+      },
+      "properties": {
+        "name": "KABIRDHAM",
+        "state": "CHHATTISGARH",
+        "address": "Kabirdham, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "62",
+        "vehicleTheft": "12",
+        "riots": "25",
+        "dowryDeaths": "1",
+        "womenAssault": "58",
+        "total": "1376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.98109349472911,
+          20.1270026
+        ]
+      },
+      "properties": {
+        "name": "KANKER",
+        "state": "CHHATTISGARH",
+        "address": "Uttar Bastar Kanker, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "1",
+        "rape": "23",
+        "kidnapping": "9",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "30",
+        "vehicleTheft": "22",
+        "riots": "15",
+        "dowryDeaths": "2",
+        "womenAssault": "18",
+        "total": "1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.74655021128783,
+          19.70436465
+        ]
+      },
+      "properties": {
+        "name": "KONDAGAON",
+        "state": "CHHATTISGARH",
+        "address": "Kondagaon, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62951462416818,
+          22.51976955
+        ]
+      },
+      "properties": {
+        "name": "KORBA",
+        "state": "CHHATTISGARH",
+        "address": "Korba, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "1",
+        "rape": "43",
+        "kidnapping": "16",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "114",
+        "vehicleTheft": "87",
+        "riots": "33",
+        "dowryDeaths": "4",
+        "womenAssault": "59",
+        "total": "2217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.31393341197054,
+          23.431414349999997
+        ]
+      },
+      "properties": {
+        "name": "KORIYA",
+        "state": "CHHATTISGARH",
+        "address": "Koriya, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "42",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "104",
+        "vehicleTheft": "31",
+        "riots": "27",
+        "dowryDeaths": "5",
+        "womenAssault": "86",
+        "total": "1581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.48484762499999,
+          21.1882332
+        ]
+      },
+      "properties": {
+        "name": "MAHASAMUND",
+        "state": "CHHATTISGARH",
+        "address": "Mahasamund, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "0",
+        "rape": "28",
+        "kidnapping": "38",
+        "dacoity": "1",
+        "robbery": "15",
+        "burglary": "144",
+        "vehicleTheft": "64",
+        "riots": "51",
+        "dowryDeaths": "4",
+        "womenAssault": "63",
+        "total": "2120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.65401093817499,
+          22.24451625
+        ]
+      },
+      "properties": {
+        "name": "MUNGELI",
+        "state": "CHHATTISGARH",
+        "address": "Mungeli, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "83",
+        "vehicleTheft": "24",
+        "riots": "40",
+        "dowryDeaths": "2",
+        "womenAssault": "24",
+        "total": "1012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.82558573585581,
+          26.96392335
+        ]
+      },
+      "properties": {
+        "name": "NARAYANPUR",
+        "state": "CHHATTISGARH",
+        "address": "Narayanpur, Lakhimpur, Assam, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "6",
+        "dacoity": "11",
+        "robbery": "1",
+        "burglary": "7",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "RAIGARH",
+        "state": "CHHATTISGARH",
+        "address": "Raigarh, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "6",
+        "rape": "69",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "51",
+        "burglary": "237",
+        "vehicleTheft": "259",
+        "riots": "63",
+        "dowryDeaths": "6",
+        "womenAssault": "81",
+        "total": "3053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6336833,
+          21.2379469
+        ]
+      },
+      "properties": {
+        "name": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "address": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "2",
+        "rape": "111",
+        "kidnapping": "22",
+        "dacoity": "3",
+        "robbery": "46",
+        "burglary": "536",
+        "vehicleTheft": "652",
+        "riots": "102",
+        "dowryDeaths": "8",
+        "womenAssault": "148",
+        "total": "8323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.69155548263583,
+          20.9727404
+        ]
+      },
+      "properties": {
+        "name": "RAJNANDGAON",
+        "state": "CHHATTISGARH",
+        "address": "Rajnandgaon, Chhattisgarh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "1",
+        "rape": "31",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "17",
+        "burglary": "145",
+        "vehicleTheft": "74",
+        "riots": "19",
+        "dowryDeaths": "3",
+        "womenAssault": "52",
+        "total": "3035"
+      }
+    }
+  ]
+}

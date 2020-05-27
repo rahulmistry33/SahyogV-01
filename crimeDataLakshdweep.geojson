@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "1",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "37",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "3",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "5",
+        "riots": "44",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8171069,
+          10.8832771
+        ]
+      },
+      "properties": {
+        "name": "LAKSHADWEEP",
+        "state": "LAKSHADWEEP",
+        "address": "Lakshadweep, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "60"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "5",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "59",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "44",
+        "vehicleTheft": "4",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "1",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "33",
+        "vehicleTheft": "3",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "42",
+        "vehicleTheft": "6",
+        "riots": "22",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "37",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "43",
+        "vehicleTheft": "5",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "1",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "30",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "22",
+        "total": "173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "48",
+        "vehicleTheft": "7",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "14",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "52",
+        "vehicleTheft": "9",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "40",
+        "vehicleTheft": "5",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "2",
+        "rape": "9",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "29",
+        "vehicleTheft": "2",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "10",
+        "vehicleTheft": "2",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "2",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "52",
+        "vehicleTheft": "4",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "1",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "34",
+        "vehicleTheft": "3",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "40",
+        "vehicleTheft": "7",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "25",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "3",
+        "rape": "7",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "28",
+        "vehicleTheft": "7",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "4",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "24",
+        "vehicleTheft": "1",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0021873,
+          51.5093835
+        ]
+      },
+      "properties": {
+        "name": "EAST",
+        "state": "SIKKIM",
+        "address": "East India, Blackwall Way, Covenrry Cross Estate, Blackwall, London Borough of Tower Hamlets, London, Greater London, England, E14 2EA, United Kingdom",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "22",
+        "vehicleTheft": "7",
+        "riots": "12",
+        "dowryDeaths": "1",
+        "womenAssault": "7",
+        "total": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "SIKKIM",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "SIKKIM",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "21",
+        "vehicleTheft": "7",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "SIKKIM",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "17",
+        "vehicleTheft": "3",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "123"
+      }
+    }
+  ]
+}

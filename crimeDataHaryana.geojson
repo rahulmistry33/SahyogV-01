@@ -1,0 +1,7685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "2",
+        "rape": "11",
+        "kidnapping": "38",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "316",
+        "vehicleTheft": "154",
+        "riots": "5",
+        "dowryDeaths": "11",
+        "womenAssault": "27",
+        "total": "2346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "8",
+        "rape": "10",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "19",
+        "burglary": "132",
+        "vehicleTheft": "120",
+        "riots": "109",
+        "dowryDeaths": "33",
+        "womenAssault": "17",
+        "total": "1855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "68",
+        "homicide": "7",
+        "rape": "37",
+        "kidnapping": "78",
+        "dacoity": "7",
+        "robbery": "44",
+        "burglary": "236",
+        "vehicleTheft": "444",
+        "riots": "133",
+        "dowryDeaths": "19",
+        "womenAssault": "47",
+        "total": "5808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "20",
+        "dacoity": "3",
+        "robbery": "11",
+        "burglary": "96",
+        "vehicleTheft": "61",
+        "riots": "11",
+        "dowryDeaths": "17",
+        "womenAssault": "17",
+        "total": "1214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "1",
+        "vehicleTheft": "35",
+        "riots": "9",
+        "dowryDeaths": "5",
+        "womenAssault": "1",
+        "total": "615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "5",
+        "rape": "32",
+        "kidnapping": "50",
+        "dacoity": "4",
+        "robbery": "51",
+        "burglary": "294",
+        "vehicleTheft": "435",
+        "riots": "78",
+        "dowryDeaths": "17",
+        "womenAssault": "21",
+        "total": "3502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "7",
+        "rape": "10",
+        "kidnapping": "26",
+        "dacoity": "2",
+        "robbery": "27",
+        "burglary": "244",
+        "vehicleTheft": "258",
+        "riots": "28",
+        "dowryDeaths": "24",
+        "womenAssault": "33",
+        "total": "2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "14",
+        "dacoity": "2",
+        "robbery": "25",
+        "burglary": "98",
+        "vehicleTheft": "66",
+        "riots": "68",
+        "dowryDeaths": "20",
+        "womenAssault": "42",
+        "total": "1501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "6",
+        "rape": "21",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "28",
+        "burglary": "151",
+        "vehicleTheft": "66",
+        "riots": "71",
+        "dowryDeaths": "11",
+        "womenAssault": "22",
+        "total": "1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "8",
+        "rape": "16",
+        "kidnapping": "9",
+        "dacoity": "3",
+        "robbery": "9",
+        "burglary": "103",
+        "vehicleTheft": "66",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "19",
+        "total": "1195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "7",
+        "rape": "44",
+        "kidnapping": "31",
+        "dacoity": "8",
+        "robbery": "16",
+        "burglary": "208",
+        "vehicleTheft": "194",
+        "riots": "47",
+        "dowryDeaths": "18",
+        "womenAssault": "28",
+        "total": "2383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "4",
+        "rape": "31",
+        "kidnapping": "14",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "132",
+        "vehicleTheft": "131",
+        "riots": "0",
+        "dowryDeaths": "10",
+        "womenAssault": "28",
+        "total": "1753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "13",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "59",
+        "vehicleTheft": "32",
+        "riots": "47",
+        "dowryDeaths": "8",
+        "womenAssault": "19",
+        "total": "1169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "18",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "118",
+        "vehicleTheft": "95",
+        "riots": "1",
+        "dowryDeaths": "4",
+        "womenAssault": "23",
+        "total": "1054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "3",
+        "rape": "38",
+        "kidnapping": "19",
+        "dacoity": "20",
+        "robbery": "47",
+        "burglary": "182",
+        "vehicleTheft": "243",
+        "riots": "35",
+        "dowryDeaths": "11",
+        "womenAssault": "16",
+        "total": "1895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "4",
+        "rape": "11",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "86",
+        "vehicleTheft": "72",
+        "riots": "39",
+        "dowryDeaths": "12",
+        "womenAssault": "17",
+        "total": "1214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "13",
+        "dacoity": "5",
+        "robbery": "29",
+        "burglary": "229",
+        "vehicleTheft": "203",
+        "riots": "37",
+        "dowryDeaths": "17",
+        "womenAssault": "26",
+        "total": "1856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "5",
+        "rape": "17",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "194",
+        "vehicleTheft": "108",
+        "riots": "24",
+        "dowryDeaths": "12",
+        "womenAssault": "23",
+        "total": "1768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "4",
+        "rape": "15",
+        "kidnapping": "26",
+        "dacoity": "5",
+        "robbery": "28",
+        "burglary": "130",
+        "vehicleTheft": "165",
+        "riots": "6",
+        "dowryDeaths": "18",
+        "womenAssault": "22",
+        "total": "1944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "2",
+        "rape": "22",
+        "kidnapping": "26",
+        "dacoity": "5",
+        "robbery": "9",
+        "burglary": "100",
+        "vehicleTheft": "74",
+        "riots": "2",
+        "dowryDeaths": "9",
+        "womenAssault": "30",
+        "total": "1405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "7",
+        "rape": "15",
+        "kidnapping": "21",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "251",
+        "vehicleTheft": "123",
+        "riots": "4",
+        "dowryDeaths": "7",
+        "womenAssault": "17",
+        "total": "2172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "5",
+        "rape": "17",
+        "kidnapping": "16",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "140",
+        "vehicleTheft": "97",
+        "riots": "110",
+        "dowryDeaths": "35",
+        "womenAssault": "29",
+        "total": "1938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "7",
+        "rape": "37",
+        "kidnapping": "61",
+        "dacoity": "2",
+        "robbery": "26",
+        "burglary": "240",
+        "vehicleTheft": "441",
+        "riots": "130",
+        "dowryDeaths": "19",
+        "womenAssault": "56",
+        "total": "6999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "5",
+        "rape": "7",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "18",
+        "burglary": "105",
+        "vehicleTheft": "64",
+        "riots": "15",
+        "dowryDeaths": "9",
+        "womenAssault": "22",
+        "total": "1226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "2",
+        "vehicleTheft": "34",
+        "riots": "6",
+        "dowryDeaths": "14",
+        "womenAssault": "1",
+        "total": "770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "15",
+        "rape": "27",
+        "kidnapping": "50",
+        "dacoity": "9",
+        "robbery": "46",
+        "burglary": "301",
+        "vehicleTheft": "440",
+        "riots": "71",
+        "dowryDeaths": "11",
+        "womenAssault": "35",
+        "total": "3623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "24",
+        "dacoity": "3",
+        "robbery": "28",
+        "burglary": "211",
+        "vehicleTheft": "255",
+        "riots": "23",
+        "dowryDeaths": "28",
+        "womenAssault": "31",
+        "total": "2545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "3",
+        "rape": "18",
+        "kidnapping": "14",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "94",
+        "vehicleTheft": "90",
+        "riots": "55",
+        "dowryDeaths": "14",
+        "womenAssault": "39",
+        "total": "1518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "12",
+        "rape": "19",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "100",
+        "vehicleTheft": "77",
+        "riots": "75",
+        "dowryDeaths": "11",
+        "womenAssault": "10",
+        "total": "1325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "9",
+        "rape": "7",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "86",
+        "vehicleTheft": "69",
+        "riots": "0",
+        "dowryDeaths": "6",
+        "womenAssault": "11",
+        "total": "1121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "5",
+        "rape": "37",
+        "kidnapping": "16",
+        "dacoity": "4",
+        "robbery": "14",
+        "burglary": "216",
+        "vehicleTheft": "185",
+        "riots": "42",
+        "dowryDeaths": "11",
+        "womenAssault": "25",
+        "total": "2173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "4",
+        "rape": "15",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "181",
+        "vehicleTheft": "148",
+        "riots": "0",
+        "dowryDeaths": "7",
+        "womenAssault": "20",
+        "total": "1856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "2",
+        "rape": "16",
+        "kidnapping": "19",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "71",
+        "vehicleTheft": "40",
+        "riots": "46",
+        "dowryDeaths": "3",
+        "womenAssault": "22",
+        "total": "1303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "13",
+        "kidnapping": "19",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "136",
+        "vehicleTheft": "77",
+        "riots": "1",
+        "dowryDeaths": "5",
+        "womenAssault": "29",
+        "total": "1187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "4",
+        "rape": "43",
+        "kidnapping": "30",
+        "dacoity": "4",
+        "robbery": "27",
+        "burglary": "173",
+        "vehicleTheft": "217",
+        "riots": "37",
+        "dowryDeaths": "9",
+        "womenAssault": "22",
+        "total": "2096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "11",
+        "dacoity": "4",
+        "robbery": "9",
+        "burglary": "89",
+        "vehicleTheft": "70",
+        "riots": "27",
+        "dowryDeaths": "14",
+        "womenAssault": "15",
+        "total": "1293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "63",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "16",
+        "dacoity": "4",
+        "robbery": "27",
+        "burglary": "225",
+        "vehicleTheft": "218",
+        "riots": "36",
+        "dowryDeaths": "17",
+        "womenAssault": "14",
+        "total": "1883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "4",
+        "rape": "20",
+        "kidnapping": "22",
+        "dacoity": "2",
+        "robbery": "16",
+        "burglary": "175",
+        "vehicleTheft": "98",
+        "riots": "18",
+        "dowryDeaths": "7",
+        "womenAssault": "30",
+        "total": "1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "82",
+        "homicide": "1",
+        "rape": "14",
+        "kidnapping": "24",
+        "dacoity": "5",
+        "robbery": "35",
+        "burglary": "167",
+        "vehicleTheft": "127",
+        "riots": "4",
+        "dowryDeaths": "20",
+        "womenAssault": "15",
+        "total": "2046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "22",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "85",
+        "vehicleTheft": "85",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "11",
+        "total": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "26",
+        "dacoity": "1",
+        "robbery": "14",
+        "burglary": "236",
+        "vehicleTheft": "99",
+        "riots": "2",
+        "dowryDeaths": "7",
+        "womenAssault": "17",
+        "total": "1898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "17",
+        "dacoity": "4",
+        "robbery": "29",
+        "burglary": "163",
+        "vehicleTheft": "105",
+        "riots": "92",
+        "dowryDeaths": "28",
+        "womenAssault": "17",
+        "total": "1994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "57",
+        "homicide": "2",
+        "rape": "36",
+        "kidnapping": "70",
+        "dacoity": "5",
+        "robbery": "20",
+        "burglary": "264",
+        "vehicleTheft": "447",
+        "riots": "132",
+        "dowryDeaths": "14",
+        "womenAssault": "34",
+        "total": "7110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "4",
+        "rape": "7",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "71",
+        "vehicleTheft": "42",
+        "riots": "16",
+        "dowryDeaths": "3",
+        "womenAssault": "11",
+        "total": "938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "3",
+        "womenAssault": "0",
+        "total": "729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "6",
+        "rape": "32",
+        "kidnapping": "44",
+        "dacoity": "6",
+        "robbery": "40",
+        "burglary": "359",
+        "vehicleTheft": "575",
+        "riots": "64",
+        "dowryDeaths": "13",
+        "womenAssault": "17",
+        "total": "3683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "4",
+        "rape": "16",
+        "kidnapping": "27",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "199",
+        "vehicleTheft": "210",
+        "riots": "27",
+        "dowryDeaths": "17",
+        "womenAssault": "35",
+        "total": "2355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "3",
+        "rape": "9",
+        "kidnapping": "8",
+        "dacoity": "3",
+        "robbery": "13",
+        "burglary": "73",
+        "vehicleTheft": "67",
+        "riots": "53",
+        "dowryDeaths": "17",
+        "womenAssault": "32",
+        "total": "1272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "13",
+        "rape": "17",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "86",
+        "vehicleTheft": "76",
+        "riots": "53",
+        "dowryDeaths": "10",
+        "womenAssault": "7",
+        "total": "1084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "4",
+        "dacoity": "5",
+        "robbery": "10",
+        "burglary": "89",
+        "vehicleTheft": "89",
+        "riots": "0",
+        "dowryDeaths": "8",
+        "womenAssault": "14",
+        "total": "1206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "4",
+        "rape": "27",
+        "kidnapping": "22",
+        "dacoity": "8",
+        "robbery": "18",
+        "burglary": "203",
+        "vehicleTheft": "190",
+        "riots": "44",
+        "dowryDeaths": "14",
+        "womenAssault": "18",
+        "total": "2215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "3",
+        "rape": "23",
+        "kidnapping": "11",
+        "dacoity": "3",
+        "robbery": "15",
+        "burglary": "146",
+        "vehicleTheft": "178",
+        "riots": "0",
+        "dowryDeaths": "12",
+        "womenAssault": "23",
+        "total": "1804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "11",
+        "dacoity": "3",
+        "robbery": "3",
+        "burglary": "88",
+        "vehicleTheft": "48",
+        "riots": "48",
+        "dowryDeaths": "4",
+        "womenAssault": "12",
+        "total": "1235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "4",
+        "rape": "12",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "113",
+        "vehicleTheft": "98",
+        "riots": "1",
+        "dowryDeaths": "5",
+        "womenAssault": "10",
+        "total": "1419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "10",
+        "rape": "38",
+        "kidnapping": "16",
+        "dacoity": "8",
+        "robbery": "23",
+        "burglary": "161",
+        "vehicleTheft": "237",
+        "riots": "24",
+        "dowryDeaths": "13",
+        "womenAssault": "17",
+        "total": "1863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "111",
+        "vehicleTheft": "94",
+        "riots": "34",
+        "dowryDeaths": "7",
+        "womenAssault": "22",
+        "total": "1417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "21",
+        "dacoity": "4",
+        "robbery": "20",
+        "burglary": "242",
+        "vehicleTheft": "206",
+        "riots": "22",
+        "dowryDeaths": "17",
+        "womenAssault": "12",
+        "total": "1764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "2",
+        "rape": "22",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "155",
+        "vehicleTheft": "89",
+        "riots": "17",
+        "dowryDeaths": "9",
+        "womenAssault": "10",
+        "total": "1515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "5",
+        "rape": "15",
+        "kidnapping": "26",
+        "dacoity": "3",
+        "robbery": "13",
+        "burglary": "127",
+        "vehicleTheft": "128",
+        "riots": "1",
+        "dowryDeaths": "17",
+        "womenAssault": "21",
+        "total": "1828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "3",
+        "rape": "12",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "95",
+        "vehicleTheft": "101",
+        "riots": "0",
+        "dowryDeaths": "4",
+        "womenAssault": "15",
+        "total": "1283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "5",
+        "rape": "10",
+        "kidnapping": "22",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "208",
+        "vehicleTheft": "112",
+        "riots": "1",
+        "dowryDeaths": "11",
+        "womenAssault": "25",
+        "total": "2225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "19",
+        "dacoity": "4",
+        "robbery": "14",
+        "burglary": "209",
+        "vehicleTheft": "118",
+        "riots": "116",
+        "dowryDeaths": "28",
+        "womenAssault": "19",
+        "total": "2181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "6",
+        "rape": "42",
+        "kidnapping": "66",
+        "dacoity": "4",
+        "robbery": "23",
+        "burglary": "227",
+        "vehicleTheft": "546",
+        "riots": "156",
+        "dowryDeaths": "28",
+        "womenAssault": "45",
+        "total": "5585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "17",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "76",
+        "vehicleTheft": "59",
+        "riots": "18",
+        "dowryDeaths": "6",
+        "womenAssault": "17",
+        "total": "1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "2",
+        "vehicleTheft": "40",
+        "riots": "3",
+        "dowryDeaths": "7",
+        "womenAssault": "3",
+        "total": "931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "6",
+        "rape": "36",
+        "kidnapping": "55",
+        "dacoity": "16",
+        "robbery": "33",
+        "burglary": "283",
+        "vehicleTheft": "746",
+        "riots": "67",
+        "dowryDeaths": "21",
+        "womenAssault": "21",
+        "total": "4077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "1",
+        "rape": "16",
+        "kidnapping": "43",
+        "dacoity": "2",
+        "robbery": "20",
+        "burglary": "186",
+        "vehicleTheft": "247",
+        "riots": "33",
+        "dowryDeaths": "12",
+        "womenAssault": "18",
+        "total": "2464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "13",
+        "burglary": "87",
+        "vehicleTheft": "86",
+        "riots": "50",
+        "dowryDeaths": "14",
+        "womenAssault": "17",
+        "total": "1336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "17",
+        "rape": "7",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "60",
+        "vehicleTheft": "84",
+        "riots": "49",
+        "dowryDeaths": "14",
+        "womenAssault": "2",
+        "total": "1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "84",
+        "vehicleTheft": "93",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "13",
+        "total": "1226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "3",
+        "rape": "31",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "19",
+        "burglary": "159",
+        "vehicleTheft": "210",
+        "riots": "34",
+        "dowryDeaths": "15",
+        "womenAssault": "23",
+        "total": "2352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "4",
+        "rape": "21",
+        "kidnapping": "11",
+        "dacoity": "1",
+        "robbery": "13",
+        "burglary": "208",
+        "vehicleTheft": "173",
+        "riots": "0",
+        "dowryDeaths": "15",
+        "womenAssault": "28",
+        "total": "2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "20",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "66",
+        "vehicleTheft": "38",
+        "riots": "52",
+        "dowryDeaths": "8",
+        "womenAssault": "18",
+        "total": "1233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "82",
+        "vehicleTheft": "116",
+        "riots": "1",
+        "dowryDeaths": "4",
+        "womenAssault": "53",
+        "total": "1169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "6",
+        "rape": "38",
+        "kidnapping": "19",
+        "dacoity": "6",
+        "robbery": "13",
+        "burglary": "131",
+        "vehicleTheft": "289",
+        "riots": "27",
+        "dowryDeaths": "4",
+        "womenAssault": "14",
+        "total": "1817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "24",
+        "dacoity": "2",
+        "robbery": "10",
+        "burglary": "89",
+        "vehicleTheft": "109",
+        "riots": "35",
+        "dowryDeaths": "8",
+        "womenAssault": "24",
+        "total": "1558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "2",
+        "rape": "29",
+        "kidnapping": "19",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "206",
+        "vehicleTheft": "253",
+        "riots": "35",
+        "dowryDeaths": "15",
+        "womenAssault": "14",
+        "total": "1867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "159",
+        "vehicleTheft": "113",
+        "riots": "14",
+        "dowryDeaths": "9",
+        "womenAssault": "17",
+        "total": "1531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "4",
+        "rape": "13",
+        "kidnapping": "25",
+        "dacoity": "3",
+        "robbery": "20",
+        "burglary": "159",
+        "vehicleTheft": "201",
+        "riots": "8",
+        "dowryDeaths": "16",
+        "womenAssault": "22",
+        "total": "2051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "5",
+        "rape": "16",
+        "kidnapping": "17",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "105",
+        "vehicleTheft": "102",
+        "riots": "0",
+        "dowryDeaths": "7",
+        "womenAssault": "10",
+        "total": "1331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "19",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "15",
+        "burglary": "179",
+        "vehicleTheft": "116",
+        "riots": "2",
+        "dowryDeaths": "9",
+        "womenAssault": "19",
+        "total": "2064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "3",
+        "rape": "18",
+        "kidnapping": "24",
+        "dacoity": "3",
+        "robbery": "19",
+        "burglary": "190",
+        "vehicleTheft": "180",
+        "riots": "134",
+        "dowryDeaths": "19",
+        "womenAssault": "20",
+        "total": "2184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "4",
+        "rape": "39",
+        "kidnapping": "91",
+        "dacoity": "2",
+        "robbery": "30",
+        "burglary": "285",
+        "vehicleTheft": "876",
+        "riots": "190",
+        "dowryDeaths": "18",
+        "womenAssault": "42",
+        "total": "5051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "108",
+        "vehicleTheft": "93",
+        "riots": "11",
+        "dowryDeaths": "5",
+        "womenAssault": "17",
+        "total": "1282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "11",
+        "dowryDeaths": "7",
+        "womenAssault": "2",
+        "total": "859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "6",
+        "rape": "17",
+        "kidnapping": "38",
+        "dacoity": "8",
+        "robbery": "40",
+        "burglary": "413",
+        "vehicleTheft": "1112",
+        "riots": "67",
+        "dowryDeaths": "10",
+        "womenAssault": "20",
+        "total": "3969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "22",
+        "dacoity": "3",
+        "robbery": "28",
+        "burglary": "248",
+        "vehicleTheft": "272",
+        "riots": "45",
+        "dowryDeaths": "19",
+        "womenAssault": "31",
+        "total": "2709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "4",
+        "rape": "13",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "28",
+        "burglary": "96",
+        "vehicleTheft": "98",
+        "riots": "53",
+        "dowryDeaths": "11",
+        "womenAssault": "16",
+        "total": "1343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "12",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "73",
+        "vehicleTheft": "119",
+        "riots": "69",
+        "dowryDeaths": "17",
+        "womenAssault": "2",
+        "total": "1231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "3",
+        "rape": "19",
+        "kidnapping": "11",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "120",
+        "vehicleTheft": "72",
+        "riots": "0",
+        "dowryDeaths": "6",
+        "womenAssault": "9",
+        "total": "1286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "8",
+        "rape": "50",
+        "kidnapping": "31",
+        "dacoity": "5",
+        "robbery": "27",
+        "burglary": "215",
+        "vehicleTheft": "299",
+        "riots": "44",
+        "dowryDeaths": "14",
+        "womenAssault": "39",
+        "total": "2990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "2",
+        "rape": "24",
+        "kidnapping": "15",
+        "dacoity": "16",
+        "robbery": "18",
+        "burglary": "220",
+        "vehicleTheft": "171",
+        "riots": "0",
+        "dowryDeaths": "5",
+        "womenAssault": "24",
+        "total": "2164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "13",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "71",
+        "vehicleTheft": "57",
+        "riots": "49",
+        "dowryDeaths": "6",
+        "womenAssault": "13",
+        "total": "1084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "34",
+        "kidnapping": "9",
+        "dacoity": "14",
+        "robbery": "10",
+        "burglary": "37",
+        "vehicleTheft": "127",
+        "riots": "91",
+        "dowryDeaths": "7",
+        "womenAssault": "12",
+        "total": "1567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "139",
+        "vehicleTheft": "120",
+        "riots": "4",
+        "dowryDeaths": "2",
+        "womenAssault": "7",
+        "total": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "7",
+        "rape": "56",
+        "kidnapping": "35",
+        "dacoity": "9",
+        "robbery": "34",
+        "burglary": "176",
+        "vehicleTheft": "376",
+        "riots": "32",
+        "dowryDeaths": "11",
+        "womenAssault": "11",
+        "total": "2138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "13",
+        "kidnapping": "20",
+        "dacoity": "10",
+        "robbery": "16",
+        "burglary": "117",
+        "vehicleTheft": "141",
+        "riots": "36",
+        "dowryDeaths": "9",
+        "womenAssault": "21",
+        "total": "1753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "1",
+        "rape": "29",
+        "kidnapping": "16",
+        "dacoity": "3",
+        "robbery": "31",
+        "burglary": "209",
+        "vehicleTheft": "267",
+        "riots": "37",
+        "dowryDeaths": "9",
+        "womenAssault": "17",
+        "total": "2003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "16",
+        "dacoity": "3",
+        "robbery": "11",
+        "burglary": "186",
+        "vehicleTheft": "106",
+        "riots": "16",
+        "dowryDeaths": "10",
+        "womenAssault": "17",
+        "total": "1667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "39",
+        "dacoity": "2",
+        "robbery": "35",
+        "burglary": "178",
+        "vehicleTheft": "231",
+        "riots": "8",
+        "dowryDeaths": "14",
+        "womenAssault": "21",
+        "total": "2413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "4",
+        "rape": "14",
+        "kidnapping": "25",
+        "dacoity": "3",
+        "robbery": "12",
+        "burglary": "174",
+        "vehicleTheft": "201",
+        "riots": "0",
+        "dowryDeaths": "4",
+        "womenAssault": "20",
+        "total": "1707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "2",
+        "rape": "19",
+        "kidnapping": "22",
+        "dacoity": "7",
+        "robbery": "18",
+        "burglary": "308",
+        "vehicleTheft": "207",
+        "riots": "3",
+        "dowryDeaths": "9",
+        "womenAssault": "26",
+        "total": "2666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "0",
+        "rape": "35",
+        "kidnapping": "34",
+        "dacoity": "9",
+        "robbery": "21",
+        "burglary": "180",
+        "vehicleTheft": "215",
+        "riots": "159",
+        "dowryDeaths": "19",
+        "womenAssault": "38",
+        "total": "2519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "7",
+        "rape": "40",
+        "kidnapping": "86",
+        "dacoity": "7",
+        "robbery": "36",
+        "burglary": "369",
+        "vehicleTheft": "902",
+        "riots": "138",
+        "dowryDeaths": "14",
+        "womenAssault": "35",
+        "total": "4682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "4",
+        "rape": "18",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "122",
+        "vehicleTheft": "71",
+        "riots": "22",
+        "dowryDeaths": "6",
+        "womenAssault": "17",
+        "total": "1430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "3",
+        "robbery": "6",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "7",
+        "dowryDeaths": "6",
+        "womenAssault": "6",
+        "total": "859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "4",
+        "rape": "30",
+        "kidnapping": "70",
+        "dacoity": "22",
+        "robbery": "69",
+        "burglary": "560",
+        "vehicleTheft": "1601",
+        "riots": "99",
+        "dowryDeaths": "20",
+        "womenAssault": "32",
+        "total": "5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "58",
+        "homicide": "3",
+        "rape": "23",
+        "kidnapping": "31",
+        "dacoity": "1",
+        "robbery": "21",
+        "burglary": "223",
+        "vehicleTheft": "281",
+        "riots": "51",
+        "dowryDeaths": "17",
+        "womenAssault": "19",
+        "total": "3117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "19",
+        "burglary": "98",
+        "vehicleTheft": "101",
+        "riots": "45",
+        "dowryDeaths": "16",
+        "womenAssault": "14",
+        "total": "1257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "6",
+        "rape": "32",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "107",
+        "vehicleTheft": "155",
+        "riots": "103",
+        "dowryDeaths": "13",
+        "womenAssault": "17",
+        "total": "1634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "1",
+        "rape": "25",
+        "kidnapping": "14",
+        "dacoity": "4",
+        "robbery": "18",
+        "burglary": "127",
+        "vehicleTheft": "102",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "14",
+        "total": "1554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "6",
+        "rape": "51",
+        "kidnapping": "40",
+        "dacoity": "6",
+        "robbery": "21",
+        "burglary": "238",
+        "vehicleTheft": "376",
+        "riots": "60",
+        "dowryDeaths": "13",
+        "womenAssault": "35",
+        "total": "3143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "4",
+        "rape": "34",
+        "kidnapping": "24",
+        "dacoity": "4",
+        "robbery": "15",
+        "burglary": "213",
+        "vehicleTheft": "281",
+        "riots": "3",
+        "dowryDeaths": "5",
+        "womenAssault": "10",
+        "total": "2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "26",
+        "dacoity": "7",
+        "robbery": "7",
+        "burglary": "95",
+        "vehicleTheft": "75",
+        "riots": "90",
+        "dowryDeaths": "10",
+        "womenAssault": "32",
+        "total": "1853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "3",
+        "rape": "35",
+        "kidnapping": "14",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "27",
+        "vehicleTheft": "89",
+        "riots": "91",
+        "dowryDeaths": "8",
+        "womenAssault": "24",
+        "total": "1569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "26",
+        "kidnapping": "23",
+        "dacoity": "4",
+        "robbery": "27",
+        "burglary": "73",
+        "vehicleTheft": "159",
+        "riots": "69",
+        "dowryDeaths": "5",
+        "womenAssault": "21",
+        "total": "1523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "119",
+        "vehicleTheft": "110",
+        "riots": "2",
+        "dowryDeaths": "2",
+        "womenAssault": "13",
+        "total": "1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "6",
+        "rape": "65",
+        "kidnapping": "46",
+        "dacoity": "4",
+        "robbery": "17",
+        "burglary": "210",
+        "vehicleTheft": "471",
+        "riots": "70",
+        "dowryDeaths": "19",
+        "womenAssault": "18",
+        "total": "2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "15",
+        "dacoity": "6",
+        "robbery": "23",
+        "burglary": "164",
+        "vehicleTheft": "144",
+        "riots": "52",
+        "dowryDeaths": "4",
+        "womenAssault": "23",
+        "total": "2003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "0",
+        "rape": "34",
+        "kidnapping": "23",
+        "dacoity": "3",
+        "robbery": "19",
+        "burglary": "243",
+        "vehicleTheft": "306",
+        "riots": "43",
+        "dowryDeaths": "22",
+        "womenAssault": "13",
+        "total": "2226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "37",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "11",
+        "dacoity": "4",
+        "robbery": "13",
+        "burglary": "171",
+        "vehicleTheft": "121",
+        "riots": "23",
+        "dowryDeaths": "4",
+        "womenAssault": "14",
+        "total": "1847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "69",
+        "homicide": "3",
+        "rape": "31",
+        "kidnapping": "67",
+        "dacoity": "7",
+        "robbery": "27",
+        "burglary": "185",
+        "vehicleTheft": "266",
+        "riots": "12",
+        "dowryDeaths": "26",
+        "womenAssault": "46",
+        "total": "2940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "28",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "169",
+        "vehicleTheft": "267",
+        "riots": "0",
+        "dowryDeaths": "8",
+        "womenAssault": "19",
+        "total": "1809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "6",
+        "rape": "23",
+        "kidnapping": "15",
+        "dacoity": "5",
+        "robbery": "11",
+        "burglary": "253",
+        "vehicleTheft": "174",
+        "riots": "0",
+        "dowryDeaths": "16",
+        "womenAssault": "11",
+        "total": "2378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "2",
+        "rape": "17",
+        "kidnapping": "32",
+        "dacoity": "6",
+        "robbery": "26",
+        "burglary": "231",
+        "vehicleTheft": "230",
+        "riots": "125",
+        "dowryDeaths": "17",
+        "womenAssault": "23",
+        "total": "2573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "2",
+        "rape": "37",
+        "kidnapping": "154",
+        "dacoity": "11",
+        "robbery": "32",
+        "burglary": "329",
+        "vehicleTheft": "973",
+        "riots": "153",
+        "dowryDeaths": "19",
+        "womenAssault": "23",
+        "total": "4520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "4",
+        "rape": "7",
+        "kidnapping": "25",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "107",
+        "vehicleTheft": "120",
+        "riots": "22",
+        "dowryDeaths": "2",
+        "womenAssault": "16",
+        "total": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "3",
+        "robbery": "18",
+        "burglary": "1",
+        "vehicleTheft": "73",
+        "riots": "6",
+        "dowryDeaths": "5",
+        "womenAssault": "6",
+        "total": "1139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "93",
+        "homicide": "4",
+        "rape": "40",
+        "kidnapping": "111",
+        "dacoity": "32",
+        "robbery": "123",
+        "burglary": "724",
+        "vehicleTheft": "1530",
+        "riots": "97",
+        "dowryDeaths": "17",
+        "womenAssault": "36",
+        "total": "6355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "4",
+        "rape": "21",
+        "kidnapping": "47",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "200",
+        "vehicleTheft": "273",
+        "riots": "30",
+        "dowryDeaths": "7",
+        "womenAssault": "19",
+        "total": "2986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "55",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "30",
+        "dacoity": "4",
+        "robbery": "15",
+        "burglary": "104",
+        "vehicleTheft": "139",
+        "riots": "53",
+        "dowryDeaths": "19",
+        "womenAssault": "10",
+        "total": "1560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "8",
+        "rape": "19",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "16",
+        "burglary": "147",
+        "vehicleTheft": "145",
+        "riots": "91",
+        "dowryDeaths": "12",
+        "womenAssault": "14",
+        "total": "1654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "16",
+        "dacoity": "7",
+        "robbery": "9",
+        "burglary": "144",
+        "vehicleTheft": "120",
+        "riots": "0",
+        "dowryDeaths": "14",
+        "womenAssault": "26",
+        "total": "1588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "10",
+        "rape": "47",
+        "kidnapping": "26",
+        "dacoity": "4",
+        "robbery": "26",
+        "burglary": "291",
+        "vehicleTheft": "390",
+        "riots": "60",
+        "dowryDeaths": "13",
+        "womenAssault": "28",
+        "total": "3095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "18",
+        "dacoity": "4",
+        "robbery": "12",
+        "burglary": "255",
+        "vehicleTheft": "283",
+        "riots": "0",
+        "dowryDeaths": "11",
+        "womenAssault": "11",
+        "total": "2492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "25",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "112",
+        "vehicleTheft": "75",
+        "riots": "79",
+        "dowryDeaths": "14",
+        "womenAssault": "17",
+        "total": "1686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "3",
+        "rape": "44",
+        "kidnapping": "28",
+        "dacoity": "20",
+        "robbery": "17",
+        "burglary": "24",
+        "vehicleTheft": "131",
+        "riots": "162",
+        "dowryDeaths": "13",
+        "womenAssault": "18",
+        "total": "1677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "22",
+        "dacoity": "7",
+        "robbery": "24",
+        "burglary": "89",
+        "vehicleTheft": "186",
+        "riots": "88",
+        "dowryDeaths": "9",
+        "womenAssault": "21",
+        "total": "1670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "3",
+        "rape": "11",
+        "kidnapping": "25",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "103",
+        "vehicleTheft": "113",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "1264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "5",
+        "rape": "34",
+        "kidnapping": "33",
+        "dacoity": "4",
+        "robbery": "23",
+        "burglary": "225",
+        "vehicleTheft": "439",
+        "riots": "37",
+        "dowryDeaths": "11",
+        "womenAssault": "13",
+        "total": "2368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "3",
+        "rape": "22",
+        "kidnapping": "35",
+        "dacoity": "7",
+        "robbery": "35",
+        "burglary": "159",
+        "vehicleTheft": "182",
+        "riots": "61",
+        "dowryDeaths": "12",
+        "womenAssault": "30",
+        "total": "2318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "30",
+        "dacoity": "7",
+        "robbery": "20",
+        "burglary": "209",
+        "vehicleTheft": "275",
+        "riots": "56",
+        "dowryDeaths": "31",
+        "womenAssault": "18",
+        "total": "2306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "2",
+        "rape": "23",
+        "kidnapping": "21",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "154",
+        "vehicleTheft": "183",
+        "riots": "38",
+        "dowryDeaths": "5",
+        "womenAssault": "21",
+        "total": "1972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "75",
+        "homicide": "5",
+        "rape": "24",
+        "kidnapping": "42",
+        "dacoity": "8",
+        "robbery": "26",
+        "burglary": "210",
+        "vehicleTheft": "213",
+        "riots": "10",
+        "dowryDeaths": "16",
+        "womenAssault": "30",
+        "total": "2664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "2",
+        "rape": "25",
+        "kidnapping": "35",
+        "dacoity": "1",
+        "robbery": "21",
+        "burglary": "160",
+        "vehicleTheft": "252",
+        "riots": "3",
+        "dowryDeaths": "6",
+        "womenAssault": "17",
+        "total": "1782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "35",
+        "kidnapping": "55",
+        "dacoity": "2",
+        "robbery": "15",
+        "burglary": "266",
+        "vehicleTheft": "217",
+        "riots": "1",
+        "dowryDeaths": "11",
+        "womenAssault": "27",
+        "total": "2560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "11",
+        "rape": "33",
+        "kidnapping": "47",
+        "dacoity": "12",
+        "robbery": "25",
+        "burglary": "241",
+        "vehicleTheft": "291",
+        "riots": "158",
+        "dowryDeaths": "14",
+        "womenAssault": "24",
+        "total": "2739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "5",
+        "rape": "46",
+        "kidnapping": "109",
+        "dacoity": "4",
+        "robbery": "32",
+        "burglary": "276",
+        "vehicleTheft": "691",
+        "riots": "145",
+        "dowryDeaths": "21",
+        "womenAssault": "23",
+        "total": "4516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "4",
+        "rape": "12",
+        "kidnapping": "25",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "126",
+        "vehicleTheft": "162",
+        "riots": "23",
+        "dowryDeaths": "4",
+        "womenAssault": "16",
+        "total": "1621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "22",
+        "burglary": "1",
+        "vehicleTheft": "108",
+        "riots": "11",
+        "dowryDeaths": "6",
+        "womenAssault": "7",
+        "total": "1260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "80",
+        "homicide": "5",
+        "rape": "35",
+        "kidnapping": "89",
+        "dacoity": "36",
+        "robbery": "111",
+        "burglary": "698",
+        "vehicleTheft": "2063",
+        "riots": "117",
+        "dowryDeaths": "19",
+        "womenAssault": "27",
+        "total": "7170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "5",
+        "rape": "23",
+        "kidnapping": "43",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "214",
+        "vehicleTheft": "332",
+        "riots": "52",
+        "dowryDeaths": "19",
+        "womenAssault": "25",
+        "total": "3166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "62",
+        "homicide": "4",
+        "rape": "22",
+        "kidnapping": "26",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "138",
+        "vehicleTheft": "152",
+        "riots": "58",
+        "dowryDeaths": "20",
+        "womenAssault": "13",
+        "total": "1715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "14",
+        "rape": "38",
+        "kidnapping": "29",
+        "dacoity": "1",
+        "robbery": "18",
+        "burglary": "158",
+        "vehicleTheft": "189",
+        "riots": "103",
+        "dowryDeaths": "18",
+        "womenAssault": "21",
+        "total": "1767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "16",
+        "dacoity": "5",
+        "robbery": "6",
+        "burglary": "107",
+        "vehicleTheft": "116",
+        "riots": "0",
+        "dowryDeaths": "13",
+        "womenAssault": "14",
+        "total": "1522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "7",
+        "rape": "50",
+        "kidnapping": "35",
+        "dacoity": "6",
+        "robbery": "23",
+        "burglary": "265",
+        "vehicleTheft": "373",
+        "riots": "28",
+        "dowryDeaths": "17",
+        "womenAssault": "31",
+        "total": "3231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "2",
+        "rape": "41",
+        "kidnapping": "30",
+        "dacoity": "2",
+        "robbery": "23",
+        "burglary": "244",
+        "vehicleTheft": "270",
+        "riots": "0",
+        "dowryDeaths": "12",
+        "womenAssault": "11",
+        "total": "2413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "26",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "102",
+        "vehicleTheft": "102",
+        "riots": "52",
+        "dowryDeaths": "16",
+        "womenAssault": "17",
+        "total": "1724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "21",
+        "dacoity": "4",
+        "robbery": "11",
+        "burglary": "23",
+        "vehicleTheft": "124",
+        "riots": "96",
+        "dowryDeaths": "7",
+        "womenAssault": "6",
+        "total": "1262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "3",
+        "rape": "29",
+        "kidnapping": "32",
+        "dacoity": "5",
+        "robbery": "22",
+        "burglary": "70",
+        "vehicleTheft": "268",
+        "riots": "115",
+        "dowryDeaths": "15",
+        "womenAssault": "25",
+        "total": "1990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "26",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "157",
+        "vehicleTheft": "201",
+        "riots": "3",
+        "dowryDeaths": "5",
+        "womenAssault": "6",
+        "total": "1569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "12",
+        "rape": "30",
+        "kidnapping": "52",
+        "dacoity": "3",
+        "robbery": "27",
+        "burglary": "195",
+        "vehicleTheft": "613",
+        "riots": "63",
+        "dowryDeaths": "13",
+        "womenAssault": "16",
+        "total": "2702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "4",
+        "rape": "23",
+        "kidnapping": "27",
+        "dacoity": "4",
+        "robbery": "29",
+        "burglary": "170",
+        "vehicleTheft": "253",
+        "riots": "47",
+        "dowryDeaths": "13",
+        "womenAssault": "31",
+        "total": "2361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "67",
+        "homicide": "3",
+        "rape": "39",
+        "kidnapping": "32",
+        "dacoity": "4",
+        "robbery": "30",
+        "burglary": "227",
+        "vehicleTheft": "369",
+        "riots": "75",
+        "dowryDeaths": "17",
+        "womenAssault": "25",
+        "total": "2642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "31",
+        "kidnapping": "25",
+        "dacoity": "3",
+        "robbery": "8",
+        "burglary": "146",
+        "vehicleTheft": "173",
+        "riots": "26",
+        "dowryDeaths": "9",
+        "womenAssault": "14",
+        "total": "1958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "84",
+        "homicide": "4",
+        "rape": "36",
+        "kidnapping": "59",
+        "dacoity": "11",
+        "robbery": "69",
+        "burglary": "229",
+        "vehicleTheft": "331",
+        "riots": "11",
+        "dowryDeaths": "24",
+        "womenAssault": "31",
+        "total": "3383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "2",
+        "rape": "28",
+        "kidnapping": "43",
+        "dacoity": "3",
+        "robbery": "20",
+        "burglary": "196",
+        "vehicleTheft": "276",
+        "riots": "0",
+        "dowryDeaths": "9",
+        "womenAssault": "25",
+        "total": "2073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "20",
+        "dacoity": "5",
+        "robbery": "21",
+        "burglary": "244",
+        "vehicleTheft": "260",
+        "riots": "3",
+        "dowryDeaths": "14",
+        "womenAssault": "18",
+        "total": "2345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "6",
+        "rape": "37",
+        "kidnapping": "74",
+        "dacoity": "5",
+        "robbery": "23",
+        "burglary": "176",
+        "vehicleTheft": "295",
+        "riots": "172",
+        "dowryDeaths": "17",
+        "womenAssault": "37",
+        "total": "2732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "8",
+        "rape": "35",
+        "kidnapping": "86",
+        "dacoity": "5",
+        "robbery": "23",
+        "burglary": "258",
+        "vehicleTheft": "887",
+        "riots": "129",
+        "dowryDeaths": "17",
+        "womenAssault": "26",
+        "total": "4409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "3",
+        "rape": "9",
+        "kidnapping": "47",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "107",
+        "vehicleTheft": "161",
+        "riots": "17",
+        "dowryDeaths": "12",
+        "womenAssault": "10",
+        "total": "1627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "0",
+        "vehicleTheft": "104",
+        "riots": "10",
+        "dowryDeaths": "10",
+        "womenAssault": "2",
+        "total": "1264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "84",
+        "homicide": "3",
+        "rape": "29",
+        "kidnapping": "59",
+        "dacoity": "16",
+        "robbery": "127",
+        "burglary": "556",
+        "vehicleTheft": "1889",
+        "riots": "89",
+        "dowryDeaths": "24",
+        "womenAssault": "21",
+        "total": "6340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "56",
+        "homicide": "4",
+        "rape": "33",
+        "kidnapping": "42",
+        "dacoity": "7",
+        "robbery": "43",
+        "burglary": "216",
+        "vehicleTheft": "385",
+        "riots": "43",
+        "dowryDeaths": "15",
+        "womenAssault": "27",
+        "total": "3346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "66",
+        "homicide": "8",
+        "rape": "20",
+        "kidnapping": "27",
+        "dacoity": "7",
+        "robbery": "30",
+        "burglary": "145",
+        "vehicleTheft": "223",
+        "riots": "58",
+        "dowryDeaths": "13",
+        "womenAssault": "20",
+        "total": "1797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "1",
+        "rape": "35",
+        "kidnapping": "46",
+        "dacoity": "7",
+        "robbery": "29",
+        "burglary": "281",
+        "vehicleTheft": "262",
+        "riots": "119",
+        "dowryDeaths": "11",
+        "womenAssault": "33",
+        "total": "2373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "3",
+        "rape": "24",
+        "kidnapping": "19",
+        "dacoity": "4",
+        "robbery": "22",
+        "burglary": "124",
+        "vehicleTheft": "173",
+        "riots": "0",
+        "dowryDeaths": "13",
+        "womenAssault": "20",
+        "total": "1744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "48",
+        "kidnapping": "51",
+        "dacoity": "11",
+        "robbery": "22",
+        "burglary": "263",
+        "vehicleTheft": "392",
+        "riots": "48",
+        "dowryDeaths": "17",
+        "womenAssault": "32",
+        "total": "3351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "1",
+        "rape": "43",
+        "kidnapping": "57",
+        "dacoity": "13",
+        "robbery": "34",
+        "burglary": "214",
+        "vehicleTheft": "309",
+        "riots": "0",
+        "dowryDeaths": "5",
+        "womenAssault": "20",
+        "total": "2485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "21",
+        "dacoity": "6",
+        "robbery": "12",
+        "burglary": "113",
+        "vehicleTheft": "75",
+        "riots": "77",
+        "dowryDeaths": "10",
+        "womenAssault": "13",
+        "total": "1713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "16",
+        "kidnapping": "24",
+        "dacoity": "11",
+        "robbery": "16",
+        "burglary": "32",
+        "vehicleTheft": "168",
+        "riots": "92",
+        "dowryDeaths": "5",
+        "womenAssault": "11",
+        "total": "1604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "6",
+        "rape": "33",
+        "kidnapping": "35",
+        "dacoity": "10",
+        "robbery": "21",
+        "burglary": "56",
+        "vehicleTheft": "378",
+        "riots": "134",
+        "dowryDeaths": "12",
+        "womenAssault": "23",
+        "total": "2337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "18",
+        "kidnapping": "17",
+        "dacoity": "8",
+        "robbery": "23",
+        "burglary": "181",
+        "vehicleTheft": "212",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "1554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "64",
+        "homicide": "9",
+        "rape": "45",
+        "kidnapping": "51",
+        "dacoity": "2",
+        "robbery": "32",
+        "burglary": "189",
+        "vehicleTheft": "540",
+        "riots": "34",
+        "dowryDeaths": "19",
+        "womenAssault": "26",
+        "total": "2812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "3",
+        "rape": "19",
+        "kidnapping": "36",
+        "dacoity": "4",
+        "robbery": "27",
+        "burglary": "131",
+        "vehicleTheft": "244",
+        "riots": "36",
+        "dowryDeaths": "14",
+        "womenAssault": "19",
+        "total": "2125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "6",
+        "rape": "36",
+        "kidnapping": "43",
+        "dacoity": "8",
+        "robbery": "46",
+        "burglary": "209",
+        "vehicleTheft": "462",
+        "riots": "68",
+        "dowryDeaths": "18",
+        "womenAssault": "30",
+        "total": "2838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "2",
+        "rape": "24",
+        "kidnapping": "43",
+        "dacoity": "1",
+        "robbery": "14",
+        "burglary": "134",
+        "vehicleTheft": "195",
+        "riots": "29",
+        "dowryDeaths": "6",
+        "womenAssault": "10",
+        "total": "1722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "57",
+        "dacoity": "12",
+        "robbery": "69",
+        "burglary": "257",
+        "vehicleTheft": "491",
+        "riots": "5",
+        "dowryDeaths": "17",
+        "womenAssault": "21",
+        "total": "3429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "58",
+        "dacoity": "5",
+        "robbery": "20",
+        "burglary": "191",
+        "vehicleTheft": "344",
+        "riots": "1",
+        "dowryDeaths": "11",
+        "womenAssault": "20",
+        "total": "2282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "33",
+        "dacoity": "4",
+        "robbery": "18",
+        "burglary": "288",
+        "vehicleTheft": "424",
+        "riots": "3",
+        "dowryDeaths": "9",
+        "womenAssault": "20",
+        "total": "2848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "52",
+        "dacoity": "7",
+        "robbery": "43",
+        "burglary": "264",
+        "vehicleTheft": "347",
+        "riots": "171",
+        "dowryDeaths": "22",
+        "womenAssault": "45",
+        "total": "2871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "70",
+        "homicide": "5",
+        "rape": "51",
+        "kidnapping": "102",
+        "dacoity": "9",
+        "robbery": "20",
+        "burglary": "277",
+        "vehicleTheft": "1352",
+        "riots": "178",
+        "dowryDeaths": "23",
+        "womenAssault": "27",
+        "total": "4920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "21",
+        "kidnapping": "33",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "119",
+        "vehicleTheft": "168",
+        "riots": "14",
+        "dowryDeaths": "5",
+        "womenAssault": "13",
+        "total": "1385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "18",
+        "burglary": "1",
+        "vehicleTheft": "109",
+        "riots": "23",
+        "dowryDeaths": "5",
+        "womenAssault": "8",
+        "total": "1199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "84",
+        "homicide": "3",
+        "rape": "45",
+        "kidnapping": "58",
+        "dacoity": "5",
+        "robbery": "119",
+        "burglary": "492",
+        "vehicleTheft": "2480",
+        "riots": "96",
+        "dowryDeaths": "22",
+        "womenAssault": "30",
+        "total": "6736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "91",
+        "homicide": "1",
+        "rape": "25",
+        "kidnapping": "84",
+        "dacoity": "5",
+        "robbery": "51",
+        "burglary": "320",
+        "vehicleTheft": "532",
+        "riots": "78",
+        "dowryDeaths": "13",
+        "womenAssault": "24",
+        "total": "3821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "5",
+        "rape": "36",
+        "kidnapping": "42",
+        "dacoity": "7",
+        "robbery": "37",
+        "burglary": "185",
+        "vehicleTheft": "276",
+        "riots": "69",
+        "dowryDeaths": "12",
+        "womenAssault": "27",
+        "total": "2137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "53",
+        "homicide": "4",
+        "rape": "29",
+        "kidnapping": "35",
+        "dacoity": "0",
+        "robbery": "43",
+        "burglary": "248",
+        "vehicleTheft": "366",
+        "riots": "116",
+        "dowryDeaths": "17",
+        "womenAssault": "27",
+        "total": "2435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "2",
+        "rape": "28",
+        "kidnapping": "27",
+        "dacoity": "6",
+        "robbery": "19",
+        "burglary": "160",
+        "vehicleTheft": "202",
+        "riots": "0",
+        "dowryDeaths": "11",
+        "womenAssault": "15",
+        "total": "1668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "2",
+        "rape": "52",
+        "kidnapping": "33",
+        "dacoity": "5",
+        "robbery": "24",
+        "burglary": "269",
+        "vehicleTheft": "529",
+        "riots": "53",
+        "dowryDeaths": "21",
+        "womenAssault": "29",
+        "total": "3447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "2",
+        "rape": "36",
+        "kidnapping": "34",
+        "dacoity": "2",
+        "robbery": "22",
+        "burglary": "237",
+        "vehicleTheft": "484",
+        "riots": "0",
+        "dowryDeaths": "13",
+        "womenAssault": "9",
+        "total": "2536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "3",
+        "rape": "28",
+        "kidnapping": "40",
+        "dacoity": "9",
+        "robbery": "27",
+        "burglary": "121",
+        "vehicleTheft": "154",
+        "riots": "112",
+        "dowryDeaths": "7",
+        "womenAssault": "25",
+        "total": "1835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "3",
+        "rape": "28",
+        "kidnapping": "36",
+        "dacoity": "13",
+        "robbery": "17",
+        "burglary": "63",
+        "vehicleTheft": "269",
+        "riots": "130",
+        "dowryDeaths": "5",
+        "womenAssault": "12",
+        "total": "1909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "6",
+        "rape": "41",
+        "kidnapping": "41",
+        "dacoity": "11",
+        "robbery": "26",
+        "burglary": "66",
+        "vehicleTheft": "441",
+        "riots": "150",
+        "dowryDeaths": "14",
+        "womenAssault": "30",
+        "total": "2306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "16",
+        "dacoity": "4",
+        "robbery": "7",
+        "burglary": "147",
+        "vehicleTheft": "202",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "10",
+        "total": "1328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "10",
+        "rape": "55",
+        "kidnapping": "65",
+        "dacoity": "7",
+        "robbery": "41",
+        "burglary": "176",
+        "vehicleTheft": "639",
+        "riots": "88",
+        "dowryDeaths": "13",
+        "womenAssault": "22",
+        "total": "2809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "25",
+        "kidnapping": "33",
+        "dacoity": "25",
+        "robbery": "63",
+        "burglary": "171",
+        "vehicleTheft": "409",
+        "riots": "40",
+        "dowryDeaths": "14",
+        "womenAssault": "16",
+        "total": "2351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "6",
+        "rape": "51",
+        "kidnapping": "32",
+        "dacoity": "7",
+        "robbery": "34",
+        "burglary": "276",
+        "vehicleTheft": "616",
+        "riots": "59",
+        "dowryDeaths": "17",
+        "womenAssault": "26",
+        "total": "3077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "1",
+        "rape": "39",
+        "kidnapping": "47",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "190",
+        "vehicleTheft": "272",
+        "riots": "28",
+        "dowryDeaths": "8",
+        "womenAssault": "9",
+        "total": "2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "3",
+        "rape": "27",
+        "kidnapping": "75",
+        "dacoity": "9",
+        "robbery": "62",
+        "burglary": "215",
+        "vehicleTheft": "668",
+        "riots": "3",
+        "dowryDeaths": "26",
+        "womenAssault": "32",
+        "total": "3475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "2",
+        "rape": "32",
+        "kidnapping": "42",
+        "dacoity": "6",
+        "robbery": "20",
+        "burglary": "160",
+        "vehicleTheft": "360",
+        "riots": "1",
+        "dowryDeaths": "6",
+        "womenAssault": "20",
+        "total": "2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "34",
+        "dacoity": "8",
+        "robbery": "29",
+        "burglary": "410",
+        "vehicleTheft": "384",
+        "riots": "0",
+        "dowryDeaths": "5",
+        "womenAssault": "28",
+        "total": "2969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "2",
+        "rape": "41",
+        "kidnapping": "43",
+        "dacoity": "12",
+        "robbery": "25",
+        "burglary": "274",
+        "vehicleTheft": "481",
+        "riots": "172",
+        "dowryDeaths": "18",
+        "womenAssault": "26",
+        "total": "3015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "5",
+        "rape": "54",
+        "kidnapping": "105",
+        "dacoity": "10",
+        "robbery": "37",
+        "burglary": "356",
+        "vehicleTheft": "1439",
+        "riots": "173",
+        "dowryDeaths": "10",
+        "womenAssault": "31",
+        "total": "5357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "25",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "125",
+        "vehicleTheft": "204",
+        "riots": "30",
+        "dowryDeaths": "7",
+        "womenAssault": "6",
+        "total": "1334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "6",
+        "robbery": "18",
+        "burglary": "4",
+        "vehicleTheft": "99",
+        "riots": "27",
+        "dowryDeaths": "4",
+        "womenAssault": "2",
+        "total": "1265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "89",
+        "homicide": "4",
+        "rape": "40",
+        "kidnapping": "49",
+        "dacoity": "12",
+        "robbery": "79",
+        "burglary": "535",
+        "vehicleTheft": "2800",
+        "riots": "112",
+        "dowryDeaths": "25",
+        "womenAssault": "27",
+        "total": "6640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "73",
+        "homicide": "2",
+        "rape": "36",
+        "kidnapping": "83",
+        "dacoity": "8",
+        "robbery": "45",
+        "burglary": "388",
+        "vehicleTheft": "797",
+        "riots": "102",
+        "dowryDeaths": "14",
+        "womenAssault": "37",
+        "total": "4371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "31",
+        "dacoity": "10",
+        "robbery": "31",
+        "burglary": "157",
+        "vehicleTheft": "277",
+        "riots": "81",
+        "dowryDeaths": "12",
+        "womenAssault": "20",
+        "total": "2062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "4",
+        "rape": "37",
+        "kidnapping": "32",
+        "dacoity": "0",
+        "robbery": "34",
+        "burglary": "252",
+        "vehicleTheft": "404",
+        "riots": "105",
+        "dowryDeaths": "15",
+        "womenAssault": "15",
+        "total": "2271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "4",
+        "rape": "20",
+        "kidnapping": "23",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "218",
+        "vehicleTheft": "200",
+        "riots": "0",
+        "dowryDeaths": "8",
+        "womenAssault": "18",
+        "total": "1855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "46",
+        "homicide": "5",
+        "rape": "62",
+        "kidnapping": "22",
+        "dacoity": "7",
+        "robbery": "25",
+        "burglary": "218",
+        "vehicleTheft": "635",
+        "riots": "52",
+        "dowryDeaths": "18",
+        "womenAssault": "25",
+        "total": "3202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "2",
+        "rape": "29",
+        "kidnapping": "34",
+        "dacoity": "7",
+        "robbery": "18",
+        "burglary": "216",
+        "vehicleTheft": "397",
+        "riots": "0",
+        "dowryDeaths": "7",
+        "womenAssault": "22",
+        "total": "2151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "26",
+        "kidnapping": "46",
+        "dacoity": "14",
+        "robbery": "20",
+        "burglary": "184",
+        "vehicleTheft": "266",
+        "riots": "73",
+        "dowryDeaths": "11",
+        "womenAssault": "22",
+        "total": "2011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "3",
+        "rape": "28",
+        "kidnapping": "32",
+        "dacoity": "6",
+        "robbery": "16",
+        "burglary": "38",
+        "vehicleTheft": "286",
+        "riots": "80",
+        "dowryDeaths": "7",
+        "womenAssault": "9",
+        "total": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "2",
+        "rape": "54",
+        "kidnapping": "54",
+        "dacoity": "4",
+        "robbery": "22",
+        "burglary": "77",
+        "vehicleTheft": "447",
+        "riots": "158",
+        "dowryDeaths": "13",
+        "womenAssault": "32",
+        "total": "2396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "17",
+        "dacoity": "4",
+        "robbery": "14",
+        "burglary": "161",
+        "vehicleTheft": "295",
+        "riots": "0",
+        "dowryDeaths": "2",
+        "womenAssault": "9",
+        "total": "1472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "49",
+        "homicide": "8",
+        "rape": "47",
+        "kidnapping": "90",
+        "dacoity": "11",
+        "robbery": "39",
+        "burglary": "179",
+        "vehicleTheft": "816",
+        "riots": "126",
+        "dowryDeaths": "11",
+        "womenAssault": "29",
+        "total": "3192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "41",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "26",
+        "dacoity": "12",
+        "robbery": "38",
+        "burglary": "217",
+        "vehicleTheft": "464",
+        "riots": "45",
+        "dowryDeaths": "7",
+        "womenAssault": "19",
+        "total": "2404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "77",
+        "homicide": "1",
+        "rape": "57",
+        "kidnapping": "47",
+        "dacoity": "11",
+        "robbery": "53",
+        "burglary": "340",
+        "vehicleTheft": "613",
+        "riots": "100",
+        "dowryDeaths": "9",
+        "womenAssault": "38",
+        "total": "3294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "3",
+        "rape": "21",
+        "kidnapping": "60",
+        "dacoity": "4",
+        "robbery": "14",
+        "burglary": "233",
+        "vehicleTheft": "347",
+        "riots": "29",
+        "dowryDeaths": "16",
+        "womenAssault": "26",
+        "total": "2371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "78",
+        "homicide": "6",
+        "rape": "27",
+        "kidnapping": "54",
+        "dacoity": "3",
+        "robbery": "43",
+        "burglary": "190",
+        "vehicleTheft": "478",
+        "riots": "1",
+        "dowryDeaths": "23",
+        "womenAssault": "19",
+        "total": "2954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "1",
+        "rape": "36",
+        "kidnapping": "50",
+        "dacoity": "6",
+        "robbery": "19",
+        "burglary": "239",
+        "vehicleTheft": "412",
+        "riots": "0",
+        "dowryDeaths": "13",
+        "womenAssault": "14",
+        "total": "2185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.770421,
+          30.3843674
+        ]
+      },
+      "properties": {
+        "name": "AMBALA RURAL",
+        "state": "HARYANA",
+        "address": "Ambala, Haryana, 134002, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "28",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "118",
+        "vehicleTheft": "102",
+        "riots": "0",
+        "dowryDeaths": "7",
+        "womenAssault": "12",
+        "total": "1082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5628848,
+          18.1420729
+        ]
+      },
+      "properties": {
+        "name": "AMBALA URBAN",
+        "state": "HARYANA",
+        "address": "Ambala, Kamalapur mandal, Warangal Urban, Telangana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "3",
+        "rape": "21",
+        "kidnapping": "75",
+        "dacoity": "0",
+        "robbery": "21",
+        "burglary": "362",
+        "vehicleTheft": "361",
+        "riots": "1",
+        "dowryDeaths": "5",
+        "womenAssault": "23",
+        "total": "2342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1391283,
+          28.7931703
+        ]
+      },
+      "properties": {
+        "name": "BHIWANI",
+        "state": "HARYANA",
+        "address": "Bhiwani, Bhiwani district, Haryana, 125021, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "81",
+        "homicide": "3",
+        "rape": "28",
+        "kidnapping": "109",
+        "dacoity": "8",
+        "robbery": "52",
+        "burglary": "295",
+        "vehicleTheft": "502",
+        "riots": "122",
+        "dowryDeaths": "19",
+        "womenAssault": "45",
+        "total": "3378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3085626,
+          28.402837
+        ]
+      },
+      "properties": {
+        "name": "FARIDABAD",
+        "state": "HARYANA",
+        "address": "Faridabad, Haryana, 121001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "6",
+        "rape": "47",
+        "kidnapping": "103",
+        "dacoity": "10",
+        "robbery": "34",
+        "burglary": "347",
+        "vehicleTheft": "1495",
+        "riots": "188",
+        "dowryDeaths": "8",
+        "womenAssault": "31",
+        "total": "5023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2074341134146,
+          27.02766825
+        ]
+      },
+      "properties": {
+        "name": "FATEHABAD",
+        "state": "HARYANA",
+        "address": "Fatehabad, Agra, Uttar Pradesh, 283111, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "49",
+        "dacoity": "2",
+        "robbery": "12",
+        "burglary": "145",
+        "vehicleTheft": "257",
+        "riots": "28",
+        "dowryDeaths": "4",
+        "womenAssault": "7",
+        "total": "1535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "HARYANA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "16",
+        "burglary": "1",
+        "vehicleTheft": "94",
+        "riots": "13",
+        "dowryDeaths": "5",
+        "womenAssault": "9",
+        "total": "1121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.00313017217064,
+          28.42766555
+        ]
+      },
+      "properties": {
+        "name": "GURGAON",
+        "state": "HARYANA",
+        "address": "Gurgaon, Gurugram, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "82",
+        "homicide": "3",
+        "rape": "44",
+        "kidnapping": "56",
+        "dacoity": "34",
+        "robbery": "84",
+        "burglary": "495",
+        "vehicleTheft": "2998",
+        "riots": "122",
+        "dowryDeaths": "15",
+        "womenAssault": "18",
+        "total": "7138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.586226,
+          29.9686641
+        ]
+      },
+      "properties": {
+        "name": "HISSAR",
+        "state": "HARYANA",
+        "address": "Hissar Ambala Road, Pehowa, Kurukshetra, Haryana, 132128, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "76",
+        "homicide": "4",
+        "rape": "44",
+        "kidnapping": "114",
+        "dacoity": "6",
+        "robbery": "42",
+        "burglary": "413",
+        "vehicleTheft": "781",
+        "riots": "65",
+        "dowryDeaths": "12",
+        "womenAssault": "39",
+        "total": "4536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68981212035648,
+          28.5336844
+        ]
+      },
+      "properties": {
+        "name": "JHAJJAR",
+        "state": "HARYANA",
+        "address": "Jhajjar, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "64",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "38",
+        "dacoity": "10",
+        "robbery": "35",
+        "burglary": "210",
+        "vehicleTheft": "298",
+        "riots": "50",
+        "dowryDeaths": "10",
+        "womenAssault": "19",
+        "total": "2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          29.5
+        ]
+      },
+      "properties": {
+        "name": "JIND",
+        "state": "HARYANA",
+        "address": "J\u012bnd, Jind, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "5",
+        "rape": "34",
+        "kidnapping": "58",
+        "dacoity": "7",
+        "robbery": "39",
+        "burglary": "224",
+        "vehicleTheft": "349",
+        "riots": "107",
+        "dowryDeaths": "17",
+        "womenAssault": "27",
+        "total": "2323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35092772284784,
+          29.74477075
+        ]
+      },
+      "properties": {
+        "name": "KAITHAL",
+        "state": "HARYANA",
+        "address": "Kaithal, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "7",
+        "rape": "18",
+        "kidnapping": "38",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "207",
+        "vehicleTheft": "216",
+        "riots": "0",
+        "dowryDeaths": "6",
+        "womenAssault": "15",
+        "total": "1724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9896254,
+          29.6803266
+        ]
+      },
+      "properties": {
+        "name": "KARNAL",
+        "state": "HARYANA",
+        "address": "Karnal, Haryana, 132001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "59",
+        "homicide": "2",
+        "rape": "63",
+        "kidnapping": "103",
+        "dacoity": "8",
+        "robbery": "43",
+        "burglary": "368",
+        "vehicleTheft": "807",
+        "riots": "46",
+        "dowryDeaths": "23",
+        "womenAssault": "50",
+        "total": "3958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8482787,
+          29.9693747
+        ]
+      },
+      "properties": {
+        "name": "KURUKSHETRA",
+        "state": "HARYANA",
+        "address": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "3",
+        "rape": "25",
+        "kidnapping": "37",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "218",
+        "vehicleTheft": "450",
+        "riots": "0",
+        "dowryDeaths": "11",
+        "womenAssault": "20",
+        "total": "2294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.166667,
+          28.25
+        ]
+      },
+      "properties": {
+        "name": "MAHENDRAGARH",
+        "state": "HARYANA",
+        "address": "Mahendragarh, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "0",
+        "rape": "14",
+        "kidnapping": "25",
+        "dacoity": "12",
+        "robbery": "22",
+        "burglary": "144",
+        "vehicleTheft": "158",
+        "riots": "114",
+        "dowryDeaths": "10",
+        "womenAssault": "26",
+        "total": "1772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04073902524605,
+          27.993178
+        ]
+      },
+      "properties": {
+        "name": "MEWAT",
+        "state": "HARYANA",
+        "address": "Nuh, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "50",
+        "kidnapping": "29",
+        "dacoity": "26",
+        "robbery": "26",
+        "burglary": "56",
+        "vehicleTheft": "352",
+        "riots": "150",
+        "dowryDeaths": "5",
+        "womenAssault": "15",
+        "total": "2126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35831300773046,
+          28.12502575
+        ]
+      },
+      "properties": {
+        "name": "PALWAL",
+        "state": "HARYANA",
+        "address": "Palwal, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "6",
+        "rape": "32",
+        "kidnapping": "54",
+        "dacoity": "10",
+        "robbery": "26",
+        "burglary": "82",
+        "vehicleTheft": "430",
+        "riots": "197",
+        "dowryDeaths": "12",
+        "womenAssault": "27",
+        "total": "2457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.04197804321875,
+          30.616216450000003
+        ]
+      },
+      "properties": {
+        "name": "PANCHKULA",
+        "state": "HARYANA",
+        "address": "Panchkula, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "18",
+        "kidnapping": "40",
+        "dacoity": "5",
+        "robbery": "18",
+        "burglary": "171",
+        "vehicleTheft": "278",
+        "riots": "2",
+        "dowryDeaths": "7",
+        "womenAssault": "13",
+        "total": "1372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9771675,
+          29.3912753
+        ]
+      },
+      "properties": {
+        "name": "PANIPAT",
+        "state": "HARYANA",
+        "address": "Panipat, Haryana, 132100, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "47",
+        "homicide": "6",
+        "rape": "35",
+        "kidnapping": "87",
+        "dacoity": "8",
+        "robbery": "36",
+        "burglary": "228",
+        "vehicleTheft": "781",
+        "riots": "68",
+        "dowryDeaths": "15",
+        "womenAssault": "23",
+        "total": "3003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6165179,
+          28.1956468
+        ]
+      },
+      "properties": {
+        "name": "REWARI",
+        "state": "HARYANA",
+        "address": "Rewari, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "5",
+        "rape": "24",
+        "kidnapping": "26",
+        "dacoity": "24",
+        "robbery": "45",
+        "burglary": "171",
+        "vehicleTheft": "536",
+        "riots": "41",
+        "dowryDeaths": "12",
+        "womenAssault": "16",
+        "total": "2452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5801935,
+          28.9010899
+        ]
+      },
+      "properties": {
+        "name": "ROHTAK",
+        "state": "HARYANA",
+        "address": "Rohtak, Haryana, 124001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "60",
+        "homicide": "1",
+        "rape": "37",
+        "kidnapping": "35",
+        "dacoity": "8",
+        "robbery": "47",
+        "burglary": "272",
+        "vehicleTheft": "518",
+        "riots": "61",
+        "dowryDeaths": "12",
+        "womenAssault": "24",
+        "total": "2951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.083333,
+          29.583333
+        ]
+      },
+      "properties": {
+        "name": "SIRSA",
+        "state": "HARYANA",
+        "address": "Sirsa, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "90",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "159",
+        "vehicleTheft": "340",
+        "riots": "45",
+        "dowryDeaths": "6",
+        "womenAssault": "25",
+        "total": "2268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0167323,
+          29.0033144
+        ]
+      },
+      "properties": {
+        "name": "SONIPAT",
+        "state": "HARYANA",
+        "address": "Sonipat, Haryana, 131001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "86",
+        "homicide": "4",
+        "rape": "32",
+        "kidnapping": "62",
+        "dacoity": "12",
+        "robbery": "47",
+        "burglary": "270",
+        "vehicleTheft": "521",
+        "riots": "4",
+        "dowryDeaths": "30",
+        "womenAssault": "26",
+        "total": "3465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28638972360895,
+          30.2112003
+        ]
+      },
+      "properties": {
+        "name": "YAMUNANAGAR",
+        "state": "HARYANA",
+        "address": "Yamunanagar, Haryana, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "1",
+        "rape": "25",
+        "kidnapping": "83",
+        "dacoity": "2",
+        "robbery": "29",
+        "burglary": "173",
+        "vehicleTheft": "355",
+        "riots": "0",
+        "dowryDeaths": "7",
+        "womenAssault": "15",
+        "total": "2144"
+      }
+    }
+  ]
+}

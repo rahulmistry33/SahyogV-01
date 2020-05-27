@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "62",
+        "vehicleTheft": "4",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "47",
+        "vehicleTheft": "2",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "16",
+        "total": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "56",
+        "vehicleTheft": "3",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "2",
+        "rape": "10",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "67",
+        "vehicleTheft": "9",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "67",
+        "vehicleTheft": "6",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "81",
+        "vehicleTheft": "6",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "14",
+        "burglary": "72",
+        "vehicleTheft": "11",
+        "riots": "16",
+        "dowryDeaths": "2",
+        "womenAssault": "24",
+        "total": "859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "3",
+        "rape": "18",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "83",
+        "vehicleTheft": "10",
+        "riots": "11",
+        "dowryDeaths": "1",
+        "womenAssault": "29",
+        "total": "921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "4",
+        "rape": "23",
+        "kidnapping": "10",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "77",
+        "vehicleTheft": "22",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "31",
+        "total": "956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0000194,
+          10.0001051
+        ]
+      },
+      "properties": {
+        "name": "ANDAMAN",
+        "state": "A & N ISLANDS",
+        "address": "Andaman, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "2",
+        "rape": "13",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "96",
+        "vehicleTheft": "4",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0,
+          7.0
+        ]
+      },
+      "properties": {
+        "name": "NICOBAR",
+        "state": "A & N ISLANDS",
+        "address": "Nicobar, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8730171,
+          25.1037465
+        ]
+      },
+      "properties": {
+        "name": "CAR",
+        "state": "A & N ISLANDS",
+        "address": "Chunar Junction, Varanasi Road, Chunar, Mirzapur, Uttar Pradesh, 231304, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "A & N ISLANDS",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "A & N ISLANDS",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "1",
+        "burglary": "65",
+        "vehicleTheft": "0",
+        "riots": "8",
+        "dowryDeaths": "2",
+        "womenAssault": "14",
+        "total": "544"
+      }
+    }
+  ]
+}

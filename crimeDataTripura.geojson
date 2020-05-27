@@ -1,0 +1,1625 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "15",
+        "dowryDeaths": "2",
+        "womenAssault": "4",
+        "total": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "19",
+        "dacoity": "4",
+        "robbery": "19",
+        "burglary": "42",
+        "vehicleTheft": "0",
+        "riots": "29",
+        "dowryDeaths": "3",
+        "womenAssault": "16",
+        "total": "566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "20",
+        "dacoity": "3",
+        "robbery": "8",
+        "burglary": "30",
+        "vehicleTheft": "4",
+        "riots": "37",
+        "dowryDeaths": "5",
+        "womenAssault": "18",
+        "total": "586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "125",
+        "homicide": "0",
+        "rape": "33",
+        "kidnapping": "39",
+        "dacoity": "18",
+        "robbery": "32",
+        "burglary": "115",
+        "vehicleTheft": "2",
+        "riots": "57",
+        "dowryDeaths": "6",
+        "womenAssault": "20",
+        "total": "1444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "33",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "23",
+        "dowryDeaths": "2",
+        "womenAssault": "11",
+        "total": "401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "35",
+        "kidnapping": "16",
+        "dacoity": "12",
+        "robbery": "26",
+        "burglary": "36",
+        "vehicleTheft": "21",
+        "riots": "28",
+        "dowryDeaths": "2",
+        "womenAssault": "20",
+        "total": "712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "12",
+        "burglary": "45",
+        "vehicleTheft": "0",
+        "riots": "63",
+        "dowryDeaths": "4",
+        "womenAssault": "57",
+        "total": "735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "113",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "63",
+        "dacoity": "14",
+        "robbery": "14",
+        "burglary": "95",
+        "vehicleTheft": "30",
+        "riots": "66",
+        "dowryDeaths": "8",
+        "womenAssault": "40",
+        "total": "1227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "36",
+        "dacoity": "4",
+        "robbery": "14",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "35",
+        "dowryDeaths": "2",
+        "womenAssault": "8",
+        "total": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "35",
+        "dacoity": "8",
+        "robbery": "27",
+        "burglary": "27",
+        "vehicleTheft": "2",
+        "riots": "30",
+        "dowryDeaths": "3",
+        "womenAssault": "38",
+        "total": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "37",
+        "kidnapping": "18",
+        "dacoity": "6",
+        "robbery": "12",
+        "burglary": "43",
+        "vehicleTheft": "2",
+        "riots": "81",
+        "dowryDeaths": "3",
+        "womenAssault": "54",
+        "total": "897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "136",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "57",
+        "dacoity": "18",
+        "robbery": "16",
+        "burglary": "81",
+        "vehicleTheft": "6",
+        "riots": "128",
+        "dowryDeaths": "12",
+        "womenAssault": "27",
+        "total": "1368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "16",
+        "dacoity": "3",
+        "robbery": "7",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "35",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "46",
+        "kidnapping": "30",
+        "dacoity": "6",
+        "robbery": "14",
+        "burglary": "33",
+        "vehicleTheft": "3",
+        "riots": "25",
+        "dowryDeaths": "0",
+        "womenAssault": "37",
+        "total": "633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "42",
+        "homicide": "0",
+        "rape": "51",
+        "kidnapping": "28",
+        "dacoity": "6",
+        "robbery": "12",
+        "burglary": "50",
+        "vehicleTheft": "9",
+        "riots": "30",
+        "dowryDeaths": "8",
+        "womenAssault": "66",
+        "total": "971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "97",
+        "homicide": "0",
+        "rape": "48",
+        "kidnapping": "25",
+        "dacoity": "12",
+        "robbery": "13",
+        "burglary": "63",
+        "vehicleTheft": "37",
+        "riots": "58",
+        "dowryDeaths": "11",
+        "womenAssault": "26",
+        "total": "1176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "21",
+        "dacoity": "9",
+        "robbery": "5",
+        "burglary": "19",
+        "vehicleTheft": "0",
+        "riots": "30",
+        "dowryDeaths": "1",
+        "womenAssault": "13",
+        "total": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "1",
+        "rape": "47",
+        "kidnapping": "19",
+        "dacoity": "6",
+        "robbery": "19",
+        "burglary": "47",
+        "vehicleTheft": "2",
+        "riots": "30",
+        "dowryDeaths": "3",
+        "womenAssault": "44",
+        "total": "727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "42",
+        "kidnapping": "21",
+        "dacoity": "1",
+        "robbery": "11",
+        "burglary": "47",
+        "vehicleTheft": "21",
+        "riots": "31",
+        "dowryDeaths": "11",
+        "womenAssault": "65",
+        "total": "941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "0",
+        "rape": "58",
+        "kidnapping": "24",
+        "dacoity": "6",
+        "robbery": "26",
+        "burglary": "57",
+        "vehicleTheft": "39",
+        "riots": "57",
+        "dowryDeaths": "19",
+        "womenAssault": "39",
+        "total": "1360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "14",
+        "dacoity": "3",
+        "robbery": "3",
+        "burglary": "22",
+        "vehicleTheft": "1",
+        "riots": "17",
+        "dowryDeaths": "2",
+        "womenAssault": "19",
+        "total": "354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "1",
+        "rape": "45",
+        "kidnapping": "26",
+        "dacoity": "0",
+        "robbery": "24",
+        "burglary": "39",
+        "vehicleTheft": "1",
+        "riots": "23",
+        "dowryDeaths": "3",
+        "womenAssault": "47",
+        "total": "853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "51",
+        "kidnapping": "19",
+        "dacoity": "3",
+        "robbery": "13",
+        "burglary": "47",
+        "vehicleTheft": "8",
+        "riots": "36",
+        "dowryDeaths": "9",
+        "womenAssault": "81",
+        "total": "1088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "74",
+        "homicide": "0",
+        "rape": "77",
+        "kidnapping": "46",
+        "dacoity": "12",
+        "robbery": "31",
+        "burglary": "74",
+        "vehicleTheft": "21",
+        "riots": "78",
+        "dowryDeaths": "21",
+        "womenAssault": "60",
+        "total": "1645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "13",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "20",
+        "vehicleTheft": "1",
+        "riots": "18",
+        "dowryDeaths": "4",
+        "womenAssault": "19",
+        "total": "358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "21",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "35",
+        "vehicleTheft": "3",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "34",
+        "homicide": "0",
+        "rape": "41",
+        "kidnapping": "21",
+        "dacoity": "0",
+        "robbery": "27",
+        "burglary": "53",
+        "vehicleTheft": "19",
+        "riots": "33",
+        "dowryDeaths": "10",
+        "womenAssault": "106",
+        "total": "1267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "65",
+        "homicide": "1",
+        "rape": "77",
+        "kidnapping": "44",
+        "dacoity": "12",
+        "robbery": "23",
+        "burglary": "85",
+        "vehicleTheft": "32",
+        "riots": "70",
+        "dowryDeaths": "22",
+        "womenAssault": "92",
+        "total": "1942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "18",
+        "dacoity": "3",
+        "robbery": "14",
+        "burglary": "24",
+        "vehicleTheft": "4",
+        "riots": "18",
+        "dowryDeaths": "2",
+        "womenAssault": "22",
+        "total": "417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "0",
+        "rape": "46",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "41",
+        "vehicleTheft": "4",
+        "riots": "19",
+        "dowryDeaths": "2",
+        "womenAssault": "62",
+        "total": "993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "1",
+        "rape": "45",
+        "kidnapping": "34",
+        "dacoity": "2",
+        "robbery": "41",
+        "burglary": "50",
+        "vehicleTheft": "14",
+        "riots": "45",
+        "dowryDeaths": "6",
+        "womenAssault": "135",
+        "total": "1506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "72",
+        "homicide": "1",
+        "rape": "81",
+        "kidnapping": "67",
+        "dacoity": "7",
+        "robbery": "33",
+        "burglary": "103",
+        "vehicleTheft": "21",
+        "riots": "115",
+        "dowryDeaths": "6",
+        "womenAssault": "127",
+        "total": "2420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "21",
+        "vehicleTheft": "2",
+        "riots": "11",
+        "dowryDeaths": "1",
+        "womenAssault": "16",
+        "total": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "48",
+        "kidnapping": "32",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "44",
+        "vehicleTheft": "2",
+        "riots": "24",
+        "dowryDeaths": "6",
+        "womenAssault": "78",
+        "total": "1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "48",
+        "kidnapping": "27",
+        "dacoity": "0",
+        "robbery": "29",
+        "burglary": "64",
+        "vehicleTheft": "9",
+        "riots": "63",
+        "dowryDeaths": "8",
+        "womenAssault": "153",
+        "total": "1489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "61",
+        "homicide": "1",
+        "rape": "76",
+        "kidnapping": "53",
+        "dacoity": "5",
+        "robbery": "33",
+        "burglary": "102",
+        "vehicleTheft": "26",
+        "riots": "80",
+        "dowryDeaths": "14",
+        "womenAssault": "137",
+        "total": "2561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "33",
+        "kidnapping": "14",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "40",
+        "vehicleTheft": "2",
+        "riots": "14",
+        "dowryDeaths": "3",
+        "womenAssault": "26",
+        "total": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "TRIPURA",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "23",
+        "homicide": "1",
+        "rape": "51",
+        "kidnapping": "25",
+        "dacoity": "6",
+        "robbery": "11",
+        "burglary": "34",
+        "vehicleTheft": "11",
+        "riots": "13",
+        "dowryDeaths": "2",
+        "womenAssault": "70",
+        "total": "970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "0",
+        "rape": "36",
+        "kidnapping": "27",
+        "dacoity": "1",
+        "robbery": "20",
+        "burglary": "45",
+        "vehicleTheft": "7",
+        "riots": "69",
+        "dowryDeaths": "10",
+        "womenAssault": "165",
+        "total": "1688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "83",
+        "homicide": "6",
+        "rape": "118",
+        "kidnapping": "48",
+        "dacoity": "7",
+        "robbery": "29",
+        "burglary": "101",
+        "vehicleTheft": "44",
+        "riots": "67",
+        "dowryDeaths": "10",
+        "womenAssault": "114",
+        "total": "2600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "16",
+        "dacoity": "1",
+        "robbery": "9",
+        "burglary": "20",
+        "vehicleTheft": "4",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "38",
+        "total": "437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "TRIPURA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "0",
+        "rape": "40",
+        "kidnapping": "31",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "26",
+        "vehicleTheft": "10",
+        "riots": "13",
+        "dowryDeaths": "1",
+        "womenAssault": "50",
+        "total": "871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "0",
+        "rape": "58",
+        "kidnapping": "34",
+        "dacoity": "0",
+        "robbery": "12",
+        "burglary": "56",
+        "vehicleTheft": "14",
+        "riots": "65",
+        "dowryDeaths": "5",
+        "womenAssault": "84",
+        "total": "1775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "71",
+        "homicide": "0",
+        "rape": "86",
+        "kidnapping": "73",
+        "dacoity": "9",
+        "robbery": "27",
+        "burglary": "125",
+        "vehicleTheft": "31",
+        "riots": "94",
+        "dowryDeaths": "23",
+        "womenAssault": "122",
+        "total": "2709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732226716333,
+          23.8253158
+        ]
+      },
+      "properties": {
+        "name": "DHALAI",
+        "state": "TRIPURA",
+        "address": "Dhalai, Tripura, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "1",
+        "rape": "35",
+        "kidnapping": "11",
+        "dacoity": "2",
+        "robbery": "13",
+        "burglary": "17",
+        "vehicleTheft": "2",
+        "riots": "8",
+        "dowryDeaths": "5",
+        "womenAssault": "30",
+        "total": "443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5947705247589,
+          23.515575499999997
+        ]
+      },
+      "properties": {
+        "name": "GOMATI",
+        "state": "TRIPURA",
+        "address": "Gomati, Tripura, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "28",
+        "vehicleTheft": "38",
+        "riots": "29",
+        "dowryDeaths": "4",
+        "womenAssault": "34",
+        "total": "1147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.926521,
+          23.2236194
+        ]
+      },
+      "properties": {
+        "name": "GRP",
+        "state": "TRIPURA",
+        "address": "Gangpur, NH19, Barsul, Burdwan - II, Purba Bardhaman, West Bengal, 713102, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.62320953646798,
+          24.04673835
+        ]
+      },
+      "properties": {
+        "name": "KHOWAI",
+        "state": "TRIPURA",
+        "address": "Khowai, Tripura, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "18",
+        "vehicleTheft": "7",
+        "riots": "13",
+        "dowryDeaths": "3",
+        "womenAssault": "22",
+        "total": "423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3992384,
+          37.787747
+        ]
+      },
+      "properties": {
+        "name": "NORTH",
+        "state": "TRIPURA",
+        "address": "North India, 123, 2nd Street, Financial District, San Francisco, San Francisco City and County, California, 94105, United States of America",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "29",
+        "kidnapping": "16",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "19",
+        "vehicleTheft": "9",
+        "riots": "8",
+        "dowryDeaths": "3",
+        "womenAssault": "48",
+        "total": "553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4276746,
+          17.3615965
+        ]
+      },
+      "properties": {
+        "name": "SOUTH",
+        "state": "TRIPURA",
+        "address": "South India, Inner Ring Road, Ward 61 Attapur, Greater Hyderabad Municipal Corporation South Zone, Hyderabad, Rajendranagar mandal, Rangareddy, Telangana, 500052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "30",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "37",
+        "vehicleTheft": "2",
+        "riots": "23",
+        "dowryDeaths": "5",
+        "womenAssault": "46",
+        "total": "774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.06650224339185,
+          24.3167458
+        ]
+      },
+      "properties": {
+        "name": "UNAKOTI",
+        "state": "TRIPURA",
+        "address": "Unakoti, Panisagar, North Tripura, Tripura, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "26",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "5",
+        "vehicleTheft": "2",
+        "riots": "6",
+        "dowryDeaths": "2",
+        "womenAssault": "26",
+        "total": "533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.651229,
+          -5.1968461
+        ]
+      },
+      "properties": {
+        "name": "WEST",
+        "state": "TRIPURA",
+        "address": "La India, W, 26 de Octubre, Piura, Departamento de Piura, 073, Peru",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "26",
+        "homicide": "0",
+        "rape": "50",
+        "kidnapping": "35",
+        "dacoity": "0",
+        "robbery": "10",
+        "burglary": "78",
+        "vehicleTheft": "63",
+        "riots": "25",
+        "dowryDeaths": "12",
+        "womenAssault": "66",
+        "total": "1394"
+      }
+    }
+  ]
+}

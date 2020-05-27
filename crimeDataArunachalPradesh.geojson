@@ -1,0 +1,5495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "8",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "29",
+        "burglary": "59",
+        "vehicleTheft": "29",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "11",
+        "dacoity": "4",
+        "robbery": "8",
+        "burglary": "25",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "17",
+        "dacoity": "1",
+        "robbery": "10",
+        "burglary": "34",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "25",
+        "total": "361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "3",
+        "robbery": "5",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "6",
+        "robbery": "5",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "10",
+        "dacoity": "7",
+        "robbery": "42",
+        "burglary": "66",
+        "vehicleTheft": "38",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "28",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "39",
+        "vehicleTheft": "4",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "8",
+        "burglary": "16",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "0",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "15",
+        "dacoity": "4",
+        "robbery": "2",
+        "burglary": "26",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "10",
+        "dacoity": "11",
+        "robbery": "11",
+        "burglary": "56",
+        "vehicleTheft": "38",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "10",
+        "dacoity": "4",
+        "robbery": "13",
+        "burglary": "22",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "22",
+        "vehicleTheft": "5",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "20",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "12",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "8",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "7",
+        "dacoity": "7",
+        "robbery": "1",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "2",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "7",
+        "dacoity": "5",
+        "robbery": "4",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "8",
+        "dacoity": "6",
+        "robbery": "7",
+        "burglary": "51",
+        "vehicleTheft": "65",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "14",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "20",
+        "vehicleTheft": "1",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "10",
+        "dacoity": "3",
+        "robbery": "6",
+        "burglary": "25",
+        "vehicleTheft": "7",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "10",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "14",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "4",
+        "rape": "2",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "5",
+        "dacoity": "3",
+        "robbery": "1",
+        "burglary": "13",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "3",
+        "burglary": "12",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "10",
+        "dacoity": "3",
+        "robbery": "16",
+        "burglary": "47",
+        "vehicleTheft": "85",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "6",
+        "dacoity": "3",
+        "robbery": "19",
+        "burglary": "34",
+        "vehicleTheft": "18",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "31",
+        "vehicleTheft": "6",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "19",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "3",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "21",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "14",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "17",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "10",
+        "dacoity": "4",
+        "robbery": "12",
+        "burglary": "15",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "20",
+        "dacoity": "7",
+        "robbery": "18",
+        "burglary": "73",
+        "vehicleTheft": "53",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "6",
+        "dacoity": "5",
+        "robbery": "12",
+        "burglary": "30",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "17",
+        "vehicleTheft": "9",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "3",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "14",
+        "vehicleTheft": "7",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "4",
+        "vehicleTheft": "5",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "19",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "20",
+        "dacoity": "1",
+        "robbery": "23",
+        "burglary": "56",
+        "vehicleTheft": "76",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "15",
+        "burglary": "28",
+        "vehicleTheft": "14",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "8",
+        "burglary": "30",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "3",
+        "burglary": "12",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "10",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "16",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "19",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "10",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "3",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "7",
+        "kidnapping": "18",
+        "dacoity": "5",
+        "robbery": "33",
+        "burglary": "62",
+        "vehicleTheft": "40",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "8",
+        "dacoity": "2",
+        "robbery": "7",
+        "burglary": "29",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "24",
+        "vehicleTheft": "3",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "12",
+        "vehicleTheft": "3",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "2",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "13",
+        "dacoity": "1",
+        "robbery": "6",
+        "burglary": "30",
+        "vehicleTheft": "5",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.82699963398373,
+          28.1114301
+        ]
+      },
+      "properties": {
+        "name": "ANJAW",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Anjaw, Arunachal Pradesh, 792104, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "7",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "28",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "10",
+        "vehicleTheft": "10",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "11",
+        "vehicleTheft": "2",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "2",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "7",
+        "vehicleTheft": "3",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "6",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "13",
+        "vehicleTheft": "4",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "13",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "33",
+        "vehicleTheft": "57",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "24",
+        "vehicleTheft": "17",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "11",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "9",
+        "vehicleTheft": "6",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "16",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "3",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "2",
+        "robbery": "9",
+        "burglary": "12",
+        "vehicleTheft": "4",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.82699963398373,
+          28.1114301
+        ]
+      },
+      "properties": {
+        "name": "ANJAW",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Anjaw, Arunachal Pradesh, 792104, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "28",
+        "vehicleTheft": "2",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "10",
+        "vehicleTheft": "12",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "3",
+        "robbery": "10",
+        "burglary": "12",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "18",
+        "vehicleTheft": "9",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "14",
+        "burglary": "20",
+        "vehicleTheft": "79",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.16925093228701,
+          25.58400135
+        ]
+      },
+      "properties": {
+        "name": "RURAL",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Patna Rural, Patna, Bihar, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "1",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "25",
+        "vehicleTheft": "25",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "9",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "16",
+        "total": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "4",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "11",
+        "burglary": "16",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.82699963398373,
+          28.1114301
+        ]
+      },
+      "properties": {
+        "name": "ANJAW",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Anjaw, Arunachal Pradesh, 792104, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "18",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "4",
+        "robbery": "5",
+        "burglary": "3",
+        "vehicleTheft": "3",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "9",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "6",
+        "vehicleTheft": "6",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "10",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "9",
+        "vehicleTheft": "7",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "23",
+        "dacoity": "4",
+        "robbery": "12",
+        "burglary": "26",
+        "vehicleTheft": "82",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.16925093228701,
+          25.58400135
+        ]
+      },
+      "properties": {
+        "name": "RURAL",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Patna Rural, Patna, Bihar, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "6",
+        "vehicleTheft": "5",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "30",
+        "vehicleTheft": "29",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "11",
+        "vehicleTheft": "9",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "5",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "13",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "23",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.82699963398373,
+          28.1114301
+        ]
+      },
+      "properties": {
+        "name": "ANJAW",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Anjaw, Arunachal Pradesh, 792104, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7382485,
+          27.1398402
+        ]
+      },
+      "properties": {
+        "name": "CHANGLANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Changlang, Changlang HQ, Changlang, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "22",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "1",
+        "womenAssault": "5",
+        "total": "223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "8",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15783468644102,
+          27.98636765
+        ]
+      },
+      "properties": {
+        "name": "K/KUMEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kurung Kumey district, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8884272,
+          27.2696173
+        ]
+      },
+      "properties": {
+        "name": "KAMENG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Richukrong Circle, East Kameng, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8046258,
+          27.2965871
+        ]
+      },
+      "properties": {
+        "name": "KAMENG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Kameng, Thrizino ADC, West Kameng district, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "11",
+        "vehicleTheft": "4",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17135154220676,
+          28.035016149999997
+        ]
+      },
+      "properties": {
+        "name": "LOHIT",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lohit, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "12",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "28",
+        "vehicleTheft": "7",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.61875168206382,
+          27.286366649999998
+        ]
+      },
+      "properties": {
+        "name": "PAPUM PARE",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Papum Pare, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "20",
+        "dacoity": "4",
+        "robbery": "15",
+        "burglary": "30",
+        "vehicleTheft": "40",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.16925093228701,
+          25.58400135
+        ]
+      },
+      "properties": {
+        "name": "RURAL",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Patna Rural, Patna, Bihar, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "5",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG EAST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "1",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "16",
+        "vehicleTheft": "15",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.15,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SIANG UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "East Siang, Upper Siang, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "0",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81655728795752,
+          28.477491999999998
+        ]
+      },
+      "properties": {
+        "name": "SIANG WEST",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Siang, Arunachal Pradesh, 787052, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "8",
+        "burglary": "18",
+        "vehicleTheft": "12",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6,
+          27.8
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI LOWER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Lower Subansiri, Kra Daadi, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "7",
+        "burglary": "12",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          28.3
+        ]
+      },
+      "properties": {
+        "name": "SUBANSIRI UPPER",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Subansiri, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81892483748827,
+          27.63898945
+        ]
+      },
+      "properties": {
+        "name": "TAWANG",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tawang, Tawang district, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.49791754505583,
+          27.03016895
+        ]
+      },
+      "properties": {
+        "name": "TIRAP",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Tirap, Arunachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "6",
+        "dacoity": "3",
+        "robbery": "5",
+        "burglary": "26",
+        "vehicleTheft": "5",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7,
+          28.7
+        ]
+      },
+      "properties": {
+        "name": "UPPER DIBANG VALLEY",
+        "state": "ARUNACHAL PRADESH",
+        "address": "Upper Dibang Valley, Arunachal Pradesh, 792100, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "12"
+      }
+    }
+  ]
+}

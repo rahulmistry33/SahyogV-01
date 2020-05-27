@@ -430,7 +430,9 @@ a {
 							<form id="reportcrime" action="{% url 'SOS' %}" method="POST">
 								<button type="submit" class="btn sos">SOS</button>
 							</form>
-							<a href="" class="btn btn-dark" id="meratag">Send SOS</a>
+
+							<a href="" id="meratag" class="btn btn-dark">Send SOS</a>
+
 							{% if  username  %}
 							<a href="" class="btn btn-dark">{{username}}</a>
 							{% else %}
@@ -450,7 +452,7 @@ a {
 						<img src="{% static 'map.svg' %}" style=" margin-top: 25vh; width: 130px; height: 150px;">
 
 						<h1 style="color: white; font-family: Open Sans Light; font-size: 60px; ">Sahyog</h1><br>
-
+						
 
 					</div>
 				</div>
@@ -462,7 +464,10 @@ a {
 			navigator.geolocation.getCurrentPosition(function (location) {
 				lat = location.coords.latitude;
 				lon = location.coords.longitude;
-				document.getElementById('meratag').href = 'sms:9967549192?body=hello world '+lat+" "+lon;
+
+				document.getElementById("meratag").href = "sms:9987718876?body=This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link: http://www.google.com/maps/place/" + lat + "," + lon;
+
+
 
 			});
 
@@ -484,7 +489,6 @@ a {
 							if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
 								aCallback(anHttpRequest.responseText);
 						}
-
 						anHttpRequest.open("GET", aUrl, true);
 						anHttpRequest.send(null);
 					}

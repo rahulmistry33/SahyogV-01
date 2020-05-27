@@ -1,0 +1,2525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "7",
+        "robbery": "14",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "14",
+        "dacoity": "9",
+        "robbery": "4",
+        "burglary": "34",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "35",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "6",
+        "dacoity": "17",
+        "robbery": "7",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "50",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "20",
+        "dacoity": "27",
+        "robbery": "68",
+        "burglary": "109",
+        "vehicleTheft": "11",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "0",
+        "dacoity": "19",
+        "robbery": "16",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "1",
+        "rape": "2",
+        "kidnapping": "8",
+        "dacoity": "15",
+        "robbery": "12",
+        "burglary": "10",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "5",
+        "robbery": "5",
+        "burglary": "10",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "23",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "39",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "3",
+        "dacoity": "6",
+        "robbery": "10",
+        "burglary": "7",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "3",
+        "rape": "19",
+        "kidnapping": "22",
+        "dacoity": "24",
+        "robbery": "66",
+        "burglary": "98",
+        "vehicleTheft": "40",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "10",
+        "robbery": "11",
+        "burglary": "8",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "4",
+        "dacoity": "15",
+        "robbery": "14",
+        "burglary": "3",
+        "vehicleTheft": "9",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "7",
+        "dacoity": "4",
+        "robbery": "6",
+        "burglary": "19",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "12",
+        "rape": "6",
+        "kidnapping": "18",
+        "dacoity": "13",
+        "robbery": "17",
+        "burglary": "21",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "0",
+        "dacoity": "8",
+        "robbery": "4",
+        "burglary": "10",
+        "vehicleTheft": "16",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "14",
+        "dacoity": "33",
+        "robbery": "84",
+        "burglary": "103",
+        "vehicleTheft": "86",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "8",
+        "robbery": "9",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "15",
+        "robbery": "12",
+        "burglary": "3",
+        "vehicleTheft": "6",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "5",
+        "robbery": "10",
+        "burglary": "18",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "1",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "2",
+        "rape": "12",
+        "kidnapping": "10",
+        "dacoity": "14",
+        "robbery": "3",
+        "burglary": "16",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "10",
+        "total": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "2",
+        "rape": "11",
+        "kidnapping": "6",
+        "dacoity": "14",
+        "robbery": "5",
+        "burglary": "20",
+        "vehicleTheft": "14",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "5",
+        "total": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "33",
+        "homicide": "1",
+        "rape": "17",
+        "kidnapping": "29",
+        "dacoity": "28",
+        "robbery": "46",
+        "burglary": "75",
+        "vehicleTheft": "115",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "13",
+        "total": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "2",
+        "dacoity": "6",
+        "robbery": "6",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "2",
+        "dacoity": "20",
+        "robbery": "10",
+        "burglary": "1",
+        "vehicleTheft": "9",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "7",
+        "dacoity": "11",
+        "robbery": "7",
+        "burglary": "11",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "3",
+        "robbery": "2",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "11",
+        "dacoity": "14",
+        "robbery": "5",
+        "burglary": "18",
+        "vehicleTheft": "4",
+        "riots": "26",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "7",
+        "dacoity": "11",
+        "robbery": "8",
+        "burglary": "15",
+        "vehicleTheft": "19",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "0",
+        "rape": "25",
+        "kidnapping": "19",
+        "dacoity": "12",
+        "robbery": "55",
+        "burglary": "89",
+        "vehicleTheft": "88",
+        "riots": "7",
+        "dowryDeaths": "1",
+        "womenAssault": "10",
+        "total": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "0",
+        "dacoity": "21",
+        "robbery": "7",
+        "burglary": "12",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "2",
+        "dacoity": "9",
+        "robbery": "11",
+        "burglary": "2",
+        "vehicleTheft": "5",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "10",
+        "robbery": "8",
+        "burglary": "9",
+        "vehicleTheft": "1",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "4",
+        "dacoity": "4",
+        "robbery": "4",
+        "burglary": "3",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "13",
+        "dacoity": "8",
+        "robbery": "1",
+        "burglary": "12",
+        "vehicleTheft": "7",
+        "riots": "7",
+        "dowryDeaths": "0",
+        "womenAssault": "14",
+        "total": "242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "51",
+        "homicide": "2",
+        "rape": "19",
+        "kidnapping": "3",
+        "dacoity": "7",
+        "robbery": "5",
+        "burglary": "13",
+        "vehicleTheft": "10",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "45",
+        "homicide": "4",
+        "rape": "30",
+        "kidnapping": "28",
+        "dacoity": "8",
+        "robbery": "35",
+        "burglary": "96",
+        "vehicleTheft": "109",
+        "riots": "0",
+        "dowryDeaths": "6",
+        "womenAssault": "23",
+        "total": "901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "1",
+        "dacoity": "12",
+        "robbery": "7",
+        "burglary": "7",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "8",
+        "robbery": "5",
+        "burglary": "0",
+        "vehicleTheft": "8",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "4",
+        "kidnapping": "6",
+        "dacoity": "8",
+        "robbery": "0",
+        "burglary": "20",
+        "vehicleTheft": "0",
+        "riots": "22",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "16",
+        "dacoity": "10",
+        "robbery": "6",
+        "burglary": "26",
+        "vehicleTheft": "13",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "43",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "3",
+        "dacoity": "10",
+        "robbery": "7",
+        "burglary": "21",
+        "vehicleTheft": "2",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "3",
+        "rape": "32",
+        "kidnapping": "22",
+        "dacoity": "9",
+        "robbery": "30",
+        "burglary": "108",
+        "vehicleTheft": "62",
+        "riots": "3",
+        "dowryDeaths": "2",
+        "womenAssault": "11",
+        "total": "979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "2",
+        "dacoity": "13",
+        "robbery": "3",
+        "burglary": "14",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "1",
+        "dacoity": "3",
+        "robbery": "6",
+        "burglary": "9",
+        "vehicleTheft": "14",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "3",
+        "rape": "1",
+        "kidnapping": "10",
+        "dacoity": "8",
+        "robbery": "3",
+        "burglary": "10",
+        "vehicleTheft": "6",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "5",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "9",
+        "dacoity": "11",
+        "robbery": "14",
+        "burglary": "29",
+        "vehicleTheft": "25",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "7",
+        "dacoity": "5",
+        "robbery": "11",
+        "burglary": "23",
+        "vehicleTheft": "26",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "2",
+        "rape": "34",
+        "kidnapping": "19",
+        "dacoity": "9",
+        "robbery": "29",
+        "burglary": "96",
+        "vehicleTheft": "66",
+        "riots": "0",
+        "dowryDeaths": "2",
+        "womenAssault": "14",
+        "total": "896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "5",
+        "dacoity": "21",
+        "robbery": "3",
+        "burglary": "8",
+        "vehicleTheft": "2",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "4",
+        "dacoity": "4",
+        "robbery": "4",
+        "burglary": "1",
+        "vehicleTheft": "12",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "9",
+        "total": "229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "18",
+        "robbery": "9",
+        "burglary": "9",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "3",
+        "dacoity": "5",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "7",
+        "rape": "8",
+        "kidnapping": "16",
+        "dacoity": "13",
+        "robbery": "12",
+        "burglary": "22",
+        "vehicleTheft": "66",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "22",
+        "total": "591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "40",
+        "homicide": "1",
+        "rape": "24",
+        "kidnapping": "8",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "20",
+        "vehicleTheft": "14",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "1",
+        "rape": "34",
+        "kidnapping": "17",
+        "dacoity": "10",
+        "robbery": "34",
+        "burglary": "72",
+        "vehicleTheft": "81",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "26",
+        "total": "804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "20",
+        "kidnapping": "2",
+        "dacoity": "10",
+        "robbery": "5",
+        "burglary": "22",
+        "vehicleTheft": "3",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "2",
+        "rape": "23",
+        "kidnapping": "7",
+        "dacoity": "6",
+        "robbery": "4",
+        "burglary": "1",
+        "vehicleTheft": "13",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "5",
+        "dacoity": "13",
+        "robbery": "6",
+        "burglary": "14",
+        "vehicleTheft": "9",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "5",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "24",
+        "dacoity": "5",
+        "robbery": "6",
+        "burglary": "25",
+        "vehicleTheft": "53",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "48",
+        "homicide": "0",
+        "rape": "33",
+        "kidnapping": "8",
+        "dacoity": "4",
+        "robbery": "8",
+        "burglary": "14",
+        "vehicleTheft": "14",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "41",
+        "kidnapping": "16",
+        "dacoity": "4",
+        "robbery": "32",
+        "burglary": "94",
+        "vehicleTheft": "57",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "4",
+        "rape": "28",
+        "kidnapping": "6",
+        "dacoity": "8",
+        "robbery": "7",
+        "burglary": "15",
+        "vehicleTheft": "10",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "23",
+        "kidnapping": "7",
+        "dacoity": "6",
+        "robbery": "7",
+        "burglary": "0",
+        "vehicleTheft": "9",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "12",
+        "dacoity": "13",
+        "robbery": "4",
+        "burglary": "12",
+        "vehicleTheft": "14",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "4",
+        "vehicleTheft": "23",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "22",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "25",
+        "dacoity": "8",
+        "robbery": "11",
+        "burglary": "36",
+        "vehicleTheft": "45",
+        "riots": "8",
+        "dowryDeaths": "1",
+        "womenAssault": "22",
+        "total": "533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "52",
+        "homicide": "0",
+        "rape": "43",
+        "kidnapping": "12",
+        "dacoity": "5",
+        "robbery": "7",
+        "burglary": "12",
+        "vehicleTheft": "25",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "36",
+        "homicide": "2",
+        "rape": "42",
+        "kidnapping": "20",
+        "dacoity": "6",
+        "robbery": "28",
+        "burglary": "68",
+        "vehicleTheft": "58",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "32",
+        "total": "943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "17",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "8",
+        "dacoity": "6",
+        "robbery": "4",
+        "burglary": "13",
+        "vehicleTheft": "15",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "4",
+        "dacoity": "10",
+        "robbery": "7",
+        "burglary": "0",
+        "vehicleTheft": "10",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "9",
+        "dacoity": "16",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "19",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS SOUTH",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "27",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "GARO HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "G\u0101ro Hills, East Garo Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "19",
+        "dacoity": "9",
+        "robbery": "5",
+        "burglary": "22",
+        "vehicleTheft": "20",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "JAINTIA HILLS",
+        "state": "MEGHALAYA",
+        "address": "Jaintia Hills, West Jaintia Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "44",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "18",
+        "dacoity": "8",
+        "robbery": "7",
+        "burglary": "13",
+        "vehicleTheft": "25",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS EAST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "6",
+        "rape": "58",
+        "kidnapping": "18",
+        "dacoity": "7",
+        "robbery": "25",
+        "burglary": "84",
+        "vehicleTheft": "37",
+        "riots": "0",
+        "dowryDeaths": "1",
+        "womenAssault": "21",
+        "total": "917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "KHASI HILLS WEST",
+        "state": "MEGHALAYA",
+        "address": "Kh\u0101si Hills, West Khasi Hills, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "6",
+        "dacoity": "7",
+        "robbery": "5",
+        "burglary": "11",
+        "vehicleTheft": "3",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85440651182324,
+          25.873032799999997
+        ]
+      },
+      "properties": {
+        "name": "RI-BHOI",
+        "state": "MEGHALAYA",
+        "address": "Ri-Bhoi, Meghalaya, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "32",
+        "kidnapping": "7",
+        "dacoity": "3",
+        "robbery": "1",
+        "burglary": "3",
+        "vehicleTheft": "21",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "257"
+      }
+    }
+  ]
+}

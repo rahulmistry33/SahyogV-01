@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crimes Rates</title>
+	<script 
+src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"> 
+</script> 
+</head>
+<body>
+	
+	<canvas id="Chart" width="800" height="600"></canvas>
+
+	<script type="text/javascript">
+new Chart(document.getElementById("Chart"), {
+    type: 'polarArea',
+    data: {
+      labels: ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala","Madhya Pradesh","Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Uttar Pradesh", "Punjab", "Rajasthan","Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttarakhand", "West Bengal", "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli", "Daman and Diu", "Delhi", "Lakshwadeep", "Puducherry"],
+      datasets: [
+        {
+          label: "Population (millions)",
+          backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#e8c3b9","#c45850",'#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080', '#ffffff', '#202020', '#308014', '#FFD700','#FF7F00','#F4A460','#FF0000','#ffaa00','#FF6A6A','#FF6A6A'],
+          data: [206.4, 192.3,313.9,157.4,211.7,135.6,233.2, 320.6, 188.1,196.6,120.4,237.2,  727.6,337.9,  217.1,121.9,120.9,227.3,57.6, 128.7,137.0,246.2,  124.47,258.8,295.7,102.4,101.8,188.2,144.8,166.4, 57.4, 81.1,974.9,43.9,242.8]
+        }
+      ]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Crime Rates in States Of India'
+      }
+    }
+});
+	</script>
+</body>
+</html>

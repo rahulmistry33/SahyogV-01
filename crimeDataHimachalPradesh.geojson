@@ -1,0 +1,4565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "50",
+        "vehicleTheft": "13",
+        "riots": "76",
+        "dowryDeaths": "1",
+        "womenAssault": "35",
+        "total": "1074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "17",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "92",
+        "vehicleTheft": "4",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "23",
+        "total": "555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "29",
+        "vehicleTheft": "1",
+        "riots": "26",
+        "dowryDeaths": "1",
+        "womenAssault": "17",
+        "total": "747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "24",
+        "vehicleTheft": "0",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "107",
+        "vehicleTheft": "18",
+        "riots": "83",
+        "dowryDeaths": "0",
+        "womenAssault": "59",
+        "total": "1747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "2",
+        "rape": "18",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "170",
+        "vehicleTheft": "42",
+        "riots": "122",
+        "dowryDeaths": "2",
+        "womenAssault": "50",
+        "total": "1964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "37",
+        "vehicleTheft": "8",
+        "riots": "56",
+        "dowryDeaths": "3",
+        "womenAssault": "33",
+        "total": "703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "4",
+        "rape": "12",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "77",
+        "vehicleTheft": "16",
+        "riots": "62",
+        "dowryDeaths": "2",
+        "womenAssault": "23",
+        "total": "1130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "5",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "57",
+        "vehicleTheft": "9",
+        "riots": "38",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "59",
+        "vehicleTheft": "11",
+        "riots": "119",
+        "dowryDeaths": "0",
+        "womenAssault": "36",
+        "total": "1217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "127",
+        "vehicleTheft": "3",
+        "riots": "13",
+        "dowryDeaths": "2",
+        "womenAssault": "21",
+        "total": "677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "18",
+        "vehicleTheft": "6",
+        "riots": "36",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "1",
+        "rape": "14",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "90",
+        "vehicleTheft": "26",
+        "riots": "95",
+        "dowryDeaths": "2",
+        "womenAssault": "50",
+        "total": "1961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "19",
+        "vehicleTheft": "0",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "14",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "30",
+        "vehicleTheft": "8",
+        "riots": "23",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "2",
+        "rape": "24",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "85",
+        "vehicleTheft": "23",
+        "riots": "56",
+        "dowryDeaths": "2",
+        "womenAssault": "51",
+        "total": "1775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "27",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "120",
+        "vehicleTheft": "26",
+        "riots": "115",
+        "dowryDeaths": "0",
+        "womenAssault": "49",
+        "total": "2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "44",
+        "vehicleTheft": "5",
+        "riots": "74",
+        "dowryDeaths": "0",
+        "womenAssault": "34",
+        "total": "712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "18",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "63",
+        "vehicleTheft": "16",
+        "riots": "60",
+        "dowryDeaths": "0",
+        "womenAssault": "28",
+        "total": "1266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "49",
+        "vehicleTheft": "18",
+        "riots": "43",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "48",
+        "vehicleTheft": "26",
+        "riots": "65",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "1098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "111",
+        "vehicleTheft": "9",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "25",
+        "vehicleTheft": "5",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "38",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "7",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "75",
+        "vehicleTheft": "30",
+        "riots": "121",
+        "dowryDeaths": "0",
+        "womenAssault": "28",
+        "total": "2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "36",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "2",
+        "rape": "16",
+        "kidnapping": "8",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "43",
+        "vehicleTheft": "6",
+        "riots": "30",
+        "dowryDeaths": "2",
+        "womenAssault": "24",
+        "total": "747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "23",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "85",
+        "vehicleTheft": "17",
+        "riots": "67",
+        "dowryDeaths": "1",
+        "womenAssault": "52",
+        "total": "1744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "0",
+        "rape": "21",
+        "kidnapping": "21",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "143",
+        "vehicleTheft": "45",
+        "riots": "105",
+        "dowryDeaths": "2",
+        "womenAssault": "40",
+        "total": "1963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "28",
+        "vehicleTheft": "15",
+        "riots": "63",
+        "dowryDeaths": "1",
+        "womenAssault": "24",
+        "total": "663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "10",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "58",
+        "vehicleTheft": "38",
+        "riots": "63",
+        "dowryDeaths": "0",
+        "womenAssault": "24",
+        "total": "1332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "7",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "53",
+        "vehicleTheft": "27",
+        "riots": "42",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "41",
+        "vehicleTheft": "13",
+        "riots": "47",
+        "dowryDeaths": "0",
+        "womenAssault": "28",
+        "total": "1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "14",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "134",
+        "vehicleTheft": "4",
+        "riots": "10",
+        "dowryDeaths": "1",
+        "womenAssault": "22",
+        "total": "627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "37",
+        "vehicleTheft": "7",
+        "riots": "34",
+        "dowryDeaths": "0",
+        "womenAssault": "24",
+        "total": "936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "3",
+        "rape": "15",
+        "kidnapping": "15",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "97",
+        "vehicleTheft": "27",
+        "riots": "111",
+        "dowryDeaths": "2",
+        "womenAssault": "34",
+        "total": "2057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "38",
+        "vehicleTheft": "1",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "13",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "50",
+        "vehicleTheft": "8",
+        "riots": "40",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "97",
+        "vehicleTheft": "15",
+        "riots": "45",
+        "dowryDeaths": "1",
+        "womenAssault": "56",
+        "total": "1735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "2",
+        "rape": "34",
+        "kidnapping": "16",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "139",
+        "vehicleTheft": "43",
+        "riots": "114",
+        "dowryDeaths": "1",
+        "womenAssault": "43",
+        "total": "1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "36",
+        "vehicleTheft": "7",
+        "riots": "58",
+        "dowryDeaths": "1",
+        "womenAssault": "23",
+        "total": "692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "49",
+        "vehicleTheft": "45",
+        "riots": "64",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "1344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "47",
+        "vehicleTheft": "22",
+        "riots": "32",
+        "dowryDeaths": "1",
+        "womenAssault": "12",
+        "total": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "3",
+        "rape": "8",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "34",
+        "vehicleTheft": "11",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "30",
+        "total": "1165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "12",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "110",
+        "vehicleTheft": "4",
+        "riots": "12",
+        "dowryDeaths": "1",
+        "womenAssault": "20",
+        "total": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "3",
+        "rape": "4",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "52",
+        "vehicleTheft": "9",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "11",
+        "total": "983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "6",
+        "rape": "23",
+        "kidnapping": "22",
+        "dacoity": "2",
+        "robbery": "4",
+        "burglary": "95",
+        "vehicleTheft": "23",
+        "riots": "97",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "3",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "36",
+        "vehicleTheft": "0",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "6",
+        "total": "231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "19",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "82",
+        "vehicleTheft": "9",
+        "riots": "49",
+        "dowryDeaths": "0",
+        "womenAssault": "23",
+        "total": "870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "8",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "65",
+        "vehicleTheft": "22",
+        "riots": "46",
+        "dowryDeaths": "0",
+        "womenAssault": "70",
+        "total": "1712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "32",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "94",
+        "vehicleTheft": "31",
+        "riots": "122",
+        "dowryDeaths": "0",
+        "womenAssault": "51",
+        "total": "2009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "33",
+        "vehicleTheft": "12",
+        "riots": "58",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "6",
+        "rape": "15",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "42",
+        "vehicleTheft": "24",
+        "riots": "65",
+        "dowryDeaths": "1",
+        "womenAssault": "22",
+        "total": "1236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "42",
+        "vehicleTheft": "10",
+        "riots": "35",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "1192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "108",
+        "vehicleTheft": "10",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "4",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "55",
+        "vehicleTheft": "8",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "1088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "3",
+        "rape": "12",
+        "kidnapping": "25",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "91",
+        "vehicleTheft": "33",
+        "riots": "116",
+        "dowryDeaths": "0",
+        "womenAssault": "34",
+        "total": "2128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "27",
+        "vehicleTheft": "1",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "3",
+        "rape": "10",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "7",
+        "burglary": "57",
+        "vehicleTheft": "7",
+        "riots": "55",
+        "dowryDeaths": "0",
+        "womenAssault": "24",
+        "total": "836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "18",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "61",
+        "vehicleTheft": "20",
+        "riots": "37",
+        "dowryDeaths": "0",
+        "womenAssault": "51",
+        "total": "1892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "34",
+        "kidnapping": "28",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "134",
+        "vehicleTheft": "38",
+        "riots": "88",
+        "dowryDeaths": "0",
+        "womenAssault": "39",
+        "total": "1997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "3",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "32",
+        "vehicleTheft": "22",
+        "riots": "73",
+        "dowryDeaths": "1",
+        "womenAssault": "23",
+        "total": "766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "4",
+        "rape": "9",
+        "kidnapping": "18",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "80",
+        "vehicleTheft": "42",
+        "riots": "75",
+        "dowryDeaths": "1",
+        "womenAssault": "28",
+        "total": "1442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "7",
+        "rape": "9",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "64",
+        "vehicleTheft": "23",
+        "riots": "28",
+        "dowryDeaths": "1",
+        "womenAssault": "11",
+        "total": "865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "6",
+        "burglary": "50",
+        "vehicleTheft": "19",
+        "riots": "34",
+        "dowryDeaths": "0",
+        "womenAssault": "33",
+        "total": "1104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "131",
+        "vehicleTheft": "12",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "5",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "71",
+        "vehicleTheft": "8",
+        "riots": "32",
+        "dowryDeaths": "1",
+        "womenAssault": "29",
+        "total": "1122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "31",
+        "vehicleTheft": "1",
+        "riots": "13",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "0",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "30",
+        "kidnapping": "25",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "85",
+        "vehicleTheft": "32",
+        "riots": "68",
+        "dowryDeaths": "0",
+        "womenAssault": "70",
+        "total": "2203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "27",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "9",
+        "burglary": "126",
+        "vehicleTheft": "34",
+        "riots": "111",
+        "dowryDeaths": "1",
+        "womenAssault": "46",
+        "total": "2126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "0",
+        "rape": "7",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "48",
+        "vehicleTheft": "22",
+        "riots": "61",
+        "dowryDeaths": "0",
+        "womenAssault": "26",
+        "total": "789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "17",
+        "dacoity": "2",
+        "robbery": "0",
+        "burglary": "112",
+        "vehicleTheft": "58",
+        "riots": "70",
+        "dowryDeaths": "3",
+        "womenAssault": "26",
+        "total": "1620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "12",
+        "dacoity": "2",
+        "robbery": "1",
+        "burglary": "66",
+        "vehicleTheft": "34",
+        "riots": "35",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "46",
+        "vehicleTheft": "8",
+        "riots": "38",
+        "dowryDeaths": "2",
+        "womenAssault": "28",
+        "total": "1046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "112",
+        "vehicleTheft": "5",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "26",
+        "total": "761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "63",
+        "vehicleTheft": "23",
+        "riots": "23",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "1",
+        "rape": "19",
+        "kidnapping": "20",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "123",
+        "vehicleTheft": "69",
+        "riots": "118",
+        "dowryDeaths": "0",
+        "womenAssault": "37",
+        "total": "2290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "27",
+        "vehicleTheft": "1",
+        "riots": "11",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "16",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "62",
+        "vehicleTheft": "14",
+        "riots": "54",
+        "dowryDeaths": "0",
+        "womenAssault": "31",
+        "total": "1096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "0",
+        "rape": "32",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "95",
+        "vehicleTheft": "29",
+        "riots": "68",
+        "dowryDeaths": "1",
+        "womenAssault": "75",
+        "total": "2144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "22",
+        "kidnapping": "20",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "139",
+        "vehicleTheft": "60",
+        "riots": "108",
+        "dowryDeaths": "0",
+        "womenAssault": "31",
+        "total": "1941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "10",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "52",
+        "vehicleTheft": "27",
+        "riots": "64",
+        "dowryDeaths": "0",
+        "womenAssault": "19",
+        "total": "885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "16",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "15",
+        "dacoity": "3",
+        "robbery": "4",
+        "burglary": "95",
+        "vehicleTheft": "69",
+        "riots": "70",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "1504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "12",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "67",
+        "vehicleTheft": "26",
+        "riots": "51",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "1102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "2",
+        "rape": "14",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "37",
+        "vehicleTheft": "17",
+        "riots": "41",
+        "dowryDeaths": "1",
+        "womenAssault": "28",
+        "total": "1063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "3",
+        "rape": "20",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "95",
+        "vehicleTheft": "3",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "29",
+        "total": "711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "16",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "35",
+        "vehicleTheft": "18",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "22",
+        "total": "936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "2",
+        "rape": "23",
+        "kidnapping": "24",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "152",
+        "vehicleTheft": "45",
+        "riots": "92",
+        "dowryDeaths": "0",
+        "womenAssault": "49",
+        "total": "2486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "14",
+        "vehicleTheft": "0",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "24",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "49",
+        "vehicleTheft": "17",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "23",
+        "total": "961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "1",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "22",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "2",
+        "burglary": "75",
+        "vehicleTheft": "22",
+        "riots": "82",
+        "dowryDeaths": "0",
+        "womenAssault": "59",
+        "total": "1937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "2",
+        "rape": "28",
+        "kidnapping": "28",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "112",
+        "vehicleTheft": "85",
+        "riots": "99",
+        "dowryDeaths": "0",
+        "womenAssault": "32",
+        "total": "1763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "15",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "5",
+        "burglary": "73",
+        "vehicleTheft": "30",
+        "riots": "68",
+        "dowryDeaths": "0",
+        "womenAssault": "34",
+        "total": "909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "9",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "67",
+        "vehicleTheft": "58",
+        "riots": "45",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "49",
+        "vehicleTheft": "16",
+        "riots": "38",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "2",
+        "rape": "15",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "28",
+        "vehicleTheft": "30",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "37",
+        "total": "1138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "13",
+        "kidnapping": "22",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "77",
+        "vehicleTheft": "24",
+        "riots": "26",
+        "dowryDeaths": "1",
+        "womenAssault": "29",
+        "total": "663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "3",
+        "rape": "11",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "46",
+        "vehicleTheft": "11",
+        "riots": "34",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "1015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "27",
+        "homicide": "2",
+        "rape": "22",
+        "kidnapping": "38",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "143",
+        "vehicleTheft": "49",
+        "riots": "101",
+        "dowryDeaths": "0",
+        "womenAssault": "60",
+        "total": "2416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "19",
+        "vehicleTheft": "1",
+        "riots": "33",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "17",
+        "kidnapping": "9",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "39",
+        "vehicleTheft": "7",
+        "riots": "39",
+        "dowryDeaths": "0",
+        "womenAssault": "23",
+        "total": "808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "1",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "11",
+        "homicide": "0",
+        "rape": "19",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "88",
+        "vehicleTheft": "26",
+        "riots": "88",
+        "dowryDeaths": "0",
+        "womenAssault": "71",
+        "total": "1788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "1",
+        "rape": "21",
+        "kidnapping": "23",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "121",
+        "vehicleTheft": "66",
+        "riots": "92",
+        "dowryDeaths": "0",
+        "womenAssault": "27",
+        "total": "1790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "10",
+        "homicide": "1",
+        "rape": "15",
+        "kidnapping": "14",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "39",
+        "vehicleTheft": "30",
+        "riots": "67",
+        "dowryDeaths": "0",
+        "womenAssault": "36",
+        "total": "844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "82",
+        "vehicleTheft": "39",
+        "riots": "42",
+        "dowryDeaths": "0",
+        "womenAssault": "12",
+        "total": "893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "18",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "42",
+        "vehicleTheft": "27",
+        "riots": "43",
+        "dowryDeaths": "1",
+        "womenAssault": "19",
+        "total": "1040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "3",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "43",
+        "vehicleTheft": "27",
+        "riots": "43",
+        "dowryDeaths": "0",
+        "womenAssault": "18",
+        "total": "1077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "6",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "93",
+        "vehicleTheft": "3",
+        "riots": "27",
+        "dowryDeaths": "2",
+        "womenAssault": "29",
+        "total": "678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "29",
+        "vehicleTheft": "13",
+        "riots": "21",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "21",
+        "homicide": "2",
+        "rape": "32",
+        "kidnapping": "68",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "219",
+        "vehicleTheft": "46",
+        "riots": "85",
+        "dowryDeaths": "1",
+        "womenAssault": "60",
+        "total": "2709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "18",
+        "vehicleTheft": "1",
+        "riots": "10",
+        "dowryDeaths": "1",
+        "womenAssault": "4",
+        "total": "162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "20",
+        "kidnapping": "13",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "68",
+        "vehicleTheft": "15",
+        "riots": "23",
+        "dowryDeaths": "0",
+        "womenAssault": "38",
+        "total": "934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "13",
+        "homicide": "0",
+        "rape": "26",
+        "kidnapping": "17",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "100",
+        "vehicleTheft": "22",
+        "riots": "81",
+        "dowryDeaths": "0",
+        "womenAssault": "55",
+        "total": "1640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "20",
+        "homicide": "2",
+        "rape": "22",
+        "kidnapping": "24",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "171",
+        "vehicleTheft": "75",
+        "riots": "83",
+        "dowryDeaths": "0",
+        "womenAssault": "45",
+        "total": "2866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "17",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "61",
+        "vehicleTheft": "38",
+        "riots": "64",
+        "dowryDeaths": "0",
+        "womenAssault": "33",
+        "total": "866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "14",
+        "homicide": "0",
+        "rape": "11",
+        "kidnapping": "13",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "89",
+        "vehicleTheft": "53",
+        "riots": "35",
+        "dowryDeaths": "0",
+        "womenAssault": "8",
+        "total": "959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "1",
+        "rape": "11",
+        "kidnapping": "12",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "46",
+        "vehicleTheft": "27",
+        "riots": "32",
+        "dowryDeaths": "0",
+        "womenAssault": "17",
+        "total": "921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29838501460121,
+          28.8680526
+        ]
+      },
+      "properties": {
+        "name": "BILASPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Bilaspur, Rampur, Uttar Pradesh, 244921, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "0",
+        "rape": "12",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "55",
+        "vehicleTheft": "20",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "21",
+        "total": "960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5,
+          32.5
+        ]
+      },
+      "properties": {
+        "name": "CHAMBA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chamba, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "1",
+        "rape": "10",
+        "kidnapping": "14",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "74",
+        "vehicleTheft": "4",
+        "riots": "29",
+        "dowryDeaths": "1",
+        "womenAssault": "9",
+        "total": "557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287392,
+          22.4112801
+        ]
+      },
+      "properties": {
+        "name": "CID",
+        "state": "HIMACHAL PRADESH",
+        "address": "Chiraidongri, NH543, Nainpur Tahsil, Mandla, Madhya Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7134442,
+          -28.3373682
+        ]
+      },
+      "properties": {
+        "name": "G.R.P.",
+        "state": "HIMACHAL PRADESH",
+        "address": "La India, Departamento General Taboada, Santiago del Estero, G3743, Argentina",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "HAMIRPUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Ham\u012brpur, Hamirpur, Uttar Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "6",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "44",
+        "vehicleTheft": "10",
+        "riots": "18",
+        "dowryDeaths": "0",
+        "womenAssault": "20",
+        "total": "856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          32.166667
+        ]
+      },
+      "properties": {
+        "name": "KANGRA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kangra, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "2",
+        "rape": "26",
+        "kidnapping": "52",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "224",
+        "vehicleTheft": "41",
+        "riots": "87",
+        "dowryDeaths": "0",
+        "womenAssault": "45",
+        "total": "2810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3968441,
+          31.586346
+        ]
+      },
+      "properties": {
+        "name": "KINNAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kinnaur, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "22",
+        "vehicleTheft": "1",
+        "riots": "12",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37899639741332,
+          32.00186325
+        ]
+      },
+      "properties": {
+        "name": "KULLU",
+        "state": "HIMACHAL PRADESH",
+        "address": "Kullu, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "9",
+        "homicide": "1",
+        "rape": "22",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "58",
+        "vehicleTheft": "6",
+        "riots": "28",
+        "dowryDeaths": "0",
+        "womenAssault": "22",
+        "total": "719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58227188236428,
+          32.5038495
+        ]
+      },
+      "properties": {
+        "name": "LAHAUL-SPITI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Lahul and Spiti, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "1",
+        "vehicleTheft": "0",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95331690779145,
+          31.6723392
+        ]
+      },
+      "properties": {
+        "name": "MANDI",
+        "state": "HIMACHAL PRADESH",
+        "address": "Mandi, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "15",
+        "homicide": "1",
+        "rape": "28",
+        "kidnapping": "19",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "97",
+        "vehicleTheft": "18",
+        "riots": "61",
+        "dowryDeaths": "0",
+        "womenAssault": "49",
+        "total": "1733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1709729,
+          31.1041526
+        ]
+      },
+      "properties": {
+        "name": "SHIMLA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "18",
+        "homicide": "1",
+        "rape": "23",
+        "kidnapping": "29",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "149",
+        "vehicleTheft": "38",
+        "riots": "69",
+        "dowryDeaths": "0",
+        "womenAssault": "28",
+        "total": "1530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          30.75
+        ]
+      },
+      "properties": {
+        "name": "SIRMAUR",
+        "state": "HIMACHAL PRADESH",
+        "address": "Sirmaur, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "8",
+        "homicide": "1",
+        "rape": "17",
+        "kidnapping": "11",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "40",
+        "vehicleTheft": "37",
+        "riots": "62",
+        "dowryDeaths": "0",
+        "womenAssault": "24",
+        "total": "866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08200509063624,
+          30.92589585
+        ]
+      },
+      "properties": {
+        "name": "SOLAN",
+        "state": "HIMACHAL PRADESH",
+        "address": "Solan, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "9",
+        "kidnapping": "8",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "78",
+        "vehicleTheft": "39",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "13",
+        "total": "778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25,
+          31.583333
+        ]
+      },
+      "properties": {
+        "name": "UNA",
+        "state": "HIMACHAL PRADESH",
+        "address": "Una, Himachal Pradesh, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "8",
+        "kidnapping": "7",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "48",
+        "vehicleTheft": "26",
+        "riots": "37",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "895"
+      }
+    }
+  ]
+}

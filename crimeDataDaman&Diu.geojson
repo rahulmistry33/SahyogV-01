@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "39",
+        "vehicleTheft": "20",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "0",
+        "riots": "9",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "7",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "51",
+        "vehicleTheft": "31",
+        "riots": "14",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "1",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "4",
+        "riots": "2",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "4",
+        "kidnapping": "1",
+        "dacoity": "4",
+        "robbery": "1",
+        "burglary": "37",
+        "vehicleTheft": "23",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "3",
+        "total": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "2",
+        "riots": "2",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "35",
+        "vehicleTheft": "12",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "1",
+        "total": "171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "0",
+        "vehicleTheft": "0",
+        "riots": "0",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "4",
+        "dacoity": "3",
+        "robbery": "0",
+        "burglary": "29",
+        "vehicleTheft": "24",
+        "riots": "16",
+        "dowryDeaths": "1",
+        "womenAssault": "1",
+        "total": "193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "1",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "1",
+        "robbery": "0",
+        "burglary": "8",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "3",
+        "dacoity": "8",
+        "robbery": "1",
+        "burglary": "54",
+        "vehicleTheft": "30",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "6",
+        "vehicleTheft": "3",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "12",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "3",
+        "robbery": "1",
+        "burglary": "41",
+        "vehicleTheft": "26",
+        "riots": "26",
+        "dowryDeaths": "1",
+        "womenAssault": "0",
+        "total": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "5",
+        "vehicleTheft": "2",
+        "riots": "5",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "2",
+        "robbery": "3",
+        "burglary": "36",
+        "vehicleTheft": "24",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "9",
+        "vehicleTheft": "7",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "4",
+        "burglary": "30",
+        "vehicleTheft": "18",
+        "riots": "19",
+        "dowryDeaths": "0",
+        "womenAssault": "4",
+        "total": "208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "3",
+        "vehicleTheft": "9",
+        "riots": "10",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "6",
+        "robbery": "0",
+        "burglary": "23",
+        "vehicleTheft": "23",
+        "riots": "8",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "0",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "4",
+        "vehicleTheft": "6",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "4",
+        "robbery": "4",
+        "burglary": "24",
+        "vehicleTheft": "25",
+        "riots": "15",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "7",
+        "vehicleTheft": "8",
+        "riots": "4",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86376290300566,
+          20.42000485
+        ]
+      },
+      "properties": {
+        "name": "DAMAN",
+        "state": "DAMAN & DIU",
+        "address": "Daman, Daman and Diu, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "3",
+        "homicide": "0",
+        "rape": "5",
+        "kidnapping": "2",
+        "dacoity": "1",
+        "robbery": "3",
+        "burglary": "24",
+        "vehicleTheft": "39",
+        "riots": "6",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.932399240922,
+          20.717985749999997
+        ]
+      },
+      "properties": {
+        "name": "DIU",
+        "state": "DAMAN & DIU",
+        "address": "Diu, Daman and Diu, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "2",
+        "vehicleTheft": "3",
+        "riots": "3",
+        "dowryDeaths": "0",
+        "womenAssault": "0",
+        "total": "37"
+      }
+    }
+  ]
+}
