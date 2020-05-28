@@ -11,8 +11,6 @@
         rel="stylesheet" />
     <link href="https://cdn.materialdesignicons.com/3.0.39/css/materialdesignicons.min.css" rel="stylesheet" />
 
-
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static 'style.css'%}">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -81,8 +79,8 @@
     html {
         background: url("{% static 'india1.jpg' %}");
         /* background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed; */
+        background-size: cover;
+        background-attachment: fixed; */
 
         background-position: center;
     }
@@ -131,7 +129,7 @@
         color: white;
     }
 </style>
-
+<div>Hello</div>
 <body class="sidebar-fixed sidebar-dark header-light header-fixed" id="body">
     <script>
         NProgress.configure({ showSpinner: false });
@@ -154,17 +152,11 @@
 
                     <!-- sidebar menu -->
                     <ul class="nav sidebar-inner" id="sidebar-menu">
-
-
-
-
 						<li class="has-sub  expand">
 							<a class="sidenav-item-link" href="/sahyog/index/" >
 								<i class="mdi mdi-view-dashboard-outline"></i>
 								<span class="nav-text">Home</span>
 							</a>
-
-
 
                         <li class="has-sub active">
                             <a class="sidenav-item-link" href="/sahyog/report/">
@@ -172,32 +164,21 @@
 
                                 <span class="nav-text">Report</span>
                             </a>
-
-
                         </li>
-
-
 
 						<li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/validate/" >
 								<i class="mdi mdi-check"></i>
 								<span class="nav-text">Validate</span>
 							</a>
-
                         </li>
-
-
 
                         <li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/safey/">
 								<i class="mdi mdi-map-marker-multiple"></i>
 								<span class="nav-text">Safe Route</span>
 							</a>
-
-
                         </li>
-
-
 
                         <li class="has-sub">
 							<a class="sidenav-item-link" href="/sahyog/analytics/" >
@@ -212,26 +193,10 @@
                                 <span class="nav-text">Logout</span>
                             </a>
                         </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     </ul>
-
                 </div>
 
                 <hr class="separator" />
-
                 <div class="sidebar-footer">
                     <div class="sidebar-footer-content">
                         <h6 class="text-uppercase">
@@ -289,6 +254,14 @@
             <div class="content-wrapper">
                 <div class="content">
                     <div class="row">
+                        <div id="google_translate_element" style="z-index: 999 !important;"></div>
+                            <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+                            }
+                            </script>
+                            
+                            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
                         <div class="col-md-12">
                             <div class="panel panel-default">
                                 <div id="mapid" class="panel-body">

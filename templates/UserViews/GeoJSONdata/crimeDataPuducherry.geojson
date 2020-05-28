@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2001"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "1",
+        "rape": "9",
+        "kidnapping": "4",
+        "dacoity": "1",
+        "robbery": "4",
+        "burglary": "111",
+        "vehicleTheft": "284",
+        "riots": "100",
+        "dowryDeaths": "1",
+        "womenAssault": "35",
+        "total": "4068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2002"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "10",
+        "dacoity": "2",
+        "robbery": "6",
+        "burglary": "129",
+        "vehicleTheft": "258",
+        "riots": "193",
+        "dowryDeaths": "5",
+        "womenAssault": "59",
+        "total": "4437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2003"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "0",
+        "rape": "2",
+        "kidnapping": "18",
+        "dacoity": "2",
+        "robbery": "11",
+        "burglary": "126",
+        "vehicleTheft": "295",
+        "riots": "159",
+        "dowryDeaths": "1",
+        "womenAssault": "56",
+        "total": "4517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2004"
+      },
+      "crime": {
+        "murder": "25",
+        "homicide": "14",
+        "rape": "4",
+        "kidnapping": "10",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "86",
+        "vehicleTheft": "322",
+        "riots": "147",
+        "dowryDeaths": "6",
+        "womenAssault": "50",
+        "total": "4620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2005"
+      },
+      "crime": {
+        "murder": "19",
+        "homicide": "8",
+        "rape": "6",
+        "kidnapping": "6",
+        "dacoity": "1",
+        "robbery": "5",
+        "burglary": "67",
+        "vehicleTheft": "235",
+        "riots": "159",
+        "dowryDeaths": "4",
+        "womenAssault": "60",
+        "total": "4575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "2",
+        "homicide": "1",
+        "rape": "1",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "1",
+        "burglary": "18",
+        "vehicleTheft": "36",
+        "riots": "41",
+        "dowryDeaths": "1",
+        "womenAssault": "7",
+        "total": "772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2006"
+      },
+      "crime": {
+        "murder": "28",
+        "homicide": "2",
+        "rape": "8",
+        "kidnapping": "13",
+        "dacoity": "2",
+        "robbery": "2",
+        "burglary": "66",
+        "vehicleTheft": "284",
+        "riots": "153",
+        "dowryDeaths": "2",
+        "womenAssault": "49",
+        "total": "3915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "3",
+        "kidnapping": "5",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "15",
+        "vehicleTheft": "39",
+        "riots": "29",
+        "dowryDeaths": "0",
+        "womenAssault": "33",
+        "total": "766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PONDICHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2007"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "15",
+        "dacoity": "1",
+        "robbery": "8",
+        "burglary": "71",
+        "vehicleTheft": "459",
+        "riots": "116",
+        "dowryDeaths": "2",
+        "womenAssault": "56",
+        "total": "4288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "14",
+        "vehicleTheft": "37",
+        "riots": "36",
+        "dowryDeaths": "0",
+        "womenAssault": "25",
+        "total": "727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PUDUCHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2008"
+      },
+      "crime": {
+        "murder": "30",
+        "homicide": "3",
+        "rape": "7",
+        "kidnapping": "15",
+        "dacoity": "10",
+        "robbery": "10",
+        "burglary": "76",
+        "vehicleTheft": "406",
+        "riots": "129",
+        "dowryDeaths": "2",
+        "womenAssault": "40",
+        "total": "4262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "6",
+        "homicide": "0",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "21",
+        "vehicleTheft": "22",
+        "riots": "25",
+        "dowryDeaths": "0",
+        "womenAssault": "16",
+        "total": "724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PUDUCHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2009"
+      },
+      "crime": {
+        "murder": "31",
+        "homicide": "5",
+        "rape": "1",
+        "kidnapping": "17",
+        "dacoity": "7",
+        "robbery": "9",
+        "burglary": "50",
+        "vehicleTheft": "480",
+        "riots": "116",
+        "dowryDeaths": "0",
+        "womenAssault": "37",
+        "total": "3867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "4",
+        "homicide": "0",
+        "rape": "1",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "0",
+        "burglary": "21",
+        "vehicleTheft": "22",
+        "riots": "31",
+        "dowryDeaths": "0",
+        "womenAssault": "15",
+        "total": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PUDUCHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2010"
+      },
+      "crime": {
+        "murder": "29",
+        "homicide": "16",
+        "rape": "2",
+        "kidnapping": "15",
+        "dacoity": "2",
+        "robbery": "5",
+        "burglary": "51",
+        "vehicleTheft": "362",
+        "riots": "100",
+        "dowryDeaths": "1",
+        "womenAssault": "31",
+        "total": "3173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "0",
+        "homicide": "2",
+        "rape": "0",
+        "kidnapping": "1",
+        "dacoity": "0",
+        "robbery": "2",
+        "burglary": "9",
+        "vehicleTheft": "24",
+        "riots": "30",
+        "dowryDeaths": "0",
+        "womenAssault": "10",
+        "total": "753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PUDUCHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2011"
+      },
+      "crime": {
+        "murder": "32",
+        "homicide": "10",
+        "rape": "7",
+        "kidnapping": "11",
+        "dacoity": "5",
+        "robbery": "9",
+        "burglary": "56",
+        "vehicleTheft": "487",
+        "riots": "95",
+        "dowryDeaths": "1",
+        "womenAssault": "25",
+        "total": "3609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8375761,
+          10.91571
+        ]
+      },
+      "properties": {
+        "name": "KARAIKAL",
+        "state": "PUDUCHERRY",
+        "address": "Karaikal, Karaikal Taluk, Karaikal, Puducherry, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "5",
+        "homicide": "2",
+        "rape": "6",
+        "kidnapping": "2",
+        "dacoity": "0",
+        "robbery": "3",
+        "burglary": "21",
+        "vehicleTheft": "53",
+        "riots": "17",
+        "dowryDeaths": "0",
+        "womenAssault": "2",
+        "total": "787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "name": "PUDUCHERRY",
+        "state": "PUDUCHERRY",
+        "address": "Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",
+        "year": "2012"
+      },
+      "crime": {
+        "murder": "24",
+        "homicide": "10",
+        "rape": "7",
+        "kidnapping": "17",
+        "dacoity": "5",
+        "robbery": "13",
+        "burglary": "56",
+        "vehicleTheft": "409",
+        "riots": "109",
+        "dowryDeaths": "0",
+        "womenAssault": "7",
+        "total": "3494"
+      }
+    }
+  ]
+}

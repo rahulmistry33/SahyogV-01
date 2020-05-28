@@ -277,10 +277,7 @@
             </header>
             <div class="content-wrapper">
                 <div class="content">
-                    <div style="background-color:black; color: white;" class="row">
-                        LBS Rd, Chirag Nagar, Ghatkopar West, Mumbai, Maharashtra 400086, India<br>
-                        Ghatkopar Police Station<br>
-
+                    <div style="background-color:black; color: white;" class="row" id="police-info">
                     </div>
                     <div class="row">
                         <div class="col-md-12">
@@ -297,26 +294,36 @@
         </div>
 
         <script>
-
-            var latlng;
+            var lat, lng;
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition);
+        }
+        function showPosition(position) {
+            lat = position.coords.latitude;
+            lng = position.coords.longitude;
             var mymap;
             var crimeLocation;
             var coodsLat = [];
             var coodsLng = [];
+            var data = JSON.parse('{{ data | escapejs }}');
+            console.log(data);
+            document.getElementById('police-info').innerHTML+= `Name: ${data.name}<br>Address: ${data.address}<br>`;
             navigator.geolocation.getCurrentPosition(function (location) {
+            var latlng;
+            policeLatlng = new L.LatLng(data.lat, data.lng);
+            console.log(lat,lng);
+            var latlng = new L.LatLng(lat, lng);
+    
+            console.log(latlng);
 
-                policeLatlng = new L.LatLng(72.90005289999999, 19.087432);
-                latlng = new L.LatLng(19.0800, 72.8988);
-                mymap = L.map('mapid').setView(latlng, 15)
+            mymap = L.map('mapid').setView(latlng, 15)
 
-                L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
-                    maxZoom: 30,
-                    subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
-                }).addTo(mymap);
-                L.control.scale().addTo(mymap);
+            L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 30,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }).addTo(mymap);
 
-
-
+            L.control.scale().addTo(mymap);
                 var searchControl = new L.esri.Controls.Geosearch().addTo(mymap);
                 var results = new L.LayerGroup().addTo(mymap);
 
@@ -335,20 +342,14 @@
                 L.marker(latlng).addTo(mymap);
                 L.marker(policeLatlng).addTo(mymap);
                 latlngs = [];
-                latlngs.push([19.0800, 72.8988], [19.087432, 72.90005289999999]);
+                latlngs.push([lat,lng], [data.lat,data.lng]);
                 var polyline = L.polyline(latlngs).addTo(mymap);
                 // zoom the map to the polyline
                 mymap.fitBounds(polyline.getBounds());
-
-
-
-
             });
-
-
-
-
-
+        }
+            
+            
 
 
         </script>
