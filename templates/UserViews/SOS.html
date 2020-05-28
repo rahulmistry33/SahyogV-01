@@ -264,13 +264,12 @@
                             <form id="sendSOS" action="{% url 'SOS' %}" method="POST">
                                 <button type="submit" class="btn sos">SOS</button>
                             </form>
-                            {% if  username  %}
-                            <a href="" class="btn btn-dark">{{username}}</a>
+                            {% if username %}
+                                <a href="" class="btn btn-dark">{{ name }}</a>
                             {% else %}
-                            <a href="/sahyog/register/" class="btn btn-dark">Register</a>
-                            <a href="/sahyog/login/" class="btn btn-dark">Login</a>
+                                <a href="/sahyog/register/" class="btn btn-dark">Register</a>
+                                <a href="/sahyog/login/" class="btn btn-dark">Login</a>
                             {% endif %}
-
                         </ul>
                     </div>
                 </nav>
