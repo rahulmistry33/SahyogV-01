@@ -1,5 +1,5 @@
 {% load static %}
-
+{% load pwa %}
 <!DOCTYPE html>
 <html>
 
@@ -61,17 +61,20 @@
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
     crossorigin="anonymous"></script>
 
-  <!-- PLUGINS CSS STYLE -->
-  <link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
-  <link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
+    
+	<!-- PLUGINS CSS STYLE -->
+	<link href="{% static 'assets-analytics/plugins/toaster/toastr.min.css' %}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/nprogress/nprogress.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/flag-icons/css/flag-icon.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics//plugins/jvectormap/jquery-jvectormap-2.0.3.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/ladda/ladda.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/select2/css/select2.min.css'%}" rel="stylesheet" />
+	<link href="{% static 'assets-analytics/plugins/daterangepicker/daterangepicker.css'%}" rel="stylesheet" />
 
-  <!-- SLEEK CSS -->
+	<!-- SLEEK CSS -->
   <link id="sleek-css" rel="stylesheet" href="{% static 'assets-analytics/css/sleek.css' %}" />
+  {% progressive_web_app_meta %}
+	
 
 </head>
 <style>
@@ -302,6 +305,176 @@
               <h2 class="card-title">Crime Status</h2>
               <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                           <a href="#" class="btn btn-primary">Button</a> -->
+<<<<<<< HEAD
+                          
+    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+    <li class="nav-item">
+        <a  class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Pending</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Active</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Resolved</a>
+    </li>
+    </ul>
+    <div class="tab-content" id="pills-tabContent">
+    <div style="background: white !important;" class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+        
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+                     
+                {% for locatn, ctype, clevel, cdet, email, ph, stat, uName in reports %}
+                {% if stat == "Pending" %}
+                
+                
+              <tr>
+                <!-- <th scope="row">{{i}}</th> -->
+                <td>{{uName}}</td>
+                <td>{{ph}}</td>
+                <td>{{email}}</td>
+                <td>{{ctype}}</td>
+                <td>{{clevel}}</td>
+                <td>{{locatn}}</td>
+                <td>{{cdet}}</td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              {% endif %}
+              {% endfor %}
+              
+              
+            </tbody>
+          </table>     
+    </div>
+    <div style="background: white !important;" class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">No.</th>
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Rahul Mistry</td>
+                <td>+918452070570</td>
+                <td>rahulmistry@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Bhandup Village, Bhandup East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>My MI Phone was stolen. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              
+              
+            </tbody>
+          </table> 
+    </div>
+    <div style="background: white !important;" class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+        
+        <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">No.</th>
+                <th scope="col">User</th>
+                <th scope="col">User Phone</th>
+                <th scope="col">User Email</th>
+                <th scope="col">Crime Type</th>
+                <th scope="col">Crime Severity</th>
+                <th scope="col">Crime Location</th>
+                <th scope="col">Crime Description</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+                
+              <tr>
+                <th scope="row">1</th>
+                <td>Prachit Mhalgi</td>
+                <td>+919594888717</td>
+                <td>prachit@gmail.com</td>
+                <td>Bombing</td>
+                <td>3</td>
+                <td>Chandivali, Andheri East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>Momb Alert received. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Kalpesh Mataghare</td>
+                <td>+919873732123</td>
+                <td>kmataghare@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Railway Station, Mulund West, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>Watch stolen at train station. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+              <tr>
+              <th scope="row">3</th>
+              <td>Girish Thatte</td>
+              <td>+918452070570</td>
+              <td>girishthatte@gmail.com</td>
+              <td>Robbery</td>
+              <td>1</td>
+              <td>Appetite-Resto Bar, Powai, Mumbai, Mumbai Suburban, Maharashtra, 400072, IND</td>
+              <td>A lady's bag was stolen by two men on bike.</td>
+              <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>Amisha Waghela</td>
+              <td>+919987718876</td>
+              <td>amishabw@gmail.com</td>
+              <td>Assault</td>
+              <td>1</td>
+              <td>Kokilaben Dhirubhai Ambani Hospital &amp; Medical Research Institute, Andheri West, Mumbai, Mumbai Suburban, Maharashtra, 400053, IND</td>
+              <td>The crime was witnessed by me while entering the hospital. A person was aasaulted while entering</td>
+              <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td>Rahul Mistry</td>
+                <td>+918452070570</td>
+                <td>rahulmistry@gmail.com</td>
+                <td>Theft</td>
+                <td>1</td>
+                <td>Bhandup Village, Bhandup East, Mumbai, Mumbai Suburban, Maharashtra, IND</td>
+                <td>My MI Phone was stolen. </td>
+                <td><i style="width: 15px; height: 15px;" class="mdi black mdi-exit-to-app"></i></td>
+              </tr>
+
+              
+            </tbody>
+          </table> 
+    </div>
+    </div>
+
+
+=======
+>>>>>>> ca53cd10a2fd7955f20767f02570f450132cf34b
 
               <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                 <li class="nav-item">

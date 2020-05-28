@@ -1,4 +1,6 @@
+
 {% load static %}
+{% load pwa %}
 <!DOCTYPE html>
 
 <html>
@@ -40,6 +42,7 @@
 
 
     <!-- <script src="{% static 'assets-analytics/plugins/nprogress/nprogress.js'%}"></script> -->
+    {% progressive_web_app_meta %}
 </head>
 <style>
     .mdi {
@@ -548,5 +551,6 @@
 
                 </script>
 </body>
+
 
 </html>

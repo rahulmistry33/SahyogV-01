@@ -1,5 +1,5 @@
 {% load static %}
-
+{% load pwa %}
 <html lang="en">
 
 <head>
@@ -34,6 +34,7 @@
     <link href="{% static 'assets/css/custom-styles.css' %}" rel="stylesheet" />
     <!-- Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    {% progressive_web_app_meta %}
 </head>
 
 <body>
