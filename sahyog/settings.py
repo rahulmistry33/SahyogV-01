@@ -27,7 +27,7 @@ SECRET_KEY = '3quat%ag&%g(^u7^7e+@8^f!sxu9l&7%lze$tmt2^p$u_p&m69'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1','6a1100ce..ngrok.io', '0.0.0.0/0','https://cryptic-inlet-71928.herokuapp.com/sahyog/index/']
+ALLOWED_HOSTS = ['127.0.0.1','6a1100ce..ngrok.io', '0.0.0.0/0','cryptic-inlet-71928.herokuapp.com']
 
 
 
