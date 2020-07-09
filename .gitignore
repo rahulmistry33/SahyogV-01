@@ -6,9 +6,9 @@ __pycache__/
 # C extensions
 *.so
 .venv
-# .env
+.env
 venv
-# env
+env
 
 # Distribution / packaging
 .Python
@@ -106,7 +106,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-# .env
+.env
 .venv
 env/
 venv/
