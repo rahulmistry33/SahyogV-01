@@ -12,8 +12,10 @@
 <body>
 	<div class="container">
 		<div class="jumbotron">
+			{% if username %}
 			<h2>Welcome {{username}}<h2>
 			<a href="/sahyog/logout" class="btn btn-danger">Logout</a>
+			{% end if %}
 		</div>
 		<div class="row">
 			<div class="col-md-6">

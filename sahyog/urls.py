@@ -23,7 +23,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('sahyog/',include('Users.urls')),
     path('adminarea/',include('adminarea.urls')),
-    path('',include('pwa.urls')),
-    
     
 ]

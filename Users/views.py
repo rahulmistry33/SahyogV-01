@@ -82,34 +82,15 @@ def SOS(request):
     if request.method == "POST" and request.session.has_key('username'):
         sendSMS(request.session['ec1'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
         sendSMS(request.session['ec2'], 'This is to inform you that your ward/friend is in danger and awaits your help. Access their location using the following link '+'http://www.google.com/maps/place/19.0729578,72.8999708')
-
         print(make_call2.makeCall())
         lat = request.POST.get('address')       
-
         load_dotenv()
-        place = "Vidyavihar Police Station"
         api_key = os.getenv("GOOGLE_APPLICATION_CREDENTIALS") #for getting api key of places API
-        place_detail = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key={}'.format(place,api_key)).content
+        place_detail = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Police&inputtype=textquery&fields=formatted_address,name,geometry&key={}'.format(api_key)).content
         place_detail = json.loads(place_detail)
-        print(place_detail)
-        return render(request, 'UserViews/SOS.html')
-    
- 
-        print(place_detail['candidates'][0])
-        print(place_detail['candidates'][0]['formatted_address'])
-        print(place_detail['candidates'][0]['geometry']['location']['lat'])
-        print(place_detail['candidates'][0]['geometry']['location']['lng'])        
-        print(place_detail['candidates'][0]['name'])
-    
-        print(place_detail['candidates'][0]['opening_hours']['open_now'])
-        print(place_detail['candidates'][0]['rating'])
-        #print("lalala: " +place_detail['candidates'][0]['formatted_address'])
-
-
-
-        return render(request, 'UserViews/SOS.html',{"address":place_detail['candidates'][0]['formatted_address'],"lat":place_detail['candidates'][0]['geometry']['location']['lat'],"lng":place_detail['candidates'][0]['geometry']['location']['lng'],"name":place_detail['candidates'][0]['name'],"isOpen":place_detail['candidates'][0]['opening_hours']['open_now'],"rating":place_detail['candidates'][0]['rating']})
-    return HttpResponse("hello")
-
+        data = {"address":place_detail['candidates'][0]['formatted_address'],"lat":place_detail['candidates'][0]['geometry']['location']['lat'],"lng":place_detail['candidates'][0]['geometry']['location']['lng'],"name":place_detail['candidates'][0]['name']}
+        return render(request, 'UserViews/SOS.html', context={"username": request.session['username'], "name": request.session['name'], "data": json.dumps(data)})
+    return render(request, 'UserViews/SOS.html')
 
 # def index(request):
     # if request.method == "POST":
@@ -139,9 +120,9 @@ def getstart(request):
 
 def index(request,username=None):
     if request.session.has_key('username'):
-         return render(request, 'UserViews/newindex.html',{"username":request.session["name"]})
+         return render(request, 'UserViews/newindex.html', {"username":request.session["name"]})
     else: 
-        return render(request, 'UserViews/newindex.html',{"username":None})
+        return render(request, 'UserViews/newindex.html', {"username":None})
 
 
 def safey(request):
@@ -240,16 +221,14 @@ def login(request):
                         request.session['email'] = user["email"]
                         request.session["ec1"] = user["ec1"]
                         request.session["ec2"] = user["ec2"]
-                        print("validdd")
+                        # print("validdd")
                         return redirect(index,request.session['name'])
                 # except:
                 #     return redirect(register)
             else:
-                print("form not valid")
                 return render(request, 'UserViews/login.html', {"form": form})
         else:
             form = LoginForm()
-        print("reached")
         return render(request, 'UserViews/login.html', {"form": form})
 
 # def home(request, username):
@@ -282,7 +261,7 @@ def reportCrime(request):
         #print('location: ',location)
         load_dotenv()
         location = {"status":"Pending","userName":name,"phone":phone,"email":email,"lat": lat, "lng": lng, "location": location, "crimeType":crimeType,"crimeLevel":crimeLevel,"crimeDetails":crimeDetails,"count":0}
-        print(location)
+        # print(location)
         locationDB.insert_one(location)        
         return HttpResponse(json.dumps({'status':'success','latitude':lat,'longitude':lng}),content_type='application/json')
         
